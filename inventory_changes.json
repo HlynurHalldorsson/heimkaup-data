@@ -761,5 +761,25 @@
     "product_id": 42526,
     "product_name": "Van Gogh Riesling 3L",
     "last_stock": 6
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-27T15:24:42.821465",
+    "product_id": 42733,
+    "product_name": "Víking Gylltur 12x500ml",
+    "previous_stock": 4,
+    "current_stock": 3,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-27T15:24:42.821465",
+    "product_id": 42705,
+    "product_name": "Víking Sterkr 6x500ml",
+    "previous_stock": 3,
+    "current_stock": 2,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
