@@ -831,5 +831,92 @@
     "current_stock": 1,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-27T18:18:24.800677",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 15,
+    "current_stock": 13,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-27T18:18:24.800677",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 8,
+    "current_stock": 7,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-27T18:18:24.800677",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 15,
+    "current_stock": 13,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-27T18:18:24.800677",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 8,
+    "current_stock": 7,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-27T18:18:24.800677",
+    "product_id": 43058,
+    "product_name": "Thule 12x330ml",
+    "previous_stock": 6,
+    "current_stock": 5,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-27T18:18:24.800677",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 15,
+    "current_stock": 13,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-27T18:18:24.800677",
+    "product_id": 43058,
+    "product_name": "Thule 12x330ml",
+    "previous_stock": 6,
+    "current_stock": 5,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-27T18:18:24.800677",
+    "product_id": 42683,
+    "product_name": "Frontera Cabernet Sauvignon 3L",
+    "previous_stock": 18,
+    "current_stock": 17,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-01-27T18:18:24.800677",
+    "product_id": 42569,
+    "product_name": "Heineken 6x330ml (Gler)",
+    "last_stock": 1
   }
 ]
