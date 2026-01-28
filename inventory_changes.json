@@ -1235,5 +1235,25 @@
     "current_stock": 6,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-28T21:53:23.192781",
+    "product_id": 42797,
+    "product_name": "Absolut Vodka 1L",
+    "previous_stock": 7,
+    "current_stock": 6,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-28T21:53:23.192781",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 17,
+    "current_stock": 14,
+    "change": -3,
+    "direction": "decrease"
   }
 ]
