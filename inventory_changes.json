@@ -1550,5 +1550,25 @@
     "product_id": 42666,
     "product_name": "Ölvisholt Lite 10x330ml",
     "last_stock": 1
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-29T16:10:21.742918",
+    "product_id": 42703,
+    "product_name": "Gull 12x500ml",
+    "previous_stock": 2,
+    "current_stock": 1,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-29T16:10:21.742918",
+    "product_id": 42703,
+    "product_name": "Gull 12x500ml",
+    "previous_stock": 2,
+    "current_stock": 1,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
