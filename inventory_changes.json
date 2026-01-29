@@ -1255,5 +1255,189 @@
     "current_stock": 14,
     "change": -3,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-29T11:46:29.019841",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 8,
+    "current_stock": 22,
+    "change": 14,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-29T11:46:29.019841",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 8,
+    "current_stock": 22,
+    "change": 14,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-01-29T11:46:29.019841",
+    "product_id": 42703,
+    "product_name": "Gull 12x500ml",
+    "stock": 2,
+    "details": {
+      "id": 42703,
+      "code": "30230822",
+      "name": "Gull 12x500ml",
+      "slug": "gull-12x500ml-42703",
+      "category_id": 2724,
+      "category_name": "Popular",
+      "price": 579000,
+      "discount_price": null,
+      "stock": {
+        "H495": 2
+      },
+      "total_stock": 2,
+      "variants": [
+        {
+          "sku": "30230822",
+          "price": 579000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bf7c1705-939c-4589-9e42-c8efa6646e32.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bf7c1705-939c-4589-9e42-c8efa6646e32_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bf7c1705-939c-4589-9e42-c8efa6646e32_thumb.webp"
+            },
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c185d035-631d-477a-b8f5-553da9fd32c5.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c185d035-631d-477a-b8f5-553da9fd32c5_orig.jpeg",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c185d035-631d-477a-b8f5-553da9fd32c5_thumb.webp"
+            }
+          ],
+          "offerId": 44032,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 2,
+          "discountPrice": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-01-29T11:46:29.016946"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-29T11:46:29.019841",
+    "product_id": 42441,
+    "product_name": "Kristall Mexican Lime 12x330ml",
+    "previous_stock": 1,
+    "current_stock": 11,
+    "change": 10,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-29T11:46:29.019841",
+    "product_id": 42708,
+    "product_name": "Gull 12x330ml",
+    "previous_stock": 6,
+    "current_stock": 12,
+    "change": 6,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-29T11:46:29.019841",
+    "product_id": 43058,
+    "product_name": "Thule 12x330ml",
+    "previous_stock": 5,
+    "current_stock": 9,
+    "change": 4,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-29T11:46:29.019841",
+    "product_id": 42588,
+    "product_name": "Heineken 6x330ml",
+    "previous_stock": 3,
+    "current_stock": 11,
+    "change": 8,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-29T11:46:29.019841",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 8,
+    "current_stock": 22,
+    "change": 14,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-01-29T11:46:29.019841",
+    "product_id": 42703,
+    "product_name": "Gull 12x500ml",
+    "stock": 2,
+    "details": {
+      "id": 42703,
+      "code": "30230822",
+      "name": "Gull 12x500ml",
+      "slug": "gull-12x500ml-42703",
+      "category_id": 2724,
+      "category_name": "Gull",
+      "price": 579000,
+      "discount_price": null,
+      "stock": {
+        "H495": 2
+      },
+      "total_stock": 2,
+      "variants": [
+        {
+          "sku": "30230822",
+          "price": 579000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bf7c1705-939c-4589-9e42-c8efa6646e32.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bf7c1705-939c-4589-9e42-c8efa6646e32_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bf7c1705-939c-4589-9e42-c8efa6646e32_thumb.webp"
+            },
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c185d035-631d-477a-b8f5-553da9fd32c5.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c185d035-631d-477a-b8f5-553da9fd32c5_orig.jpeg",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c185d035-631d-477a-b8f5-553da9fd32c5_thumb.webp"
+            }
+          ],
+          "offerId": 44032,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 2,
+          "discountPrice": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-01-29T11:46:29.017010"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-29T11:46:29.019841",
+    "product_id": 42708,
+    "product_name": "Gull 12x330ml",
+    "previous_stock": 6,
+    "current_stock": 12,
+    "change": 6,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-29T11:46:29.019841",
+    "product_id": 43058,
+    "product_name": "Thule 12x330ml",
+    "previous_stock": 5,
+    "current_stock": 9,
+    "change": 4,
+    "direction": "increase"
   }
 ]
