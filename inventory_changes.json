@@ -1570,5 +1570,75 @@
     "current_stock": 1,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-29T17:10:24.386007",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 21,
+    "current_stock": 20,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-29T17:10:24.386007",
+    "product_id": 42733,
+    "product_name": "Víking Gylltur 12x500ml",
+    "previous_stock": 1,
+    "current_stock": 3,
+    "change": 2,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-29T17:10:24.386007",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 21,
+    "current_stock": 20,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-29T17:10:24.386007",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 21,
+    "current_stock": 20,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-29T17:10:24.386007",
+    "product_id": 42683,
+    "product_name": "Frontera Cabernet Sauvignon 3L",
+    "previous_stock": 16,
+    "current_stock": 14,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-29T17:10:24.386007",
+    "product_id": 42603,
+    "product_name": "Drostdy Hof Shiraz Merlot 3L",
+    "previous_stock": 9,
+    "current_stock": 8,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-29T17:10:24.386007",
+    "product_id": 42585,
+    "product_name": "Two Oceans Fresh & Fruity 3L",
+    "previous_stock": 5,
+    "current_stock": 3,
+    "change": -2,
+    "direction": "decrease"
   }
 ]
