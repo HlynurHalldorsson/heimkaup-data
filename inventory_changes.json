@@ -1640,5 +1640,87 @@
     "current_stock": 3,
     "change": -2,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-29T22:37:11.661122",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 20,
+    "current_stock": 18,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-29T22:37:11.661122",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 20,
+    "current_stock": 18,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-01-29T22:37:11.661122",
+    "product_id": 42569,
+    "product_name": "Heineken 6x330ml (Gler)",
+    "stock": 11,
+    "details": {
+      "id": 42569,
+      "code": "30230581",
+      "name": "Heineken 6x330ml (Gler)",
+      "slug": "heineken-6x330ml-gler-42569",
+      "category_id": 4237,
+      "category_name": "Great Deals",
+      "price": 209000,
+      "discount_price": 199000,
+      "stock": {
+        "H495": 11
+      },
+      "total_stock": 11,
+      "variants": [
+        {
+          "sku": "30230581",
+          "price": 209000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/82439adb-0f0b-4111-84ca-8aa8f6c2da76.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/82439adb-0f0b-4111-84ca-8aa8f6c2da76_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/82439adb-0f0b-4111-84ca-8aa8f6c2da76_thumb.webp"
+            }
+          ],
+          "offerId": 43866,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 11,
+          "discountPrice": 199000,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-01-29T22:37:11.659900"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-29T22:37:11.661122",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 20,
+    "current_stock": 18,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-29T22:37:11.661122",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 13,
+    "current_stock": 11,
+    "change": -2,
+    "direction": "decrease"
   }
 ]
