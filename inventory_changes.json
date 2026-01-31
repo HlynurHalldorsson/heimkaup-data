@@ -3230,5 +3230,25 @@
     "current_stock": 28,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-31T17:40:05.044553",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 28,
+    "current_stock": 24,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-31T17:40:05.044553",
+    "product_id": 42751,
+    "product_name": "Faustino V Reserva 750ml",
+    "previous_stock": 15,
+    "current_stock": 12,
+    "change": -3,
+    "direction": "decrease"
   }
 ]
