@@ -3683,3 +3683,73 @@ Categories (9):
 2026-01-31 15:39:59,827 - INFO - Saved CSV snapshot to inventory_data/inventory_2026-01-31_1539.csv
 2026-01-31 15:39:59,828 - INFO - Appended to master CSV: inventory_data/inventory_all.csv
 2026-01-31 15:39:59,828 - INFO - Inventory check completed successfully
+2026-01-31 15:40:01,065 - INFO - Successfully pushed inventory data to GitHub
+
+============================================================
+HEIMKAUP INVENTORY SUMMARY - 2026-01-31 15:39:59
+============================================================
+
+Total Products: 73
+Total Stock Units: 2019
+Out of Stock: 0
+Low Stock (<=5): 16
+
+Categories (9):
+  - Boxed Wines: 14 products, 139 units
+  - Breezer: 6 products, 133 units
+  - Bundles: 4 products, 32 units
+  - Faustino: 6 products, 43 units
+  - Great Deals: 10 products, 534 units
+  - Gull: 7 products, 228 units
+  - New Location: 11 products, 351 units
+  - Popular: 12 products, 474 units
+  - Thule: 3 products, 85 units
+
+--- CHANGES DETECTED (61) ---
+  [new_product] Montalto Pinot Grigio 750ml (stock: 1)
+  [stock_change] Gull Lite 12x500ml: 15 -> 109 (+94)
+  [stock_change] Boli 12x500ml: 6 -> 8 (+2)
+  [stock_change] Coca-Cola 10x330ml: 11 -> 77 (+66)
+  [stock_change] Pepsi Max 12x330ml: 11 -> 51 (+40)
+  [stock_change] Frontera Chardonnay 3L: 6 -> 42 (+36)
+  [stock_change] Einstök Arctic Pale Ale 12x330ml: 1 -> 8 (+7)
+  [stock_change] Boli X 12x330ml: 3 -> 5 (+2)
+  [new_product] Laurent Miquel Solas Pinot Noir 750ml (stock: 11)
+  [stock_change] Koskenkorva Vodka 500ml: 9 -> 10 (+1)
+  [stock_change] Absolut Vodka 1L: 4 -> 29 (+25)
+  [stock_change] Gull Lite 12x500ml: 15 -> 109 (+94)
+  [stock_change] Pepsi Max 12x330ml: 11 -> 51 (+40)
+  [stock_change] Kristall Mexican Lime 12x330ml: 9 -> 45 (+36)
+  [stock_change] BARA Hindber & Sítróna 6x330ml: 5 -> 16 (+11)
+  [stock_change] Boli 12x500ml: 6 -> 8 (+2)
+  [stock_change] Boli X 12x330ml: 3 -> 5 (+2)
+  [new_product] Fever Tree Mediterranean Tonic 4x200ml (stock: 7)
+  [stock_change] Gato Negro Cabernet Sauvignon 750ml: 2 -> 18 (+16)
+  [new_product] Tuborg Green 12x500ml (stock: 120)
+  ... and 41 more changes
+
+--- LOW STOCK ALERT ---
+  - Montalto Pinot Grigio 750ml: 1 left
+  - RVK Popp Corn Lager 6x330ml: 1 left
+  - Gull Áfengislaus 10x330ml: 1 left
+  - Thule Jólabjór 12x500ml: 1 left
+  - Piccanti Rosso Toscana 3L: 1 left
+  - Lindemans Chardonnay 3L: 1 left
+  - Casillero Del Diablo Cabernet Sauvignon 3L: 2 left
+  - Faustino VII Red 750ml: 3 left
+  - VELO Crispy Peppermint 3 (5 stk): 3 left
+  - Gin & Tonic: 4 left
+
+============================================================
+/Users/hlynurhalldorsson/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+2026-01-31 16:40:01,333 - INFO - Starting inventory check...
+2026-01-31 16:40:02,327 - INFO - Fetched page successfully (301594 bytes)
+2026-01-31 16:40:02,348 - INFO - Successfully extracted __INITIAL_STATE__ (161063 chars)
+2026-01-31 16:40:02,349 - INFO - Extracted 73 products total
+2026-01-31 16:40:02,357 - INFO - Saved current inventory to inventory_data/current_inventory.json
+2026-01-31 16:40:02,363 - INFO - Saved 4 changes to inventory_data/inventory_changes.json
+2026-01-31 16:40:02,376 - INFO - Saved history snapshot to inventory_data/inventory_history.json
+2026-01-31 16:40:02,377 - INFO - Saved CSV snapshot to inventory_data/inventory_2026-01-31_1640.csv
+2026-01-31 16:40:02,378 - INFO - Appended to master CSV: inventory_data/inventory_all.csv
+2026-01-31 16:40:02,378 - INFO - Inventory check completed successfully
