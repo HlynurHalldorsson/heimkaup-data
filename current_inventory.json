@@ -1,7 +1,42 @@
 {
-  "timestamp": "2026-01-31T08:05:07.523873",
-  "total_products": 63,
+  "timestamp": "2026-01-31T15:39:59.795225",
+  "total_products": 73,
   "products": [
+    {
+      "id": 43016,
+      "code": "30230677",
+      "name": "Montalto Pinot Grigio 750ml",
+      "slug": "montalto-pinot-grigio-750ml-43016",
+      "category_id": 4333,
+      "category_name": "New Location",
+      "price": 219000,
+      "discount_price": null,
+      "stock": {
+        "H495": 1
+      },
+      "total_stock": 1,
+      "variants": [
+        {
+          "sku": "30230677",
+          "price": 219000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5ef681de-82a2-4f0e-9d0b-70c0ce0e66e7.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5ef681de-82a2-4f0e-9d0b-70c0ce0e66e7_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5ef681de-82a2-4f0e-9d0b-70c0ce0e66e7_thumb.webp"
+            }
+          ],
+          "offerId": 44521,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 1,
+          "discountPrice": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-01-31T15:39:59.791913"
+    },
     {
       "id": 42686,
       "code": "30230823",
@@ -12,9 +47,9 @@
       "price": 569000,
       "discount_price": null,
       "stock": {
-        "H495": 15
+        "H495": 109
       },
-      "total_stock": 15,
+      "total_stock": 109,
       "variants": [
         {
           "sku": "30230823",
@@ -35,12 +70,12 @@
           "offerId": 44039,
           "sorting": 0,
           "property": "volume",
-          "sellable": 15,
+          "sellable": 109,
           "discountPrice": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.520778"
+      "last_updated": "2026-01-31T15:39:59.791913"
     },
     {
       "id": 42696,
@@ -52,9 +87,9 @@
       "price": 619000,
       "discount_price": null,
       "stock": {
-        "H495": 6
+        "H495": 8
       },
-      "total_stock": 6,
+      "total_stock": 8,
       "variants": [
         {
           "sku": "30230821",
@@ -75,47 +110,47 @@
           "offerId": 44029,
           "sorting": 5,
           "property": "volume",
-          "sellable": 6,
+          "sellable": 8,
           "discountPrice": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.520778"
+      "last_updated": "2026-01-31T15:39:59.791913"
     },
     {
-      "id": 42733,
-      "code": "30230859",
-      "name": "Víking Gylltur 12x500ml",
-      "slug": "viking-gylltur-12x500ml-42733",
-      "category_id": 4237,
+      "id": 42436,
+      "code": "30158966",
+      "name": "Coca-Cola 10x330ml",
+      "slug": "coca-cola-10x330ml-42436",
+      "category_id": 4315,
       "category_name": "New Location",
-      "price": 599000,
+      "price": 129000,
       "discount_price": null,
       "stock": {
-        "H495": 3
+        "H495": 77
       },
-      "total_stock": 3,
+      "total_stock": 77,
       "variants": [
         {
-          "sku": "30230859",
-          "price": 599000,
-          "value": "500ml",
+          "sku": "30158966",
+          "price": 129000,
+          "value": "330ml",
           "images": [
             {
-              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4b567833-0e32-448b-879e-e322047d388c.webp",
-              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4b567833-0e32-448b-879e-e322047d388c_orig.png",
-              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4b567833-0e32-448b-879e-e322047d388c_thumb.webp"
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c453a566-8be4-45c8-825c-bf4417ec9a67.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c453a566-8be4-45c8-825c-bf4417ec9a67_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c453a566-8be4-45c8-825c-bf4417ec9a67_thumb.webp"
             }
           ],
-          "offerId": 44053,
+          "offerId": 43792,
           "sorting": 0,
           "property": "volume",
-          "sellable": 3,
+          "sellable": 77,
           "discountPrice": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.520778"
+      "last_updated": "2026-01-31T15:39:59.791913"
     },
     {
       "id": 42434,
@@ -127,9 +162,9 @@
       "price": 159000,
       "discount_price": null,
       "stock": {
-        "H495": 11
+        "H495": 51
       },
-      "total_stock": 11,
+      "total_stock": 51,
       "variants": [
         {
           "sku": "30207919",
@@ -150,47 +185,12 @@
           "offerId": 43772,
           "sorting": 0,
           "property": "volume",
-          "sellable": 11,
+          "sellable": 51,
           "discountPrice": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.520778"
-    },
-    {
-      "id": 42436,
-      "code": "30158966",
-      "name": "Coca-Cola 10x330ml",
-      "slug": "coca-cola-10x330ml-42436",
-      "category_id": 4315,
-      "category_name": "New Location",
-      "price": 129000,
-      "discount_price": null,
-      "stock": {
-        "H495": 11
-      },
-      "total_stock": 11,
-      "variants": [
-        {
-          "sku": "30158966",
-          "price": 129000,
-          "value": "330ml",
-          "images": [
-            {
-              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c453a566-8be4-45c8-825c-bf4417ec9a67.webp",
-              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c453a566-8be4-45c8-825c-bf4417ec9a67_orig.png",
-              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c453a566-8be4-45c8-825c-bf4417ec9a67_thumb.webp"
-            }
-          ],
-          "offerId": 43792,
-          "sorting": 0,
-          "property": "volume",
-          "sellable": 11,
-          "discountPrice": null,
-          "isBackorderAvailable": false
-        }
-      ],
-      "last_updated": "2026-01-31T08:05:07.520778"
+      "last_updated": "2026-01-31T15:39:59.791913"
     },
     {
       "id": 42699,
@@ -202,9 +202,9 @@
       "price": 679000,
       "discount_price": null,
       "stock": {
-        "H495": 6
+        "H495": 42
       },
-      "total_stock": 6,
+      "total_stock": 42,
       "variants": [
         {
           "sku": "30230784",
@@ -220,12 +220,12 @@
           "offerId": 44042,
           "sorting": 0,
           "property": "volume",
-          "sellable": 6,
+          "sellable": 42,
           "discountPrice": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.520778"
+      "last_updated": "2026-01-31T15:39:59.791913"
     },
     {
       "id": 42803,
@@ -237,9 +237,9 @@
       "price": 479000,
       "discount_price": null,
       "stock": {
-        "H495": 1
+        "H495": 8
       },
-      "total_stock": 1,
+      "total_stock": 8,
       "variants": [
         {
           "sku": "30230911",
@@ -255,12 +255,12 @@
           "offerId": 44140,
           "sorting": 0,
           "property": "volume",
-          "sellable": 1,
+          "sellable": 8,
           "discountPrice": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.520778"
+      "last_updated": "2026-01-31T15:39:59.791913"
     },
     {
       "id": 42661,
@@ -272,9 +272,9 @@
       "price": 479000,
       "discount_price": null,
       "stock": {
-        "H495": 3
+        "H495": 5
       },
-      "total_stock": 3,
+      "total_stock": 5,
       "variants": [
         {
           "sku": "30230734",
@@ -290,12 +290,47 @@
           "offerId": 43981,
           "sorting": 0,
           "property": "volume",
-          "sellable": 3,
+          "sellable": 5,
           "discountPrice": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.520778"
+      "last_updated": "2026-01-31T15:39:59.791913"
+    },
+    {
+      "id": 42744,
+      "code": "30230876",
+      "name": "Laurent Miquel Solas Pinot Noir 750ml",
+      "slug": "laurent-miquel-solas-pinot-noir-750ml-42744",
+      "category_id": 4325,
+      "category_name": "New Location",
+      "price": 319000,
+      "discount_price": null,
+      "stock": {
+        "H495": 11
+      },
+      "total_stock": 11,
+      "variants": [
+        {
+          "sku": "30230876",
+          "price": 319000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9b52111f-60de-4f1a-890b-7feeb1bfcfb9.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9b52111f-60de-4f1a-890b-7feeb1bfcfb9_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9b52111f-60de-4f1a-890b-7feeb1bfcfb9_thumb.webp"
+            }
+          ],
+          "offerId": 44100,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 11,
+          "discountPrice": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-01-31T15:39:59.791913"
     },
     {
       "id": 42606,
@@ -307,9 +342,9 @@
       "price": 499000,
       "discount_price": null,
       "stock": {
-        "H495": 9
+        "H495": 10
       },
-      "total_stock": 9,
+      "total_stock": 10,
       "variants": [
         {
           "sku": "30230633",
@@ -325,12 +360,12 @@
           "offerId": 43923,
           "sorting": 0,
           "property": "volume",
-          "sellable": 9,
+          "sellable": 10,
           "discountPrice": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.520778"
+      "last_updated": "2026-01-31T15:39:59.791913"
     },
     {
       "id": 42797,
@@ -342,9 +377,9 @@
       "price": 1079000,
       "discount_price": null,
       "stock": {
-        "H495": 4
+        "H495": 29
       },
-      "total_stock": 4,
+      "total_stock": 29,
       "variants": [
         {
           "sku": "30230931",
@@ -360,12 +395,12 @@
           "offerId": 44115,
           "sorting": 0,
           "property": "volume",
-          "sellable": 4,
+          "sellable": 29,
           "discountPrice": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.520778"
+      "last_updated": "2026-01-31T15:39:59.791913"
     },
     {
       "id": 42686,
@@ -377,9 +412,9 @@
       "price": 569000,
       "discount_price": null,
       "stock": {
-        "H495": 15
+        "H495": 109
       },
-      "total_stock": 15,
+      "total_stock": 109,
       "variants": [
         {
           "sku": "30230823",
@@ -400,12 +435,12 @@
           "offerId": 44039,
           "sorting": 0,
           "property": "volume",
-          "sellable": 15,
+          "sellable": 109,
           "discountPrice": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.520826"
+      "last_updated": "2026-01-31T15:39:59.791970"
     },
     {
       "id": 42434,
@@ -417,9 +452,9 @@
       "price": 159000,
       "discount_price": null,
       "stock": {
-        "H495": 11
+        "H495": 51
       },
-      "total_stock": 11,
+      "total_stock": 51,
       "variants": [
         {
           "sku": "30207919",
@@ -440,12 +475,12 @@
           "offerId": 43772,
           "sorting": 0,
           "property": "volume",
-          "sellable": 11,
+          "sellable": 51,
           "discountPrice": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.520826"
+      "last_updated": "2026-01-31T15:39:59.791970"
     },
     {
       "id": 42441,
@@ -457,9 +492,9 @@
       "price": 159000,
       "discount_price": null,
       "stock": {
-        "H495": 9
+        "H495": 45
       },
-      "total_stock": 9,
+      "total_stock": 45,
       "variants": [
         {
           "sku": "30208252",
@@ -480,12 +515,12 @@
           "offerId": 43795,
           "sorting": 0,
           "property": "volume",
-          "sellable": 9,
+          "sellable": 45,
           "discountPrice": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.520826"
+      "last_updated": "2026-01-31T15:39:59.791970"
     },
     {
       "id": 42630,
@@ -497,9 +532,9 @@
       "price": 289000,
       "discount_price": null,
       "stock": {
-        "H495": 5
+        "H495": 16
       },
-      "total_stock": 5,
+      "total_stock": 16,
       "variants": [
         {
           "sku": "30230718",
@@ -520,12 +555,12 @@
           "offerId": 43953,
           "sorting": 0,
           "property": "volume",
-          "sellable": 5,
+          "sellable": 16,
           "discountPrice": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.520826"
+      "last_updated": "2026-01-31T15:39:59.791970"
     },
     {
       "id": 42696,
@@ -537,9 +572,9 @@
       "price": 619000,
       "discount_price": null,
       "stock": {
-        "H495": 6
+        "H495": 8
       },
-      "total_stock": 6,
+      "total_stock": 8,
       "variants": [
         {
           "sku": "30230821",
@@ -560,12 +595,12 @@
           "offerId": 44029,
           "sorting": 5,
           "property": "volume",
-          "sellable": 6,
+          "sellable": 8,
           "discountPrice": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.520826"
+      "last_updated": "2026-01-31T15:39:59.791970"
     },
     {
       "id": 42661,
@@ -577,9 +612,9 @@
       "price": 479000,
       "discount_price": null,
       "stock": {
-        "H495": 3
+        "H495": 5
       },
-      "total_stock": 3,
+      "total_stock": 5,
       "variants": [
         {
           "sku": "30230734",
@@ -595,12 +630,12 @@
           "offerId": 43981,
           "sorting": 0,
           "property": "volume",
-          "sellable": 3,
+          "sellable": 5,
           "discountPrice": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.520826"
+      "last_updated": "2026-01-31T15:39:59.791970"
     },
     {
       "id": 42692,
@@ -635,7 +670,42 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.520826"
+      "last_updated": "2026-01-31T15:39:59.791970"
+    },
+    {
+      "id": 42463,
+      "code": "30171294",
+      "name": "Fever Tree Mediterranean Tonic 4x200ml",
+      "slug": "fever-tree-mediterranean-tonic-4x200ml-42463",
+      "category_id": 2560,
+      "category_name": "Popular",
+      "price": 109000,
+      "discount_price": null,
+      "stock": {
+        "H495": 7
+      },
+      "total_stock": 7,
+      "variants": [
+        {
+          "sku": "30171294",
+          "price": 109000,
+          "value": "200ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/78298c2b-89dd-4030-9ff0-a4cf40ea1a56.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/78298c2b-89dd-4030-9ff0-a4cf40ea1a56_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/78298c2b-89dd-4030-9ff0-a4cf40ea1a56_thumb.webp"
+            }
+          ],
+          "offerId": 43800,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 7,
+          "discountPrice": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-01-31T15:39:59.791970"
     },
     {
       "id": 42601,
@@ -647,9 +717,9 @@
       "price": 159000,
       "discount_price": null,
       "stock": {
-        "H495": 2
+        "H495": 18
       },
-      "total_stock": 2,
+      "total_stock": 18,
       "variants": [
         {
           "sku": "30230681",
@@ -665,12 +735,52 @@
           "offerId": 43942,
           "sorting": 0,
           "property": "volume",
-          "sellable": 2,
+          "sellable": 18,
           "discountPrice": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.520826"
+      "last_updated": "2026-01-31T15:39:59.791970"
+    },
+    {
+      "id": 42680,
+      "code": "30230819",
+      "name": "Tuborg Green 12x500ml",
+      "slug": "tuborg-green-12x500ml-42680",
+      "category_id": 4237,
+      "category_name": "Popular",
+      "price": 459000,
+      "discount_price": null,
+      "stock": {
+        "H495": 120
+      },
+      "total_stock": 120,
+      "variants": [
+        {
+          "sku": "30230819",
+          "price": 459000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/610a7423-8db0-4136-ad34-5a015559be3b.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/610a7423-8db0-4136-ad34-5a015559be3b_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/610a7423-8db0-4136-ad34-5a015559be3b_thumb.webp"
+            },
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/619448ef-82cc-4696-bf98-7e9ced26f642.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/619448ef-82cc-4696-bf98-7e9ced26f642_orig.jpeg",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/619448ef-82cc-4696-bf98-7e9ced26f642_thumb.webp"
+            }
+          ],
+          "offerId": 44020,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 120,
+          "discountPrice": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-01-31T15:39:59.791970"
     },
     {
       "id": 42724,
@@ -682,9 +792,9 @@
       "price": 269000,
       "discount_price": null,
       "stock": {
-        "H495": 10
+        "H495": 24
       },
-      "total_stock": 10,
+      "total_stock": 24,
       "variants": [
         {
           "sku": "30230846",
@@ -700,12 +810,12 @@
           "offerId": 44051,
           "sorting": 0,
           "property": "volume",
-          "sellable": 10,
+          "sellable": 24,
           "discountPrice": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.520826"
+      "last_updated": "2026-01-31T15:39:59.791970"
     },
     {
       "id": 42708,
@@ -717,9 +827,9 @@
       "price": 459000,
       "discount_price": null,
       "stock": {
-        "H495": 7
+        "H495": 64
       },
-      "total_stock": 7,
+      "total_stock": 64,
       "variants": [
         {
           "sku": "30230818",
@@ -740,12 +850,12 @@
           "offerId": 44043,
           "sorting": 0,
           "property": "volume",
-          "sellable": 7,
+          "sellable": 64,
           "discountPrice": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.520826"
+      "last_updated": "2026-01-31T15:39:59.791970"
     },
     {
       "id": 43058,
@@ -757,9 +867,9 @@
       "price": 479000,
       "discount_price": 389000,
       "stock": {
-        "H495": 8
+        "H495": 78
       },
-      "total_stock": 8,
+      "total_stock": 78,
       "variants": [
         {
           "sku": "30233867",
@@ -775,12 +885,12 @@
           "offerId": 44567,
           "sorting": 0,
           "property": "volume",
-          "sellable": 8,
+          "sellable": 78,
           "discountPrice": 389000,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.520914"
+      "last_updated": "2026-01-31T15:39:59.792007"
     },
     {
       "id": 42588,
@@ -792,9 +902,9 @@
       "price": 249000,
       "discount_price": 199000,
       "stock": {
-        "H495": 8
+        "H495": 88
       },
-      "total_stock": 8,
+      "total_stock": 88,
       "variants": [
         {
           "sku": "30230639",
@@ -810,12 +920,12 @@
           "offerId": 43928,
           "sorting": 0,
           "property": "volume",
-          "sellable": 8,
+          "sellable": 88,
           "discountPrice": 199000,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.520914"
+      "last_updated": "2026-01-31T15:39:59.792007"
     },
     {
       "id": 42569,
@@ -827,9 +937,9 @@
       "price": 209000,
       "discount_price": 199000,
       "stock": {
-        "H495": 9
+        "H495": 129
       },
-      "total_stock": 9,
+      "total_stock": 129,
       "variants": [
         {
           "sku": "30230581",
@@ -845,12 +955,12 @@
           "offerId": 43866,
           "sorting": 0,
           "property": "volume",
-          "sellable": 9,
+          "sellable": 129,
           "discountPrice": 199000,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.520914"
+      "last_updated": "2026-01-31T15:39:59.792007"
     },
     {
       "id": 42669,
@@ -862,9 +972,9 @@
       "price": 449000,
       "discount_price": 359000,
       "stock": {
-        "H495": 2
+        "H495": 52
       },
-      "total_stock": 2,
+      "total_stock": 52,
       "variants": [
         {
           "sku": "30230770",
@@ -880,12 +990,12 @@
           "offerId": 43978,
           "sorting": 0,
           "property": "volume",
-          "sellable": 2,
+          "sellable": 52,
           "discountPrice": 359000,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.520914"
+      "last_updated": "2026-01-31T15:39:59.792007"
     },
     {
       "id": 42649,
@@ -897,9 +1007,9 @@
       "price": 479000,
       "discount_price": 389000,
       "stock": {
-        "H495": 5
+        "H495": 85
       },
-      "total_stock": 5,
+      "total_stock": 85,
       "variants": [
         {
           "sku": "30230767",
@@ -915,12 +1025,12 @@
           "offerId": 43976,
           "sorting": 0,
           "property": "volume",
-          "sellable": 5,
+          "sellable": 85,
           "discountPrice": 389000,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.520914"
+      "last_updated": "2026-01-31T15:39:59.792007"
     },
     {
       "id": 42612,
@@ -932,9 +1042,9 @@
       "price": 249000,
       "discount_price": 209000,
       "stock": {
-        "H495": 3
+        "H495": 29
       },
-      "total_stock": 3,
+      "total_stock": 29,
       "variants": [
         {
           "sku": "30230659",
@@ -950,12 +1060,47 @@
           "offerId": 43930,
           "sorting": 0,
           "property": "volume",
-          "sellable": 3,
+          "sellable": 29,
           "discountPrice": 209000,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.520914"
+      "last_updated": "2026-01-31T15:39:59.792007"
+    },
+    {
+      "id": 42666,
+      "code": "30230769",
+      "name": "Ölvisholt Lite 10x330ml",
+      "slug": "olvisholt-lite-10x330ml-42666",
+      "category_id": 2719,
+      "category_name": "Great Deals",
+      "price": 389000,
+      "discount_price": 319000,
+      "stock": {
+        "H495": 27
+      },
+      "total_stock": 27,
+      "variants": [
+        {
+          "sku": "30230769",
+          "price": 389000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e33f51b9-7c67-4e35-a98d-9b24d2d157b9.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e33f51b9-7c67-4e35-a98d-9b24d2d157b9_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e33f51b9-7c67-4e35-a98d-9b24d2d157b9_thumb.webp"
+            }
+          ],
+          "offerId": 43971,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 27,
+          "discountPrice": 319000,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-01-31T15:39:59.792007"
     },
     {
       "id": 42657,
@@ -967,9 +1112,9 @@
       "price": 448000,
       "discount_price": 359000,
       "stock": {
-        "H495": 1
+        "H495": 28
       },
-      "total_stock": 1,
+      "total_stock": 28,
       "variants": [
         {
           "sku": "30230768",
@@ -985,12 +1130,47 @@
           "offerId": 43972,
           "sorting": 0,
           "property": "volume",
-          "sellable": 1,
+          "sellable": 28,
           "discountPrice": 359000,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.520914"
+      "last_updated": "2026-01-31T15:39:59.792007"
+    },
+    {
+      "id": 42636,
+      "code": "30230730",
+      "name": "RVK Kopar Klassík 6x330ml",
+      "slug": "rvk-kopar-klassik-6x330ml-42636",
+      "category_id": 4237,
+      "category_name": "Great Deals",
+      "price": 269000,
+      "discount_price": 209000,
+      "stock": {
+        "H495": 17
+      },
+      "total_stock": 17,
+      "variants": [
+        {
+          "sku": "30230730",
+          "price": 269000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/425e1024-a99a-420d-a057-28cdc258745c.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/425e1024-a99a-420d-a057-28cdc258745c_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/425e1024-a99a-420d-a057-28cdc258745c_thumb.webp"
+            }
+          ],
+          "offerId": 43961,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 17,
+          "discountPrice": 209000,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-01-31T15:39:59.792007"
     },
     {
       "id": 42656,
@@ -1025,7 +1205,47 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.520914"
+      "last_updated": "2026-01-31T15:39:59.792007"
+    },
+    {
+      "id": 42624,
+      "code": "30230710",
+      "name": "Gull Lite Yuzu Lime 10x330ml",
+      "slug": "gull-lite-yuzu-lime-10x330ml-42624",
+      "category_id": 2724,
+      "category_name": "Gull",
+      "price": 427000,
+      "discount_price": null,
+      "stock": {
+        "H495": 7
+      },
+      "total_stock": 7,
+      "variants": [
+        {
+          "sku": "30230710",
+          "price": 427000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a5654ed7-af84-4471-bcba-633d6c159892.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a5654ed7-af84-4471-bcba-633d6c159892_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a5654ed7-af84-4471-bcba-633d6c159892_thumb.webp"
+            },
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d4aaa97a-08e6-45b3-81e6-c21cc63a82ea.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d4aaa97a-08e6-45b3-81e6-c21cc63a82ea_orig.jpeg",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d4aaa97a-08e6-45b3-81e6-c21cc63a82ea_thumb.webp"
+            }
+          ],
+          "offerId": 43959,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 7,
+          "discountPrice": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-01-31T15:39:59.792041"
     },
     {
       "id": 42686,
@@ -1037,9 +1257,9 @@
       "price": 569000,
       "discount_price": null,
       "stock": {
-        "H495": 15
+        "H495": 109
       },
-      "total_stock": 15,
+      "total_stock": 109,
       "variants": [
         {
           "sku": "30230823",
@@ -1060,12 +1280,52 @@
           "offerId": 44039,
           "sorting": 0,
           "property": "volume",
-          "sellable": 15,
+          "sellable": 109,
           "discountPrice": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.520951"
+      "last_updated": "2026-01-31T15:39:59.792041"
+    },
+    {
+      "id": 42449,
+      "code": "30208187",
+      "name": "Gull Áfengislaus 10x330ml",
+      "slug": "gull-afengislaus-10x330ml-42449",
+      "category_id": 4297,
+      "category_name": "Gull",
+      "price": 299000,
+      "discount_price": null,
+      "stock": {
+        "H495": 1
+      },
+      "total_stock": 1,
+      "variants": [
+        {
+          "sku": "30208187",
+          "price": 299000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/360e254b-8337-4ab1-a190-fa1d5128de53.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/360e254b-8337-4ab1-a190-fa1d5128de53_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/360e254b-8337-4ab1-a190-fa1d5128de53_thumb.webp"
+            },
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bd869630-51d9-4318-a5c6-4e1603b66516.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bd869630-51d9-4318-a5c6-4e1603b66516_orig.jpeg",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bd869630-51d9-4318-a5c6-4e1603b66516_thumb.webp"
+            }
+          ],
+          "offerId": 43761,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 1,
+          "discountPrice": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-01-31T15:39:59.792041"
     },
     {
       "id": 43032,
@@ -1077,9 +1337,9 @@
       "price": 619000,
       "discount_price": null,
       "stock": {
-        "H495": 2
+        "H495": 7
       },
-      "total_stock": 2,
+      "total_stock": 7,
       "variants": [
         {
           "sku": "30230708",
@@ -1095,12 +1355,12 @@
           "offerId": 44529,
           "sorting": 0,
           "property": "volume",
-          "sellable": 2,
+          "sellable": 7,
           "discountPrice": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.520951"
+      "last_updated": "2026-01-31T15:39:59.792041"
     },
     {
       "id": 42508,
@@ -1112,9 +1372,9 @@
       "price": 439000,
       "discount_price": null,
       "stock": {
-        "H495": 16
+        "H495": 29
       },
-      "total_stock": 16,
+      "total_stock": 29,
       "variants": [
         {
           "sku": "30216182",
@@ -1135,12 +1395,12 @@
           "offerId": 43819,
           "sorting": 2,
           "property": "volume",
-          "sellable": 16,
+          "sellable": 29,
           "discountPrice": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.520951"
+      "last_updated": "2026-01-31T15:39:59.792041"
     },
     {
       "id": 42708,
@@ -1152,9 +1412,9 @@
       "price": 459000,
       "discount_price": null,
       "stock": {
-        "H495": 7
+        "H495": 64
       },
-      "total_stock": 7,
+      "total_stock": 64,
       "variants": [
         {
           "sku": "30230818",
@@ -1175,12 +1435,12 @@
           "offerId": 44043,
           "sorting": 0,
           "property": "volume",
-          "sellable": 7,
+          "sellable": 64,
           "discountPrice": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.520951"
+      "last_updated": "2026-01-31T15:39:59.792041"
     },
     {
       "id": 42605,
@@ -1192,9 +1452,9 @@
       "price": 479000,
       "discount_price": null,
       "stock": {
-        "H495": 6
+        "H495": 11
       },
-      "total_stock": 6,
+      "total_stock": 11,
       "variants": [
         {
           "sku": "30230709",
@@ -1215,47 +1475,12 @@
           "offerId": 43918,
           "sorting": 0,
           "property": "volume",
-          "sellable": 6,
+          "sellable": 11,
           "discountPrice": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.520951"
-    },
-    {
-      "id": 43058,
-      "code": "30233867",
-      "name": "Thule 12x330ml",
-      "slug": "thule-12x330ml-43058",
-      "category_id": 2733,
-      "category_name": "Thule",
-      "price": 479000,
-      "discount_price": 389000,
-      "stock": {
-        "H495": 8
-      },
-      "total_stock": 8,
-      "variants": [
-        {
-          "sku": "30233867",
-          "price": 479000,
-          "value": "330ml",
-          "images": [
-            {
-              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b1cfb8d1-fc03-47eb-9d62-7d3fc5dd6c5a.webp",
-              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b1cfb8d1-fc03-47eb-9d62-7d3fc5dd6c5a_orig.png",
-              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b1cfb8d1-fc03-47eb-9d62-7d3fc5dd6c5a_thumb.webp"
-            }
-          ],
-          "offerId": 44567,
-          "sorting": 0,
-          "property": "volume",
-          "sellable": 8,
-          "discountPrice": 389000,
-          "isBackorderAvailable": false
-        }
-      ],
-      "last_updated": "2026-01-31T08:05:07.520970"
+      "last_updated": "2026-01-31T15:39:59.792041"
     },
     {
       "id": 43036,
@@ -1290,7 +1515,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.520970"
+      "last_updated": "2026-01-31T15:39:59.792062"
     },
     {
       "id": 42776,
@@ -1325,7 +1550,77 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.520970"
+      "last_updated": "2026-01-31T15:39:59.792062"
+    },
+    {
+      "id": 43058,
+      "code": "30233867",
+      "name": "Thule 12x330ml",
+      "slug": "thule-12x330ml-43058",
+      "category_id": 2733,
+      "category_name": "Thule",
+      "price": 479000,
+      "discount_price": 389000,
+      "stock": {
+        "H495": 78
+      },
+      "total_stock": 78,
+      "variants": [
+        {
+          "sku": "30233867",
+          "price": 479000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b1cfb8d1-fc03-47eb-9d62-7d3fc5dd6c5a.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b1cfb8d1-fc03-47eb-9d62-7d3fc5dd6c5a_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b1cfb8d1-fc03-47eb-9d62-7d3fc5dd6c5a_thumb.webp"
+            }
+          ],
+          "offerId": 44567,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 78,
+          "discountPrice": 389000,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-01-31T15:39:59.792062"
+    },
+    {
+      "id": 42693,
+      "code": "30230832",
+      "name": "Faustino VII Blanco 750ml",
+      "slug": "faustino-vii-bianco-750ml-42693",
+      "category_id": 2726,
+      "category_name": "Faustino",
+      "price": 199000,
+      "discount_price": null,
+      "stock": {
+        "H495": 5
+      },
+      "total_stock": 5,
+      "variants": [
+        {
+          "sku": "30230832",
+          "price": 199000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/29f44bb6-b91b-4474-8c14-20ad060c49ed.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/29f44bb6-b91b-4474-8c14-20ad060c49ed_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/29f44bb6-b91b-4474-8c14-20ad060c49ed_thumb.webp"
+            }
+          ],
+          "offerId": 44033,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 5,
+          "discountPrice": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-01-31T15:39:59.792074"
     },
     {
       "id": 42813,
@@ -1337,9 +1632,9 @@
       "price": 229000,
       "discount_price": null,
       "stock": {
-        "H495": 4
+        "H495": 3
       },
-      "total_stock": 4,
+      "total_stock": 3,
       "variants": [
         {
           "sku": "30230936",
@@ -1355,12 +1650,12 @@
           "offerId": 44144,
           "sorting": 0,
           "property": "volume",
-          "sellable": 4,
+          "sellable": 3,
           "discountPrice": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.520984"
+      "last_updated": "2026-01-31T15:39:59.792074"
     },
     {
       "id": 42815,
@@ -1372,9 +1667,9 @@
       "price": 279000,
       "discount_price": null,
       "stock": {
-        "H495": 5
+        "H495": 7
       },
-      "total_stock": 5,
+      "total_stock": 7,
       "variants": [
         {
           "sku": "30230937",
@@ -1390,12 +1685,12 @@
           "offerId": 44138,
           "sorting": 0,
           "property": "volume",
-          "sellable": 5,
+          "sellable": 7,
           "discountPrice": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.520984"
+      "last_updated": "2026-01-31T15:39:59.792074"
     },
     {
       "id": 42751,
@@ -1407,9 +1702,9 @@
       "price": 369000,
       "discount_price": null,
       "stock": {
-        "H495": 7
+        "H495": 15
       },
-      "total_stock": 7,
+      "total_stock": 15,
       "variants": [
         {
           "sku": "30230903",
@@ -1425,12 +1720,12 @@
           "offerId": 44065,
           "sorting": 0,
           "property": "volume",
-          "sellable": 7,
+          "sellable": 15,
           "discountPrice": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.520984"
+      "last_updated": "2026-01-31T15:39:59.792074"
     },
     {
       "id": 42712,
@@ -1465,7 +1760,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.520984"
+      "last_updated": "2026-01-31T15:39:59.792074"
     },
     {
       "id": 42713,
@@ -1500,7 +1795,77 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.520984"
+      "last_updated": "2026-01-31T15:39:59.792074"
+    },
+    {
+      "id": 42779,
+      "code": "30230981",
+      "name": "Breezer Passionfruit Mango 4x275ml",
+      "slug": "breezer-passionfruit-mango-4x275ml-42779",
+      "category_id": 4292,
+      "category_name": "Breezer",
+      "price": 199000,
+      "discount_price": null,
+      "stock": {
+        "H495": 18
+      },
+      "total_stock": 18,
+      "variants": [
+        {
+          "sku": "30230981",
+          "price": 199000,
+          "value": "275ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/77e645b9-7522-4626-b0b5-17e0c7376792.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/77e645b9-7522-4626-b0b5-17e0c7376792_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/77e645b9-7522-4626-b0b5-17e0c7376792_thumb.webp"
+            }
+          ],
+          "offerId": 44146,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 18,
+          "discountPrice": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-01-31T15:39:59.792092"
+    },
+    {
+      "id": 42788,
+      "code": "30230983",
+      "name": "Breezer Pineapple 4x275ml",
+      "slug": "breezer-pineapple-4x275ml-42788",
+      "category_id": 4292,
+      "category_name": "Breezer",
+      "price": 199000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "30230983",
+          "price": 199000,
+          "value": "275ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2d101fa0-e7ed-403f-ab9b-3d6fb9fce4d1.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2d101fa0-e7ed-403f-ab9b-3d6fb9fce4d1_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2d101fa0-e7ed-403f-ab9b-3d6fb9fce4d1_thumb.webp"
+            }
+          ],
+          "offerId": 44113,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-01-31T15:39:59.792092"
     },
     {
       "id": 42820,
@@ -1535,7 +1900,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.521002"
+      "last_updated": "2026-01-31T15:39:59.792092"
     },
     {
       "id": 42818,
@@ -1547,9 +1912,9 @@
       "price": 199000,
       "discount_price": null,
       "stock": {
-        "H495": 4
+        "H495": 40
       },
-      "total_stock": 4,
+      "total_stock": 40,
       "variants": [
         {
           "sku": "30230984",
@@ -1565,12 +1930,12 @@
           "offerId": 44143,
           "sorting": 0,
           "property": "volume",
-          "sellable": 4,
+          "sellable": 40,
           "discountPrice": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.521002"
+      "last_updated": "2026-01-31T15:39:59.792092"
     },
     {
       "id": 42808,
@@ -1582,9 +1947,9 @@
       "price": 199000,
       "discount_price": null,
       "stock": {
-        "H495": 5
+        "H495": 53
       },
-      "total_stock": 5,
+      "total_stock": 53,
       "variants": [
         {
           "sku": "30230985",
@@ -1600,12 +1965,12 @@
           "offerId": 44142,
           "sorting": 0,
           "property": "volume",
-          "sellable": 5,
+          "sellable": 53,
           "discountPrice": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.521002"
+      "last_updated": "2026-01-31T15:39:59.792092"
     },
     {
       "id": 42793,
@@ -1617,9 +1982,9 @@
       "price": 199000,
       "discount_price": null,
       "stock": {
-        "H495": 4
+        "H495": 11
       },
-      "total_stock": 4,
+      "total_stock": 11,
       "variants": [
         {
           "sku": "30230982",
@@ -1635,12 +2000,12 @@
           "offerId": 44125,
           "sorting": 0,
           "property": "volume",
-          "sellable": 4,
+          "sellable": 11,
           "discountPrice": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.521002"
+      "last_updated": "2026-01-31T15:39:59.792092"
     },
     {
       "id": 43114,
@@ -1656,7 +2021,7 @@
       },
       "total_stock": 4,
       "variants": [],
-      "last_updated": "2026-01-31T08:05:07.521022"
+      "last_updated": "2026-01-31T15:39:59.792113"
     },
     {
       "id": 43115,
@@ -1668,11 +2033,11 @@
       "price": 700000,
       "discount_price": 680000,
       "stock": {
-        "H495": 4
+        "H495": 17
       },
-      "total_stock": 4,
+      "total_stock": 17,
       "variants": [],
-      "last_updated": "2026-01-31T08:05:07.521022"
+      "last_updated": "2026-01-31T15:39:59.792113"
     },
     {
       "id": 43116,
@@ -1688,7 +2053,7 @@
       },
       "total_stock": 8,
       "variants": [],
-      "last_updated": "2026-01-31T08:05:07.521022"
+      "last_updated": "2026-01-31T15:39:59.792113"
     },
     {
       "id": 43117,
@@ -1704,7 +2069,7 @@
       },
       "total_stock": 3,
       "variants": [],
-      "last_updated": "2026-01-31T08:05:07.521022"
+      "last_updated": "2026-01-31T15:39:59.792113"
     },
     {
       "id": 43015,
@@ -1720,7 +2085,7 @@
       },
       "total_stock": 1,
       "variants": [],
-      "last_updated": "2026-01-31T08:05:07.521045"
+      "last_updated": "2026-01-31T15:39:59.792129"
     },
     {
       "id": 43004,
@@ -1755,7 +2120,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.521045"
+      "last_updated": "2026-01-31T15:39:59.792129"
     },
     {
       "id": 42730,
@@ -1767,9 +2132,9 @@
       "price": 829000,
       "discount_price": null,
       "stock": {
-        "H495": 6
+        "H495": 12
       },
-      "total_stock": 6,
+      "total_stock": 12,
       "variants": [
         {
           "sku": "30230849",
@@ -1785,12 +2150,12 @@
           "offerId": 44091,
           "sorting": 0,
           "property": "volume",
-          "sellable": 6,
+          "sellable": 12,
           "discountPrice": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.521045"
+      "last_updated": "2026-01-31T15:39:59.792129"
     },
     {
       "id": 42687,
@@ -1802,9 +2167,9 @@
       "price": 799000,
       "discount_price": null,
       "stock": {
-        "H495": 6
+        "H495": 5
       },
-      "total_stock": 6,
+      "total_stock": 5,
       "variants": [
         {
           "sku": "30230783",
@@ -1820,12 +2185,12 @@
           "offerId": 44047,
           "sorting": 0,
           "property": "volume",
-          "sellable": 6,
+          "sellable": 5,
           "discountPrice": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.521045"
+      "last_updated": "2026-01-31T15:39:59.792129"
     },
     {
       "id": 42699,
@@ -1837,9 +2202,9 @@
       "price": 679000,
       "discount_price": null,
       "stock": {
-        "H495": 6
+        "H495": 42
       },
-      "total_stock": 6,
+      "total_stock": 42,
       "variants": [
         {
           "sku": "30230784",
@@ -1855,12 +2220,12 @@
           "offerId": 44042,
           "sorting": 0,
           "property": "volume",
-          "sellable": 6,
+          "sellable": 42,
           "discountPrice": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.521045"
+      "last_updated": "2026-01-31T15:39:59.792129"
     },
     {
       "id": 42685,
@@ -1872,9 +2237,9 @@
       "price": 925000,
       "discount_price": null,
       "stock": {
-        "H495": 2
+        "H495": 8
       },
-      "total_stock": 2,
+      "total_stock": 8,
       "variants": [
         {
           "sku": "30230781",
@@ -1890,12 +2255,12 @@
           "offerId": 44040,
           "sorting": 0,
           "property": "volume",
-          "sellable": 2,
+          "sellable": 8,
           "discountPrice": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.521045"
+      "last_updated": "2026-01-31T15:39:59.792129"
     },
     {
       "id": 42683,
@@ -1907,9 +2272,9 @@
       "price": 699000,
       "discount_price": null,
       "stock": {
-        "H495": 14
+        "H495": 16
       },
-      "total_stock": 14,
+      "total_stock": 16,
       "variants": [
         {
           "sku": "30230782",
@@ -1925,12 +2290,12 @@
           "offerId": 44035,
           "sorting": 0,
           "property": "volume",
-          "sellable": 14,
+          "sellable": 16,
           "discountPrice": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.521045"
+      "last_updated": "2026-01-31T15:39:59.792129"
     },
     {
       "id": 42580,
@@ -1942,9 +2307,9 @@
       "price": 859000,
       "discount_price": null,
       "stock": {
-        "H495": 6
+        "H495": 13
       },
-      "total_stock": 6,
+      "total_stock": 13,
       "variants": [
         {
           "sku": "30230650",
@@ -1960,12 +2325,12 @@
           "offerId": 43947,
           "sorting": 0,
           "property": "volume",
-          "sellable": 6,
+          "sellable": 13,
           "discountPrice": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.521045"
+      "last_updated": "2026-01-31T15:39:59.792129"
     },
     {
       "id": 42603,
@@ -1977,9 +2342,9 @@
       "price": 729000,
       "discount_price": null,
       "stock": {
-        "H495": 8
+        "H495": 9
       },
-      "total_stock": 8,
+      "total_stock": 9,
       "variants": [
         {
           "sku": "30230653",
@@ -1995,47 +2360,12 @@
           "offerId": 43943,
           "sorting": 0,
           "property": "volume",
-          "sellable": 8,
+          "sellable": 9,
           "discountPrice": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.521045"
-    },
-    {
-      "id": 42585,
-      "code": "30230651",
-      "name": "Two Oceans Fresh & Fruity 3L",
-      "slug": "two-oceans-fresh-fruity-3l-42585",
-      "category_id": 2730,
-      "category_name": "Boxed Wines",
-      "price": 659000,
-      "discount_price": null,
-      "stock": {
-        "H495": 2
-      },
-      "total_stock": 2,
-      "variants": [
-        {
-          "sku": "30230651",
-          "price": 659000,
-          "value": "3ltr",
-          "images": [
-            {
-              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9da739da-8945-4b56-a84e-9df0fc6ed4f3.webp",
-              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9da739da-8945-4b56-a84e-9df0fc6ed4f3_orig.png",
-              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9da739da-8945-4b56-a84e-9df0fc6ed4f3_thumb.webp"
-            }
-          ],
-          "offerId": 43919,
-          "sorting": 0,
-          "property": "volume",
-          "sellable": 2,
-          "discountPrice": null,
-          "isBackorderAvailable": false
-        }
-      ],
-      "last_updated": "2026-01-31T08:05:07.521045"
+      "last_updated": "2026-01-31T15:39:59.792129"
     },
     {
       "id": 42590,
@@ -2070,7 +2400,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.521045"
+      "last_updated": "2026-01-31T15:39:59.792129"
     },
     {
       "id": 42581,
@@ -2082,9 +2412,9 @@
       "price": 779000,
       "discount_price": null,
       "stock": {
-        "H495": 5
+        "H495": 7
       },
-      "total_stock": 5,
+      "total_stock": 7,
       "variants": [
         {
           "sku": "30230652",
@@ -2100,12 +2430,47 @@
           "offerId": 43902,
           "sorting": 0,
           "property": "volume",
+          "sellable": 7,
+          "discountPrice": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-01-31T15:39:59.792129"
+    },
+    {
+      "id": 42526,
+      "code": "30230613",
+      "name": "Van Gogh Riesling 3L",
+      "slug": "van-gogh-riesling-3l-42526",
+      "category_id": 4335,
+      "category_name": "Boxed Wines",
+      "price": 599000,
+      "discount_price": null,
+      "stock": {
+        "H495": 5
+      },
+      "total_stock": 5,
+      "variants": [
+        {
+          "sku": "30230613",
+          "price": 599000,
+          "value": "3ltr",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f81fb94d-43c6-4bd9-9398-2a69d3405ae9.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f81fb94d-43c6-4bd9-9398-2a69d3405ae9_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f81fb94d-43c6-4bd9-9398-2a69d3405ae9_thumb.webp"
+            }
+          ],
+          "offerId": 43870,
+          "sorting": 0,
+          "property": "volume",
           "sellable": 5,
           "discountPrice": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.521045"
+      "last_updated": "2026-01-31T15:39:59.792129"
     },
     {
       "id": 42540,
@@ -2140,7 +2505,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.521045"
+      "last_updated": "2026-01-31T15:39:59.792129"
     },
     {
       "id": 42539,
@@ -2152,9 +2517,9 @@
       "price": 1139000,
       "discount_price": null,
       "stock": {
-        "H495": 9
+        "H495": 11
       },
-      "total_stock": 9,
+      "total_stock": 11,
       "variants": [
         {
           "sku": "30230580",
@@ -2170,12 +2535,12 @@
           "offerId": 43855,
           "sorting": 0,
           "property": "volume",
-          "sellable": 9,
+          "sellable": 11,
           "discountPrice": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-01-31T08:05:07.521045"
+      "last_updated": "2026-01-31T15:39:59.792129"
     }
   ]
 }
