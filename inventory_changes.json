@@ -1812,5 +1812,380 @@
     "current_stock": 2,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-31T02:02:09.502640",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 17,
+    "current_stock": 15,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-31T02:02:09.502640",
+    "product_id": 42436,
+    "product_name": "Coca-Cola 10x330ml",
+    "previous_stock": 12,
+    "current_stock": 11,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-31T02:02:09.502640",
+    "product_id": 42699,
+    "product_name": "Frontera Chardonnay 3L",
+    "previous_stock": 5,
+    "current_stock": 6,
+    "change": 1,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-31T02:02:09.502640",
+    "product_id": 42661,
+    "product_name": "Boli X 12x330ml",
+    "previous_stock": 4,
+    "current_stock": 3,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-31T02:02:09.502640",
+    "product_id": 42797,
+    "product_name": "Absolut Vodka 1L",
+    "previous_stock": 6,
+    "current_stock": 4,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-31T02:02:09.502640",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 17,
+    "current_stock": 15,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-31T02:02:09.502640",
+    "product_id": 42441,
+    "product_name": "Kristall Mexican Lime 12x330ml",
+    "previous_stock": 11,
+    "current_stock": 9,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-01-31T02:02:09.502640",
+    "product_id": 42630,
+    "product_name": "BARA Hindber & Sítróna 6x330ml",
+    "stock": 5,
+    "details": {
+      "id": 42630,
+      "code": "30230718",
+      "name": "BARA Hindber & Sítróna 6x330ml",
+      "slug": "bara-hindber-sitrona-6x330ml-42630",
+      "category_id": 2560,
+      "category_name": "Popular",
+      "price": 289000,
+      "discount_price": null,
+      "stock": {
+        "H495": 5
+      },
+      "total_stock": 5,
+      "variants": [
+        {
+          "sku": "30230718",
+          "price": 289000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/83378ce2-33ac-42d4-aa39-a09a20226c7b.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/83378ce2-33ac-42d4-aa39-a09a20226c7b_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/83378ce2-33ac-42d4-aa39-a09a20226c7b_thumb.webp"
+            },
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/55bd771c-703d-496d-a29c-0dda9b5a4812.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/55bd771c-703d-496d-a29c-0dda9b5a4812_orig.jpeg",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/55bd771c-703d-496d-a29c-0dda9b5a4812_thumb.webp"
+            }
+          ],
+          "offerId": 43953,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 5,
+          "discountPrice": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-01-31T02:02:09.500229"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-31T02:02:09.502640",
+    "product_id": 42661,
+    "product_name": "Boli X 12x330ml",
+    "previous_stock": 4,
+    "current_stock": 3,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-31T02:02:09.502640",
+    "product_id": 42692,
+    "product_name": "Martini Prosecco 750ml",
+    "previous_stock": 9,
+    "current_stock": 7,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-31T02:02:09.502640",
+    "product_id": 42708,
+    "product_name": "Gull 12x330ml",
+    "previous_stock": 4,
+    "current_stock": 7,
+    "change": 3,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-31T02:02:09.502640",
+    "product_id": 43058,
+    "product_name": "Thule 12x330ml",
+    "previous_stock": 9,
+    "current_stock": 8,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-31T02:02:09.502640",
+    "product_id": 42588,
+    "product_name": "Heineken 6x330ml",
+    "previous_stock": 9,
+    "current_stock": 8,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-31T02:02:09.502640",
+    "product_id": 42569,
+    "product_name": "Heineken 6x330ml (Gler)",
+    "previous_stock": 11,
+    "current_stock": 9,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-31T02:02:09.502640",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 17,
+    "current_stock": 15,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-31T02:02:09.502640",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 11,
+    "current_stock": 16,
+    "change": 5,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-31T02:02:09.502640",
+    "product_id": 42708,
+    "product_name": "Gull 12x330ml",
+    "previous_stock": 4,
+    "current_stock": 7,
+    "change": 3,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-31T02:02:09.502640",
+    "product_id": 43058,
+    "product_name": "Thule 12x330ml",
+    "previous_stock": 9,
+    "current_stock": 8,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-01-31T02:02:09.502640",
+    "product_id": 43036,
+    "product_name": "Thule Jólabjór 12x500ml",
+    "stock": 1,
+    "details": {
+      "id": 43036,
+      "code": "30230813",
+      "name": "Thule Jólabjór 12x500ml",
+      "slug": "thule-jolabjor-12x500ml-43036",
+      "category_id": 2733,
+      "category_name": "Thule",
+      "price": 599000,
+      "discount_price": null,
+      "stock": {
+        "H495": 1
+      },
+      "total_stock": 1,
+      "variants": [
+        {
+          "sku": "30230813",
+          "price": 599000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6f06d56a-1bc8-4b7f-bc56-4de74eccb427.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6f06d56a-1bc8-4b7f-bc56-4de74eccb427_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6f06d56a-1bc8-4b7f-bc56-4de74eccb427_thumb.webp"
+            }
+          ],
+          "offerId": 44025,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 1,
+          "discountPrice": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-01-31T02:02:09.500359"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-01-31T02:02:09.502640",
+    "product_id": 42776,
+    "product_name": "Thule 12x500ml",
+    "stock": 6,
+    "details": {
+      "id": 42776,
+      "code": "30230913",
+      "name": "Thule 12x500ml",
+      "slug": "thule-12x500ml-42776",
+      "category_id": 2733,
+      "category_name": "Thule",
+      "price": 589000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "30230913",
+          "price": 589000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f8768f6a-d28e-4220-aa73-83e705097a18.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f8768f6a-d28e-4220-aa73-83e705097a18_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f8768f6a-d28e-4220-aa73-83e705097a18_thumb.webp"
+            }
+          ],
+          "offerId": 44101,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-01-31T02:02:09.500359"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-31T02:02:09.502640",
+    "product_id": 42818,
+    "product_name": "Breezer Strawberry 4x275ml",
+    "previous_stock": 5,
+    "current_stock": 4,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-31T02:02:09.502640",
+    "product_id": 42808,
+    "product_name": "Breezer Mango 4x275ml",
+    "previous_stock": 6,
+    "current_stock": 5,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-31T02:02:09.502640",
+    "product_id": 43114,
+    "product_name": "Gin & Tonic",
+    "previous_stock": 5,
+    "current_stock": 4,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-31T02:02:09.502640",
+    "product_id": 42699,
+    "product_name": "Frontera Chardonnay 3L",
+    "previous_stock": 5,
+    "current_stock": 6,
+    "change": 1,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-31T02:02:09.502640",
+    "product_id": 42685,
+    "product_name": "Tommasi Graticcio Appassionato 3L",
+    "previous_stock": 4,
+    "current_stock": 2,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-01-31T02:02:09.502640",
+    "product_id": 42590,
+    "product_name": "Lindemans Chardonnay 3L",
+    "previous_stock": 2,
+    "current_stock": 1,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-01-31T02:02:09.502640",
+    "product_id": 42703,
+    "product_name": "Gull 12x500ml",
+    "last_stock": 1
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-01-31T02:02:09.502640",
+    "product_id": 42680,
+    "product_name": "Tuborg Green 12x500ml",
+    "last_stock": 3
   }
 ]
