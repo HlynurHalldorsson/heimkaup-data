@@ -4082,3 +4082,73 @@ Categories (9):
 2026-02-01 19:30:14,577 - INFO - Saved CSV snapshot to inventory_data/inventory_2026-02-01_1930.csv
 2026-02-01 19:30:14,578 - INFO - Appended to master CSV: inventory_data/inventory_all.csv
 2026-02-01 19:30:14,578 - INFO - Inventory check completed successfully
+2026-02-01 19:30:15,909 - INFO - Successfully pushed inventory data to GitHub
+
+============================================================
+HEIMKAUP INVENTORY SUMMARY - 2026-02-01 19:30:14
+============================================================
+
+Total Products: 72
+Total Stock Units: 1835
+Out of Stock: 0
+Low Stock (<=5): 21
+
+Categories (9):
+  - Boxed Wines: 14 products, 127 units
+  - Breezer: 6 products, 133 units
+  - Bundles: 4 products, 32 units
+  - Faustino: 6 products, 38 units
+  - Great Deals: 10 products, 512 units
+  - Gull: 7 products, 191 units
+  - New Location: 11 products, 300 units
+  - Popular: 12 products, 425 units
+  - Thule: 2 products, 77 units
+
+--- CHANGES DETECTED (23) ---
+  [stock_change] Gull Lite 12x500ml: 100 -> 83 (-17)
+  [stock_change] Boli 12x500ml: 7 -> 1 (-6)
+  [stock_change] Coca-Cola 10x330ml: 77 -> 76 (-1)
+  [stock_change] Pepsi Max 12x330ml: 51 -> 48 (-3)
+  [stock_change] Einstök Arctic Pale Ale 12x330ml: 8 -> 7 (-1)
+  [stock_change] Boli X 12x330ml: 4 -> 3 (-1)
+  [stock_change] Koskenkorva Vodka 500ml: 10 -> 1 (-9)
+  [stock_change] Gull Lite 12x500ml: 100 -> 83 (-17)
+  [stock_change] Pepsi Max 12x330ml: 51 -> 48 (-3)
+  [stock_change] Kristall Mexican Lime 12x330ml: 45 -> 44 (-1)
+  [stock_change] BARA Hindber & Sítróna 6x330ml: 16 -> 12 (-4)
+  [stock_change] Boli 12x500ml: 7 -> 1 (-6)
+  [stock_change] Boli X 12x330ml: 4 -> 3 (-1)
+  [stock_change] Tuborg Green 12x500ml: 120 -> 115 (-5)
+  [stock_change] Thule 12x330ml: 76 -> 74 (-2)
+  [stock_change] Heineken 6x330ml: 87 -> 77 (-10)
+  [stock_change] Heineken 6x330ml (Gler): 127 -> 125 (-2)
+  [stock_change] Ölvisholt Birta 6x330ml: 29 -> 28 (-1)
+  [stock_change] Gull Lite 12x500ml: 100 -> 83 (-17)
+  [stock_change] Gull Lite Premium 12x500ml: 7 -> 5 (-2)
+  ... and 3 more changes
+
+--- LOW STOCK ALERT ---
+  - Montalto Pinot Grigio 750ml: 1 left
+  - Boli 12x500ml: 1 left
+  - Koskenkorva Vodka 500ml: 1 left
+  - Boli 12x500ml: 1 left
+  - RVK Popp Corn Lager 6x330ml: 1 left
+  - Gull Áfengislaus 10x330ml: 1 left
+  - Piccanti Rosso Toscana 3L: 1 left
+  - Lindemans Chardonnay 3L: 1 left
+  - Casillero Del Diablo Cabernet Sauvignon 3L: 2 left
+  - Boli X 12x330ml: 3 left
+
+============================================================
+/Users/hlynurhalldorsson/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+2026-02-01 20:39:37,819 - INFO - Starting inventory check...
+2026-02-01 20:39:38,552 - INFO - Fetched page successfully (300118 bytes)
+2026-02-01 20:39:38,580 - INFO - Successfully extracted __INITIAL_STATE__ (159587 chars)
+2026-02-01 20:39:38,580 - INFO - Extracted 72 products total
+2026-02-01 20:39:38,591 - INFO - Saved current inventory to inventory_data/current_inventory.json
+2026-02-01 20:39:38,597 - INFO - Saved 2 changes to inventory_data/inventory_changes.json
+2026-02-01 20:39:38,617 - INFO - Saved history snapshot to inventory_data/inventory_history.json
+2026-02-01 20:39:38,618 - INFO - Saved CSV snapshot to inventory_data/inventory_2026-02-01_2039.csv
+2026-02-01 20:39:38,619 - INFO - Appended to master CSV: inventory_data/inventory_all.csv
+2026-02-01 20:39:38,619 - INFO - Inventory check completed successfully
