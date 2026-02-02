@@ -3837,5 +3837,42 @@
     "current_stock": 38,
     "change": -6,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-02T16:44:18.964859",
+    "product_id": 42708,
+    "product_name": "Gull 12x330ml",
+    "previous_stock": 64,
+    "current_stock": 61,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-02T16:44:18.964859",
+    "product_id": 42708,
+    "product_name": "Gull 12x330ml",
+    "previous_stock": 64,
+    "current_stock": 61,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-02T16:44:18.964859",
+    "product_id": 42776,
+    "product_name": "Thule 12x500ml",
+    "previous_stock": 2,
+    "current_stock": 1,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-02T16:44:18.964859",
+    "product_id": 42449,
+    "product_name": "Gull Áfengislaus 10x330ml",
+    "last_stock": 1
   }
 ]
