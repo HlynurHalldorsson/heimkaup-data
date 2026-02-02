@@ -3817,5 +3817,15 @@
     "current_stock": 38,
     "change": -2,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-02T10:06:52.359325",
+    "product_id": 42436,
+    "product_name": "Coca-Cola 10x330ml",
+    "previous_stock": 76,
+    "current_stock": 75,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
