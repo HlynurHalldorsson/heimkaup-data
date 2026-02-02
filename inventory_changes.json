@@ -3884,5 +3884,72 @@
     "current_stock": 18,
     "change": -2,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-02T19:48:49.786343",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 83,
+    "current_stock": 82,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-02T19:48:49.786343",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 83,
+    "current_stock": 82,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-02T19:48:49.786343",
+    "product_id": 42692,
+    "product_name": "Martini Prosecco 750ml",
+    "previous_stock": 7,
+    "current_stock": 5,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-02T19:48:49.786343",
+    "product_id": 42708,
+    "product_name": "Gull 12x330ml",
+    "previous_stock": 61,
+    "current_stock": 58,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-02T19:48:49.786343",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 83,
+    "current_stock": 82,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-02T19:48:49.786343",
+    "product_id": 42708,
+    "product_name": "Gull 12x330ml",
+    "previous_stock": 61,
+    "current_stock": 58,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-02T19:48:49.786343",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "last_stock": 1
   }
 ]
