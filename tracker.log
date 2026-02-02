@@ -4537,3 +4537,50 @@ Categories (9):
 2026-02-02 11:06:54,724 - INFO - Saved CSV snapshot to inventory_data/inventory_2026-02-02_1106.csv
 2026-02-02 11:06:54,725 - INFO - Appended to master CSV: inventory_data/inventory_all.csv
 2026-02-02 11:06:54,725 - INFO - Inventory check completed successfully
+2026-02-02 11:06:56,044 - INFO - Successfully pushed inventory data to GitHub
+
+============================================================
+HEIMKAUP INVENTORY SUMMARY - 2026-02-02 11:06:54
+============================================================
+
+Total Products: 72
+Total Stock Units: 1827
+Out of Stock: 0
+Low Stock (<=5): 21
+
+Categories (9):
+  - Boxed Wines: 14 products, 125 units
+  - Breezer: 6 products, 133 units
+  - Bundles: 4 products, 32 units
+  - Faustino: 6 products, 38 units
+  - Great Deals: 10 products, 511 units
+  - Gull: 7 products, 191 units
+  - New Location: 11 products, 297 units
+  - Popular: 12 products, 425 units
+  - Thule: 2 products, 75 units
+
+--- LOW STOCK ALERT ---
+  - Montalto Pinot Grigio 750ml: 1 left
+  - Boli 12x500ml: 1 left
+  - Koskenkorva Vodka 500ml: 1 left
+  - Boli 12x500ml: 1 left
+  - RVK Popp Corn Lager 6x330ml: 1 left
+  - Gull Áfengislaus 10x330ml: 1 left
+  - Piccanti Rosso Toscana 3L: 1 left
+  - Lindemans Chardonnay 3L: 1 left
+  - Thule 12x500ml: 2 left
+  - Casillero Del Diablo Cabernet Sauvignon 3L: 2 left
+
+============================================================
+/Users/hlynurhalldorsson/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+2026-02-02 12:06:56,292 - INFO - Starting inventory check...
+2026-02-02 12:06:56,891 - INFO - Fetched page successfully (300118 bytes)
+2026-02-02 12:06:56,917 - INFO - Successfully extracted __INITIAL_STATE__ (159587 chars)
+2026-02-02 12:06:56,919 - INFO - Extracted 72 products total
+2026-02-02 12:06:56,928 - INFO - Saved current inventory to inventory_data/current_inventory.json
+2026-02-02 12:06:56,933 - INFO - Saved 1 changes to inventory_data/inventory_changes.json
+2026-02-02 12:06:56,953 - INFO - Saved history snapshot to inventory_data/inventory_history.json
+2026-02-02 12:06:56,955 - INFO - Saved CSV snapshot to inventory_data/inventory_2026-02-02_1206.csv
+2026-02-02 12:06:56,956 - INFO - Appended to master CSV: inventory_data/inventory_all.csv
+2026-02-02 12:06:56,956 - INFO - Inventory check completed successfully
