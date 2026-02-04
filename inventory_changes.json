@@ -4128,5 +4128,25 @@
     "product_id": 42776,
     "product_name": "Thule 12x500ml",
     "last_stock": 1
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-04T14:36:30.887630",
+    "product_id": 43117,
+    "product_name": "VELO Crispy Peppermint 3 (5 stk)",
+    "previous_stock": 3,
+    "current_stock": 2,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-04T14:36:30.887630",
+    "product_id": 42603,
+    "product_name": "Drostdy Hof Shiraz Merlot 3L",
+    "previous_stock": 9,
+    "current_stock": 6,
+    "change": -3,
+    "direction": "decrease"
   }
 ]
