@@ -4288,5 +4288,112 @@
     "current_stock": 2,
     "change": -3,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-05T20:54:10.373836",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 70,
+    "current_stock": 68,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-05T20:54:10.373836",
+    "product_id": 42436,
+    "product_name": "Coca-Cola 10x330ml",
+    "previous_stock": 73,
+    "current_stock": 67,
+    "change": -6,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-05T20:54:10.373836",
+    "product_id": 42699,
+    "product_name": "Frontera Chardonnay 3L",
+    "previous_stock": 30,
+    "current_stock": 26,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-05T20:54:10.373836",
+    "product_id": 42797,
+    "product_name": "Absolut Vodka 1L",
+    "previous_stock": 26,
+    "current_stock": 25,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-05T20:54:10.373836",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 70,
+    "current_stock": 68,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-05T20:54:10.373836",
+    "product_id": 42680,
+    "product_name": "Tuborg Green 12x500ml",
+    "previous_stock": 115,
+    "current_stock": 109,
+    "change": -6,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-05T20:54:10.373836",
+    "product_id": 42588,
+    "product_name": "Heineken 6x330ml",
+    "previous_stock": 75,
+    "current_stock": 73,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-05T20:54:10.373836",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 70,
+    "current_stock": 68,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-05T20:54:10.373836",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 6,
+    "current_stock": 4,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-05T20:54:10.373836",
+    "product_id": 42699,
+    "product_name": "Frontera Chardonnay 3L",
+    "previous_stock": 30,
+    "current_stock": 26,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-05T20:54:10.373836",
+    "product_id": 42656,
+    "product_name": "RVK Popp Corn Lager 6x330ml",
+    "last_stock": 1
   }
 ]
