@@ -4248,5 +4248,45 @@
     "current_stock": 22,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-05T12:17:19.814398",
+    "product_id": 43058,
+    "product_name": "Thule 12x330ml",
+    "previous_stock": 70,
+    "current_stock": 68,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-05T12:17:19.814398",
+    "product_id": 42669,
+    "product_name": "Ölvisholt Classic 10x330ml",
+    "previous_stock": 50,
+    "current_stock": 48,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-05T12:17:19.814398",
+    "product_id": 43058,
+    "product_name": "Thule 12x330ml",
+    "previous_stock": 70,
+    "current_stock": 68,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-05T12:17:19.814398",
+    "product_id": 42687,
+    "product_name": "Tommasi Pinot Grigio 3L",
+    "previous_stock": 5,
+    "current_stock": 2,
+    "change": -3,
+    "direction": "decrease"
   }
 ]
