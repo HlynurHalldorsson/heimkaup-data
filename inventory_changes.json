@@ -4395,5 +4395,15 @@
     "product_id": 42656,
     "product_name": "RVK Popp Corn Lager 6x330ml",
     "last_stock": 1
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-06T09:33:39.631191",
+    "product_id": 42588,
+    "product_name": "Heineken 6x330ml",
+    "previous_stock": 73,
+    "current_stock": 72,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
