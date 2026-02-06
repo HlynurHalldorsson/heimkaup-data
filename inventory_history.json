@@ -24223,5 +24223,131 @@
         "stock": 5
       }
     ]
+  },
+  {
+    "timestamp": "2026-02-06T13:33:50.125390",
+    "total_products": 65,
+    "total_stock": 1634,
+    "by_category": {
+      "New Location": {
+        "count": 9,
+        "total_stock": 242
+      },
+      "Popular": {
+        "count": 10,
+        "total_stock": 366
+      },
+      "Great Deals": {
+        "count": 9,
+        "total_stock": 498
+      },
+      "Gull": {
+        "count": 6,
+        "total_stock": 153
+      },
+      "Thule": {
+        "count": 1,
+        "total_stock": 68
+      },
+      "Faustino": {
+        "count": 6,
+        "total_stock": 38
+      },
+      "Breezer": {
+        "count": 6,
+        "total_stock": 133
+      },
+      "Bundles": {
+        "count": 4,
+        "total_stock": 30
+      },
+      "Boxed Wines": {
+        "count": 14,
+        "total_stock": 106
+      }
+    },
+    "out_of_stock": [],
+    "low_stock": [
+      {
+        "id": 43016,
+        "name": "Montalto Pinot Grigio 750ml",
+        "stock": 1
+      },
+      {
+        "id": 42606,
+        "name": "Koskenkorva Vodka 500ml",
+        "stock": 1
+      },
+      {
+        "id": 42692,
+        "name": "Martini Prosecco 750ml",
+        "stock": 5
+      },
+      {
+        "id": 43032,
+        "name": "Gull Lite Premium 12x500ml",
+        "stock": 5
+      },
+      {
+        "id": 42508,
+        "name": "Gull Lite 12x330ml",
+        "stock": 4
+      },
+      {
+        "id": 42693,
+        "name": "Faustino VII Blanco 750ml",
+        "stock": 5
+      },
+      {
+        "id": 42813,
+        "name": "Faustino VII Red 750ml",
+        "stock": 3
+      },
+      {
+        "id": 42820,
+        "name": "Breezer Lemon 4x275ml",
+        "stock": 5
+      },
+      {
+        "id": 43114,
+        "name": "Gin & Tonic",
+        "stock": 4
+      },
+      {
+        "id": 43117,
+        "name": "VELO Crispy Peppermint 3 (5 stk)",
+        "stock": 1
+      },
+      {
+        "id": 43015,
+        "name": "Piccanti Rosso Toscana 3L",
+        "stock": 1
+      },
+      {
+        "id": 43004,
+        "name": "Casillero Del Diablo Cabernet Sauvignon 3L",
+        "stock": 2
+      },
+      {
+        "id": 42687,
+        "name": "Tommasi Pinot Grigio 3L",
+        "stock": 2
+      },
+      {
+        "id": 42683,
+        "name": "Frontera Cabernet Sauvignon 3L",
+        "stock": 4
+      },
+      {
+        "id": 42590,
+        "name": "Lindemans Chardonnay 3L",
+        "stock": 1
+      },
+      {
+        "id": 42526,
+        "name": "Van Gogh Riesling 3L",
+        "stock": 4
+      }
+    ]
   }
 ]
