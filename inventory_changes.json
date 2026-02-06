@@ -4405,5 +4405,52 @@
     "current_stock": 72,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-06T10:33:42.516158",
+    "product_id": 42434,
+    "product_name": "Pepsi Max 12x330ml",
+    "previous_stock": 38,
+    "current_stock": 37,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-06T10:33:42.516158",
+    "product_id": 42434,
+    "product_name": "Pepsi Max 12x330ml",
+    "previous_stock": 38,
+    "current_stock": 37,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-06T10:33:42.516158",
+    "product_id": 42441,
+    "product_name": "Kristall Mexican Lime 12x330ml",
+    "previous_stock": 32,
+    "current_stock": 31,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-06T10:33:42.516158",
+    "product_id": 43117,
+    "product_name": "VELO Crispy Peppermint 3 (5 stk)",
+    "previous_stock": 2,
+    "current_stock": 1,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-06T10:33:42.516158",
+    "product_id": 42661,
+    "product_name": "Boli X 12x330ml",
+    "last_stock": 1
   }
 ]
