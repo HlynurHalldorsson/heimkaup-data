@@ -4669,5 +4669,57 @@
     "product_id": 42508,
     "product_name": "Gull Lite 12x330ml",
     "last_stock": 1
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-06T18:29:08.327017",
+    "product_id": 42606,
+    "product_name": "Koskenkorva Vodka 500ml",
+    "previous_stock": 1,
+    "current_stock": 49,
+    "change": 48,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-06T18:29:08.327017",
+    "product_id": 42585,
+    "product_name": "Two Oceans Fresh & Fruity 3L",
+    "stock": 44,
+    "details": {
+      "id": 42585,
+      "code": "30230651",
+      "name": "Two Oceans Fresh & Fruity 3L",
+      "slug": "two-oceans-fresh-fruity-3l-42585",
+      "category_id": 2730,
+      "category_name": "Boxed Wines",
+      "price": 659000,
+      "discount_price": null,
+      "stock": {
+        "H495": 44
+      },
+      "total_stock": 44,
+      "variants": [
+        {
+          "sku": "30230651",
+          "price": 659000,
+          "value": "3ltr",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9da739da-8945-4b56-a84e-9df0fc6ed4f3.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9da739da-8945-4b56-a84e-9df0fc6ed4f3_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9da739da-8945-4b56-a84e-9df0fc6ed4f3_thumb.webp"
+            }
+          ],
+          "offerId": 43919,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 44,
+          "discountPrice": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-06T18:29:08.325558"
+    }
   }
 ]
