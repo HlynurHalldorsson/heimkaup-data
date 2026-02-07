@@ -7419,3 +7419,39 @@ Categories (10):
 2026-02-07 22:52:49,337 - INFO - Saved CSV snapshot to inventory_data/inventory_2026-02-07_2252.csv
 2026-02-07 22:52:49,338 - INFO - Appended to master CSV: inventory_data/inventory_all.csv
 2026-02-07 22:52:49,338 - INFO - Inventory check completed successfully
+2026-02-07 22:52:50,598 - INFO - Successfully pushed inventory data to GitHub
+
+============================================================
+HEIMKAUP INVENTORY SUMMARY - 2026-02-07 22:52:49
+============================================================
+
+Total Products: 76
+Total Stock Units: 2068
+Out of Stock: 0
+Low Stock (<=5): 14
+
+Categories (10):
+  - 818: 3 products, 18 units
+  - Boxed Wines: 15 products, 143 units
+  - Breezer: 6 products, 131 units
+  - Bundles: 4 products, 29 units
+  - Faustino: 6 products, 35 units
+  - Great Deals: 9 products, 488 units
+  - Gull: 7 products, 326 units
+  - New Location: 11 products, 338 units
+  - Popular: 13 products, 466 units
+  - Thule: 2 products, 94 units
+
+--- LOW STOCK ALERT ---
+  - Montalto Pinot Grigio 750ml: 1 left
+  - VELO Crispy Peppermint 3 (5 stk): 1 left
+  - Piccanti Rosso Toscana 3L: 1 left
+  - Frontera Cabernet Sauvignon 3L: 1 left
+  - Lindemans Chardonnay 3L: 1 left
+  - Casillero Del Diablo Cabernet Sauvignon 3L: 2 left
+  - Tommasi Pinot Grigio 3L: 2 left
+  - Faustino VII Red 750ml: 3 left
+  - Gin & Tonic: 3 left
+  - Van Gogh Riesling 3L: 3 left
+
+============================================================
