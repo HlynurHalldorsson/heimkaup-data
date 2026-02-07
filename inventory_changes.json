@@ -5016,5 +5016,426 @@
     "current_stock": 3,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-07T19:02:50.215201",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 63,
+    "current_stock": 32,
+    "change": -31,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-07T19:02:50.215201",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 60,
+    "current_stock": 65,
+    "change": 5,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-07T19:02:50.215201",
+    "product_id": 42434,
+    "product_name": "Pepsi Max 12x330ml",
+    "previous_stock": 35,
+    "current_stock": 32,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-07T19:02:50.215201",
+    "product_id": 42797,
+    "product_name": "Absolut Vodka 1L",
+    "previous_stock": 22,
+    "current_stock": 21,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-07T19:02:50.215201",
+    "product_id": 43351,
+    "product_name": "818 Blanco 750ml",
+    "stock": 6,
+    "details": {
+      "id": 43351,
+      "code": "30234369",
+      "name": "818 Blanco 750ml",
+      "slug": "818-blanco-750ml-43351",
+      "category_id": 4519,
+      "category_name": "818",
+      "price": 1281800,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "30234369",
+          "price": 1281800,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/87a8fe07-2269-44ae-85cf-2e05bb863e00.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/87a8fe07-2269-44ae-85cf-2e05bb863e00_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/87a8fe07-2269-44ae-85cf-2e05bb863e00_thumb.webp"
+            }
+          ],
+          "offerId": 45003,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-07T19:02:50.212721"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-07T19:02:50.215201",
+    "product_id": 43352,
+    "product_name": "818 Reposado 750ml",
+    "stock": 6,
+    "details": {
+      "id": 43352,
+      "code": "30234370",
+      "name": "818 Reposado 750ml",
+      "slug": "818-reposado-750ml-43352",
+      "category_id": 4519,
+      "category_name": "818",
+      "price": 1381800,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "30234370",
+          "price": 1381800,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d8e156c5-0845-4254-8d2f-73183947bebb.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d8e156c5-0845-4254-8d2f-73183947bebb_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d8e156c5-0845-4254-8d2f-73183947bebb_thumb.webp"
+            }
+          ],
+          "offerId": 45004,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-07T19:02:50.212721"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-07T19:02:50.215201",
+    "product_id": 43353,
+    "product_name": "818 Añejo 750ml",
+    "stock": 6,
+    "details": {
+      "id": 43353,
+      "code": "30234371",
+      "name": "818 Añejo 750ml",
+      "slug": "818-anejo-750m-43353",
+      "category_id": 4519,
+      "category_name": "818",
+      "price": 1581800,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "30234371",
+          "price": 1581800,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8a16b806-d761-4758-a629-07f72f0dae42.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8a16b806-d761-4758-a629-07f72f0dae42_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8a16b806-d761-4758-a629-07f72f0dae42_thumb.webp"
+            }
+          ],
+          "offerId": 45005,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-07T19:02:50.212721"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-07T19:02:50.215201",
+    "product_id": 42703,
+    "product_name": "Gull 12x500ml",
+    "stock": 50,
+    "details": {
+      "id": 42703,
+      "code": "30230822",
+      "name": "Gull 12x500ml",
+      "slug": "gull-12x500ml-42703",
+      "category_id": 2724,
+      "category_name": "Popular",
+      "price": 579000,
+      "discount_price": null,
+      "stock": {
+        "H495": 50
+      },
+      "total_stock": 50,
+      "variants": [
+        {
+          "sku": "30230822",
+          "price": 579000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bf7c1705-939c-4589-9e42-c8efa6646e32.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bf7c1705-939c-4589-9e42-c8efa6646e32_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bf7c1705-939c-4589-9e42-c8efa6646e32_thumb.webp"
+            },
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c185d035-631d-477a-b8f5-553da9fd32c5.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c185d035-631d-477a-b8f5-553da9fd32c5_orig.jpeg",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c185d035-631d-477a-b8f5-553da9fd32c5_thumb.webp"
+            }
+          ],
+          "offerId": 44032,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 50,
+          "discountPrice": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-07T19:02:50.212738"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-07T19:02:50.215201",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 63,
+    "current_stock": 32,
+    "change": -31,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-07T19:02:50.215201",
+    "product_id": 42434,
+    "product_name": "Pepsi Max 12x330ml",
+    "previous_stock": 35,
+    "current_stock": 32,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-07T19:02:50.215201",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 60,
+    "current_stock": 65,
+    "change": 5,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-07T19:02:50.215201",
+    "product_id": 42588,
+    "product_name": "Heineken 6x330ml",
+    "previous_stock": 69,
+    "current_stock": 67,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-07T19:02:50.215201",
+    "product_id": 42666,
+    "product_name": "Ölvisholt Lite 10x330ml",
+    "previous_stock": 27,
+    "current_stock": 26,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-07T19:02:50.215201",
+    "product_id": 42703,
+    "product_name": "Gull 12x500ml",
+    "stock": 50,
+    "details": {
+      "id": 42703,
+      "code": "30230822",
+      "name": "Gull 12x500ml",
+      "slug": "gull-12x500ml-42703",
+      "category_id": 2724,
+      "category_name": "Gull",
+      "price": 579000,
+      "discount_price": null,
+      "stock": {
+        "H495": 50
+      },
+      "total_stock": 50,
+      "variants": [
+        {
+          "sku": "30230822",
+          "price": 579000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bf7c1705-939c-4589-9e42-c8efa6646e32.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bf7c1705-939c-4589-9e42-c8efa6646e32_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bf7c1705-939c-4589-9e42-c8efa6646e32_thumb.webp"
+            },
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c185d035-631d-477a-b8f5-553da9fd32c5.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c185d035-631d-477a-b8f5-553da9fd32c5_orig.jpeg",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c185d035-631d-477a-b8f5-553da9fd32c5_thumb.webp"
+            }
+          ],
+          "offerId": 44032,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 50,
+          "discountPrice": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-07T19:02:50.212804"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-07T19:02:50.215201",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 63,
+    "current_stock": 32,
+    "change": -31,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-07T19:02:50.215201",
+    "product_id": 42776,
+    "product_name": "Thule 12x500ml",
+    "stock": 27,
+    "details": {
+      "id": 42776,
+      "code": "30230913",
+      "name": "Thule 12x500ml",
+      "slug": "thule-12x500ml-42776",
+      "category_id": 2733,
+      "category_name": "Thule",
+      "price": 589000,
+      "discount_price": null,
+      "stock": {
+        "H495": 27
+      },
+      "total_stock": 27,
+      "variants": [
+        {
+          "sku": "30230913",
+          "price": 589000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f8768f6a-d28e-4220-aa73-83e705097a18.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f8768f6a-d28e-4220-aa73-83e705097a18_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f8768f6a-d28e-4220-aa73-83e705097a18_thumb.webp"
+            }
+          ],
+          "offerId": 44101,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 27,
+          "discountPrice": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-07T19:02:50.212824"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-07T19:02:50.215201",
+    "product_id": 42607,
+    "product_name": "Montalto Pinot Grigio 3L",
+    "stock": 8,
+    "details": {
+      "id": 42607,
+      "code": "30230656",
+      "name": "Montalto Pinot Grigio 3L",
+      "slug": "montalto-pinot-grigio-3l-42607",
+      "category_id": 2730,
+      "category_name": "Boxed Wines",
+      "price": 699000,
+      "discount_price": null,
+      "stock": {
+        "H495": 8
+      },
+      "total_stock": 8,
+      "variants": [
+        {
+          "sku": "30230656",
+          "price": 699000,
+          "value": "3ltr",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6de2a0b7-ede5-4b05-ae38-e2cefb247067.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6de2a0b7-ede5-4b05-ae38-e2cefb247067_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6de2a0b7-ede5-4b05-ae38-e2cefb247067_thumb.webp"
+            }
+          ],
+          "offerId": 43917,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 8,
+          "discountPrice": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-07T19:02:50.212888"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-07T19:02:50.215201",
+    "product_id": 42683,
+    "product_name": "Frontera Cabernet Sauvignon 3L",
+    "previous_stock": 3,
+    "current_stock": 1,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-07T19:02:50.215201",
+    "product_id": 42539,
+    "product_name": "Fairview Goats do Roam Red Blend 3L",
+    "last_stock": 11
   }
 ]
