@@ -5537,5 +5537,15 @@
     "current_stock": 7,
     "change": -3,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-07T21:46:28.653466",
+    "product_id": 42569,
+    "product_name": "Heineken 6x330ml (Gler)",
+    "previous_stock": 123,
+    "current_stock": 122,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
