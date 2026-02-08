@@ -7572,3 +7572,54 @@ Categories (40):
   - Cune Blanco 187ml: 1 left
 
 ============================================================
+/Users/hlynurhalldorsson/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+2026-02-08 01:06:14,488 - INFO - Starting inventory check...
+2026-02-08 01:06:14,765 - INFO - Fetched category tree: 7 top-level categories
+2026-02-08 01:06:14,765 - INFO - Found 44 leaf categories to fetch
+2026-02-08 01:06:15,289 - INFO -   All Lagers: 33 products
+2026-02-08 01:06:15,703 - INFO -   All Lite Beers: 12 products
+2026-02-08 01:06:16,214 - INFO -   All Ales: 9 products
+2026-02-08 01:06:16,700 - INFO -   All Seasonal Beers: 5 products
+2026-02-08 01:06:17,144 - INFO -   All Low-Alcohol Beers: 1 products
+2026-02-08 01:06:17,442 - INFO -   Cabernet Sauvignon: 24 products
+2026-02-08 01:06:17,730 - INFO -   Pinot Noir: 2 products
+2026-02-08 01:06:18,159 - INFO -   Malbec: 4 products
+2026-02-08 01:06:18,439 - INFO -   Chianti: 2 products
+2026-02-08 01:06:18,980 - INFO -   Red Blends: 17 products
+2026-02-08 01:06:19,299 - INFO -   Boxed Red Wines: 3 products
+2026-02-08 01:06:19,800 - INFO -   All Rosé Wines: 5 products
+2026-02-08 01:06:20,312 - INFO -   Chardonnay: 6 products
+2026-02-08 01:06:20,626 - INFO -   Sauvignon Blanc: 23 products
+2026-02-08 01:06:21,128 - INFO -   Riesling: 1 products
+2026-02-08 01:06:21,541 - INFO -   Pinot Grigio: 4 products
+2026-02-08 01:06:21,817 - INFO -   White Blends: 5 products
+2026-02-08 01:06:22,104 - INFO -   Boxed White Wine: 2 products
+2026-02-08 01:06:22,467 - INFO -   All Sparkling Wines: 15 products
+2026-02-08 01:06:22,785 - INFO -   All Vodka: 11 products
+2026-02-08 01:06:23,178 - INFO -   All Whiskey: 8 products
+2026-02-08 01:06:23,492 - INFO -   All Gin: 7 products
+2026-02-08 01:06:23,912 - INFO -   All Liqueurs: 21 products
+2026-02-08 01:06:24,203 - INFO -   All Rum: 4 products
+2026-02-08 01:06:24,507 - INFO -   All Tequila: 7 products
+2026-02-08 01:06:24,884 - INFO -   All Ciders: 3 products
+2026-02-08 01:06:25,197 - INFO -   All Mixed Drinks: 17 products
+2026-02-08 01:06:25,468 - INFO -   All Seltzers: 5 products
+2026-02-08 01:06:25,756 - INFO -   All 0% Beer: 1 products
+2026-02-08 01:06:26,056 - INFO -   All 0% Wine: 3 products
+2026-02-08 01:06:26,373 - INFO -   All Other 0% Alcohols: 2 products
+2026-02-08 01:06:26,811 - INFO -   LOOP: 6 products
+2026-02-08 01:06:27,273 - INFO -   ACE: 2 products
+2026-02-08 01:06:27,628 - INFO -   VELO: 6 products
+2026-02-08 01:06:28,092 - INFO -   BLYS: 6 products
+2026-02-08 01:06:29,390 - INFO -   Sodas (With Sugar): 7 products
+2026-02-08 01:06:29,757 - INFO -   Sugar-Free Sodas: 1 products
+2026-02-08 01:06:30,243 - INFO -   All Energy Drinks: 15 products
+2026-02-08 01:06:30,652 - INFO -   All Tonics: 5 products
+2026-02-08 01:06:30,961 - INFO -   All Sparkling Waters: 4 products
+2026-02-08 01:06:31,266 - INFO - Fetched 314 unique products total
+2026-02-08 01:06:31,314 - INFO - Saved current inventory to inventory_data/current_inventory.json
+2026-02-08 01:06:31,341 - INFO - Saved history snapshot to inventory_data/inventory_history.json
+2026-02-08 01:06:31,342 - INFO - Saved CSV snapshot to inventory_data/inventory_2026-02-08_0106.csv
+2026-02-08 01:06:31,344 - INFO - Appended to master CSV: inventory_data/inventory_all.csv
+2026-02-08 01:06:31,344 - INFO - Inventory check completed successfully
