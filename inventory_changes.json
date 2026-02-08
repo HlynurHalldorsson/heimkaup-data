@@ -16914,5 +16914,408 @@
       ],
       "last_updated": "2026-02-08T14:52:51.759179"
     }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-08T17:45:19.351239",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 53,
+    "current_stock": 51,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-08T17:45:19.351239",
+    "product_id": 43362,
+    "product_name": "Budweiser 10x440ml",
+    "stock": 15,
+    "details": {
+      "id": 43362,
+      "code": "30234395",
+      "name": "Budweiser 10x440ml",
+      "slug": "budweiser-10x440ml-43362",
+      "category_id": 4529,
+      "category_name": "All Lagers",
+      "category_path": "Beer > Lager > All Lagers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f1f94dfc-fe55-497c-861c-5e8f6a366d5d.webp",
+      "price": 475000,
+      "discount_price": 379000,
+      "stock": {
+        "H495": 15
+      },
+      "total_stock": 15,
+      "variants": [
+        {
+          "sku": "30234395",
+          "name": "Budweiser 10x440ml",
+          "price": 475000,
+          "value": "440ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f1f94dfc-fe55-497c-861c-5e8f6a366d5d.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f1f94dfc-fe55-497c-861c-5e8f6a366d5d_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f1f94dfc-fe55-497c-861c-5e8f6a366d5d_thumb.webp"
+            }
+          ],
+          "offerId": 45014,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 15,
+          "discountPrice": 379000,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-08T17:45:02.649788"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-08T17:45:19.351239",
+    "product_id": 43058,
+    "product_name": "Thule 12x330ml",
+    "previous_stock": 62,
+    "current_stock": 61,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "price_change",
+    "timestamp": "2026-02-08T17:45:19.351239",
+    "product_id": 42755,
+    "product_name": "Corona Extra 6x355ml (Gler)",
+    "previous_price": 249000,
+    "current_price": 285000
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-08T17:45:19.351239",
+    "product_id": 42569,
+    "product_name": "Heineken 6x330ml (Gler)",
+    "previous_stock": 122,
+    "current_stock": 121,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-08T17:45:19.351239",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 27,
+    "current_stock": 24,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-08T17:45:19.351239",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 161,
+    "current_stock": 160,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-08T17:45:19.351239",
+    "product_id": 42721,
+    "product_name": "Kaldi Lite 10x330ml",
+    "previous_stock": 11,
+    "current_stock": 9,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-08T17:45:19.351239",
+    "product_id": 42661,
+    "product_name": "Boli X 12x330ml",
+    "previous_stock": 38,
+    "current_stock": 37,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-08T17:45:19.351239",
+    "product_id": 42577,
+    "product_name": "Baron De Ley Reserva 750ml",
+    "previous_stock": 14,
+    "current_stock": 13,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-08T17:45:19.351239",
+    "product_id": 42583,
+    "product_name": "El Coto Crianza 750ml",
+    "previous_stock": 7,
+    "current_stock": 5,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-08T17:45:19.351239",
+    "product_id": 42744,
+    "product_name": "Laurent Miquel Solas Pinot Noir 750ml",
+    "previous_stock": 11,
+    "current_stock": 9,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-08T17:45:19.351239",
+    "product_id": 42584,
+    "product_name": "Gérard Bertrand An 940 Pinot Noir 750ml",
+    "previous_stock": 20,
+    "current_stock": 19,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-08T17:45:19.351239",
+    "product_id": 42690,
+    "product_name": "Finca Las Moras Chardonnay Barrel Select 750ml",
+    "previous_stock": 27,
+    "current_stock": 26,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-08T17:45:19.351239",
+    "product_id": 42810,
+    "product_name": "Barefoot Pinot Grigio 750ml",
+    "previous_stock": 17,
+    "current_stock": 15,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-08T17:45:19.351239",
+    "product_id": 42750,
+    "product_name": "Lamberti Pinot Grigio 750ml",
+    "previous_stock": 4,
+    "current_stock": 2,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-08T17:45:19.351239",
+    "product_id": 42537,
+    "product_name": "Tommasi Le Rosse Pinot Grigio 750ml",
+    "previous_stock": 20,
+    "current_stock": 18,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-08T17:45:19.351239",
+    "product_id": 42602,
+    "product_name": "Tindavodki 500ml",
+    "previous_stock": 15,
+    "current_stock": 14,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-08T17:45:19.351239",
+    "product_id": 43013,
+    "product_name": "Tanqueray London Dry 700ml",
+    "previous_stock": 3,
+    "current_stock": 2,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-08T17:45:19.351239",
+    "product_id": 43088,
+    "product_name": "LOOP Smooth Mint 3",
+    "previous_stock": 9,
+    "current_stock": 8,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-08T17:45:19.351239",
+    "product_id": 42474,
+    "product_name": "Appelsín 6x330ml",
+    "previous_stock": 24,
+    "current_stock": 23,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-08T17:45:19.351239",
+    "product_id": 43361,
+    "product_name": "Doritos Pure Paprika 170g",
+    "stock": 100,
+    "details": {
+      "id": 43361,
+      "code": "30217473",
+      "name": "Doritos Pure Paprika 170g",
+      "slug": "doritos-pure-paprika-43361",
+      "category_id": 4529,
+      "category_name": "Doritos",
+      "category_path": "Food > Snacks > Doritos",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bdbfbfdc-1929-4ae0-abab-1935704bd51f.webp",
+      "price": 39000,
+      "discount_price": 31000,
+      "stock": {
+        "H495": 100
+      },
+      "total_stock": 100,
+      "variants": [
+        {
+          "sku": "30217473",
+          "name": "Doritos Pure Paprika 170g",
+          "price": 39000,
+          "value": "170g",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bdbfbfdc-1929-4ae0-abab-1935704bd51f.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bdbfbfdc-1929-4ae0-abab-1935704bd51f_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bdbfbfdc-1929-4ae0-abab-1935704bd51f_thumb.webp"
+            }
+          ],
+          "offerId": 45013,
+          "sorting": 0,
+          "property": "net_weight",
+          "sellable": 100,
+          "discountPrice": 31000,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-08T17:45:18.905585"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-08T17:45:19.351239",
+    "product_id": 43360,
+    "product_name": "Doritos Sweet Chili 170g",
+    "stock": 100,
+    "details": {
+      "id": 43360,
+      "code": "30093377",
+      "name": "Doritos Sweet Chili 170g",
+      "slug": "doritos-sweet-chili-43360",
+      "category_id": 4529,
+      "category_name": "Doritos",
+      "category_path": "Food > Snacks > Doritos",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/40f8310a-4790-4595-a4ae-1241bcf989f4.webp",
+      "price": 39000,
+      "discount_price": 31000,
+      "stock": {
+        "H495": 100
+      },
+      "total_stock": 100,
+      "variants": [
+        {
+          "sku": "30093377",
+          "name": "Doritos Sweet Chili 170g",
+          "price": 39000,
+          "value": "170g",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/40f8310a-4790-4595-a4ae-1241bcf989f4.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/40f8310a-4790-4595-a4ae-1241bcf989f4_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/40f8310a-4790-4595-a4ae-1241bcf989f4_thumb.webp"
+            }
+          ],
+          "offerId": 45012,
+          "sorting": 0,
+          "property": "net_weight",
+          "sellable": 100,
+          "discountPrice": 31000,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-08T17:45:18.905585"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-08T17:45:19.351239",
+    "product_id": 43359,
+    "product_name": "Doritos Nacho Cheese 170g",
+    "stock": 100,
+    "details": {
+      "id": 43359,
+      "code": "30093376",
+      "name": "Doritos Nacho Cheese 170g",
+      "slug": "doritos-nacho-cheese-43359",
+      "category_id": 4533,
+      "category_name": "Doritos",
+      "category_path": "Food > Snacks > Doritos",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d327e2c0-59bd-4520-acd3-c381ad1a7f2a.webp",
+      "price": 39000,
+      "discount_price": 31000,
+      "stock": {
+        "H495": 100
+      },
+      "total_stock": 100,
+      "variants": [
+        {
+          "sku": "30093376",
+          "name": "Doritos Nacho Cheese 170g",
+          "price": 39000,
+          "value": "170g",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d327e2c0-59bd-4520-acd3-c381ad1a7f2a.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d327e2c0-59bd-4520-acd3-c381ad1a7f2a_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d327e2c0-59bd-4520-acd3-c381ad1a7f2a_thumb.webp"
+            }
+          ],
+          "offerId": 45011,
+          "sorting": 0,
+          "property": "net_weight",
+          "sellable": 100,
+          "discountPrice": 31000,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-08T17:45:18.905585"
+    }
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-08T17:45:19.351239",
+    "product_id": 42778,
+    "product_name": "Víking Lite 12x330ml",
+    "last_stock": 1
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-08T17:45:19.351239",
+    "product_id": 42589,
+    "product_name": "Coto de Imaz Reserva 750ml",
+    "last_stock": 1
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-08T17:45:19.351239",
+    "product_id": 43016,
+    "product_name": "Montalto Pinot Grigio 750ml",
+    "last_stock": 1
   }
 ]
