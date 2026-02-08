@@ -7506,3 +7506,69 @@ Categories (10):
 2026-02-08 00:06:12,962 - INFO - Saved CSV snapshot to inventory_data/inventory_2026-02-08_0006.csv
 2026-02-08 00:06:12,963 - INFO - Appended to master CSV: inventory_data/inventory_all.csv
 2026-02-08 00:06:12,963 - INFO - Inventory check completed successfully
+2026-02-08 00:06:14,258 - INFO - Successfully pushed inventory data to GitHub
+
+============================================================
+HEIMKAUP INVENTORY SUMMARY - 2026-02-08 00:06:12
+============================================================
+
+Total Products: 314
+Total Stock Units: 4405
+Out of Stock: 0
+Low Stock (<=5): 86
+
+Categories (40):
+  - ACE: 2 products, 12 units
+  - All 0% Beer: 1 products, 3 units
+  - All 0% Wine: 3 products, 9 units
+  - All Ales: 9 products, 163 units
+  - All Ciders: 3 products, 17 units
+  - All Energy Drinks: 15 products, 141 units
+  - All Gin: 7 products, 48 units
+  - All Lagers: 33 products, 1049 units
+  - All Liqueurs: 21 products, 255 units
+  - All Lite Beers: 12 products, 329 units
+  - All Low-Alcohol Beers: 1 products, 5 units
+  - All Mixed Drinks: 17 products, 266 units
+  - All Other 0% Alcohols: 2 products, 7 units
+  - All Rosé Wines: 5 products, 57 units
+  - All Rum: 4 products, 32 units
+  - All Seasonal Beers: 5 products, 66 units
+  - All Seltzers: 5 products, 35 units
+  - All Sparkling Waters: 4 products, 50 units
+  - All Sparkling Wines: 15 products, 197 units
+  - All Tequila: 7 products, 36 units
+  - All Tonics: 5 products, 66 units
+  - All Vodka: 11 products, 163 units
+  - All Whiskey: 8 products, 54 units
+  - BLYS: 6 products, 41 units
+  - Boxed Red Wines: 3 products, 18 units
+  - Boxed White Wine: 2 products, 10 units
+  - Cabernet Sauvignon: 24 products, 227 units
+  - Chardonnay: 6 products, 80 units
+  - Chianti: 2 products, 21 units
+  - LOOP: 6 products, 111 units
+  - Malbec: 4 products, 44 units
+  - Pinot Grigio: 4 products, 31 units
+  - Pinot Noir: 2 products, 31 units
+  - Red Blends: 17 products, 154 units
+  - Riesling: 1 products, 14 units
+  - Sauvignon Blanc: 23 products, 277 units
+  - Sodas (With Sugar): 7 products, 147 units
+  - Sugar-Free Sodas: 1 products, 24 units
+  - VELO: 6 products, 62 units
+  - White Blends: 5 products, 53 units
+
+--- LOW STOCK ALERT ---
+  - Víking Lite 12x330ml: 1 left
+  - Coto de Imaz Reserva 750ml: 1 left
+  - Casa Solis Cabernet Sauvignon 750ml: 1 left
+  - Frontera Cabernet Sauvignon 3L: 1 left
+  - Gomez El Predilecto 750ml: 1 left
+  - Massolino Barolo 2020 750ml: 1 left
+  - Piccanti Rosso Toscana 3L: 1 left
+  - Beaune Bastion 1ER CRU Blanc 750ml: 1 left
+  - Willm Riesling Reserve 750ml: 1 left
+  - Cune Blanco 187ml: 1 left
+
+============================================================
