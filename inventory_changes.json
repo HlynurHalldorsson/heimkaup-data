@@ -17611,5 +17611,55 @@
     "current_stock": 20,
     "change": -2,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-09T12:21:13.539906",
+    "product_id": 42576,
+    "product_name": "Stella Artois 10x440ml",
+    "previous_stock": 10,
+    "current_stock": 9,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-09T12:21:13.539906",
+    "product_id": 42585,
+    "product_name": "Two Oceans Fresh & Fruity 3L",
+    "previous_stock": 44,
+    "current_stock": 43,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-09T12:21:13.539906",
+    "product_id": 42689,
+    "product_name": "Opal Rauður 500ml",
+    "previous_stock": 28,
+    "current_stock": 26,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-09T12:21:13.539906",
+    "product_id": 42634,
+    "product_name": "Jagermeister 350ml",
+    "previous_stock": 13,
+    "current_stock": 11,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-09T12:21:13.539906",
+    "product_id": 42455,
+    "product_name": "NOCCO Ramonade 6x330ml",
+    "previous_stock": 10,
+    "current_stock": 9,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
