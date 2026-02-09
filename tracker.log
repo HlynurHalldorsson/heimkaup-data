@@ -10388,3 +10388,74 @@ Categories (41):
 2026-02-09 23:11:15,402 - INFO - Saved CSV snapshot to inventory_data/inventory_2026-02-09_2311.csv
 2026-02-09 23:11:15,404 - INFO - Appended to master CSV: inventory_data/inventory_all.csv
 2026-02-09 23:11:15,404 - INFO - Inventory check completed successfully
+2026-02-09 23:11:16,788 - INFO - Successfully pushed inventory data to GitHub
+
+============================================================
+HEIMKAUP INVENTORY SUMMARY - 2026-02-09 23:11:15
+============================================================
+
+Total Products: 314
+Total Stock Units: 4719
+Out of Stock: 0
+Low Stock (<=5): 83
+
+Categories (41):
+  - ACE: 2 products, 11 units
+  - All 0% Beer: 1 products, 3 units
+  - All 0% Wine: 3 products, 9 units
+  - All Ales: 9 products, 163 units
+  - All Ciders: 2 products, 15 units
+  - All Energy Drinks: 15 products, 136 units
+  - All Gin: 7 products, 47 units
+  - All Lagers: 34 products, 1020 units
+  - All Liqueurs: 21 products, 251 units
+  - All Lite Beers: 11 products, 302 units
+  - All Low-Alcohol Beers: 1 products, 5 units
+  - All Mixed Drinks: 17 products, 259 units
+  - All Other 0% Alcohols: 2 products, 7 units
+  - All Rosé Wines: 5 products, 56 units
+  - All Rum: 4 products, 32 units
+  - All Seasonal Beers: 5 products, 63 units
+  - All Seltzers: 5 products, 35 units
+  - All Sparkling Waters: 4 products, 50 units
+  - All Sparkling Wines: 15 products, 232 units
+  - All Tequila: 7 products, 36 units
+  - All Tonics: 5 products, 66 units
+  - All Vodka: 11 products, 156 units
+  - All Whiskey: 8 products, 54 units
+  - BLYS: 6 products, 40 units
+  - Boxed Red Wines: 3 products, 18 units
+  - Boxed White Wine: 2 products, 26 units
+  - Cabernet Sauvignon: 23 products, 219 units
+  - Chardonnay: 6 products, 75 units
+  - Chianti: 2 products, 21 units
+  - Doritos: 4 products, 397 units
+  - LOOP: 6 products, 99 units
+  - Malbec: 4 products, 42 units
+  - Pinot Grigio: 3 products, 25 units
+  - Pinot Noir: 2 products, 26 units
+  - Red Blends: 17 products, 153 units
+  - Riesling: 1 products, 13 units
+  - Sauvignon Blanc: 22 products, 274 units
+  - Sodas (With Sugar): 7 products, 143 units
+  - Sugar-Free Sodas: 1 products, 26 units
+  - VELO: 6 products, 61 units
+  - White Blends: 5 products, 53 units
+
+--- CHANGES DETECTED (2) ---
+  [stock_change] Budweiser Budvar 6x500ml: 13 -> 14 (+1)
+  [stock_change] Coca-Cola án sykurs 10x330ml: 14 -> 26 (+12)
+
+--- LOW STOCK ALERT ---
+  - Hvít Jól 6x330ml: 1 left
+  - Casa Solis Cabernet Sauvignon 750ml: 1 left
+  - Frontera Cabernet Sauvignon 3L: 1 left
+  - Lamberti Garda Rosso 750ml: 1 left
+  - Gomez El Predilecto 750ml: 1 left
+  - Massolino Barolo 2020 750ml: 1 left
+  - Piccanti Rosso Toscana 3L: 1 left
+  - Beaune Bastion 1ER CRU Blanc 750ml: 1 left
+  - Willm Riesling Reserve 750ml: 1 left
+  - Viña Maipo Sauvignon Blanc Chardonnay 750ml: 1 left
+
+============================================================
