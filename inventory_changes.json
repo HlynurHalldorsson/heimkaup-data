@@ -17841,5 +17841,45 @@
     "current_stock": 19,
     "change": -2,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-09T18:40:23.738459",
+    "product_id": 42608,
+    "product_name": "Boli Sterkur Pilsner 6x500ml",
+    "previous_stock": 11,
+    "current_stock": 10,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-09T18:40:23.738459",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 47,
+    "current_stock": 45,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-09T18:40:23.738459",
+    "product_id": 43032,
+    "product_name": "Gull Lite Premium 12x500ml",
+    "previous_stock": 5,
+    "current_stock": 4,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-09T18:40:23.738459",
+    "product_id": 42766,
+    "product_name": "Casa Solís Chardonnay 750ml",
+    "previous_stock": 26,
+    "current_stock": 28,
+    "change": 2,
+    "direction": "increase"
   }
 ]
