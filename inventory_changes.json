@@ -17581,5 +17581,35 @@
     "product_id": 42700,
     "product_name": "Somersby Apple 6x330ml",
     "last_stock": 2
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-09T10:19:39.274147",
+    "product_id": 42607,
+    "product_name": "Montalto Pinot Grigio 3L",
+    "previous_stock": 7,
+    "current_stock": 6,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-09T10:19:39.274147",
+    "product_id": 42638,
+    "product_name": "Adobe Chardonnay Poki 1,5L",
+    "previous_stock": 27,
+    "current_stock": 26,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-09T10:19:39.274147",
+    "product_id": 42699,
+    "product_name": "Frontera Chardonnay 3L",
+    "previous_stock": 22,
+    "current_stock": 20,
+    "change": -2,
+    "direction": "decrease"
   }
 ]
