@@ -17681,5 +17681,65 @@
     "current_stock": 19,
     "change": 16,
     "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-09T16:11:12.245442",
+    "product_id": 42703,
+    "product_name": "Gull 12x500ml",
+    "previous_stock": 46,
+    "current_stock": 45,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-09T16:11:12.245442",
+    "product_id": 42708,
+    "product_name": "Gull 12x330ml",
+    "previous_stock": 58,
+    "current_stock": 55,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-09T16:11:12.245442",
+    "product_id": 42684,
+    "product_name": "Stemmari Pinot Grigio 750ml",
+    "previous_stock": 26,
+    "current_stock": 24,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-09T16:11:12.245442",
+    "product_id": 42436,
+    "product_name": "Coca-Cola 10x330ml",
+    "previous_stock": 67,
+    "current_stock": 65,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-09T16:11:12.245442",
+    "product_id": 42483,
+    "product_name": "Bonaqua Límónu & Sítrónu 10x330ml",
+    "previous_stock": 2,
+    "current_stock": 1,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-09T16:11:12.245442",
+    "product_id": 42556,
+    "product_name": "NOCCO The Berries 6x330ml",
+    "previous_stock": 10,
+    "current_stock": 6,
+    "change": -4,
+    "direction": "decrease"
   }
 ]
