@@ -18021,5 +18021,55 @@
     "current_stock": 9,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-09T21:46:52.557955",
+    "product_id": 42708,
+    "product_name": "Gull 12x330ml",
+    "previous_stock": 55,
+    "current_stock": 52,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-09T21:46:52.557955",
+    "product_id": 43046,
+    "product_name": "Tuborg Lille jólabjór 12x500ml",
+    "previous_stock": 21,
+    "current_stock": 20,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-09T21:46:52.557955",
+    "product_id": 42724,
+    "product_name": "Finca Las Moras Malbec 750ml",
+    "previous_stock": 22,
+    "current_stock": 20,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-09T21:46:52.557955",
+    "product_id": 42653,
+    "product_name": "Lamberti Garda Rosso 750ml",
+    "previous_stock": 2,
+    "current_stock": 1,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-09T21:46:52.557955",
+    "product_id": 42699,
+    "product_name": "Frontera Chardonnay 3L",
+    "previous_stock": 20,
+    "current_stock": 5,
+    "change": -15,
+    "direction": "decrease"
   }
 ]
