@@ -18071,5 +18071,25 @@
     "current_stock": 5,
     "change": -15,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-09T23:11:15.310024",
+    "product_id": 42614,
+    "product_name": "Budweiser Budvar 6x500ml",
+    "previous_stock": 13,
+    "current_stock": 14,
+    "change": 1,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-09T23:11:15.310024",
+    "product_id": 42516,
+    "product_name": "Coca-Cola án sykurs 10x330ml",
+    "previous_stock": 14,
+    "current_stock": 26,
+    "change": 12,
+    "direction": "increase"
   }
 ]
