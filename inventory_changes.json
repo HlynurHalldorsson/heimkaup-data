@@ -18448,5 +18448,45 @@
     "product_id": 42686,
     "product_name": "Gull Lite 12x500ml",
     "last_stock": 1
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-10T19:49:06.061197",
+    "product_id": 42709,
+    "product_name": "Heineken 4x500ml",
+    "previous_stock": 88,
+    "current_stock": 82,
+    "change": -6,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-10T19:49:06.061197",
+    "product_id": 42680,
+    "product_name": "Tuborg Green 12x500ml",
+    "previous_stock": 107,
+    "current_stock": 106,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-10T19:49:06.061197",
+    "product_id": 42569,
+    "product_name": "Heineken 6x330ml (Gler)",
+    "previous_stock": 119,
+    "current_stock": 118,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-10T19:49:06.061197",
+    "product_id": 42699,
+    "product_name": "Frontera Chardonnay 3L",
+    "previous_stock": 5,
+    "current_stock": 4,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
