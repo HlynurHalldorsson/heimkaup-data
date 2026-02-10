@@ -18161,5 +18161,25 @@
     "current_stock": 21,
     "change": 20,
     "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-10T14:16:36.833567",
+    "product_id": 42687,
+    "product_name": "Tommasi Pinot Grigio 3L",
+    "previous_stock": 34,
+    "current_stock": 33,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-10T14:16:36.833567",
+    "product_id": 42472,
+    "product_name": "Kristall án bragðefna 12x330ml",
+    "previous_stock": 18,
+    "current_stock": 17,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
