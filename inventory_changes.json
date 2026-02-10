@@ -18431,5 +18431,22 @@
       ],
       "last_updated": "2026-02-10T17:23:28.246291"
     }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-10T18:23:46.858273",
+    "product_id": 42434,
+    "product_name": "Pepsi Max 12x330ml",
+    "previous_stock": 32,
+    "current_stock": 31,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-10T18:23:46.858273",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "last_stock": 1
   }
 ]
