@@ -18305,5 +18305,131 @@
     "product_id": 43030,
     "product_name": "COLLAB Skógarberja 6x330ml",
     "last_stock": 2
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-10T17:23:29.223162",
+    "product_id": 42709,
+    "product_name": "Heineken 4x500ml",
+    "previous_stock": 89,
+    "current_stock": 88,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-10T17:23:29.223162",
+    "product_id": 42588,
+    "product_name": "Heineken 6x330ml",
+    "previous_stock": 64,
+    "current_stock": 62,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-10T17:23:29.223162",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 16,
+    "current_stock": 1,
+    "change": -15,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-10T17:23:29.223162",
+    "product_id": 42766,
+    "product_name": "Casa Solís Chardonnay 750ml",
+    "previous_stock": 22,
+    "current_stock": 21,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-10T17:23:29.223162",
+    "product_id": 42810,
+    "product_name": "Barefoot Pinot Grigio 750ml",
+    "previous_stock": 10,
+    "current_stock": 8,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-10T17:23:29.223162",
+    "product_id": 42606,
+    "product_name": "Koskenkorva Vodka 500ml",
+    "previous_stock": 48,
+    "current_stock": 49,
+    "change": 1,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-10T17:23:29.223162",
+    "product_id": 42630,
+    "product_name": "BARA Hindber & Sítróna 6x330ml",
+    "previous_stock": 12,
+    "current_stock": 9,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-10T17:23:29.223162",
+    "product_id": 42447,
+    "product_name": "Monster Pipeline Punch 4x500ml",
+    "previous_stock": 21,
+    "current_stock": 4,
+    "change": -17,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-10T17:23:29.223162",
+    "product_id": 42429,
+    "product_name": "Gatorade Lemon 12x500ml",
+    "stock": 3,
+    "details": {
+      "id": 42429,
+      "code": "30097035",
+      "name": "Gatorade Lemon 12x500ml",
+      "slug": "gatorade-lemon-12x500ml-42429",
+      "category_id": 4323,
+      "category_name": "All Sports Drinks",
+      "category_path": "Soft drinks > Sports Drinks > All Sports Drinks",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/047497ba-97d4-439c-8179-b14a7529723b.webp",
+      "price": 229000,
+      "discount_price": null,
+      "stock": {
+        "H495": 3
+      },
+      "total_stock": 3,
+      "variants": [
+        {
+          "sku": "30097035",
+          "name": "Gatorade Lemon 12x500ml",
+          "price": 229000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/047497ba-97d4-439c-8179-b14a7529723b.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/047497ba-97d4-439c-8179-b14a7529723b_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/047497ba-97d4-439c-8179-b14a7529723b_thumb.webp"
+            }
+          ],
+          "offerId": 43752,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 3,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-10T17:23:28.246291"
+    }
   }
 ]
