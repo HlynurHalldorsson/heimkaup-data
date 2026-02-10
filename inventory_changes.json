@@ -18488,5 +18488,32 @@
     "current_stock": 4,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-10T20:49:26.128393",
+    "product_id": 42741,
+    "product_name": "Stella Artois 6x330ml (Gler)",
+    "previous_stock": 21,
+    "current_stock": 20,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-10T20:49:26.128393",
+    "product_id": 42537,
+    "product_name": "Tommasi Le Rosse Pinot Grigio 750ml",
+    "previous_stock": 17,
+    "current_stock": 14,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-10T20:49:26.128393",
+    "product_id": 42750,
+    "product_name": "Lamberti Pinot Grigio 750ml",
+    "last_stock": 2
   }
 ]
