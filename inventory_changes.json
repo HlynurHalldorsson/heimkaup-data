@@ -19533,5 +19533,45 @@
     "product_id": 42478,
     "product_name": "BLYS 800 Peach Blueberry",
     "last_stock": 1
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-11T14:28:30.845943",
+    "product_id": 42703,
+    "product_name": "Gull 12x500ml",
+    "previous_stock": 38,
+    "current_stock": 37,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-11T14:28:30.845943",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 39,
+    "current_stock": 38,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-11T14:28:30.845943",
+    "product_id": 43055,
+    "product_name": "Tuborg Classic 12x330ml",
+    "previous_stock": 26,
+    "current_stock": 22,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-11T14:28:30.845943",
+    "product_id": 42569,
+    "product_name": "Heineken 6x330ml (Gler)",
+    "previous_stock": 118,
+    "current_stock": 117,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
