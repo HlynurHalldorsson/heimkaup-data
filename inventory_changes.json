@@ -19703,5 +19703,367 @@
     "current_stock": 19,
     "change": -3,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-11T19:17:40.873016",
+    "product_id": 42776,
+    "product_name": "Thule 12x500ml",
+    "previous_stock": 26,
+    "current_stock": 41,
+    "change": 15,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-11T19:17:40.873016",
+    "product_id": 42733,
+    "product_name": "Víking Gylltur 12x500ml",
+    "stock": 80,
+    "details": {
+      "id": 42733,
+      "code": "30230859",
+      "name": "Víking Gylltur 12x500ml",
+      "slug": "viking-gylltur-12x500ml-42733",
+      "category_id": 4237,
+      "category_name": "All Lagers",
+      "category_path": "Beer > Lager > All Lagers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4b567833-0e32-448b-879e-e322047d388c.webp",
+      "price": 599000,
+      "discount_price": null,
+      "stock": {
+        "H495": 80
+      },
+      "total_stock": 80,
+      "variants": [
+        {
+          "sku": "30230859",
+          "name": "Víking Gylltur 12x500ml",
+          "price": 599000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4b567833-0e32-448b-879e-e322047d388c.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4b567833-0e32-448b-879e-e322047d388c_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4b567833-0e32-448b-879e-e322047d388c_thumb.webp"
+            }
+          ],
+          "offerId": 44053,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 80,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-11T19:17:25.271957"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-11T19:17:40.873016",
+    "product_id": 42722,
+    "product_name": "Peroni Nastro Azzurro 6x330ml (Gler)",
+    "previous_stock": 10,
+    "current_stock": 30,
+    "change": 20,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-11T19:17:40.873016",
+    "product_id": 42710,
+    "product_name": "Víking Lite 12x500ml",
+    "stock": 40,
+    "details": {
+      "id": 42710,
+      "code": "30230831",
+      "name": "Víking Lite 12x500ml",
+      "slug": "viking-lite-12x500ml-42710",
+      "category_id": 4239,
+      "category_name": "All Lite Beers",
+      "category_path": "Beer > Lite > All Lite Beers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5cb0d461-b0c8-4686-856e-0bd6e8bdbc74.webp",
+      "price": 539000,
+      "discount_price": null,
+      "stock": {
+        "H495": 40
+      },
+      "total_stock": 40,
+      "variants": [
+        {
+          "sku": "30230831",
+          "name": "Víking Lite 12x500ml",
+          "price": 539000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5cb0d461-b0c8-4686-856e-0bd6e8bdbc74.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5cb0d461-b0c8-4686-856e-0bd6e8bdbc74_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5cb0d461-b0c8-4686-856e-0bd6e8bdbc74_thumb.webp"
+            }
+          ],
+          "offerId": 44008,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 40,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-11T19:17:25.616254"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-11T19:17:40.873016",
+    "product_id": 42585,
+    "product_name": "Two Oceans Fresh & Fruity 3L",
+    "previous_stock": 43,
+    "current_stock": 41,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-11T19:17:40.873016",
+    "product_id": 42804,
+    "product_name": "Villa Lucia Pinot Grigio 750ml",
+    "stock": 36,
+    "details": {
+      "id": 42804,
+      "code": "30230938",
+      "name": "Villa Lucia Pinot Grigio 750ml",
+      "slug": "villa-lucia-pinot-grigio-750ml-42804",
+      "category_id": 4333,
+      "category_name": "Pinot Grigio",
+      "category_path": "Wine > White > Pinot Grigio",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/0ae7bdcd-ab59-4dc7-8888-1e3381d71152.webp",
+      "price": 209000,
+      "discount_price": null,
+      "stock": {
+        "H495": 36
+      },
+      "total_stock": 36,
+      "variants": [
+        {
+          "sku": "30230938",
+          "name": "Villa Lucia Pinot Grigio 750ml",
+          "price": 209000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/0ae7bdcd-ab59-4dc7-8888-1e3381d71152.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/0ae7bdcd-ab59-4dc7-8888-1e3381d71152_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/0ae7bdcd-ab59-4dc7-8888-1e3381d71152_thumb.webp"
+            }
+          ],
+          "offerId": 44104,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 36,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-11T19:17:30.937170"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-11T19:17:40.873016",
+    "product_id": 42606,
+    "product_name": "Koskenkorva Vodka 500ml",
+    "previous_stock": 49,
+    "current_stock": 48,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-11T19:17:40.873016",
+    "product_id": 42765,
+    "product_name": "Askur Gin 700ml",
+    "stock": 24,
+    "details": {
+      "id": 42765,
+      "code": "30230894",
+      "name": "Askur Gin 700ml",
+      "slug": "askur-gin-700ml-42765",
+      "category_id": 4272,
+      "category_name": "All Gin",
+      "category_path": "Spirits > Gin > All Gin",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ca73dc9d-5277-40ac-9e4b-906422639903.webp",
+      "price": 780000,
+      "discount_price": null,
+      "stock": {
+        "H495": 24
+      },
+      "total_stock": 24,
+      "variants": [
+        {
+          "sku": "30230894",
+          "name": "Askur Gin 700ml",
+          "price": 780000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ca73dc9d-5277-40ac-9e4b-906422639903.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ca73dc9d-5277-40ac-9e4b-906422639903_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ca73dc9d-5277-40ac-9e4b-906422639903_thumb.webp"
+            }
+          ],
+          "offerId": 44077,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 24,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-11T19:17:32.653342"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-11T19:17:40.873016",
+    "product_id": 42525,
+    "product_name": "Reymont 800 Pineapple",
+    "stock": 10,
+    "details": {
+      "id": 42525,
+      "code": "30224533",
+      "name": "Reymont 800 Pineapple",
+      "slug": "rm-800-pineapple-42525",
+      "category_id": 4355,
+      "category_name": "REYMONT",
+      "category_path": "Nicotine > Vapes > REYMONT",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3e4a3544-e908-4a44-b524-3b270a86657b.webp",
+      "price": 97000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30224533",
+          "name": "Reymont 800 Pineapple",
+          "price": 97000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3e4a3544-e908-4a44-b524-3b270a86657b.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3e4a3544-e908-4a44-b524-3b270a86657b_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3e4a3544-e908-4a44-b524-3b270a86657b_thumb.webp"
+            }
+          ],
+          "offerId": 43879,
+          "sorting": 0,
+          "property": "strength",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-11T19:17:37.097398"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-11T19:17:40.873016",
+    "product_id": 42500,
+    "product_name": "Reymont 800 Fresh Mint",
+    "stock": 10,
+    "details": {
+      "id": 42500,
+      "code": "30218470",
+      "name": "Reymont 800 Fresh Mint",
+      "slug": "rm-800-fresh-mint-42500",
+      "category_id": 4355,
+      "category_name": "REYMONT",
+      "category_path": "Nicotine > Vapes > REYMONT",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cadd1b81-e289-4477-ad37-ba7b14a0db8b.webp",
+      "price": 97000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30218470",
+          "name": "Reymont 800 Fresh Mint",
+          "price": 97000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cadd1b81-e289-4477-ad37-ba7b14a0db8b.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cadd1b81-e289-4477-ad37-ba7b14a0db8b_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cadd1b81-e289-4477-ad37-ba7b14a0db8b_thumb.webp"
+            }
+          ],
+          "offerId": 43833,
+          "sorting": 0,
+          "property": "strength",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-11T19:17:37.097398"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-11T19:17:40.873016",
+    "product_id": 42498,
+    "product_name": "Reymont 800 Peach Blueberry Candy",
+    "stock": 10,
+    "details": {
+      "id": 42498,
+      "code": "30219785",
+      "name": "Reymont 800 Peach Blueberry Candy",
+      "slug": "rm-800-peach-blueberry-candy-42498",
+      "category_id": 4355,
+      "category_name": "REYMONT",
+      "category_path": "Nicotine > Vapes > REYMONT",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3357aa12-8f9e-4d41-8a51-2e04b2846919.webp",
+      "price": 97000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30219785",
+          "name": "Reymont 800 Peach Blueberry Candy",
+          "price": 97000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3357aa12-8f9e-4d41-8a51-2e04b2846919.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3357aa12-8f9e-4d41-8a51-2e04b2846919_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3357aa12-8f9e-4d41-8a51-2e04b2846919_thumb.webp"
+            }
+          ],
+          "offerId": 43830,
+          "sorting": 0,
+          "property": "strength",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-11T19:17:37.097398"
+    }
   }
 ]
