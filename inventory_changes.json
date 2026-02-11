@@ -20065,5 +20065,137 @@
       ],
       "last_updated": "2026-02-11T19:17:37.097398"
     }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-11T20:17:59.259531",
+    "product_id": 42705,
+    "product_name": "Víking Sterkr 6x500ml",
+    "stock": 56,
+    "details": {
+      "id": 42705,
+      "code": "30230839",
+      "name": "Víking Sterkr 6x500ml",
+      "slug": "viking-sterkr-6x500ml-42705",
+      "category_id": 4237,
+      "category_name": "All Lagers",
+      "category_path": "Beer > Lager > All Lagers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8ebf14f9-9dee-47c4-a1b9-a71ea61400f6.webp",
+      "price": 399000,
+      "discount_price": null,
+      "stock": {
+        "H495": 56
+      },
+      "total_stock": 56,
+      "variants": [
+        {
+          "sku": "30230839",
+          "name": "Víking Sterkr 6x500ml",
+          "price": 399000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8ebf14f9-9dee-47c4-a1b9-a71ea61400f6.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8ebf14f9-9dee-47c4-a1b9-a71ea61400f6_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8ebf14f9-9dee-47c4-a1b9-a71ea61400f6_thumb.webp"
+            }
+          ],
+          "offerId": 44038,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 56,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-11T20:17:43.328422"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-11T20:17:59.259531",
+    "product_id": 42741,
+    "product_name": "Stella Artois 6x330ml (Gler)",
+    "previous_stock": 20,
+    "current_stock": 22,
+    "change": 2,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-11T20:17:59.259531",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 151,
+    "current_stock": 149,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-11T20:17:59.259531",
+    "product_id": 42782,
+    "product_name": "Kaldi Ljós 10x330ml",
+    "previous_stock": 11,
+    "current_stock": 13,
+    "change": 2,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-11T20:17:59.259531",
+    "product_id": 43046,
+    "product_name": "Tuborg Lille jólabjór 12x500ml",
+    "previous_stock": 20,
+    "current_stock": 19,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-11T20:17:59.259531",
+    "product_id": 43427,
+    "product_name": "Winston Blue 100s Box",
+    "stock": 10,
+    "details": {
+      "id": 43427,
+      "code": "30001577",
+      "name": "Winston Blue 100s Box",
+      "slug": "winston-blue-100s-box-43427",
+      "category_id": 4306,
+      "category_name": "All Cigarettes",
+      "category_path": "Nicotine > Cigarettes > All Cigarettes",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4a8fd90d-796c-4f02-9e67-c9f46107a5ee.webp",
+      "price": 199000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30001577",
+          "name": "Winston Blue 100s Box",
+          "price": 199000,
+          "value": "0.5mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4a8fd90d-796c-4f02-9e67-c9f46107a5ee.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4a8fd90d-796c-4f02-9e67-c9f46107a5ee_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4a8fd90d-796c-4f02-9e67-c9f46107a5ee_thumb.webp"
+            }
+          ],
+          "offerId": 45078,
+          "sorting": 0,
+          "property": "strength",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-11T20:17:55.633366"
+    }
   }
 ]
