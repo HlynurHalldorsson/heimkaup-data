@@ -19436,5 +19436,25 @@
     "current_stock": 4,
     "change": -3,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-11T12:27:55.923884",
+    "product_id": 42588,
+    "product_name": "Heineken 6x330ml",
+    "previous_stock": 62,
+    "current_stock": 60,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-11T12:27:55.923884",
+    "product_id": 42540,
+    "product_name": "Fairview Goats do Roam White Blend 3L",
+    "previous_stock": 7,
+    "current_stock": 6,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
