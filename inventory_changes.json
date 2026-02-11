@@ -19593,5 +19593,35 @@
     "current_stock": 16,
     "change": -2,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-11T17:17:05.193225",
+    "product_id": 42680,
+    "product_name": "Tuborg Green 12x500ml",
+    "previous_stock": 106,
+    "current_stock": 105,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-11T17:17:05.193225",
+    "product_id": 42941,
+    "product_name": "Gomez Vina Dorana Reserva 750ml",
+    "previous_stock": 10,
+    "current_stock": 11,
+    "change": 1,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-11T17:17:05.193225",
+    "product_id": 42602,
+    "product_name": "Tindavodki 500ml",
+    "previous_stock": 14,
+    "current_stock": 17,
+    "change": 3,
+    "direction": "increase"
   }
 ]
