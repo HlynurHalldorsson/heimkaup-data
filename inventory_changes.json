@@ -19456,5 +19456,82 @@
     "current_stock": 6,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-11T13:28:13.759080",
+    "product_id": 42992,
+    "product_name": "Opal Saltlakkrís 500ml",
+    "previous_stock": 19,
+    "current_stock": 18,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-11T13:28:13.759080",
+    "product_id": 42509,
+    "product_name": "BLYS 800 Pink Lemonade",
+    "previous_stock": 7,
+    "current_stock": 5,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-11T13:28:13.759080",
+    "product_id": 42494,
+    "product_name": "BLYS 800 Watermelon Ice",
+    "previous_stock": 7,
+    "current_stock": 5,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-11T13:28:13.759080",
+    "product_id": 42434,
+    "product_name": "Pepsi Max 12x330ml",
+    "previous_stock": 31,
+    "current_stock": 30,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-11T13:28:13.759080",
+    "product_id": 42465,
+    "product_name": "Plús Blóðappelsínu 4x330ml",
+    "previous_stock": 10,
+    "current_stock": 9,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-11T13:28:13.759080",
+    "product_id": 42441,
+    "product_name": "Kristall Mexican Lime 12x330ml",
+    "previous_stock": 30,
+    "current_stock": 29,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-11T13:28:13.759080",
+    "product_id": 43360,
+    "product_name": "Doritos Sweet Chili 170g",
+    "previous_stock": 100,
+    "current_stock": 98,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-11T13:28:13.759080",
+    "product_id": 42478,
+    "product_name": "BLYS 800 Peach Blueberry",
+    "last_stock": 1
   }
 ]
