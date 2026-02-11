@@ -19573,5 +19573,25 @@
     "current_stock": 117,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-11T16:10:55.227740",
+    "product_id": 42687,
+    "product_name": "Tommasi Pinot Grigio 3L",
+    "previous_stock": 33,
+    "current_stock": 30,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-11T16:10:55.227740",
+    "product_id": 42797,
+    "product_name": "Absolut Vodka 1L",
+    "previous_stock": 18,
+    "current_stock": 16,
+    "change": -2,
+    "direction": "decrease"
   }
 ]
