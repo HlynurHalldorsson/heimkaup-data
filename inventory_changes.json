@@ -20254,5 +20254,481 @@
     "current_stock": 77,
     "change": -3,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-12T15:19:15.732013",
+    "product_id": 42703,
+    "product_name": "Gull 12x500ml",
+    "previous_stock": 36,
+    "current_stock": 35,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-12T15:19:15.732013",
+    "product_id": 42709,
+    "product_name": "Heineken 4x500ml",
+    "previous_stock": 82,
+    "current_stock": 81,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-12T15:19:15.732013",
+    "product_id": 42680,
+    "product_name": "Tuborg Green 12x500ml",
+    "previous_stock": 105,
+    "current_stock": 103,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-12T15:19:15.732013",
+    "product_id": 42708,
+    "product_name": "Gull 12x330ml",
+    "previous_stock": 46,
+    "current_stock": 45,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-12T15:19:15.732013",
+    "product_id": 42710,
+    "product_name": "Víking Lite 12x500ml",
+    "previous_stock": 40,
+    "current_stock": 38,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-12T15:19:15.732013",
+    "product_id": 42782,
+    "product_name": "Kaldi Ljós 10x330ml",
+    "previous_stock": 13,
+    "current_stock": 10,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-12T15:19:15.732013",
+    "product_id": 42667,
+    "product_name": "Adobe Merlot Cabernet Syrah Poki 1,5L",
+    "previous_stock": 5,
+    "current_stock": 4,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-12T15:19:15.732013",
+    "product_id": 42685,
+    "product_name": "Tommasi Graticcio Appassionato 3L",
+    "previous_stock": 8,
+    "current_stock": 6,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-12T15:19:15.732013",
+    "product_id": 42581,
+    "product_name": "Butcher's Cut Premium Malbec 3L",
+    "previous_stock": 6,
+    "current_stock": 5,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-12T15:19:15.732013",
+    "product_id": 42731,
+    "product_name": "Finca Las Moras Chardonnay 750ml",
+    "previous_stock": 10,
+    "current_stock": 9,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-12T15:19:15.732013",
+    "product_id": 42638,
+    "product_name": "Adobe Chardonnay Poki 1,5L",
+    "previous_stock": 26,
+    "current_stock": 25,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-12T15:19:15.732013",
+    "product_id": 42682,
+    "product_name": "Van Gogh Riesling 750ml",
+    "previous_stock": 13,
+    "current_stock": 12,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-12T15:19:15.732013",
+    "product_id": 42692,
+    "product_name": "Martini Prosecco 750ml",
+    "previous_stock": 41,
+    "current_stock": 40,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-12T15:19:15.732013",
+    "product_id": 42559,
+    "product_name": "Finlandia Vodka 200ml",
+    "previous_stock": 6,
+    "current_stock": 4,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-12T15:19:15.732013",
+    "product_id": 42725,
+    "product_name": "Aalborg Jubilæums Akvavit 700ml",
+    "previous_stock": 19,
+    "current_stock": 16,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-12T15:19:15.732013",
+    "product_id": 42536,
+    "product_name": "VES 6x330ml",
+    "previous_stock": 35,
+    "current_stock": 31,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-12T15:19:15.732013",
+    "product_id": 43432,
+    "product_name": "Marlboro Red 100s Box",
+    "stock": 10,
+    "details": {
+      "id": 43432,
+      "code": "10041061",
+      "name": "Marlboro Red 100s Box",
+      "slug": "marlboro-red-100s-box-43432",
+      "category_id": 4306,
+      "category_name": "All Cigarettes",
+      "category_path": "Nicotine > Cigarettes > All Cigarettes",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/34d26974-7285-4e47-928b-c2bf3b8dba0f.webp",
+      "price": 199000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "10041061",
+          "name": "Marlboro Red 100s Box",
+          "price": 199000,
+          "value": "0.7mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/34d26974-7285-4e47-928b-c2bf3b8dba0f.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/34d26974-7285-4e47-928b-c2bf3b8dba0f_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/34d26974-7285-4e47-928b-c2bf3b8dba0f_thumb.webp"
+            }
+          ],
+          "offerId": 45083,
+          "sorting": 0,
+          "property": "strength",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-12T15:19:11.429657"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-12T15:19:15.732013",
+    "product_id": 43436,
+    "product_name": "Capri Menthol 100s Box",
+    "stock": 10,
+    "details": {
+      "id": 43436,
+      "code": "10000160",
+      "name": "Capri Menthol 100s Box",
+      "slug": "capri-menthol-100s-box-43436",
+      "category_id": 4306,
+      "category_name": "All Cigarettes",
+      "category_path": "Nicotine > Cigarettes > All Cigarettes",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3c4f0c93-35c2-433f-8c80-d2925bede370.webp",
+      "price": 198500,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "10000160",
+          "name": "Capri Menthol 100s Box",
+          "price": 198500,
+          "value": "0.6mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3c4f0c93-35c2-433f-8c80-d2925bede370.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3c4f0c93-35c2-433f-8c80-d2925bede370_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3c4f0c93-35c2-433f-8c80-d2925bede370_thumb.webp"
+            }
+          ],
+          "offerId": 45087,
+          "sorting": 0,
+          "property": "strength",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-12T15:19:11.429657"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-12T15:19:15.732013",
+    "product_id": 43437,
+    "product_name": "Winston White Menthol Box",
+    "stock": 31,
+    "details": {
+      "id": 43437,
+      "code": "10045835",
+      "name": "Winston White Menthol Box",
+      "slug": "winston-white-menthol-box-43437",
+      "category_id": 4306,
+      "category_name": "All Cigarettes",
+      "category_path": "Nicotine > Cigarettes > All Cigarettes",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/07d5dd42-cd3c-4436-9190-267be8ef1984.webp",
+      "price": 199000,
+      "discount_price": null,
+      "stock": {
+        "H495": 31
+      },
+      "total_stock": 31,
+      "variants": [
+        {
+          "sku": "10045835",
+          "name": "Winston White Menthol Box",
+          "price": 199000,
+          "value": "0.6mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/07d5dd42-cd3c-4436-9190-267be8ef1984.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/07d5dd42-cd3c-4436-9190-267be8ef1984_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/07d5dd42-cd3c-4436-9190-267be8ef1984_thumb.webp"
+            }
+          ],
+          "offerId": 45088,
+          "sorting": 0,
+          "property": "strength",
+          "sellable": 31,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-12T15:19:11.429657"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-12T15:19:15.732013",
+    "product_id": 43438,
+    "product_name": "Winston White Menthol Slims Box",
+    "stock": 17,
+    "details": {
+      "id": 43438,
+      "code": "10024582",
+      "name": "Winston White Menthol Slims Box",
+      "slug": "winston-white-menthol-slims-box-43438",
+      "category_id": 4306,
+      "category_name": "All Cigarettes",
+      "category_path": "Nicotine > Cigarettes > All Cigarettes",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/66f4a585-9251-494e-895c-612569f2e800.webp",
+      "price": 198500,
+      "discount_price": null,
+      "stock": {
+        "H495": 17
+      },
+      "total_stock": 17,
+      "variants": [
+        {
+          "sku": "10024582",
+          "name": "Winston White Menthol Slims Box",
+          "price": 198500,
+          "value": "0.7mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/66f4a585-9251-494e-895c-612569f2e800.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/66f4a585-9251-494e-895c-612569f2e800_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/66f4a585-9251-494e-895c-612569f2e800_thumb.webp"
+            }
+          ],
+          "offerId": 45089,
+          "sorting": 0,
+          "property": "strength",
+          "sellable": 17,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-12T15:19:11.429657"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-12T15:19:15.732013",
+    "product_id": 43357,
+    "product_name": "Marlboro Gold Box",
+    "stock": 10,
+    "details": {
+      "id": 43357,
+      "code": "10031878",
+      "name": "Marlboro Gold Box",
+      "slug": "marlboro-gold-box-43357",
+      "category_id": 4306,
+      "category_name": "All Cigarettes",
+      "category_path": "Nicotine > Cigarettes > All Cigarettes",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d1ad9dc9-28a9-4e50-9bcb-ab7f1f7608d8.webp",
+      "price": 199000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "10031878",
+          "name": "Marlboro Gold Box",
+          "price": 199000,
+          "value": "0.5mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d1ad9dc9-28a9-4e50-9bcb-ab7f1f7608d8.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d1ad9dc9-28a9-4e50-9bcb-ab7f1f7608d8_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d1ad9dc9-28a9-4e50-9bcb-ab7f1f7608d8_thumb.webp"
+            }
+          ],
+          "offerId": 45009,
+          "sorting": 0,
+          "property": "strength",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-12T15:19:11.429657"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-12T15:19:15.732013",
+    "product_id": 43356,
+    "product_name": "Winston Red Classic Box",
+    "stock": 10,
+    "details": {
+      "id": 43356,
+      "code": "10000069",
+      "name": "Winston Red Classic Box",
+      "slug": "winston-red-classic-box-43356",
+      "category_id": 4306,
+      "category_name": "All Cigarettes",
+      "category_path": "Nicotine > Cigarettes > All Cigarettes",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d77fbae2-fd86-4643-9353-76f0574dd1bb.webp",
+      "price": 199000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "10000069",
+          "name": "Winston Red Classic Box",
+          "price": 199000,
+          "value": "0.8mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d77fbae2-fd86-4643-9353-76f0574dd1bb.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d77fbae2-fd86-4643-9353-76f0574dd1bb_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d77fbae2-fd86-4643-9353-76f0574dd1bb_thumb.webp"
+            }
+          ],
+          "offerId": 45008,
+          "sorting": 0,
+          "property": "strength",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-12T15:19:11.429657"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-12T15:19:15.732013",
+    "product_id": 42436,
+    "product_name": "Coca-Cola 10x330ml",
+    "previous_stock": 63,
+    "current_stock": 59,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-12T15:19:15.732013",
+    "product_id": 42434,
+    "product_name": "Pepsi Max 12x330ml",
+    "previous_stock": 30,
+    "current_stock": 27,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-12T15:19:15.732013",
+    "product_id": 42474,
+    "product_name": "Appelsín 6x330ml",
+    "previous_stock": 23,
+    "current_stock": 16,
+    "change": -7,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-12T15:19:15.732013",
+    "product_id": 42441,
+    "product_name": "Kristall Mexican Lime 12x330ml",
+    "previous_stock": 29,
+    "current_stock": 26,
+    "change": -3,
+    "direction": "decrease"
   }
 ]
