@@ -21168,5 +21168,52 @@
     "current_stock": 21,
     "change": -5,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-13T14:34:04.980355",
+    "product_id": 42710,
+    "product_name": "Víking Lite 12x500ml",
+    "previous_stock": 36,
+    "current_stock": 35,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-13T14:34:04.980355",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 144,
+    "current_stock": 140,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-13T14:34:04.980355",
+    "product_id": 42711,
+    "product_name": "Félix Solís Mucho Mas 750ml",
+    "previous_stock": 13,
+    "current_stock": 12,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-13T14:34:04.980355",
+    "product_id": 42617,
+    "product_name": "Planteray Barbados Grande Reserve Rum 700ml",
+    "previous_stock": 2,
+    "current_stock": 1,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-13T14:34:04.980355",
+    "product_id": 42516,
+    "product_name": "Coca-Cola án sykurs 10x330ml",
+    "last_stock": 25
   }
 ]
