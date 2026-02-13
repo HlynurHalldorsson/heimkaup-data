@@ -21215,5 +21215,422 @@
     "product_id": 42516,
     "product_name": "Coca-Cola án sykurs 10x330ml",
     "last_stock": 25
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-13T18:20:33.107047",
+    "product_id": 42703,
+    "product_name": "Gull 12x500ml",
+    "previous_stock": 35,
+    "current_stock": 33,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-13T18:20:33.107047",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 35,
+    "current_stock": 34,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-13T18:20:33.107047",
+    "product_id": 42733,
+    "product_name": "Víking Gylltur 12x500ml",
+    "previous_stock": 77,
+    "current_stock": 69,
+    "change": -8,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-13T18:20:33.107047",
+    "product_id": 42705,
+    "product_name": "Víking Sterkr 6x500ml",
+    "previous_stock": 56,
+    "current_stock": 55,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-13T18:20:33.107047",
+    "product_id": 42680,
+    "product_name": "Tuborg Green 12x500ml",
+    "previous_stock": 103,
+    "current_stock": 99,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-13T18:20:33.107047",
+    "product_id": 42708,
+    "product_name": "Gull 12x330ml",
+    "previous_stock": 45,
+    "current_stock": 39,
+    "change": -6,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-13T18:20:33.107047",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "stock": 180,
+    "details": {
+      "id": 42686,
+      "code": "30230823",
+      "name": "Gull Lite 12x500ml",
+      "slug": "gull-lite-12x500ml-42686",
+      "category_id": 2724,
+      "category_name": "All Lite Beers",
+      "category_path": "Beer > Lite > All Lite Beers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/69f7215d-4eef-4ee7-8eeb-526d94e0a4d0.webp",
+      "price": 569000,
+      "discount_price": null,
+      "stock": {
+        "H495": 180
+      },
+      "total_stock": 180,
+      "variants": [
+        {
+          "sku": "30230823",
+          "name": "Gull Lite 12x500ml",
+          "price": 569000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/69f7215d-4eef-4ee7-8eeb-526d94e0a4d0.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/69f7215d-4eef-4ee7-8eeb-526d94e0a4d0_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/69f7215d-4eef-4ee7-8eeb-526d94e0a4d0_thumb.webp"
+            },
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7cc022b0-9350-46f2-bd7e-f811c34a4c4f.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7cc022b0-9350-46f2-bd7e-f811c34a4c4f_orig.jpeg",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7cc022b0-9350-46f2-bd7e-f811c34a4c4f_thumb.webp"
+            }
+          ],
+          "offerId": 44039,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 180,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-13T18:20:16.748201"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-13T18:20:33.107047",
+    "product_id": 42710,
+    "product_name": "Víking Lite 12x500ml",
+    "previous_stock": 35,
+    "current_stock": 34,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-13T18:20:33.107047",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 140,
+    "current_stock": 138,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-13T18:20:33.107047",
+    "product_id": 42661,
+    "product_name": "Boli X 12x330ml",
+    "previous_stock": 35,
+    "current_stock": 34,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-13T18:20:33.107047",
+    "product_id": 43054,
+    "product_name": "Úlfey Nr.67 4x330ml",
+    "previous_stock": 7,
+    "current_stock": 6,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-13T18:20:33.107047",
+    "product_id": 42581,
+    "product_name": "Butcher's Cut Premium Malbec 3L",
+    "previous_stock": 5,
+    "current_stock": 4,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-13T18:20:33.107047",
+    "product_id": 43205,
+    "product_name": "Mamma Piccini Rosso 3L",
+    "previous_stock": 6,
+    "current_stock": 5,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-13T18:20:33.107047",
+    "product_id": 42585,
+    "product_name": "Two Oceans Fresh & Fruity 3L",
+    "previous_stock": 41,
+    "current_stock": 39,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-13T18:20:33.107047",
+    "product_id": 42682,
+    "product_name": "Van Gogh Riesling 750ml",
+    "previous_stock": 12,
+    "current_stock": 10,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-13T18:20:33.107047",
+    "product_id": 42606,
+    "product_name": "Koskenkorva Vodka 500ml",
+    "previous_stock": 48,
+    "current_stock": 47,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-13T18:20:33.107047",
+    "product_id": 42548,
+    "product_name": "Beefeater 500ml",
+    "previous_stock": 3,
+    "current_stock": 2,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-13T18:20:33.107047",
+    "product_id": 42634,
+    "product_name": "Jagermeister 350ml",
+    "previous_stock": 11,
+    "current_stock": 10,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-13T18:20:33.107047",
+    "product_id": 42700,
+    "product_name": "Somersby Apple 6x330ml",
+    "stock": 12,
+    "details": {
+      "id": 42700,
+      "code": "30230820",
+      "name": "Somersby Apple 6x330ml",
+      "slug": "somersby-apple-6x330ml-42700",
+      "category_id": 4287,
+      "category_name": "All Ciders",
+      "category_path": "Ready-to-Drink Cocktails > Cider > All Ciders",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9046387b-9b4b-4e8a-b8d1-b60e8390aaa5.webp",
+      "price": 199000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "30230820",
+          "name": "Somersby Apple 6x330ml",
+          "price": 199000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9046387b-9b4b-4e8a-b8d1-b60e8390aaa5.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9046387b-9b4b-4e8a-b8d1-b60e8390aaa5_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9046387b-9b4b-4e8a-b8d1-b60e8390aaa5_thumb.webp"
+            }
+          ],
+          "offerId": 44022,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-13T18:20:25.685074"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-13T18:20:33.107047",
+    "product_id": 42604,
+    "product_name": "Bagl 6x330ml",
+    "previous_stock": 2,
+    "current_stock": 4,
+    "change": 2,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-13T18:20:33.107047",
+    "product_id": 43076,
+    "product_name": "VELO Freezing Peppermint 4",
+    "previous_stock": 9,
+    "current_stock": 5,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-13T18:20:33.107047",
+    "product_id": 42436,
+    "product_name": "Coca-Cola 10x330ml",
+    "previous_stock": 59,
+    "current_stock": 58,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-13T18:20:33.107047",
+    "product_id": 42434,
+    "product_name": "Pepsi Max 12x330ml",
+    "previous_stock": 27,
+    "current_stock": 25,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-13T18:20:33.107047",
+    "product_id": 42521,
+    "product_name": "7UP Zero 6x330ml",
+    "previous_stock": 7,
+    "current_stock": 6,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-13T18:20:33.107047",
+    "product_id": 42474,
+    "product_name": "Appelsín 6x330ml",
+    "previous_stock": 15,
+    "current_stock": 14,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-13T18:20:33.107047",
+    "product_id": 42516,
+    "product_name": "Coca-Cola án sykurs 10x330ml",
+    "stock": 25,
+    "details": {
+      "id": 42516,
+      "code": "30209468",
+      "name": "Coca-Cola án sykurs 10x330ml",
+      "slug": "coca-cola-an-sykurs-10x330ml-42516",
+      "category_id": 4338,
+      "category_name": "Sugar-Free Sodas",
+      "category_path": "Soft drinks > Soda > Sugar-Free Sodas",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/69814392-8cdc-49ae-86d4-81f63d1b7d95.webp",
+      "price": 129000,
+      "discount_price": null,
+      "stock": {
+        "H495": 25
+      },
+      "total_stock": 25,
+      "variants": [
+        {
+          "sku": "30209468",
+          "name": "Coca-Cola án sykurs 10x330ml",
+          "price": 129000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/69814392-8cdc-49ae-86d4-81f63d1b7d95.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/69814392-8cdc-49ae-86d4-81f63d1b7d95_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/69814392-8cdc-49ae-86d4-81f63d1b7d95_thumb.webp"
+            }
+          ],
+          "offerId": 43823,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 25,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-13T18:20:31.070379"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-13T18:20:33.107047",
+    "product_id": 42480,
+    "product_name": "NOCCO Stellar 6x330ml",
+    "previous_stock": 12,
+    "current_stock": 10,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-13T18:20:33.107047",
+    "product_id": 42486,
+    "product_name": "Monster Ultra White 4x500ml / Monster Ultra White 4pk",
+    "previous_stock": 24,
+    "current_stock": 22,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-13T18:20:33.107047",
+    "product_id": 42447,
+    "product_name": "Monster Pipeline Punch 4x500ml",
+    "previous_stock": 4,
+    "current_stock": 2,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-13T18:20:33.107047",
+    "product_id": 43086,
+    "product_name": "VELO Crispy Peppermint 3",
+    "last_stock": 5
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-13T18:20:33.107047",
+    "product_id": 42483,
+    "product_name": "Bonaqua Límónu & Sítrónu 10x330ml",
+    "last_stock": 1
   }
 ]
