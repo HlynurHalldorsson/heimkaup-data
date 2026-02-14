@@ -21632,5 +21632,356 @@
     "product_id": 42483,
     "product_name": "Bonaqua Límónu & Sítrónu 10x330ml",
     "last_stock": 1
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-14T00:46:22.416705",
+    "product_id": 42701,
+    "product_name": "Tuborg Classic 12x500ml",
+    "previous_stock": 26,
+    "current_stock": 25,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-14T00:46:22.416705",
+    "product_id": 42669,
+    "product_name": "Ölvisholt Classic 10x330ml",
+    "previous_stock": 48,
+    "current_stock": 46,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-14T00:46:22.416705",
+    "product_id": 42588,
+    "product_name": "Heineken 6x330ml",
+    "previous_stock": 58,
+    "current_stock": 56,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-14T00:46:22.416705",
+    "product_id": 42782,
+    "product_name": "Kaldi Ljós 10x330ml",
+    "previous_stock": 10,
+    "current_stock": 9,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-14T00:46:22.416705",
+    "product_id": 42998,
+    "product_name": "Adobe Rosé Poki 1,5L",
+    "previous_stock": 27,
+    "current_stock": 26,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-14T00:46:22.416705",
+    "product_id": 42810,
+    "product_name": "Barefoot Pinot Grigio 750ml",
+    "previous_stock": 8,
+    "current_stock": 80,
+    "change": 72,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-14T00:46:22.416705",
+    "product_id": 42684,
+    "product_name": "Stemmari Pinot Grigio 750ml",
+    "previous_stock": 24,
+    "current_stock": 22,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-14T00:46:22.416705",
+    "product_id": 42699,
+    "product_name": "Frontera Chardonnay 3L",
+    "previous_stock": 3,
+    "current_stock": 62,
+    "change": 59,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-14T00:46:22.416705",
+    "product_id": 42585,
+    "product_name": "Two Oceans Fresh & Fruity 3L",
+    "previous_stock": 39,
+    "current_stock": 38,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-14T00:46:22.416705",
+    "product_id": 42545,
+    "product_name": "Absolut Vodka 700ml",
+    "previous_stock": 1,
+    "current_stock": 13,
+    "change": 12,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-14T00:46:22.416705",
+    "product_id": 42530,
+    "product_name": "Jack Daniels 350ml",
+    "stock": 12,
+    "details": {
+      "id": 42530,
+      "code": "30230601",
+      "name": "Jack Daniels 350ml",
+      "slug": "jack-daniels-350ml-42530",
+      "category_id": 4269,
+      "category_name": "All Whiskey",
+      "category_path": "Spirits > Whiskey > All Whiskey",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/01d347dc-e5fb-4ef7-9a8e-c62cccc172fe.webp",
+      "price": 499000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "30230601",
+          "name": "Jack Daniels 350ml",
+          "price": 499000,
+          "value": "350ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/01d347dc-e5fb-4ef7-9a8e-c62cccc172fe.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/01d347dc-e5fb-4ef7-9a8e-c62cccc172fe_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/01d347dc-e5fb-4ef7-9a8e-c62cccc172fe_thumb.webp"
+            }
+          ],
+          "offerId": 43860,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-14T00:46:11.421074"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-14T00:46:22.416705",
+    "product_id": 43013,
+    "product_name": "Tanqueray London Dry 700ml",
+    "previous_stock": 1,
+    "current_stock": 9,
+    "change": 8,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-14T00:46:22.416705",
+    "product_id": 42582,
+    "product_name": "Bailey's Original 500ml",
+    "previous_stock": 18,
+    "current_stock": 17,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-14T00:46:22.416705",
+    "product_id": 42604,
+    "product_name": "Bagl 6x330ml",
+    "previous_stock": 4,
+    "current_stock": 16,
+    "change": 12,
+    "direction": "increase"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-14T00:46:22.416705",
+    "product_id": 42813,
+    "product_name": "Faustino VII Red 750ml",
+    "last_stock": 3
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-14T00:46:22.416705",
+    "product_id": 42761,
+    "product_name": "Chianti Classico Campomaggio 750ml",
+    "last_stock": 4
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-14T00:46:22.416705",
+    "product_id": 42754,
+    "product_name": "Las Moras Cab - Shiraz Reserva 750ml",
+    "last_stock": 5
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-14T00:46:22.416705",
+    "product_id": 42728,
+    "product_name": "Finca Las Moras Shiraz 750ml",
+    "last_stock": 32
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-14T00:46:22.416705",
+    "product_id": 42740,
+    "product_name": "Casa Solis Cabernet Sauvignon 750ml",
+    "last_stock": 1
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-14T00:46:22.416705",
+    "product_id": 42736,
+    "product_name": "Las Moras Cab Sauvignon 750ml",
+    "last_stock": 8
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-14T00:46:22.416705",
+    "product_id": 42688,
+    "product_name": "Casillero Del Diablo Cabernet Sauvignon 750ml",
+    "last_stock": 25
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-14T00:46:22.416705",
+    "product_id": 42712,
+    "product_name": "Faustino Crianza 750ml",
+    "last_stock": 6
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-14T00:46:22.416705",
+    "product_id": 42704,
+    "product_name": "Faustino VII Cabernet Sauvignon 750ml",
+    "last_stock": 6
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-14T00:46:22.416705",
+    "product_id": 42668,
+    "product_name": "Bolla Le Poiane Amarone 750ml",
+    "last_stock": 14
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-14T00:46:22.416705",
+    "product_id": 42641,
+    "product_name": "Cune Gran Reserva 750ml",
+    "last_stock": 17
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-14T00:46:22.416705",
+    "product_id": 42664,
+    "product_name": "Cerro Anon Gran Reserva 750ml",
+    "last_stock": 11
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-14T00:46:22.416705",
+    "product_id": 42662,
+    "product_name": "Dievole Chianti Classico 750ml",
+    "last_stock": 11
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-14T00:46:22.416705",
+    "product_id": 42632,
+    "product_name": "Lamberti Garda Merlot 750ml",
+    "last_stock": 6
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-14T00:46:22.416705",
+    "product_id": 42601,
+    "product_name": "Gato Negro Cabernet Sauvignon 750ml",
+    "last_stock": 18
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-14T00:46:22.416705",
+    "product_id": 42577,
+    "product_name": "Baron De Ley Reserva 750ml",
+    "last_stock": 13
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-14T00:46:22.416705",
+    "product_id": 42583,
+    "product_name": "El Coto Crianza 750ml",
+    "last_stock": 3
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-14T00:46:22.416705",
+    "product_id": 42667,
+    "product_name": "Adobe Merlot Cabernet Syrah Poki 1,5L",
+    "last_stock": 4
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-14T00:46:22.416705",
+    "product_id": 43004,
+    "product_name": "Casillero Del Diablo Cabernet Sauvignon 3L",
+    "last_stock": 2
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-14T00:46:22.416705",
+    "product_id": 42730,
+    "product_name": "Falling Feather Ruby Cabernet 3L",
+    "last_stock": 12
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-14T00:46:22.416705",
+    "product_id": 42685,
+    "product_name": "Tommasi Graticcio Appassionato 3L",
+    "last_stock": 6
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-14T00:46:22.416705",
+    "product_id": 42683,
+    "product_name": "Frontera Cabernet Sauvignon 3L",
+    "last_stock": 21
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-14T00:46:22.416705",
+    "product_id": 42603,
+    "product_name": "Drostdy Hof Shiraz Merlot 3L",
+    "last_stock": 6
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-14T00:46:22.416705",
+    "product_id": 43087,
+    "product_name": "ACE X Cool Mint Cosmic 5",
+    "last_stock": 3
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-14T00:46:22.416705",
+    "product_id": 43076,
+    "product_name": "VELO Freezing Peppermint 4",
+    "last_stock": 5
   }
 ]
