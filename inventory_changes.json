@@ -24067,5 +24067,61 @@
     "product_id": 42531,
     "product_name": "Viña Maipo Sauvignon Blanc Chardonnay 750ml",
     "last_stock": 1
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-15T22:26:49.288026",
+    "product_id": 42744,
+    "product_name": "Laurent Miquel Solas Pinot Noir 750ml",
+    "previous_stock": 7,
+    "current_stock": 31,
+    "change": 24,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-15T22:26:49.288026",
+    "product_id": 42610,
+    "product_name": "Adobe Chardonnay Reserva 2024 750ml",
+    "stock": 24,
+    "details": {
+      "id": 42610,
+      "code": "30230661",
+      "name": "Adobe Chardonnay Reserva 2024 750ml",
+      "slug": "adobe-chardonnay-reserva-2024-750ml-42610",
+      "category_id": 4331,
+      "category_name": "Chardonnay",
+      "category_path": "Wine > White > Chardonnay",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4efcc030-714d-438e-9623-fdd977e37a74.webp",
+      "price": 229000,
+      "discount_price": null,
+      "stock": {
+        "H495": 24
+      },
+      "total_stock": 24,
+      "variants": [
+        {
+          "sku": "30230661",
+          "name": "Adobe Chardonnay Reserva 2024 750ml",
+          "price": 229000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4efcc030-714d-438e-9623-fdd977e37a74.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4efcc030-714d-438e-9623-fdd977e37a74_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4efcc030-714d-438e-9623-fdd977e37a74_thumb.webp"
+            }
+          ],
+          "offerId": 43924,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 24,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-15T22:26:39.764355"
+    }
   }
 ]
