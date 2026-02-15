@@ -24123,5 +24123,114 @@
       ],
       "last_updated": "2026-02-15T22:26:39.764355"
     }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-15T23:48:08.556198",
+    "product_id": 42767,
+    "product_name": "Adobe Organic Chardonnay 3L",
+    "stock": 24,
+    "details": {
+      "id": 42767,
+      "code": "30230852",
+      "name": "Adobe Organic Chardonnay 3L",
+      "slug": "adobe-organic-chardonnay-3l-42767",
+      "category_id": 2730,
+      "category_name": "Chardonnay",
+      "category_path": "Wine > White > Chardonnay",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8b6c7281-b4d4-4faa-86d1-d248c2456a9a.webp",
+      "price": 879000,
+      "discount_price": null,
+      "stock": {
+        "H495": 24
+      },
+      "total_stock": 24,
+      "variants": [
+        {
+          "sku": "30230852",
+          "name": "Adobe Organic Chardonnay 3L",
+          "price": 879000,
+          "value": "3ltr",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8b6c7281-b4d4-4faa-86d1-d248c2456a9a.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8b6c7281-b4d4-4faa-86d1-d248c2456a9a_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8b6c7281-b4d4-4faa-86d1-d248c2456a9a_thumb.webp"
+            }
+          ],
+          "offerId": 44090,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 24,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-15T23:47:58.714492"
+    }
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-15T23:48:08.556198",
+    "product_id": 42759,
+    "product_name": "Fireball Cinnamon Whisky 700ml",
+    "last_stock": 1
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-15T23:48:08.556198",
+    "product_id": 42749,
+    "product_name": "Tullamore Dew 700ml",
+    "last_stock": 4
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-15T23:48:08.556198",
+    "product_id": 42592,
+    "product_name": "Camus V.S.O.P. 500ml",
+    "last_stock": 2
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-15T23:48:08.556198",
+    "product_id": 42530,
+    "product_name": "Jack Daniels 350ml",
+    "last_stock": 11
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-15T23:48:08.556198",
+    "product_id": 42796,
+    "product_name": "Tullamore Dew 500ml",
+    "last_stock": 8
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-15T23:48:08.556198",
+    "product_id": 42591,
+    "product_name": "Scottish Leader Original Blended Whisky 500ml",
+    "last_stock": 2
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-15T23:48:08.556198",
+    "product_id": 42529,
+    "product_name": "Jameson 500ml",
+    "last_stock": 17
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-15T23:48:08.556198",
+    "product_id": 43207,
+    "product_name": "Monkey Shoulder 700ml",
+    "last_stock": 4
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-15T23:48:08.556198",
+    "product_id": 42738,
+    "product_name": "Jim Beam White 700ml",
+    "last_stock": 13
   }
 ]
