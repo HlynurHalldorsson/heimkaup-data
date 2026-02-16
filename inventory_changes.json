@@ -24790,5 +24790,45 @@
     "product_id": 43427,
     "product_name": "Winston Blue 100s Box",
     "last_stock": 8
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-16T14:23:30.752330",
+    "product_id": 42574,
+    "product_name": "Stella Artois 6x330ml",
+    "previous_stock": 18,
+    "current_stock": 17,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-16T14:23:30.752330",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 132,
+    "current_stock": 131,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-16T14:23:30.752330",
+    "product_id": 42689,
+    "product_name": "Opal Rauður 500ml",
+    "previous_stock": 22,
+    "current_stock": 21,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-16T14:23:30.752330",
+    "product_id": 42697,
+    "product_name": "Jagermeister Miniature 9x20ml",
+    "previous_stock": 10,
+    "current_stock": 9,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
