@@ -24910,5 +24910,35 @@
     "current_stock": 27,
     "change": -4,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-16T17:42:18.805475",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 27,
+    "current_stock": 26,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-16T17:42:18.805475",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 167,
+    "current_stock": 166,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-16T17:42:18.805475",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 131,
+    "current_stock": 130,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
