@@ -24232,5 +24232,419 @@
     "product_id": 42738,
     "product_name": "Jim Beam White 700ml",
     "last_stock": 13
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-16T00:48:24.240775",
+    "product_id": 42759,
+    "product_name": "Fireball Cinnamon Whisky 700ml",
+    "stock": 1,
+    "details": {
+      "id": 42759,
+      "code": "30230883",
+      "name": "Fireball Cinnamon Whisky 700ml",
+      "slug": "fireball-cinnamon-whisky-500ml-42759",
+      "category_id": 4269,
+      "category_name": "All Whiskey",
+      "category_path": "Spirits > Whiskey > All Whiskey",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5954f193-feea-4904-8a81-02440749c0db.webp",
+      "price": 579000,
+      "discount_price": null,
+      "stock": {
+        "H495": 1
+      },
+      "total_stock": 1,
+      "variants": [
+        {
+          "sku": "30230883",
+          "name": "Fireball Cinnamon Whisky 700ml",
+          "price": 579000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5954f193-feea-4904-8a81-02440749c0db.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5954f193-feea-4904-8a81-02440749c0db_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5954f193-feea-4904-8a81-02440749c0db_thumb.webp"
+            }
+          ],
+          "offerId": 44079,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 1,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-16T00:48:17.274822"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-16T00:48:24.240775",
+    "product_id": 42749,
+    "product_name": "Tullamore Dew 700ml",
+    "stock": 4,
+    "details": {
+      "id": 42749,
+      "code": "30230890",
+      "name": "Tullamore Dew 700ml",
+      "slug": "tullamore-dew-700ml-42749",
+      "category_id": 4269,
+      "category_name": "All Whiskey",
+      "category_path": "Spirits > Whiskey > All Whiskey",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cbcccdc6-5cf5-47bc-b24e-d73ee2cd7bb4.webp",
+      "price": 949000,
+      "discount_price": null,
+      "stock": {
+        "H495": 4
+      },
+      "total_stock": 4,
+      "variants": [
+        {
+          "sku": "30230890",
+          "name": "Tullamore Dew 700ml",
+          "price": 949000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cbcccdc6-5cf5-47bc-b24e-d73ee2cd7bb4.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cbcccdc6-5cf5-47bc-b24e-d73ee2cd7bb4_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cbcccdc6-5cf5-47bc-b24e-d73ee2cd7bb4_thumb.webp"
+            }
+          ],
+          "offerId": 44055,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 4,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-16T00:48:17.274822"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-16T00:48:24.240775",
+    "product_id": 42592,
+    "product_name": "Camus V.S.O.P. 500ml",
+    "stock": 2,
+    "details": {
+      "id": 42592,
+      "code": "30230632",
+      "name": "Camus V.S.O.P. 500ml",
+      "slug": "camus-v-s-o-p-500ml-42592",
+      "category_id": 4269,
+      "category_name": "All Whiskey",
+      "category_path": "Spirits > Whiskey > All Whiskey",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/84977cf7-93ca-451e-9df9-7dbb2d3aa69e.webp",
+      "price": 879000,
+      "discount_price": null,
+      "stock": {
+        "H495": 2
+      },
+      "total_stock": 2,
+      "variants": [
+        {
+          "sku": "30230632",
+          "name": "Camus V.S.O.P. 500ml",
+          "price": 879000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/84977cf7-93ca-451e-9df9-7dbb2d3aa69e.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/84977cf7-93ca-451e-9df9-7dbb2d3aa69e_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/84977cf7-93ca-451e-9df9-7dbb2d3aa69e_thumb.webp"
+            }
+          ],
+          "offerId": 43912,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 2,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-16T00:48:17.274822"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-16T00:48:24.240775",
+    "product_id": 42530,
+    "product_name": "Jack Daniels 350ml",
+    "stock": 11,
+    "details": {
+      "id": 42530,
+      "code": "30230601",
+      "name": "Jack Daniels 350ml",
+      "slug": "jack-daniels-350ml-42530",
+      "category_id": 4269,
+      "category_name": "All Whiskey",
+      "category_path": "Spirits > Whiskey > All Whiskey",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/01d347dc-e5fb-4ef7-9a8e-c62cccc172fe.webp",
+      "price": 499000,
+      "discount_price": null,
+      "stock": {
+        "H495": 11
+      },
+      "total_stock": 11,
+      "variants": [
+        {
+          "sku": "30230601",
+          "name": "Jack Daniels 350ml",
+          "price": 499000,
+          "value": "350ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/01d347dc-e5fb-4ef7-9a8e-c62cccc172fe.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/01d347dc-e5fb-4ef7-9a8e-c62cccc172fe_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/01d347dc-e5fb-4ef7-9a8e-c62cccc172fe_thumb.webp"
+            }
+          ],
+          "offerId": 43860,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 11,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-16T00:48:17.274822"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-16T00:48:24.240775",
+    "product_id": 42796,
+    "product_name": "Tullamore Dew 500ml",
+    "stock": 8,
+    "details": {
+      "id": 42796,
+      "code": "30230940",
+      "name": "Tullamore Dew 500ml",
+      "slug": "tullamore-dew-500ml-42796",
+      "category_id": 4269,
+      "category_name": "All Whiskey",
+      "category_path": "Spirits > Whiskey > All Whiskey",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ce5a7b8c-2655-49d3-aee3-4ff653df9b46.webp",
+      "price": 629000,
+      "discount_price": null,
+      "stock": {
+        "H495": 8
+      },
+      "total_stock": 8,
+      "variants": [
+        {
+          "sku": "30230940",
+          "name": "Tullamore Dew 500ml",
+          "price": 629000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ce5a7b8c-2655-49d3-aee3-4ff653df9b46.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ce5a7b8c-2655-49d3-aee3-4ff653df9b46_orig.jpeg",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ce5a7b8c-2655-49d3-aee3-4ff653df9b46_thumb.webp"
+            }
+          ],
+          "offerId": 44131,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 8,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-16T00:48:17.274822"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-16T00:48:24.240775",
+    "product_id": 42591,
+    "product_name": "Scottish Leader Original Blended Whisky 500ml",
+    "stock": 2,
+    "details": {
+      "id": 42591,
+      "code": "30230631",
+      "name": "Scottish Leader Original Blended Whisky 500ml",
+      "slug": "scottish-leader-original-blended-whisky-500ml-42591",
+      "category_id": 4269,
+      "category_name": "All Whiskey",
+      "category_path": "Spirits > Whiskey > All Whiskey",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8c86cc20-42cf-4d4c-bf90-a7b851b2eebc.webp",
+      "price": 629000,
+      "discount_price": null,
+      "stock": {
+        "H495": 2
+      },
+      "total_stock": 2,
+      "variants": [
+        {
+          "sku": "30230631",
+          "name": "Scottish Leader Original Blended Whisky 500ml",
+          "price": 629000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8c86cc20-42cf-4d4c-bf90-a7b851b2eebc.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8c86cc20-42cf-4d4c-bf90-a7b851b2eebc_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8c86cc20-42cf-4d4c-bf90-a7b851b2eebc_thumb.webp"
+            }
+          ],
+          "offerId": 43901,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 2,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-16T00:48:17.274822"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-16T00:48:24.240775",
+    "product_id": 42529,
+    "product_name": "Jameson 500ml",
+    "stock": 17,
+    "details": {
+      "id": 42529,
+      "code": "30230602",
+      "name": "Jameson 500ml",
+      "slug": "jameson-500ml-42529",
+      "category_id": 4269,
+      "category_name": "All Whiskey",
+      "category_path": "Spirits > Whiskey > All Whiskey",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9f965d71-fb42-4be7-b8a7-212a85c03bcb.webp",
+      "price": 659000,
+      "discount_price": null,
+      "stock": {
+        "H495": 17
+      },
+      "total_stock": 17,
+      "variants": [
+        {
+          "sku": "30230602",
+          "name": "Jameson 500ml",
+          "price": 659000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9f965d71-fb42-4be7-b8a7-212a85c03bcb.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9f965d71-fb42-4be7-b8a7-212a85c03bcb_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9f965d71-fb42-4be7-b8a7-212a85c03bcb_thumb.webp"
+            }
+          ],
+          "offerId": 43882,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 17,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-16T00:48:17.274822"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-16T00:48:24.240775",
+    "product_id": 43207,
+    "product_name": "Monkey Shoulder 700ml",
+    "stock": 4,
+    "details": {
+      "id": 43207,
+      "code": "30230836",
+      "name": "Monkey Shoulder 700ml",
+      "slug": "monkey-shoulder-700ml-43207",
+      "category_id": 4269,
+      "category_name": "All Whiskey",
+      "category_path": "Spirits > Whiskey > All Whiskey",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a4ae7c1f-9ea8-4e47-be65-83d8af6f0018.webp",
+      "price": 1319000,
+      "discount_price": null,
+      "stock": {
+        "H495": 4
+      },
+      "total_stock": 4,
+      "variants": [
+        {
+          "sku": "30230836",
+          "name": "Monkey Shoulder 700ml",
+          "price": 1319000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a4ae7c1f-9ea8-4e47-be65-83d8af6f0018.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a4ae7c1f-9ea8-4e47-be65-83d8af6f0018_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a4ae7c1f-9ea8-4e47-be65-83d8af6f0018_thumb.webp"
+            }
+          ],
+          "offerId": 44809,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 4,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-16T00:48:17.274822"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-16T00:48:24.240775",
+    "product_id": 42738,
+    "product_name": "Jim Beam White 700ml",
+    "stock": 13,
+    "details": {
+      "id": 42738,
+      "code": "30230864",
+      "name": "Jim Beam White 700ml",
+      "slug": "jim-beam-white-700ml-42738",
+      "category_id": 4269,
+      "category_name": "All Whiskey",
+      "category_path": "Spirits > Whiskey > All Whiskey",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/198e8884-ca4b-4df7-9400-ab76c98698a8.webp",
+      "price": 879000,
+      "discount_price": null,
+      "stock": {
+        "H495": 13
+      },
+      "total_stock": 13,
+      "variants": [
+        {
+          "sku": "30230864",
+          "name": "Jim Beam White 700ml",
+          "price": 879000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/198e8884-ca4b-4df7-9400-ab76c98698a8.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/198e8884-ca4b-4df7-9400-ab76c98698a8_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/198e8884-ca4b-4df7-9400-ab76c98698a8_thumb.webp"
+            }
+          ],
+          "offerId": 44061,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 13,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-16T00:48:17.274822"
+    }
   }
 ]
