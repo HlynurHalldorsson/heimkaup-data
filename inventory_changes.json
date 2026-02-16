@@ -24756,5 +24756,39 @@
     "current_stock": 8,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-16T13:23:13.909393",
+    "product_id": 43055,
+    "product_name": "Tuborg Classic 12x330ml",
+    "previous_stock": 21,
+    "current_stock": 18,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-16T13:23:13.909393",
+    "product_id": 42708,
+    "product_name": "Gull 12x330ml",
+    "previous_stock": 39,
+    "current_stock": 36,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-16T13:23:13.909393",
+    "product_id": 43434,
+    "product_name": "Winston Red Classic 100s Box",
+    "last_stock": 10
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-16T13:23:13.909393",
+    "product_id": 43427,
+    "product_name": "Winston Blue 100s Box",
+    "last_stock": 8
   }
 ]
