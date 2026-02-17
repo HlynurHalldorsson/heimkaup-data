@@ -25104,5 +25104,199 @@
     "current_stock": 3,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-17T17:26:27.034654",
+    "product_id": 42620,
+    "product_name": "Guinness 4x440ml",
+    "previous_stock": 20,
+    "current_stock": 19,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-17T17:26:27.034654",
+    "product_id": 42524,
+    "product_name": "Reymont 800 Grape Drank",
+    "stock": 10,
+    "details": {
+      "id": 42524,
+      "code": "30224495",
+      "name": "Reymont 800 Grape Drank",
+      "slug": "rm-800-grape-drank-42524",
+      "category_id": 4355,
+      "category_name": "REYMONT",
+      "category_path": "Nicotine > Vapes > REYMONT",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c05bd37d-69ba-4b5a-a49f-ec80c72ae6f2.webp",
+      "price": 97000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30224495",
+          "name": "Reymont 800 Grape Drank",
+          "price": 97000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c05bd37d-69ba-4b5a-a49f-ec80c72ae6f2.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c05bd37d-69ba-4b5a-a49f-ec80c72ae6f2_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c05bd37d-69ba-4b5a-a49f-ec80c72ae6f2_thumb.webp"
+            }
+          ],
+          "offerId": 43851,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-17T17:26:23.352745"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-17T17:26:27.034654",
+    "product_id": 42510,
+    "product_name": "Reymont 800 Watermelon Ice",
+    "stock": 10,
+    "details": {
+      "id": 42510,
+      "code": "30218473",
+      "name": "Reymont 800 Watermelon Ice",
+      "slug": "rm-800-watermelon-ice-42510",
+      "category_id": 4355,
+      "category_name": "REYMONT",
+      "category_path": "Nicotine > Vapes > REYMONT",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/1dc359bd-2b42-4523-a178-f61421981515.webp",
+      "price": 97000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30218473",
+          "name": "Reymont 800 Watermelon Ice",
+          "price": 97000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/1dc359bd-2b42-4523-a178-f61421981515.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/1dc359bd-2b42-4523-a178-f61421981515_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/1dc359bd-2b42-4523-a178-f61421981515_thumb.webp"
+            }
+          ],
+          "offerId": 43842,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-17T17:26:23.352745"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-17T17:26:27.034654",
+    "product_id": 42503,
+    "product_name": "Reymont 800 Cotton Candy",
+    "stock": 10,
+    "details": {
+      "id": 42503,
+      "code": "30219786",
+      "name": "Reymont 800 Cotton Candy",
+      "slug": "rm-800-cotton-candy-42503",
+      "category_id": 4355,
+      "category_name": "REYMONT",
+      "category_path": "Nicotine > Vapes > REYMONT",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/36d940d7-57b0-4a0b-8ede-9d5b024323d5.webp",
+      "price": 97000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30219786",
+          "name": "Reymont 800 Cotton Candy",
+          "price": 97000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/36d940d7-57b0-4a0b-8ede-9d5b024323d5.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/36d940d7-57b0-4a0b-8ede-9d5b024323d5_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/36d940d7-57b0-4a0b-8ede-9d5b024323d5_thumb.webp"
+            }
+          ],
+          "offerId": 43837,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-17T17:26:23.352745"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-17T17:26:27.034654",
+    "product_id": 42493,
+    "product_name": "Reymont 800 Strawberry Watermelon Bubblegum",
+    "stock": 10,
+    "details": {
+      "id": 42493,
+      "code": "30219782",
+      "name": "Reymont 800 Strawberry Watermelon Bubblegum",
+      "slug": "rm-800-strawberry-watermelon-bubblegum-42493",
+      "category_id": 4355,
+      "category_name": "REYMONT",
+      "category_path": "Nicotine > Vapes > REYMONT",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3fe7fd5a-38cc-461f-9017-2a77e377e0ad.webp",
+      "price": 97000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30219782",
+          "name": "Reymont 800 Strawberry Watermelon Bubblegum",
+          "price": 97000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3fe7fd5a-38cc-461f-9017-2a77e377e0ad.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3fe7fd5a-38cc-461f-9017-2a77e377e0ad_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3fe7fd5a-38cc-461f-9017-2a77e377e0ad_thumb.webp"
+            }
+          ],
+          "offerId": 43818,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-17T17:26:23.352745"
+    }
   }
 ]
