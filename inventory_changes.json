@@ -24997,5 +24997,35 @@
     "product_id": 42590,
     "product_name": "Lindemans Chardonnay 3L",
     "last_stock": 1
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-17T13:14:34.560887",
+    "product_id": 42703,
+    "product_name": "Gull 12x500ml",
+    "previous_stock": 28,
+    "current_stock": 27,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-17T13:14:34.560887",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 164,
+    "current_stock": 162,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-17T13:14:34.560887",
+    "product_id": 42607,
+    "product_name": "Montalto Pinot Grigio 3L",
+    "previous_stock": 5,
+    "current_stock": 4,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
