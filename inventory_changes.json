@@ -24980,5 +24980,22 @@
     "current_stock": 129,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-17T12:14:16.214711",
+    "product_id": 42767,
+    "product_name": "Adobe Organic Chardonnay 3L",
+    "previous_stock": 23,
+    "current_stock": 22,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-17T12:14:16.214711",
+    "product_id": 42590,
+    "product_name": "Lindemans Chardonnay 3L",
+    "last_stock": 1
   }
 ]
