@@ -25408,5 +25408,25 @@
     "current_stock": 6,
     "change": -2,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-18T00:12:45.651437",
+    "product_id": 42710,
+    "product_name": "Víking Lite 12x500ml",
+    "previous_stock": 33,
+    "current_stock": 27,
+    "change": -6,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-18T00:12:45.651437",
+    "product_id": 42661,
+    "product_name": "Boli X 12x330ml",
+    "previous_stock": 31,
+    "current_stock": 29,
+    "change": -2,
+    "direction": "decrease"
   }
 ]
