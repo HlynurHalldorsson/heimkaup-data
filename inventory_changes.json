@@ -25428,5 +25428,25 @@
     "current_stock": 29,
     "change": -2,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-18T12:32:57.730286",
+    "product_id": 42603,
+    "product_name": "Drostdy Hof Shiraz Merlot 3L",
+    "previous_stock": 5,
+    "current_stock": 2,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-18T12:32:57.730286",
+    "product_id": 42585,
+    "product_name": "Two Oceans Fresh & Fruity 3L",
+    "previous_stock": 34,
+    "current_stock": 31,
+    "change": -3,
+    "direction": "decrease"
   }
 ]
