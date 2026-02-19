@@ -26024,5 +26024,35 @@
     "product_id": 42475,
     "product_name": "Kristall Nektarínu og Sítrus 6x330ml",
     "last_stock": 1
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-19T22:08:37.284219",
+    "product_id": 42705,
+    "product_name": "Víking Sterkr 6x500ml",
+    "previous_stock": 50,
+    "current_stock": 49,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-19T22:08:37.284219",
+    "product_id": 42614,
+    "product_name": "Budweiser Budvar 6x500ml",
+    "previous_stock": 13,
+    "current_stock": 12,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-19T22:08:37.284219",
+    "product_id": 43058,
+    "product_name": "Thule 12x330ml",
+    "previous_stock": 55,
+    "current_stock": 54,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
