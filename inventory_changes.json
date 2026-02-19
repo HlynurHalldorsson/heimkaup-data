@@ -25925,5 +25925,104 @@
     "product_id": 42775,
     "product_name": "Bombay Sapphire Gin & Tonic 4x250ml",
     "last_stock": 1
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-19T18:50:45.395123",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 24,
+    "current_stock": 23,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-19T18:50:45.395123",
+    "product_id": 42708,
+    "product_name": "Gull 12x330ml",
+    "previous_stock": 36,
+    "current_stock": 26,
+    "change": -10,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-19T18:50:45.395123",
+    "product_id": 43032,
+    "product_name": "Gull Lite Premium 12x500ml",
+    "previous_stock": 2,
+    "current_stock": 1,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-19T18:50:45.395123",
+    "product_id": 42797,
+    "product_name": "Absolut Vodka 1L",
+    "previous_stock": 10,
+    "current_stock": 9,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-19T18:50:45.395123",
+    "product_id": 42488,
+    "product_name": "Reymont 800 Pink Lemonade",
+    "stock": 10,
+    "details": {
+      "id": 42488,
+      "code": "30219784",
+      "name": "Reymont 800 Pink Lemonade",
+      "slug": "rm-800-pink-lemonade-42488",
+      "category_id": 4355,
+      "category_name": "REYMONT",
+      "category_path": "Nicotine > Vapes > REYMONT",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a8db4ea3-d7c9-4aec-b996-767914845763.webp",
+      "price": 97000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [],
+      "last_updated": "2026-02-19T18:50:41.526004"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-19T18:50:45.395123",
+    "product_id": 42436,
+    "product_name": "Coca-Cola 10x330ml",
+    "previous_stock": 57,
+    "current_stock": 56,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-19T18:50:45.395123",
+    "product_id": 42441,
+    "product_name": "Kristall Mexican Lime 12x330ml",
+    "previous_stock": 25,
+    "current_stock": 24,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-19T18:50:45.395123",
+    "product_id": 42484,
+    "product_name": "Kristall Sítrónu 6x330ml",
+    "last_stock": 1
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-19T18:50:45.395123",
+    "product_id": 42475,
+    "product_name": "Kristall Nektarínu og Sítrus 6x330ml",
+    "last_stock": 1
   }
 ]
