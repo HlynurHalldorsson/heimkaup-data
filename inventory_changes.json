@@ -25878,5 +25878,52 @@
     "current_stock": 3,
     "change": -2,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-19T17:50:25.530070",
+    "product_id": 42733,
+    "product_name": "Víking Gylltur 12x500ml",
+    "previous_stock": 68,
+    "current_stock": 67,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-19T17:50:25.530070",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 157,
+    "current_stock": 155,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-19T17:50:25.530070",
+    "product_id": 42661,
+    "product_name": "Boli X 12x330ml",
+    "previous_stock": 29,
+    "current_stock": 28,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-19T17:50:25.530070",
+    "product_id": 42606,
+    "product_name": "Koskenkorva Vodka 500ml",
+    "previous_stock": 47,
+    "current_stock": 44,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-19T17:50:25.530070",
+    "product_id": 42775,
+    "product_name": "Bombay Sapphire Gin & Tonic 4x250ml",
+    "last_stock": 1
   }
 ]
