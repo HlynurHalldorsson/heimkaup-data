@@ -25838,5 +25838,45 @@
     "current_stock": 96,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-19T14:40:20.065769",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 158,
+    "current_stock": 157,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-19T14:40:20.065769",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 129,
+    "current_stock": 128,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-19T14:40:20.065769",
+    "product_id": 42434,
+    "product_name": "Pepsi Max 12x330ml",
+    "previous_stock": 21,
+    "current_stock": 20,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-19T14:40:20.065769",
+    "product_id": 42521,
+    "product_name": "7UP Zero 6x330ml",
+    "previous_stock": 5,
+    "current_stock": 3,
+    "change": -2,
+    "direction": "decrease"
   }
 ]
