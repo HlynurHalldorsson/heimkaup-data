@@ -26337,5 +26337,207 @@
     "product_id": 43002,
     "product_name": "Monday Mezcal Óáfengt 750ml",
     "last_stock": 6
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T15:28:28.605958",
+    "product_id": 42703,
+    "product_name": "Gull 12x500ml",
+    "previous_stock": 25,
+    "current_stock": 24,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T15:28:28.605958",
+    "product_id": 42584,
+    "product_name": "Gérard Bertrand An 940 Pinot Noir 750ml",
+    "previous_stock": 19,
+    "current_stock": 18,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T15:28:28.605958",
+    "product_id": 42557,
+    "product_name": "Trivento Malbec Reserve 750ml",
+    "previous_stock": 6,
+    "current_stock": 5,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T15:28:28.605958",
+    "product_id": 42610,
+    "product_name": "Adobe Chardonnay Reserva 2024 750ml",
+    "previous_stock": 23,
+    "current_stock": 24,
+    "change": 1,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T15:28:28.605958",
+    "product_id": 42699,
+    "product_name": "Frontera Chardonnay 3L",
+    "previous_stock": 54,
+    "current_stock": 56,
+    "change": 2,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T15:28:28.605958",
+    "product_id": 43019,
+    "product_name": "Lamberti Garda Bianco 750ml",
+    "previous_stock": 8,
+    "current_stock": 7,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T15:28:28.605958",
+    "product_id": 42618,
+    "product_name": "PRN 6x330ml",
+    "previous_stock": 15,
+    "current_stock": 17,
+    "change": 2,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-20T15:28:28.605958",
+    "product_id": 42812,
+    "product_name": "Monday Gin Óáfengt 750ml",
+    "stock": 1,
+    "details": {
+      "id": 42812,
+      "code": "30230972",
+      "name": "Monday Gin Óáfengt 750ml",
+      "slug": "monday-gin-oafengt-750ml-42812",
+      "category_id": 4301,
+      "category_name": "All Other 0% Alcohols",
+      "category_path": "Alcohol-Free > Other 0% > All Other 0% Alcohols",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/1eb2026c-457e-4674-b06b-f35bb2b373ba.webp",
+      "price": 1041000,
+      "discount_price": null,
+      "stock": {
+        "H495": 1
+      },
+      "total_stock": 1,
+      "variants": [
+        {
+          "sku": "30230972",
+          "name": "Monday Gin Óáfengt 750ml",
+          "price": 1041000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/1eb2026c-457e-4674-b06b-f35bb2b373ba.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/1eb2026c-457e-4674-b06b-f35bb2b373ba_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/1eb2026c-457e-4674-b06b-f35bb2b373ba_thumb.webp"
+            }
+          ],
+          "offerId": 44112,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 1,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-20T15:28:22.311615"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-20T15:28:28.605958",
+    "product_id": 43002,
+    "product_name": "Monday Mezcal Óáfengt 750ml",
+    "stock": 6,
+    "details": {
+      "id": 43002,
+      "code": "30230971",
+      "name": "Monday Mezcal Óáfengt 750ml",
+      "slug": "monday-mezcal-oafengt-750ml-43002",
+      "category_id": 4301,
+      "category_name": "All Other 0% Alcohols",
+      "category_path": "Alcohol-Free > Other 0% > All Other 0% Alcohols",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c5617f59-393a-40cc-8384-cd90f3b91003.webp",
+      "price": 1049000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "30230971",
+          "name": "Monday Mezcal Óáfengt 750ml",
+          "price": 1049000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c5617f59-393a-40cc-8384-cd90f3b91003.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c5617f59-393a-40cc-8384-cd90f3b91003_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c5617f59-393a-40cc-8384-cd90f3b91003_thumb.webp"
+            }
+          ],
+          "offerId": 44528,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-20T15:28:22.311615"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T15:28:28.605958",
+    "product_id": 42436,
+    "product_name": "Coca-Cola 10x330ml",
+    "previous_stock": 54,
+    "current_stock": 53,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T15:28:28.605958",
+    "product_id": 42474,
+    "product_name": "Appelsín 6x330ml",
+    "previous_stock": 4,
+    "current_stock": 2,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T15:28:28.605958",
+    "product_id": 42516,
+    "product_name": "Coca-Cola án sykurs 10x330ml",
+    "previous_stock": 25,
+    "current_stock": 19,
+    "change": -6,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T15:28:28.605958",
+    "product_id": 42506,
+    "product_name": "COLLAB Jarðarberja og Sítrónu 6x330ml",
+    "previous_stock": 7,
+    "current_stock": 5,
+    "change": -2,
+    "direction": "decrease"
   }
 ]
