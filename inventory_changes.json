@@ -26549,5 +26549,462 @@
     "current_stock": 53,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T18:56:13.112840",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 23,
+    "current_stock": 22,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T18:56:13.112840",
+    "product_id": 42616,
+    "product_name": "Löwenbräu Original 6x500ml",
+    "previous_stock": 3,
+    "current_stock": 2,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T18:56:13.112840",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 153,
+    "current_stock": 151,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T18:56:13.112840",
+    "product_id": 42782,
+    "product_name": "Kaldi Ljós 10x330ml",
+    "previous_stock": 5,
+    "current_stock": 2,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T18:56:13.112840",
+    "product_id": 42760,
+    "product_name": "Las Moras Black Label Malbec 750ml",
+    "previous_stock": 10,
+    "current_stock": 11,
+    "change": 1,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T18:56:13.112840",
+    "product_id": 42754,
+    "product_name": "Las Moras Cab - Shiraz Reserva 750ml",
+    "previous_stock": 13,
+    "current_stock": 14,
+    "change": 1,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T18:56:13.112840",
+    "product_id": 42603,
+    "product_name": "Drostdy Hof Shiraz Merlot 3L",
+    "previous_stock": 2,
+    "current_stock": 1,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T18:56:13.112840",
+    "product_id": 42774,
+    "product_name": "Roda Reserva 750ml",
+    "previous_stock": 2,
+    "current_stock": 10,
+    "change": 8,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-20T18:56:13.112840",
+    "product_id": 42642,
+    "product_name": "Champagne Collet Brut Rosé 750ml",
+    "stock": 1,
+    "details": {
+      "id": 42642,
+      "code": "30230743",
+      "name": "Champagne Collet Brut Rosé 750ml",
+      "slug": "champagne-collet-brut-rose-750ml-42642",
+      "category_id": 4254,
+      "category_name": "All Rosé Wines",
+      "category_path": "Wine > Rosé > All Rosé Wines",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7e331fe6-4696-42fc-8921-628bd9e2a562.webp",
+      "price": 820000,
+      "discount_price": null,
+      "stock": {
+        "H495": 1
+      },
+      "total_stock": 1,
+      "variants": [
+        {
+          "sku": "30230743",
+          "name": "Champagne Collet Brut Rosé 750ml",
+          "price": 820000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7e331fe6-4696-42fc-8921-628bd9e2a562.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7e331fe6-4696-42fc-8921-628bd9e2a562_orig.jpeg",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7e331fe6-4696-42fc-8921-628bd9e2a562_thumb.webp"
+            }
+          ],
+          "offerId": 43987,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 1,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-20T18:55:57.980256"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-20T18:56:13.112840",
+    "product_id": 42593,
+    "product_name": "Barefoot White Zinfandel Rosé 750ml",
+    "stock": 4,
+    "details": {
+      "id": 42593,
+      "code": "30230647",
+      "name": "Barefoot White Zinfandel Rosé 750ml",
+      "slug": "barefoot-white-zinfandel-rose-750ml-42593",
+      "category_id": 4254,
+      "category_name": "All Rosé Wines",
+      "category_path": "Wine > Rosé > All Rosé Wines",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ee29222a-b8ac-4b92-bd87-62507ed3d657.webp",
+      "price": 186000,
+      "discount_price": null,
+      "stock": {
+        "H495": 4
+      },
+      "total_stock": 4,
+      "variants": [
+        {
+          "sku": "30230647",
+          "name": "Barefoot White Zinfandel Rosé 750ml",
+          "price": 186000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ee29222a-b8ac-4b92-bd87-62507ed3d657.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ee29222a-b8ac-4b92-bd87-62507ed3d657_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ee29222a-b8ac-4b92-bd87-62507ed3d657_thumb.webp"
+            }
+          ],
+          "offerId": 43907,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 4,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-20T18:55:57.980256"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T18:56:13.112840",
+    "product_id": 43063,
+    "product_name": "Beaune Bastion 1ER CRU Blanc 750ml",
+    "previous_stock": 4,
+    "current_stock": 5,
+    "change": 1,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T18:56:13.112840",
+    "product_id": 42766,
+    "product_name": "Casa Solís Chardonnay 750ml",
+    "previous_stock": 17,
+    "current_stock": 16,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T18:56:13.112840",
+    "product_id": 42767,
+    "product_name": "Adobe Organic Chardonnay 3L",
+    "previous_stock": 19,
+    "current_stock": 17,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-20T18:56:13.112840",
+    "product_id": 42633,
+    "product_name": "Cune Blanco 187ml",
+    "stock": 12,
+    "details": {
+      "id": 42633,
+      "code": "30230735",
+      "name": "Cune Blanco 187ml",
+      "slug": "cune-blanco-187ml-42633",
+      "category_id": 4252,
+      "category_name": "Sauvignon Blanc",
+      "category_path": "Wine > White > Sauvignon Blanc",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/08f0d622-42d8-4d03-b080-6f19900bd3ab.webp",
+      "price": 82000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "30230735",
+          "name": "Cune Blanco 187ml",
+          "price": 82000,
+          "value": "187ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/08f0d622-42d8-4d03-b080-6f19900bd3ab.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/08f0d622-42d8-4d03-b080-6f19900bd3ab_orig.jpeg",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/08f0d622-42d8-4d03-b080-6f19900bd3ab_thumb.webp"
+            }
+          ],
+          "offerId": 43960,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-20T18:55:59.034219"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T18:56:13.112840",
+    "product_id": 42810,
+    "product_name": "Barefoot Pinot Grigio 750ml",
+    "previous_stock": 70,
+    "current_stock": 68,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T18:56:13.112840",
+    "product_id": 42699,
+    "product_name": "Frontera Chardonnay 3L",
+    "previous_stock": 56,
+    "current_stock": 54,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T18:56:13.112840",
+    "product_id": 42585,
+    "product_name": "Two Oceans Fresh & Fruity 3L",
+    "previous_stock": 31,
+    "current_stock": 29,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-20T18:56:13.112840",
+    "product_id": 42660,
+    "product_name": "Colpasso Catarratto Pinot Grigio 250ml",
+    "stock": 16,
+    "details": {
+      "id": 42660,
+      "code": "30230741",
+      "name": "Colpasso Catarratto Pinot Grigio 250ml",
+      "slug": "colpasso-catarratto-pinot-grigio-250ml-42660",
+      "category_id": 4333,
+      "category_name": "Pinot Grigio",
+      "category_path": "Wine > White > Pinot Grigio",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b0f86a97-b083-4e96-8ff9-e59d121f5fd4.webp",
+      "price": 109000,
+      "discount_price": null,
+      "stock": {
+        "H495": 16
+      },
+      "total_stock": 16,
+      "variants": [
+        {
+          "sku": "30230741",
+          "name": "Colpasso Catarratto Pinot Grigio 250ml",
+          "price": 109000,
+          "value": "250ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b0f86a97-b083-4e96-8ff9-e59d121f5fd4.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b0f86a97-b083-4e96-8ff9-e59d121f5fd4_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b0f86a97-b083-4e96-8ff9-e59d121f5fd4_thumb.webp"
+            }
+          ],
+          "offerId": 43989,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 16,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-20T18:55:59.648733"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T18:56:13.112840",
+    "product_id": 42648,
+    "product_name": "Champagne Collet Brut 750ml",
+    "previous_stock": 5,
+    "current_stock": 11,
+    "change": 6,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T18:56:13.112840",
+    "product_id": 42723,
+    "product_name": "Codorniu Clasico Seco 200ml",
+    "previous_stock": 3,
+    "current_stock": 9,
+    "change": 6,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T18:56:13.112840",
+    "product_id": 42679,
+    "product_name": "Martini Prosecco 200ml",
+    "previous_stock": 7,
+    "current_stock": 6,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T18:56:13.112840",
+    "product_id": 42652,
+    "product_name": "Nicolas Feuillatte Brut Réserve 200ml",
+    "previous_stock": 1,
+    "current_stock": 4,
+    "change": 3,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T18:56:13.112840",
+    "product_id": 42591,
+    "product_name": "Scottish Leader Original Blended Whisky 500ml",
+    "previous_stock": 2,
+    "current_stock": 8,
+    "change": 6,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T18:56:13.112840",
+    "product_id": 42765,
+    "product_name": "Askur Gin 700ml",
+    "previous_stock": 24,
+    "current_stock": 38,
+    "change": 14,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-20T18:56:13.112840",
+    "product_id": 42678,
+    "product_name": "Opal Skógarber og Sjávarsalt 500ml",
+    "stock": 12,
+    "details": {
+      "id": 42678,
+      "code": "30230772",
+      "name": "Opal Skógarber og Sjávarsalt 500ml",
+      "slug": "opal-skogarber-og-sjavarsalt-500ml-42678",
+      "category_id": 4275,
+      "category_name": "All Liqueurs",
+      "category_path": "Spirits > Liqueurs > All Liqueurs",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/db601634-bd79-49e5-8157-43cf9ff753ee.webp",
+      "price": 417000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "30230772",
+          "name": "Opal Skógarber og Sjávarsalt 500ml",
+          "price": 417000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/db601634-bd79-49e5-8157-43cf9ff753ee.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/db601634-bd79-49e5-8157-43cf9ff753ee_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/db601634-bd79-49e5-8157-43cf9ff753ee_thumb.webp"
+            }
+          ],
+          "offerId": 44031,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-20T18:56:03.231084"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T18:56:13.112840",
+    "product_id": 42725,
+    "product_name": "Aalborg Jubilæums Akvavit 700ml",
+    "previous_stock": 16,
+    "current_stock": 13,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T18:56:13.112840",
+    "product_id": 42993,
+    "product_name": "Campari 1L",
+    "previous_stock": 10,
+    "current_stock": 9,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-20T18:56:13.112840",
+    "product_id": 42617,
+    "product_name": "Planteray Barbados Grande Reserve Rum 700ml",
+    "last_stock": 1
   }
 ]
