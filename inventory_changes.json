@@ -26054,5 +26054,35 @@
     "current_stock": 54,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T08:10:27.585503",
+    "product_id": 42776,
+    "product_name": "Thule 12x500ml",
+    "previous_stock": 39,
+    "current_stock": 38,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T08:10:27.585503",
+    "product_id": 42616,
+    "product_name": "Löwenbräu Original 6x500ml",
+    "previous_stock": 4,
+    "current_stock": 3,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T08:10:27.585503",
+    "product_id": 42724,
+    "product_name": "Finca Las Moras Malbec 750ml",
+    "previous_stock": 19,
+    "current_stock": 18,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
