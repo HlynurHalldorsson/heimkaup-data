@@ -27237,5 +27237,35 @@
       ],
       "last_updated": "2026-02-20T20:00:08.132126"
     }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T21:00:32.344205",
+    "product_id": 42588,
+    "product_name": "Heineken 6x330ml",
+    "previous_stock": 43,
+    "current_stock": 42,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T21:00:32.344205",
+    "product_id": 42657,
+    "product_name": "Ölvisholt Lager 10x330ml",
+    "previous_stock": 26,
+    "current_stock": 25,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T21:00:32.344205",
+    "product_id": 42724,
+    "product_name": "Finca Las Moras Malbec 750ml",
+    "previous_stock": 18,
+    "current_stock": 17,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
