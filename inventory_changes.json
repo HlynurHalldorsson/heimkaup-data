@@ -26121,5 +26121,147 @@
     "product_id": 42516,
     "product_name": "Coca-Cola án sykurs 10x330ml",
     "last_stock": 25
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T13:27:43.725555",
+    "product_id": 42710,
+    "product_name": "Víking Lite 12x500ml",
+    "previous_stock": 27,
+    "current_stock": 25,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-20T13:27:43.725555",
+    "product_id": 42760,
+    "product_name": "Las Moras Black Label Malbec 750ml",
+    "stock": 10,
+    "details": {
+      "id": 42760,
+      "code": "30230909",
+      "name": "Las Moras Black Label Malbec 750ml",
+      "slug": "las-moras-black-label-malbec-750ml-42760",
+      "category_id": 4250,
+      "category_name": "Cabernet Sauvignon",
+      "category_path": "Wine > Red > Cabernet Sauvignon",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3e7b4a02-656f-40ec-80fa-04430913c018.webp",
+      "price": 368000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30230909",
+          "name": "Las Moras Black Label Malbec 750ml",
+          "price": 368000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3e7b4a02-656f-40ec-80fa-04430913c018.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3e7b4a02-656f-40ec-80fa-04430913c018_orig.jpeg",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3e7b4a02-656f-40ec-80fa-04430913c018_thumb.webp"
+            }
+          ],
+          "offerId": 44097,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-20T13:27:29.887073"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T13:27:43.725555",
+    "product_id": 42754,
+    "product_name": "Las Moras Cab - Shiraz Reserva 750ml",
+    "previous_stock": 5,
+    "current_stock": 8,
+    "change": 3,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T13:27:43.725555",
+    "product_id": 42751,
+    "product_name": "Faustino V Reserva 750ml",
+    "previous_stock": 3,
+    "current_stock": 5,
+    "change": 2,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T13:27:43.725555",
+    "product_id": 42687,
+    "product_name": "Tommasi Pinot Grigio 3L",
+    "previous_stock": 27,
+    "current_stock": 26,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T13:27:43.725555",
+    "product_id": 42699,
+    "product_name": "Frontera Chardonnay 3L",
+    "previous_stock": 57,
+    "current_stock": 56,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-20T13:27:43.725555",
+    "product_id": 42516,
+    "product_name": "Coca-Cola án sykurs 10x330ml",
+    "stock": 25,
+    "details": {
+      "id": 42516,
+      "code": "30209468",
+      "name": "Coca-Cola án sykurs 10x330ml",
+      "slug": "coca-cola-an-sykurs-10x330ml-42516",
+      "category_id": 4338,
+      "category_name": "Sugar-Free Sodas",
+      "category_path": "Soft drinks > Soda > Sugar-Free Sodas",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/69814392-8cdc-49ae-86d4-81f63d1b7d95.webp",
+      "price": 129000,
+      "discount_price": null,
+      "stock": {
+        "H495": 25
+      },
+      "total_stock": 25,
+      "variants": [
+        {
+          "sku": "30209468",
+          "name": "Coca-Cola án sykurs 10x330ml",
+          "price": 129000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/69814392-8cdc-49ae-86d4-81f63d1b7d95.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/69814392-8cdc-49ae-86d4-81f63d1b7d95_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/69814392-8cdc-49ae-86d4-81f63d1b7d95_thumb.webp"
+            }
+          ],
+          "offerId": 43823,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 25,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-20T13:27:41.892174"
+    }
   }
 ]
