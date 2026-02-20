@@ -26263,5 +26263,79 @@
       ],
       "last_updated": "2026-02-20T13:27:41.892174"
     }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T14:28:05.737201",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 155,
+    "current_stock": 153,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T14:28:05.737201",
+    "product_id": 42754,
+    "product_name": "Las Moras Cab - Shiraz Reserva 750ml",
+    "previous_stock": 8,
+    "current_stock": 13,
+    "change": 5,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T14:28:05.737201",
+    "product_id": 43063,
+    "product_name": "Beaune Bastion 1ER CRU Blanc 750ml",
+    "previous_stock": 1,
+    "current_stock": 4,
+    "change": 3,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T14:28:05.737201",
+    "product_id": 42610,
+    "product_name": "Adobe Chardonnay Reserva 2024 750ml",
+    "previous_stock": 24,
+    "current_stock": 23,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T14:28:05.737201",
+    "product_id": 42699,
+    "product_name": "Frontera Chardonnay 3L",
+    "previous_stock": 56,
+    "current_stock": 54,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T14:28:05.737201",
+    "product_id": 42536,
+    "product_name": "VES 6x330ml",
+    "previous_stock": 27,
+    "current_stock": 23,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-20T14:28:05.737201",
+    "product_id": 42812,
+    "product_name": "Monday Gin Óáfengt 750ml",
+    "last_stock": 1
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-20T14:28:05.737201",
+    "product_id": 43002,
+    "product_name": "Monday Mezcal Óáfengt 750ml",
+    "last_stock": 6
   }
 ]
