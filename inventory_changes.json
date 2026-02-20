@@ -27267,5 +27267,25 @@
     "current_stock": 17,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T22:18:49.457529",
+    "product_id": 42669,
+    "product_name": "Ölvisholt Classic 10x330ml",
+    "previous_stock": 46,
+    "current_stock": 45,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T22:18:49.457529",
+    "product_id": 42657,
+    "product_name": "Ölvisholt Lager 10x330ml",
+    "previous_stock": 25,
+    "current_stock": 24,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
