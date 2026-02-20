@@ -26084,5 +26084,35 @@
     "current_stock": 18,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T11:15:36.157619",
+    "product_id": 42436,
+    "product_name": "Coca-Cola 10x330ml",
+    "previous_stock": 56,
+    "current_stock": 54,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T11:15:36.157619",
+    "product_id": 42556,
+    "product_name": "NOCCO The Berries 6x330ml",
+    "previous_stock": 6,
+    "current_stock": 4,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T11:15:36.157619",
+    "product_id": 42486,
+    "product_name": "Monster Ultra White 4x500ml / Monster Ultra White 4pk",
+    "previous_stock": 22,
+    "current_stock": 19,
+    "change": -3,
+    "direction": "decrease"
   }
 ]
