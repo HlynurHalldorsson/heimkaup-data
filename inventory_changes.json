@@ -27006,5 +27006,236 @@
     "product_id": 42617,
     "product_name": "Planteray Barbados Grande Reserve Rum 700ml",
     "last_stock": 1
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T20:00:10.190441",
+    "product_id": 42680,
+    "product_name": "Tuborg Green 12x500ml",
+    "previous_stock": 98,
+    "current_stock": 96,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T20:00:10.190441",
+    "product_id": 43055,
+    "product_name": "Tuborg Classic 12x330ml",
+    "previous_stock": 15,
+    "current_stock": 12,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-20T20:00:10.190441",
+    "product_id": 42599,
+    "product_name": "Apothic Red 750ml",
+    "stock": 1,
+    "details": {
+      "id": 42599,
+      "code": "30230645",
+      "name": "Apothic Red 750ml",
+      "slug": "apothic-red-750ml-42599",
+      "category_id": 4329,
+      "category_name": "Red Blends",
+      "category_path": "Wine > Red > Red Blends",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/38a0cddd-a1df-485c-93df-a8198f0ac0c9.webp",
+      "price": 318000,
+      "discount_price": null,
+      "stock": {
+        "H495": 1
+      },
+      "total_stock": 1,
+      "variants": [
+        {
+          "sku": "30230645",
+          "name": "Apothic Red 750ml",
+          "price": 318000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/38a0cddd-a1df-485c-93df-a8198f0ac0c9.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/38a0cddd-a1df-485c-93df-a8198f0ac0c9_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/38a0cddd-a1df-485c-93df-a8198f0ac0c9_thumb.webp"
+            }
+          ],
+          "offerId": 43950,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 1,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-20T19:59:55.066835"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T20:00:10.190441",
+    "product_id": 42774,
+    "product_name": "Roda Reserva 750ml",
+    "previous_stock": 10,
+    "current_stock": 21,
+    "change": 11,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T20:00:10.190441",
+    "product_id": 42699,
+    "product_name": "Frontera Chardonnay 3L",
+    "previous_stock": 54,
+    "current_stock": 56,
+    "change": 2,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T20:00:10.190441",
+    "product_id": 42797,
+    "product_name": "Absolut Vodka 1L",
+    "previous_stock": 9,
+    "current_stock": 14,
+    "change": 5,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T20:00:10.190441",
+    "product_id": 42591,
+    "product_name": "Scottish Leader Original Blended Whisky 500ml",
+    "previous_stock": 8,
+    "current_stock": 16,
+    "change": 8,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T20:00:10.190441",
+    "product_id": 42678,
+    "product_name": "Opal Skógarber og Sjávarsalt 500ml",
+    "previous_stock": 12,
+    "current_stock": 20,
+    "change": 8,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T20:00:10.190441",
+    "product_id": 42544,
+    "product_name": "BuzzBallz Chili Mango 200ml",
+    "previous_stock": 5,
+    "current_stock": 11,
+    "change": 6,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T20:00:10.190441",
+    "product_id": 42820,
+    "product_name": "Breezer Lemon 4x275ml",
+    "previous_stock": 4,
+    "current_stock": 3,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-20T20:00:10.190441",
+    "product_id": 43001,
+    "product_name": "Monday Whisky Óáfengt 750ml",
+    "stock": 6,
+    "details": {
+      "id": 43001,
+      "code": "30230970",
+      "name": "Monday Whisky Óáfengt 750ml",
+      "slug": "monday-whisky-oafengt-750ml-43001",
+      "category_id": 4301,
+      "category_name": "All Other 0% Alcohols",
+      "category_path": "Alcohol-Free > Other 0% > All Other 0% Alcohols",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8c909ccf-34ca-4c63-9c96-2190e590a942.webp",
+      "price": 1041000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [],
+      "last_updated": "2026-02-20T20:00:03.939605"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T20:00:10.190441",
+    "product_id": 43075,
+    "product_name": "VELO Tropical Mango 2",
+    "previous_stock": 10,
+    "current_stock": 5,
+    "change": -5,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T20:00:10.190441",
+    "product_id": 42434,
+    "product_name": "Pepsi Max 12x330ml",
+    "previous_stock": 20,
+    "current_stock": 19,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-20T20:00:10.190441",
+    "product_id": 42521,
+    "product_name": "7UP Zero 6x330ml",
+    "previous_stock": 3,
+    "current_stock": 1,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-20T20:00:10.190441",
+    "product_id": 42501,
+    "product_name": "Red Bull Original 6x250ml",
+    "stock": 12,
+    "details": {
+      "id": 42501,
+      "code": "30212330",
+      "name": "Red Bull Original 6x250ml",
+      "slug": "red-bull-original-6x250ml-42501",
+      "category_id": 4317,
+      "category_name": "All Energy Drinks",
+      "category_path": "Soft drinks > Energy Drinks > All Energy Drinks",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/products/9eeff471-3590-404d-892b-3bd501b09a2a.webp",
+      "price": 168000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "30212330",
+          "name": "Red Bull Original 6x250ml",
+          "price": 168000,
+          "value": "250ml",
+          "images": null,
+          "offerId": 43832,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-20T20:00:08.132126"
+    }
   }
 ]
