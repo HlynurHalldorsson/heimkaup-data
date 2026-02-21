@@ -27851,5 +27851,45 @@
     "product_id": 43032,
     "product_name": "Gull Lite Premium 12x500ml",
     "last_stock": 1
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-21T21:00:57.861644",
+    "product_id": 43056,
+    "product_name": "Boli 12x330ml",
+    "previous_stock": 2,
+    "current_stock": 1,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-21T21:00:57.861644",
+    "product_id": 42710,
+    "product_name": "Víking Lite 12x500ml",
+    "previous_stock": 23,
+    "current_stock": 22,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-21T21:00:57.861644",
+    "product_id": 42530,
+    "product_name": "Jack Daniels 350ml",
+    "previous_stock": 11,
+    "current_stock": 10,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-21T21:00:57.861644",
+    "product_id": 43435,
+    "product_name": "Camel Blue Box",
+    "previous_stock": 18,
+    "current_stock": 17,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
