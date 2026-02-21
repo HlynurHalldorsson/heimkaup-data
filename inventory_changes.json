@@ -27434,5 +27434,422 @@
     "product_id": 43088,
     "product_name": "LOOP Smooth Mint 3",
     "last_stock": 3
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-21T20:00:37.046625",
+    "product_id": 43709,
+    "product_name": "Saku Originaal 6x500ml",
+    "stock": 288,
+    "details": {
+      "id": 43709,
+      "code": "30234659",
+      "name": "Saku Originaal 6x500ml",
+      "slug": "saku-6x500ml-43709",
+      "category_id": 4237,
+      "category_name": "All Lagers",
+      "category_path": "Beer > Lager > All Lagers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a2f7e296-9d28-4ffe-912c-36c290bb6c39.webp",
+      "price": 227000,
+      "discount_price": null,
+      "stock": {
+        "H495": 288
+      },
+      "total_stock": 288,
+      "variants": [
+        {
+          "sku": "30234659",
+          "name": "Saku Originaal 6x500ml",
+          "price": 227000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a2f7e296-9d28-4ffe-912c-36c290bb6c39.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a2f7e296-9d28-4ffe-912c-36c290bb6c39_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a2f7e296-9d28-4ffe-912c-36c290bb6c39_thumb.webp"
+            }
+          ],
+          "offerId": 45329,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 288,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-21T20:00:16.038820"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-21T20:00:37.046625",
+    "product_id": 42776,
+    "product_name": "Thule 12x500ml",
+    "previous_stock": 38,
+    "current_stock": 37,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-21T20:00:37.046625",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 22,
+    "current_stock": 20,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-21T20:00:37.046625",
+    "product_id": 42705,
+    "product_name": "Víking Sterkr 6x500ml",
+    "previous_stock": 49,
+    "current_stock": 46,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-21T20:00:37.046625",
+    "product_id": 42701,
+    "product_name": "Tuborg Classic 12x500ml",
+    "previous_stock": 23,
+    "current_stock": 17,
+    "change": -6,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-21T20:00:37.046625",
+    "product_id": 42680,
+    "product_name": "Tuborg Green 12x500ml",
+    "previous_stock": 96,
+    "current_stock": 92,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-21T20:00:37.046625",
+    "product_id": 43056,
+    "product_name": "Boli 12x330ml",
+    "previous_stock": 3,
+    "current_stock": 2,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-21T20:00:37.046625",
+    "product_id": 43710,
+    "product_name": "Krombacher Pils 6x330ml",
+    "stock": 24,
+    "details": {
+      "id": 43710,
+      "code": "30234660",
+      "name": "Krombacher Pils 6x330ml",
+      "slug": "krombacher-6x330ml-43710",
+      "category_id": 4237,
+      "category_name": "All Lagers",
+      "category_path": "Beer > Lager > All Lagers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/de72e918-3d85-4346-b428-c6a3ae70b958.webp",
+      "price": 197000,
+      "discount_price": null,
+      "stock": {
+        "H495": 24
+      },
+      "total_stock": 24,
+      "variants": [
+        {
+          "sku": "30234660",
+          "name": "Krombacher Pils 6x330ml",
+          "price": 197000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/de72e918-3d85-4346-b428-c6a3ae70b958.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/de72e918-3d85-4346-b428-c6a3ae70b958_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/de72e918-3d85-4346-b428-c6a3ae70b958_thumb.webp"
+            }
+          ],
+          "offerId": 45330,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 24,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-21T20:00:16.038820"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-21T20:00:37.046625",
+    "product_id": 43055,
+    "product_name": "Tuborg Classic 12x330ml",
+    "previous_stock": 12,
+    "current_stock": 11,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-21T20:00:37.046625",
+    "product_id": 42569,
+    "product_name": "Heineken 6x330ml (Gler)",
+    "previous_stock": 116,
+    "current_stock": 114,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-21T20:00:37.046625",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 147,
+    "current_stock": 146,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-21T20:00:37.046625",
+    "product_id": 42710,
+    "product_name": "Víking Lite 12x500ml",
+    "previous_stock": 24,
+    "current_stock": 23,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-21T20:00:37.046625",
+    "product_id": 42661,
+    "product_name": "Boli X 12x330ml",
+    "previous_stock": 27,
+    "current_stock": 26,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-21T20:00:37.046625",
+    "product_id": 43658,
+    "product_name": "M.T. Las Mulas Cab.Sauv Org 750 ml",
+    "stock": 5,
+    "details": {
+      "id": 43658,
+      "code": "30234638",
+      "name": "M.T. Las Mulas Cab.Sauv Org 750 ml",
+      "slug": "m-t-las-mulas-cab-sauv-org-750-ml-43658",
+      "category_id": 4250,
+      "category_name": "Cabernet Sauvignon",
+      "category_path": "Wine > Red > Cabernet Sauvignon",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7a67eafb-a99b-4dc1-b791-0d56b9eade94.webp",
+      "price": 259000,
+      "discount_price": null,
+      "stock": {
+        "H495": 5
+      },
+      "total_stock": 5,
+      "variants": [
+        {
+          "sku": "30234638",
+          "name": "M.T. Las Mulas Cab.Sauv Org 750 ml",
+          "price": 259000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7a67eafb-a99b-4dc1-b791-0d56b9eade94.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7a67eafb-a99b-4dc1-b791-0d56b9eade94_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7a67eafb-a99b-4dc1-b791-0d56b9eade94_thumb.webp"
+            }
+          ],
+          "offerId": 45282,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 5,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-21T20:00:17.981492"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-21T20:00:37.046625",
+    "product_id": 42751,
+    "product_name": "Faustino V Reserva 750ml",
+    "previous_stock": 5,
+    "current_stock": 1,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-21T20:00:37.046625",
+    "product_id": 42699,
+    "product_name": "Frontera Chardonnay 3L",
+    "previous_stock": 56,
+    "current_stock": 55,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-21T20:00:37.046625",
+    "product_id": 43670,
+    "product_name": "Peter Mertes Privatkellerei Spätlese Riesling 750ml",
+    "stock": 6,
+    "details": {
+      "id": 43670,
+      "code": "30234650",
+      "name": "Peter Mertes Privatkellerei Spätlese Riesling 750ml",
+      "slug": "peter-mertes-privatkellerei-spatlese-riesling-43670",
+      "category_id": 4332,
+      "category_name": "Riesling",
+      "category_path": "Wine > White > Riesling",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3805d222-3f90-479a-9a5d-716e1c9b4a25.webp",
+      "price": 167000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "30234650",
+          "name": "Peter Mertes Privatkellerei Spätlese Riesling 750ml",
+          "price": 167000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3805d222-3f90-479a-9a5d-716e1c9b4a25.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3805d222-3f90-479a-9a5d-716e1c9b4a25_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3805d222-3f90-479a-9a5d-716e1c9b4a25_thumb.webp"
+            }
+          ],
+          "offerId": 45294,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-21T20:00:21.509189"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-21T20:00:37.046625",
+    "product_id": 42682,
+    "product_name": "Van Gogh Riesling 750ml",
+    "previous_stock": 9,
+    "current_stock": 8,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-21T20:00:37.046625",
+    "product_id": 42804,
+    "product_name": "Villa Lucia Pinot Grigio 750ml",
+    "previous_stock": 36,
+    "current_stock": 34,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-21T20:00:37.046625",
+    "product_id": 42537,
+    "product_name": "Tommasi Le Rosse Pinot Grigio 750ml",
+    "previous_stock": 13,
+    "current_stock": 11,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-21T20:00:37.046625",
+    "product_id": 42692,
+    "product_name": "Martini Prosecco 750ml",
+    "previous_stock": 40,
+    "current_stock": 39,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-21T20:00:37.046625",
+    "product_id": 42797,
+    "product_name": "Absolut Vodka 1L",
+    "previous_stock": 14,
+    "current_stock": 13,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-21T20:00:37.046625",
+    "product_id": 43659,
+    "product_name": "Captain Morgan Spiced Gold 700ml",
+    "stock": 6,
+    "details": {
+      "id": 43659,
+      "code": "30234639",
+      "name": "Captain Morgan Spiced Gold 700ml",
+      "slug": "captain-morgan-spiced-700ml-43659",
+      "category_id": 4278,
+      "category_name": "All Rum",
+      "category_path": "Spirits > Rum > All Rum",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2ae20afe-c1e1-4af1-a4e6-b9242eb4c39d.webp",
+      "price": 769000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "30234639",
+          "name": "Captain Morgan Spiced Gold 700ml",
+          "price": 769000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2ae20afe-c1e1-4af1-a4e6-b9242eb4c39d.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2ae20afe-c1e1-4af1-a4e6-b9242eb4c39d_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2ae20afe-c1e1-4af1-a4e6-b9242eb4c39d_thumb.webp"
+            }
+          ],
+          "offerId": 45283,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-21T20:00:25.049627"
+    }
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-21T20:00:37.046625",
+    "product_id": 43032,
+    "product_name": "Gull Lite Premium 12x500ml",
+    "last_stock": 1
   }
 ]

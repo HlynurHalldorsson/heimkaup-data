@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-02-21T14:48:51.576172",
-  "total_products": 330,
+  "timestamp": "2026-02-21T20:00:37.048166",
+  "total_products": 334,
   "products": [
     {
       "id": 42703,
@@ -44,7 +44,46 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.007561"
+      "last_updated": "2026-02-21T20:00:16.038820"
+    },
+    {
+      "id": 43709,
+      "code": "30234659",
+      "name": "Saku Originaal 6x500ml",
+      "slug": "saku-6x500ml-43709",
+      "category_id": 4237,
+      "category_name": "All Lagers",
+      "category_path": "Beer > Lager > All Lagers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a2f7e296-9d28-4ffe-912c-36c290bb6c39.webp",
+      "price": 227000,
+      "discount_price": null,
+      "stock": {
+        "H495": 288
+      },
+      "total_stock": 288,
+      "variants": [
+        {
+          "sku": "30234659",
+          "name": "Saku Originaal 6x500ml",
+          "price": 227000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a2f7e296-9d28-4ffe-912c-36c290bb6c39.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a2f7e296-9d28-4ffe-912c-36c290bb6c39_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a2f7e296-9d28-4ffe-912c-36c290bb6c39_thumb.webp"
+            }
+          ],
+          "offerId": 45329,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 288,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-21T20:00:16.038820"
     },
     {
       "id": 42776,
@@ -58,9 +97,9 @@
       "price": 589000,
       "discount_price": null,
       "stock": {
-        "H495": 38
+        "H495": 37
       },
-      "total_stock": 38,
+      "total_stock": 37,
       "variants": [
         {
           "sku": "30230913",
@@ -77,13 +116,13 @@
           "offerId": 44101,
           "sorting": 0,
           "property": "volume",
-          "sellable": 38,
+          "sellable": 37,
           "discountPrice": null,
           "localeChoices": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.007561"
+      "last_updated": "2026-02-21T20:00:16.038820"
     },
     {
       "id": 42709,
@@ -122,7 +161,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.007561"
+      "last_updated": "2026-02-21T20:00:16.038820"
     },
     {
       "id": 42696,
@@ -136,9 +175,9 @@
       "price": 619000,
       "discount_price": null,
       "stock": {
-        "H495": 22
+        "H495": 20
       },
-      "total_stock": 22,
+      "total_stock": 20,
       "variants": [
         {
           "sku": "30230821",
@@ -160,13 +199,13 @@
           "offerId": 44029,
           "sorting": 5,
           "property": "volume",
-          "sellable": 22,
+          "sellable": 20,
           "discountPrice": null,
           "localeChoices": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.007561"
+      "last_updated": "2026-02-21T20:00:16.038820"
     },
     {
       "id": 42733,
@@ -205,7 +244,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.007561"
+      "last_updated": "2026-02-21T20:00:16.038820"
     },
     {
       "id": 42705,
@@ -219,9 +258,9 @@
       "price": 399000,
       "discount_price": null,
       "stock": {
-        "H495": 49
+        "H495": 46
       },
-      "total_stock": 49,
+      "total_stock": 46,
       "variants": [
         {
           "sku": "30230839",
@@ -238,13 +277,13 @@
           "offerId": 44038,
           "sorting": 0,
           "property": "volume",
-          "sellable": 49,
+          "sellable": 46,
           "discountPrice": null,
           "localeChoices": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.007561"
+      "last_updated": "2026-02-21T20:00:16.038820"
     },
     {
       "id": 42701,
@@ -258,9 +297,9 @@
       "price": 569000,
       "discount_price": null,
       "stock": {
-        "H495": 23
+        "H495": 17
       },
-      "total_stock": 23,
+      "total_stock": 17,
       "variants": [
         {
           "sku": "30230824",
@@ -282,13 +321,13 @@
           "offerId": 44030,
           "sorting": 0,
           "property": "volume",
-          "sellable": 23,
+          "sellable": 17,
           "discountPrice": null,
           "localeChoices": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.007561"
+      "last_updated": "2026-02-21T20:00:16.038820"
     },
     {
       "id": 42680,
@@ -302,9 +341,9 @@
       "price": 459000,
       "discount_price": null,
       "stock": {
-        "H495": 96
+        "H495": 92
       },
-      "total_stock": 96,
+      "total_stock": 92,
       "variants": [
         {
           "sku": "30230819",
@@ -326,13 +365,13 @@
           "offerId": 44020,
           "sorting": 0,
           "property": "volume",
-          "sellable": 96,
+          "sellable": 92,
           "discountPrice": null,
           "localeChoices": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.007561"
+      "last_updated": "2026-02-21T20:00:16.038820"
     },
     {
       "id": 42720,
@@ -376,7 +415,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.007561"
+      "last_updated": "2026-02-21T20:00:16.038820"
     },
     {
       "id": 42614,
@@ -415,7 +454,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.007561"
+      "last_updated": "2026-02-21T20:00:16.038820"
     },
     {
       "id": 42616,
@@ -454,7 +493,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.007561"
+      "last_updated": "2026-02-21T20:00:16.038820"
     },
     {
       "id": 42609,
@@ -493,7 +532,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.007561"
+      "last_updated": "2026-02-21T20:00:16.038820"
     },
     {
       "id": 42608,
@@ -532,7 +571,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.007561"
+      "last_updated": "2026-02-21T20:00:16.038820"
     },
     {
       "id": 42576,
@@ -571,7 +610,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.007561"
+      "last_updated": "2026-02-21T20:00:16.038820"
     },
     {
       "id": 43362,
@@ -610,7 +649,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.007561"
+      "last_updated": "2026-02-21T20:00:16.038820"
     },
     {
       "id": 42533,
@@ -649,7 +688,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.007561"
+      "last_updated": "2026-02-21T20:00:16.038820"
     },
     {
       "id": 43056,
@@ -663,9 +702,9 @@
       "price": 519000,
       "discount_price": null,
       "stock": {
-        "H495": 3
+        "H495": 2
       },
-      "total_stock": 3,
+      "total_stock": 2,
       "variants": [
         {
           "sku": "30233866",
@@ -682,13 +721,52 @@
           "offerId": 44564,
           "sorting": 0,
           "property": "volume",
-          "sellable": 3,
+          "sellable": 2,
           "discountPrice": null,
           "localeChoices": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.007561"
+      "last_updated": "2026-02-21T20:00:16.038820"
+    },
+    {
+      "id": 43710,
+      "code": "30234660",
+      "name": "Krombacher Pils 6x330ml",
+      "slug": "krombacher-6x330ml-43710",
+      "category_id": 4237,
+      "category_name": "All Lagers",
+      "category_path": "Beer > Lager > All Lagers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/de72e918-3d85-4346-b428-c6a3ae70b958.webp",
+      "price": 197000,
+      "discount_price": null,
+      "stock": {
+        "H495": 24
+      },
+      "total_stock": 24,
+      "variants": [
+        {
+          "sku": "30234660",
+          "name": "Krombacher Pils 6x330ml",
+          "price": 197000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/de72e918-3d85-4346-b428-c6a3ae70b958.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/de72e918-3d85-4346-b428-c6a3ae70b958_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/de72e918-3d85-4346-b428-c6a3ae70b958_thumb.webp"
+            }
+          ],
+          "offerId": 45330,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 24,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-21T20:00:16.038820"
     },
     {
       "id": 43058,
@@ -727,7 +805,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.007561"
+      "last_updated": "2026-02-21T20:00:16.038820"
     },
     {
       "id": 43055,
@@ -741,9 +819,9 @@
       "price": 449000,
       "discount_price": null,
       "stock": {
-        "H495": 12
+        "H495": 11
       },
-      "total_stock": 12,
+      "total_stock": 11,
       "variants": [
         {
           "sku": "30216183",
@@ -760,13 +838,13 @@
           "offerId": 44554,
           "sorting": 0,
           "property": "volume",
-          "sellable": 12,
+          "sellable": 11,
           "discountPrice": null,
           "localeChoices": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.007561"
+      "last_updated": "2026-02-21T20:00:16.038820"
     },
     {
       "id": 43010,
@@ -805,7 +883,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.007561"
+      "last_updated": "2026-02-21T20:00:16.038820"
     },
     {
       "id": 42822,
@@ -844,7 +922,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.007561"
+      "last_updated": "2026-02-21T20:00:16.038820"
     },
     {
       "id": 42805,
@@ -883,7 +961,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.007561"
+      "last_updated": "2026-02-21T20:00:16.038820"
     },
     {
       "id": 42715,
@@ -927,7 +1005,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.007561"
+      "last_updated": "2026-02-21T20:00:16.038820"
     },
     {
       "id": 42708,
@@ -971,7 +1049,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.007561"
+      "last_updated": "2026-02-21T20:00:16.038820"
     },
     {
       "id": 42669,
@@ -1010,7 +1088,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.007561"
+      "last_updated": "2026-02-21T20:00:16.038820"
     },
     {
       "id": 42574,
@@ -1049,7 +1127,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.007561"
+      "last_updated": "2026-02-21T20:00:16.038820"
     },
     {
       "id": 42597,
@@ -1088,7 +1166,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.007561"
+      "last_updated": "2026-02-21T20:00:16.038820"
     },
     {
       "id": 42588,
@@ -1127,7 +1205,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.007561"
+      "last_updated": "2026-02-21T20:00:16.038820"
     },
     {
       "id": 42564,
@@ -1166,7 +1244,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.007561"
+      "last_updated": "2026-02-21T20:00:16.038820"
     },
     {
       "id": 42716,
@@ -1205,7 +1283,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.007561"
+      "last_updated": "2026-02-21T20:00:16.038820"
     },
     {
       "id": 42636,
@@ -1244,7 +1322,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.007561"
+      "last_updated": "2026-02-21T20:00:16.038820"
     },
     {
       "id": 42657,
@@ -1283,7 +1361,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.007561"
+      "last_updated": "2026-02-21T20:00:16.038820"
     },
     {
       "id": 42755,
@@ -1322,7 +1400,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.007561"
+      "last_updated": "2026-02-21T20:00:16.038820"
     },
     {
       "id": 42741,
@@ -1361,7 +1439,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.007561"
+      "last_updated": "2026-02-21T20:00:16.038820"
     },
     {
       "id": 42722,
@@ -1400,7 +1478,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.007561"
+      "last_updated": "2026-02-21T20:00:16.038820"
     },
     {
       "id": 42569,
@@ -1414,9 +1492,9 @@
       "price": 209000,
       "discount_price": 199000,
       "stock": {
-        "H495": 116
+        "H495": 114
       },
-      "total_stock": 116,
+      "total_stock": 114,
       "variants": [
         {
           "sku": "30230581",
@@ -1433,13 +1511,13 @@
           "offerId": 43866,
           "sorting": 0,
           "property": "volume",
-          "sellable": 116,
+          "sellable": 114,
           "discountPrice": 199000,
           "localeChoices": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.007561"
+      "last_updated": "2026-02-21T20:00:16.038820"
     },
     {
       "id": 42686,
@@ -1453,9 +1531,9 @@
       "price": 569000,
       "discount_price": null,
       "stock": {
-        "H495": 147
+        "H495": 146
       },
-      "total_stock": 147,
+      "total_stock": 146,
       "variants": [
         {
           "sku": "30230823",
@@ -1477,52 +1555,13 @@
           "offerId": 44039,
           "sorting": 0,
           "property": "volume",
-          "sellable": 147,
+          "sellable": 146,
           "discountPrice": null,
           "localeChoices": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.548151"
-    },
-    {
-      "id": 43032,
-      "code": "30230708",
-      "name": "Gull Lite Premium 12x500ml",
-      "slug": "gull-lite-premium-12x500ml-43032",
-      "category_id": 2724,
-      "category_name": "All Lite Beers",
-      "category_path": "Beer > Lite > All Lite Beers",
-      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d0f37084-d269-4afc-bc3d-31743c0befa8.webp",
-      "price": 619000,
-      "discount_price": null,
-      "stock": {
-        "H495": 1
-      },
-      "total_stock": 1,
-      "variants": [
-        {
-          "sku": "30230708",
-          "name": "Gull Lite Premium 12x500ml",
-          "price": 619000,
-          "value": "500ml",
-          "images": [
-            {
-              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d0f37084-d269-4afc-bc3d-31743c0befa8.webp",
-              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d0f37084-d269-4afc-bc3d-31743c0befa8_orig.png",
-              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d0f37084-d269-4afc-bc3d-31743c0befa8_thumb.webp"
-            }
-          ],
-          "offerId": 44529,
-          "sorting": 0,
-          "property": "volume",
-          "sellable": 1,
-          "discountPrice": null,
-          "localeChoices": null,
-          "isBackorderAvailable": false
-        }
-      ],
-      "last_updated": "2026-02-21T14:48:35.548151"
+      "last_updated": "2026-02-21T20:00:16.385236"
     },
     {
       "id": 42710,
@@ -1536,9 +1575,9 @@
       "price": 539000,
       "discount_price": null,
       "stock": {
-        "H495": 24
+        "H495": 23
       },
-      "total_stock": 24,
+      "total_stock": 23,
       "variants": [
         {
           "sku": "30230831",
@@ -1555,13 +1594,13 @@
           "offerId": 44008,
           "sorting": 0,
           "property": "volume",
-          "sellable": 24,
+          "sellable": 23,
           "discountPrice": null,
           "localeChoices": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.548151"
+      "last_updated": "2026-02-21T20:00:16.385236"
     },
     {
       "id": 42615,
@@ -1605,7 +1644,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.548151"
+      "last_updated": "2026-02-21T20:00:16.385236"
     },
     {
       "id": 42508,
@@ -1649,7 +1688,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.548151"
+      "last_updated": "2026-02-21T20:00:16.385236"
     },
     {
       "id": 42782,
@@ -1688,7 +1727,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.548151"
+      "last_updated": "2026-02-21T20:00:16.385236"
     },
     {
       "id": 42707,
@@ -1727,7 +1766,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.548151"
+      "last_updated": "2026-02-21T20:00:16.385236"
     },
     {
       "id": 42661,
@@ -1741,9 +1780,9 @@
       "price": 479000,
       "discount_price": null,
       "stock": {
-        "H495": 27
+        "H495": 26
       },
-      "total_stock": 27,
+      "total_stock": 26,
       "variants": [
         {
           "sku": "30230734",
@@ -1760,13 +1799,13 @@
           "offerId": 43981,
           "sorting": 0,
           "property": "volume",
-          "sellable": 27,
+          "sellable": 26,
           "discountPrice": null,
           "localeChoices": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.548151"
+      "last_updated": "2026-02-21T20:00:16.385236"
     },
     {
       "id": 42666,
@@ -1805,7 +1844,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.548151"
+      "last_updated": "2026-02-21T20:00:16.385236"
     },
     {
       "id": 42605,
@@ -1849,7 +1888,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.548151"
+      "last_updated": "2026-02-21T20:00:16.385236"
     },
     {
       "id": 42624,
@@ -1893,7 +1932,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.548151"
+      "last_updated": "2026-02-21T20:00:16.385236"
     },
     {
       "id": 42620,
@@ -1932,7 +1971,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.956749"
+      "last_updated": "2026-02-21T20:00:16.879606"
     },
     {
       "id": 43034,
@@ -1971,7 +2010,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.956749"
+      "last_updated": "2026-02-21T20:00:16.879606"
     },
     {
       "id": 43029,
@@ -2010,7 +2049,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.956749"
+      "last_updated": "2026-02-21T20:00:16.879606"
     },
     {
       "id": 42803,
@@ -2049,7 +2088,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.956749"
+      "last_updated": "2026-02-21T20:00:16.879606"
     },
     {
       "id": 42801,
@@ -2088,7 +2127,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.956749"
+      "last_updated": "2026-02-21T20:00:16.879606"
     },
     {
       "id": 42649,
@@ -2127,7 +2166,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.956749"
+      "last_updated": "2026-02-21T20:00:16.879606"
     },
     {
       "id": 42659,
@@ -2166,7 +2205,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.956749"
+      "last_updated": "2026-02-21T20:00:16.879606"
     },
     {
       "id": 43054,
@@ -2205,7 +2244,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.956749"
+      "last_updated": "2026-02-21T20:00:16.879606"
     },
     {
       "id": 43007,
@@ -2244,7 +2283,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:35.956749"
+      "last_updated": "2026-02-21T20:00:16.879606"
     },
     {
       "id": 43046,
@@ -2283,7 +2322,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:36.413225"
+      "last_updated": "2026-02-21T20:00:17.400374"
     },
     {
       "id": 43057,
@@ -2322,7 +2361,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:36.413225"
+      "last_updated": "2026-02-21T20:00:17.400374"
     },
     {
       "id": 42612,
@@ -2361,7 +2400,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:36.413225"
+      "last_updated": "2026-02-21T20:00:17.400374"
     },
     {
       "id": 43044,
@@ -2400,7 +2439,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:36.413225"
+      "last_updated": "2026-02-21T20:00:17.400374"
     },
     {
       "id": 42859,
@@ -2439,7 +2478,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:36.703846"
+      "last_updated": "2026-02-21T20:00:17.695194"
     },
     {
       "id": 42760,
@@ -2478,7 +2517,46 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:37.080843"
+      "last_updated": "2026-02-21T20:00:17.981492"
+    },
+    {
+      "id": 43658,
+      "code": "30234638",
+      "name": "M.T. Las Mulas Cab.Sauv Org 750 ml",
+      "slug": "m-t-las-mulas-cab-sauv-org-750-ml-43658",
+      "category_id": 4250,
+      "category_name": "Cabernet Sauvignon",
+      "category_path": "Wine > Red > Cabernet Sauvignon",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7a67eafb-a99b-4dc1-b791-0d56b9eade94.webp",
+      "price": 259000,
+      "discount_price": null,
+      "stock": {
+        "H495": 5
+      },
+      "total_stock": 5,
+      "variants": [
+        {
+          "sku": "30234638",
+          "name": "M.T. Las Mulas Cab.Sauv Org 750 ml",
+          "price": 259000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7a67eafb-a99b-4dc1-b791-0d56b9eade94.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7a67eafb-a99b-4dc1-b791-0d56b9eade94_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7a67eafb-a99b-4dc1-b791-0d56b9eade94_thumb.webp"
+            }
+          ],
+          "offerId": 45282,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 5,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-21T20:00:17.981492"
     },
     {
       "id": 42813,
@@ -2517,7 +2595,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:37.080843"
+      "last_updated": "2026-02-21T20:00:17.981492"
     },
     {
       "id": 42761,
@@ -2556,7 +2634,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:37.080843"
+      "last_updated": "2026-02-21T20:00:17.981492"
     },
     {
       "id": 42754,
@@ -2595,7 +2673,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:37.080843"
+      "last_updated": "2026-02-21T20:00:17.981492"
     },
     {
       "id": 42728,
@@ -2634,7 +2712,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:37.080843"
+      "last_updated": "2026-02-21T20:00:17.981492"
     },
     {
       "id": 42740,
@@ -2673,7 +2751,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:37.080843"
+      "last_updated": "2026-02-21T20:00:17.981492"
     },
     {
       "id": 42736,
@@ -2712,7 +2790,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:37.080843"
+      "last_updated": "2026-02-21T20:00:17.981492"
     },
     {
       "id": 42688,
@@ -2751,7 +2829,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:37.080843"
+      "last_updated": "2026-02-21T20:00:17.981492"
     },
     {
       "id": 42712,
@@ -2790,7 +2868,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:37.080843"
+      "last_updated": "2026-02-21T20:00:17.981492"
     },
     {
       "id": 42704,
@@ -2829,7 +2907,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:37.080843"
+      "last_updated": "2026-02-21T20:00:17.981492"
     },
     {
       "id": 42668,
@@ -2868,7 +2946,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:37.080843"
+      "last_updated": "2026-02-21T20:00:17.981492"
     },
     {
       "id": 42641,
@@ -2907,7 +2985,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:37.080843"
+      "last_updated": "2026-02-21T20:00:17.981492"
     },
     {
       "id": 42664,
@@ -2946,7 +3024,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:37.080843"
+      "last_updated": "2026-02-21T20:00:17.981492"
     },
     {
       "id": 42662,
@@ -2985,7 +3063,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:37.080843"
+      "last_updated": "2026-02-21T20:00:17.981492"
     },
     {
       "id": 42632,
@@ -3024,7 +3102,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:37.080843"
+      "last_updated": "2026-02-21T20:00:17.981492"
     },
     {
       "id": 42601,
@@ -3063,7 +3141,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:37.080843"
+      "last_updated": "2026-02-21T20:00:17.981492"
     },
     {
       "id": 42577,
@@ -3102,7 +3180,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:37.080843"
+      "last_updated": "2026-02-21T20:00:17.981492"
     },
     {
       "id": 42583,
@@ -3141,7 +3219,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:37.080843"
+      "last_updated": "2026-02-21T20:00:17.981492"
     },
     {
       "id": 42667,
@@ -3180,7 +3258,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:37.080843"
+      "last_updated": "2026-02-21T20:00:17.981492"
     },
     {
       "id": 43004,
@@ -3219,7 +3297,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:37.080843"
+      "last_updated": "2026-02-21T20:00:17.981492"
     },
     {
       "id": 42730,
@@ -3258,7 +3336,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:37.080843"
+      "last_updated": "2026-02-21T20:00:17.981492"
     },
     {
       "id": 42685,
@@ -3297,7 +3375,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:37.080843"
+      "last_updated": "2026-02-21T20:00:17.981492"
     },
     {
       "id": 42683,
@@ -3336,7 +3414,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:37.080843"
+      "last_updated": "2026-02-21T20:00:17.981492"
     },
     {
       "id": 42603,
@@ -3375,7 +3453,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:37.080843"
+      "last_updated": "2026-02-21T20:00:17.981492"
     },
     {
       "id": 42744,
@@ -3414,7 +3492,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:37.595899"
+      "last_updated": "2026-02-21T20:00:18.281100"
     },
     {
       "id": 42584,
@@ -3453,7 +3531,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:37.595899"
+      "last_updated": "2026-02-21T20:00:18.281100"
     },
     {
       "id": 42557,
@@ -3492,7 +3570,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:37.876190"
+      "last_updated": "2026-02-21T20:00:18.583718"
     },
     {
       "id": 42724,
@@ -3531,7 +3609,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:37.876190"
+      "last_updated": "2026-02-21T20:00:18.583718"
     },
     {
       "id": 42644,
@@ -3570,7 +3648,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:37.876190"
+      "last_updated": "2026-02-21T20:00:18.583718"
     },
     {
       "id": 42581,
@@ -3609,7 +3687,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:37.876190"
+      "last_updated": "2026-02-21T20:00:18.583718"
     },
     {
       "id": 43042,
@@ -3648,7 +3726,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:38.416404"
+      "last_updated": "2026-02-21T20:00:18.869698"
     },
     {
       "id": 42748,
@@ -3687,7 +3765,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:38.416404"
+      "last_updated": "2026-02-21T20:00:18.869698"
     },
     {
       "id": 42941,
@@ -3726,7 +3804,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:38.821593"
+      "last_updated": "2026-02-21T20:00:19.187025"
     },
     {
       "id": 42675,
@@ -3765,7 +3843,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:38.821593"
+      "last_updated": "2026-02-21T20:00:19.187025"
     },
     {
       "id": 42653,
@@ -3804,7 +3882,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:38.821593"
+      "last_updated": "2026-02-21T20:00:19.187025"
     },
     {
       "id": 42599,
@@ -3843,7 +3921,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:38.821593"
+      "last_updated": "2026-02-21T20:00:19.187025"
     },
     {
       "id": 42650,
@@ -3882,7 +3960,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:38.821593"
+      "last_updated": "2026-02-21T20:00:19.187025"
     },
     {
       "id": 43043,
@@ -3921,7 +3999,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:38.821593"
+      "last_updated": "2026-02-21T20:00:19.187025"
     },
     {
       "id": 42943,
@@ -3960,7 +4038,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:38.821593"
+      "last_updated": "2026-02-21T20:00:19.187025"
     },
     {
       "id": 42942,
@@ -3999,7 +4077,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:38.821593"
+      "last_updated": "2026-02-21T20:00:19.187025"
     },
     {
       "id": 42939,
@@ -4038,7 +4116,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:38.821593"
+      "last_updated": "2026-02-21T20:00:19.187025"
     },
     {
       "id": 42774,
@@ -4077,7 +4155,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:38.821593"
+      "last_updated": "2026-02-21T20:00:19.187025"
     },
     {
       "id": 42751,
@@ -4091,9 +4169,9 @@
       "price": 369000,
       "discount_price": null,
       "stock": {
-        "H495": 5
+        "H495": 1
       },
-      "total_stock": 5,
+      "total_stock": 1,
       "variants": [
         {
           "sku": "30230903",
@@ -4110,13 +4188,13 @@
           "offerId": 44065,
           "sorting": 0,
           "property": "volume",
-          "sellable": 5,
+          "sellable": 1,
           "discountPrice": null,
           "localeChoices": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:38.821593"
+      "last_updated": "2026-02-21T20:00:19.187025"
     },
     {
       "id": 42711,
@@ -4155,7 +4233,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:38.821593"
+      "last_updated": "2026-02-21T20:00:19.187025"
     },
     {
       "id": 42681,
@@ -4194,7 +4272,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:38.821593"
+      "last_updated": "2026-02-21T20:00:19.187025"
     },
     {
       "id": 42663,
@@ -4233,7 +4311,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:38.821593"
+      "last_updated": "2026-02-21T20:00:19.187025"
     },
     {
       "id": 42654,
@@ -4272,7 +4350,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:38.821593"
+      "last_updated": "2026-02-21T20:00:19.187025"
     },
     {
       "id": 42580,
@@ -4311,7 +4389,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:38.821593"
+      "last_updated": "2026-02-21T20:00:19.187025"
     },
     {
       "id": 42646,
@@ -4350,7 +4428,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:38.821593"
+      "last_updated": "2026-02-21T20:00:19.187025"
     },
     {
       "id": 42627,
@@ -4389,7 +4467,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:38.821593"
+      "last_updated": "2026-02-21T20:00:19.187025"
     },
     {
       "id": 43205,
@@ -4428,7 +4506,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:39.336279"
+      "last_updated": "2026-02-21T20:00:19.503895"
     },
     {
       "id": 43015,
@@ -4446,7 +4524,7 @@
       },
       "total_stock": 1,
       "variants": [],
-      "last_updated": "2026-02-21T14:48:39.336279"
+      "last_updated": "2026-02-21T20:00:19.503895"
     },
     {
       "id": 42539,
@@ -4485,7 +4563,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:39.336279"
+      "last_updated": "2026-02-21T20:00:19.503895"
     },
     {
       "id": 42642,
@@ -4524,7 +4602,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:39.744866"
+      "last_updated": "2026-02-21T20:00:19.993263"
     },
     {
       "id": 42593,
@@ -4563,7 +4641,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:39.744866"
+      "last_updated": "2026-02-21T20:00:19.993263"
     },
     {
       "id": 43048,
@@ -4602,7 +4680,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:39.744866"
+      "last_updated": "2026-02-21T20:00:19.993263"
     },
     {
       "id": 42815,
@@ -4641,7 +4719,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:39.744866"
+      "last_updated": "2026-02-21T20:00:19.993263"
     },
     {
       "id": 42628,
@@ -4680,7 +4758,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:39.744866"
+      "last_updated": "2026-02-21T20:00:19.993263"
     },
     {
       "id": 42542,
@@ -4719,7 +4797,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:39.744866"
+      "last_updated": "2026-02-21T20:00:19.993263"
     },
     {
       "id": 42998,
@@ -4758,7 +4836,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:39.744866"
+      "last_updated": "2026-02-21T20:00:19.993263"
     },
     {
       "id": 43063,
@@ -4797,7 +4875,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:40.065651"
+      "last_updated": "2026-02-21T20:00:20.489010"
     },
     {
       "id": 42766,
@@ -4836,7 +4914,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:40.065651"
+      "last_updated": "2026-02-21T20:00:20.489010"
     },
     {
       "id": 42731,
@@ -4875,7 +4953,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:40.065651"
+      "last_updated": "2026-02-21T20:00:20.489010"
     },
     {
       "id": 42690,
@@ -4914,7 +4992,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:40.065651"
+      "last_updated": "2026-02-21T20:00:20.489010"
     },
     {
       "id": 42643,
@@ -4953,7 +5031,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:40.065651"
+      "last_updated": "2026-02-21T20:00:20.489010"
     },
     {
       "id": 42610,
@@ -4992,7 +5070,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:40.065651"
+      "last_updated": "2026-02-21T20:00:20.489010"
     },
     {
       "id": 42767,
@@ -5031,7 +5109,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:40.065651"
+      "last_updated": "2026-02-21T20:00:20.489010"
     },
     {
       "id": 42771,
@@ -5070,14 +5148,14 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:40.325021"
+      "last_updated": "2026-02-21T20:00:20.965719"
     },
     {
       "id": 42693,
       "code": "30230832",
       "name": "Faustino VII Blanco 750ml",
       "slug": "faustino-vii-bianco-750ml-42693",
-      "category_id": 2726,
+      "category_id": 4252,
       "category_name": "Sauvignon Blanc",
       "category_path": "Wine > White > Sauvignon Blanc",
       "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/29f44bb6-b91b-4474-8c14-20ad060c49ed.webp",
@@ -5109,7 +5187,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:40.325021"
+      "last_updated": "2026-02-21T20:00:20.965719"
     },
     {
       "id": 42633,
@@ -5148,7 +5226,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:40.325021"
+      "last_updated": "2026-02-21T20:00:20.965719"
     },
     {
       "id": 42541,
@@ -5187,7 +5265,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:40.325021"
+      "last_updated": "2026-02-21T20:00:20.965719"
     },
     {
       "id": 42810,
@@ -5226,7 +5304,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:40.325021"
+      "last_updated": "2026-02-21T20:00:20.965719"
     },
     {
       "id": 42762,
@@ -5265,7 +5343,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:40.325021"
+      "last_updated": "2026-02-21T20:00:20.965719"
     },
     {
       "id": 42758,
@@ -5304,7 +5382,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:40.325021"
+      "last_updated": "2026-02-21T20:00:20.965719"
     },
     {
       "id": 42677,
@@ -5343,7 +5421,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:40.325021"
+      "last_updated": "2026-02-21T20:00:20.965719"
     },
     {
       "id": 42684,
@@ -5382,7 +5460,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:40.325021"
+      "last_updated": "2026-02-21T20:00:20.965719"
     },
     {
       "id": 42694,
@@ -5421,7 +5499,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:40.325021"
+      "last_updated": "2026-02-21T20:00:20.965719"
     },
     {
       "id": 42626,
@@ -5460,7 +5538,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:40.325021"
+      "last_updated": "2026-02-21T20:00:20.965719"
     },
     {
       "id": 42623,
@@ -5499,7 +5577,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:40.325021"
+      "last_updated": "2026-02-21T20:00:20.965719"
     },
     {
       "id": 42598,
@@ -5538,7 +5616,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:40.325021"
+      "last_updated": "2026-02-21T20:00:20.965719"
     },
     {
       "id": 42638,
@@ -5577,7 +5655,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:40.325021"
+      "last_updated": "2026-02-21T20:00:20.965719"
     },
     {
       "id": 42687,
@@ -5616,7 +5694,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:40.325021"
+      "last_updated": "2026-02-21T20:00:20.965719"
     },
     {
       "id": 42699,
@@ -5630,9 +5708,9 @@
       "price": 679000,
       "discount_price": null,
       "stock": {
-        "H495": 56
+        "H495": 55
       },
-      "total_stock": 56,
+      "total_stock": 55,
       "variants": [
         {
           "sku": "30230784",
@@ -5649,13 +5727,13 @@
           "offerId": 44042,
           "sorting": 0,
           "property": "volume",
-          "sellable": 56,
+          "sellable": 55,
           "discountPrice": null,
           "localeChoices": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:40.325021"
+      "last_updated": "2026-02-21T20:00:20.965719"
     },
     {
       "id": 42585,
@@ -5694,7 +5772,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:40.325021"
+      "last_updated": "2026-02-21T20:00:20.965719"
     },
     {
       "id": 42607,
@@ -5733,7 +5811,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:40.325021"
+      "last_updated": "2026-02-21T20:00:20.965719"
     },
     {
       "id": 42621,
@@ -5772,7 +5850,46 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:40.325021"
+      "last_updated": "2026-02-21T20:00:20.965719"
+    },
+    {
+      "id": 43670,
+      "code": "30234650",
+      "name": "Peter Mertes Privatkellerei Spätlese Riesling 750ml",
+      "slug": "peter-mertes-privatkellerei-spatlese-riesling-43670",
+      "category_id": 4332,
+      "category_name": "Riesling",
+      "category_path": "Wine > White > Riesling",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3805d222-3f90-479a-9a5d-716e1c9b4a25.webp",
+      "price": 167000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "30234650",
+          "name": "Peter Mertes Privatkellerei Spätlese Riesling 750ml",
+          "price": 167000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3805d222-3f90-479a-9a5d-716e1c9b4a25.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3805d222-3f90-479a-9a5d-716e1c9b4a25_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3805d222-3f90-479a-9a5d-716e1c9b4a25_thumb.webp"
+            }
+          ],
+          "offerId": 45294,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-21T20:00:21.509189"
     },
     {
       "id": 42682,
@@ -5786,9 +5903,9 @@
       "price": 209000,
       "discount_price": null,
       "stock": {
-        "H495": 9
+        "H495": 8
       },
-      "total_stock": 9,
+      "total_stock": 8,
       "variants": [
         {
           "sku": "30230788",
@@ -5805,13 +5922,13 @@
           "offerId": 44011,
           "sorting": 0,
           "property": "volume",
-          "sellable": 9,
+          "sellable": 8,
           "discountPrice": null,
           "localeChoices": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:40.621241"
+      "last_updated": "2026-02-21T20:00:21.509189"
     },
     {
       "id": 42660,
@@ -5850,7 +5967,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:40.850041"
+      "last_updated": "2026-02-21T20:00:21.859139"
     },
     {
       "id": 42804,
@@ -5864,9 +5981,9 @@
       "price": 209000,
       "discount_price": null,
       "stock": {
-        "H495": 36
+        "H495": 34
       },
-      "total_stock": 36,
+      "total_stock": 34,
       "variants": [
         {
           "sku": "30230938",
@@ -5883,13 +6000,13 @@
           "offerId": 44104,
           "sorting": 0,
           "property": "volume",
-          "sellable": 36,
+          "sellable": 34,
           "discountPrice": null,
           "localeChoices": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:40.850041"
+      "last_updated": "2026-02-21T20:00:21.859139"
     },
     {
       "id": 42537,
@@ -5903,9 +6020,9 @@
       "price": 279000,
       "discount_price": null,
       "stock": {
-        "H495": 13
+        "H495": 11
       },
-      "total_stock": 13,
+      "total_stock": 11,
       "variants": [
         {
           "sku": "30230605",
@@ -5922,13 +6039,13 @@
           "offerId": 43900,
           "sorting": 0,
           "property": "volume",
-          "sellable": 13,
+          "sellable": 11,
           "discountPrice": null,
           "localeChoices": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:40.850041"
+      "last_updated": "2026-02-21T20:00:21.859139"
     },
     {
       "id": 43021,
@@ -5967,7 +6084,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:40.850041"
+      "last_updated": "2026-02-21T20:00:21.859139"
     },
     {
       "id": 42575,
@@ -6006,7 +6123,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:41.125392"
+      "last_updated": "2026-02-21T20:00:22.331585"
     },
     {
       "id": 42670,
@@ -6045,7 +6162,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:41.486011"
+      "last_updated": "2026-02-21T20:00:22.624848"
     },
     {
       "id": 43200,
@@ -6084,7 +6201,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:41.486011"
+      "last_updated": "2026-02-21T20:00:22.624848"
     },
     {
       "id": 43064,
@@ -6123,7 +6240,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:41.486011"
+      "last_updated": "2026-02-21T20:00:22.624848"
     },
     {
       "id": 43019,
@@ -6162,7 +6279,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:41.486011"
+      "last_updated": "2026-02-21T20:00:22.624848"
     },
     {
       "id": 43005,
@@ -6201,7 +6318,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:41.486011"
+      "last_updated": "2026-02-21T20:00:22.624848"
     },
     {
       "id": 42526,
@@ -6240,7 +6357,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:41.997439"
+      "last_updated": "2026-02-21T20:00:23.047212"
     },
     {
       "id": 42540,
@@ -6279,7 +6396,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:41.997439"
+      "last_updated": "2026-02-21T20:00:23.047212"
     },
     {
       "id": 42729,
@@ -6318,7 +6435,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:42.405858"
+      "last_updated": "2026-02-21T20:00:23.396069"
     },
     {
       "id": 42692,
@@ -6332,9 +6449,9 @@
       "price": 229000,
       "discount_price": null,
       "stock": {
-        "H495": 40
+        "H495": 39
       },
-      "total_stock": 40,
+      "total_stock": 39,
       "variants": [
         {
           "sku": "30230793",
@@ -6351,13 +6468,13 @@
           "offerId": 44017,
           "sorting": 0,
           "property": "volume",
-          "sellable": 40,
+          "sellable": 39,
           "discountPrice": null,
           "localeChoices": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:42.405858"
+      "last_updated": "2026-02-21T20:00:23.396069"
     },
     {
       "id": 42648,
@@ -6396,7 +6513,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:42.405858"
+      "last_updated": "2026-02-21T20:00:23.396069"
     },
     {
       "id": 42594,
@@ -6435,7 +6552,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:42.405858"
+      "last_updated": "2026-02-21T20:00:23.396069"
     },
     {
       "id": 43203,
@@ -6474,7 +6591,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:42.405858"
+      "last_updated": "2026-02-21T20:00:23.396069"
     },
     {
       "id": 43201,
@@ -6513,7 +6630,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:42.405858"
+      "last_updated": "2026-02-21T20:00:23.396069"
     },
     {
       "id": 42770,
@@ -6552,7 +6669,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:42.405858"
+      "last_updated": "2026-02-21T20:00:23.396069"
     },
     {
       "id": 42737,
@@ -6591,7 +6708,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:42.405858"
+      "last_updated": "2026-02-21T20:00:23.396069"
     },
     {
       "id": 42713,
@@ -6630,7 +6747,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:42.405858"
+      "last_updated": "2026-02-21T20:00:23.396069"
     },
     {
       "id": 42528,
@@ -6669,7 +6786,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:42.405858"
+      "last_updated": "2026-02-21T20:00:23.396069"
     },
     {
       "id": 42723,
@@ -6708,7 +6825,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:42.405858"
+      "last_updated": "2026-02-21T20:00:23.396069"
     },
     {
       "id": 42679,
@@ -6747,7 +6864,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:42.405858"
+      "last_updated": "2026-02-21T20:00:23.396069"
     },
     {
       "id": 42672,
@@ -6786,7 +6903,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:42.405858"
+      "last_updated": "2026-02-21T20:00:23.396069"
     },
     {
       "id": 42658,
@@ -6825,7 +6942,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:42.405858"
+      "last_updated": "2026-02-21T20:00:23.396069"
     },
     {
       "id": 42652,
@@ -6864,7 +6981,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:42.405858"
+      "last_updated": "2026-02-21T20:00:23.396069"
     },
     {
       "id": 42559,
@@ -6903,7 +7020,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:42.817504"
+      "last_updated": "2026-02-21T20:00:23.782771"
     },
     {
       "id": 42606,
@@ -6942,7 +7059,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:42.817504"
+      "last_updated": "2026-02-21T20:00:23.782771"
     },
     {
       "id": 42602,
@@ -6981,7 +7098,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:42.817504"
+      "last_updated": "2026-02-21T20:00:23.782771"
     },
     {
       "id": 43017,
@@ -7020,7 +7137,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:42.817504"
+      "last_updated": "2026-02-21T20:00:23.782771"
     },
     {
       "id": 42545,
@@ -7059,7 +7176,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:42.817504"
+      "last_updated": "2026-02-21T20:00:23.782771"
     },
     {
       "id": 42799,
@@ -7098,7 +7215,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:42.817504"
+      "last_updated": "2026-02-21T20:00:23.782771"
     },
     {
       "id": 42734,
@@ -7137,7 +7254,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:42.817504"
+      "last_updated": "2026-02-21T20:00:23.782771"
     },
     {
       "id": 42674,
@@ -7176,7 +7293,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:42.817504"
+      "last_updated": "2026-02-21T20:00:23.782771"
     },
     {
       "id": 42600,
@@ -7215,7 +7332,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:42.817504"
+      "last_updated": "2026-02-21T20:00:23.782771"
     },
     {
       "id": 42797,
@@ -7229,9 +7346,9 @@
       "price": 1079000,
       "discount_price": null,
       "stock": {
-        "H495": 14
+        "H495": 13
       },
-      "total_stock": 14,
+      "total_stock": 13,
       "variants": [
         {
           "sku": "30230931",
@@ -7248,13 +7365,13 @@
           "offerId": 44115,
           "sorting": 0,
           "property": "volume",
-          "sellable": 14,
+          "sellable": 13,
           "discountPrice": null,
           "localeChoices": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:42.817504"
+      "last_updated": "2026-02-21T20:00:23.782771"
     },
     {
       "id": 42572,
@@ -7293,7 +7410,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:42.817504"
+      "last_updated": "2026-02-21T20:00:23.782771"
     },
     {
       "id": 42530,
@@ -7332,7 +7449,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:43.157371"
+      "last_updated": "2026-02-21T20:00:24.094971"
     },
     {
       "id": 42796,
@@ -7371,7 +7488,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:43.157371"
+      "last_updated": "2026-02-21T20:00:24.094971"
     },
     {
       "id": 42759,
@@ -7410,7 +7527,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:43.157371"
+      "last_updated": "2026-02-21T20:00:24.094971"
     },
     {
       "id": 42592,
@@ -7449,7 +7566,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:43.157371"
+      "last_updated": "2026-02-21T20:00:24.094971"
     },
     {
       "id": 42591,
@@ -7488,7 +7605,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:43.157371"
+      "last_updated": "2026-02-21T20:00:24.094971"
     },
     {
       "id": 42529,
@@ -7527,7 +7644,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:43.157371"
+      "last_updated": "2026-02-21T20:00:24.094971"
     },
     {
       "id": 43207,
@@ -7566,7 +7683,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:43.157371"
+      "last_updated": "2026-02-21T20:00:24.094971"
     },
     {
       "id": 42749,
@@ -7605,7 +7722,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:43.157371"
+      "last_updated": "2026-02-21T20:00:24.094971"
     },
     {
       "id": 42738,
@@ -7644,7 +7761,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:43.157371"
+      "last_updated": "2026-02-21T20:00:24.094971"
     },
     {
       "id": 42548,
@@ -7683,7 +7800,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:43.435388"
+      "last_updated": "2026-02-21T20:00:24.432860"
     },
     {
       "id": 43013,
@@ -7722,7 +7839,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:43.435388"
+      "last_updated": "2026-02-21T20:00:24.432860"
     },
     {
       "id": 43011,
@@ -7761,7 +7878,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:43.435388"
+      "last_updated": "2026-02-21T20:00:24.432860"
     },
     {
       "id": 42996,
@@ -7800,7 +7917,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:43.435388"
+      "last_updated": "2026-02-21T20:00:24.432860"
     },
     {
       "id": 42746,
@@ -7839,7 +7956,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:43.435388"
+      "last_updated": "2026-02-21T20:00:24.432860"
     },
     {
       "id": 42765,
@@ -7878,7 +7995,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:43.435388"
+      "last_updated": "2026-02-21T20:00:24.432860"
     },
     {
       "id": 42753,
@@ -7917,7 +8034,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:43.435388"
+      "last_updated": "2026-02-21T20:00:24.432860"
     },
     {
       "id": 42552,
@@ -7956,7 +8073,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:43.435388"
+      "last_updated": "2026-02-21T20:00:24.432860"
     },
     {
       "id": 42697,
@@ -8000,7 +8117,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:43.721945"
+      "last_updated": "2026-02-21T20:00:24.737397"
     },
     {
       "id": 42547,
@@ -8039,7 +8156,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:43.721945"
+      "last_updated": "2026-02-21T20:00:24.737397"
     },
     {
       "id": 42634,
@@ -8078,7 +8195,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:43.721945"
+      "last_updated": "2026-02-21T20:00:24.737397"
     },
     {
       "id": 42992,
@@ -8117,7 +8234,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:43.721945"
+      "last_updated": "2026-02-21T20:00:24.737397"
     },
     {
       "id": 42678,
@@ -8156,7 +8273,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:43.721945"
+      "last_updated": "2026-02-21T20:00:24.737397"
     },
     {
       "id": 42689,
@@ -8195,7 +8312,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:43.721945"
+      "last_updated": "2026-02-21T20:00:24.737397"
     },
     {
       "id": 42582,
@@ -8234,7 +8351,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:43.721945"
+      "last_updated": "2026-02-21T20:00:24.737397"
     },
     {
       "id": 43206,
@@ -8273,7 +8390,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:43.721945"
+      "last_updated": "2026-02-21T20:00:24.737397"
     },
     {
       "id": 43049,
@@ -8312,7 +8429,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:43.721945"
+      "last_updated": "2026-02-21T20:00:24.737397"
     },
     {
       "id": 42745,
@@ -8351,7 +8468,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:43.721945"
+      "last_updated": "2026-02-21T20:00:24.737397"
     },
     {
       "id": 43026,
@@ -8390,7 +8507,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:43.721945"
+      "last_updated": "2026-02-21T20:00:24.737397"
     },
     {
       "id": 42999,
@@ -8429,7 +8546,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:43.721945"
+      "last_updated": "2026-02-21T20:00:24.737397"
     },
     {
       "id": 42560,
@@ -8468,7 +8585,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:43.721945"
+      "last_updated": "2026-02-21T20:00:24.737397"
     },
     {
       "id": 43051,
@@ -8507,7 +8624,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:43.721945"
+      "last_updated": "2026-02-21T20:00:24.737397"
     },
     {
       "id": 42995,
@@ -8546,7 +8663,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:43.721945"
+      "last_updated": "2026-02-21T20:00:24.737397"
     },
     {
       "id": 42777,
@@ -8585,7 +8702,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:43.721945"
+      "last_updated": "2026-02-21T20:00:24.737397"
     },
     {
       "id": 42726,
@@ -8624,7 +8741,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:43.721945"
+      "last_updated": "2026-02-21T20:00:24.737397"
     },
     {
       "id": 42725,
@@ -8663,7 +8780,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:43.721945"
+      "last_updated": "2026-02-21T20:00:24.737397"
     },
     {
       "id": 42527,
@@ -8702,7 +8819,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:43.721945"
+      "last_updated": "2026-02-21T20:00:24.737397"
     },
     {
       "id": 43052,
@@ -8741,7 +8858,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:43.721945"
+      "last_updated": "2026-02-21T20:00:24.737397"
     },
     {
       "id": 42997,
@@ -8780,7 +8897,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:43.721945"
+      "last_updated": "2026-02-21T20:00:24.737397"
     },
     {
       "id": 42993,
@@ -8819,7 +8936,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:43.721945"
+      "last_updated": "2026-02-21T20:00:24.737397"
     },
     {
       "id": 42562,
@@ -8858,7 +8975,46 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:43.992731"
+      "last_updated": "2026-02-21T20:00:25.049627"
+    },
+    {
+      "id": 43659,
+      "code": "30234639",
+      "name": "Captain Morgan Spiced Gold 700ml",
+      "slug": "captain-morgan-spiced-700ml-43659",
+      "category_id": 4278,
+      "category_name": "All Rum",
+      "category_path": "Spirits > Rum > All Rum",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2ae20afe-c1e1-4af1-a4e6-b9242eb4c39d.webp",
+      "price": 769000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "30234639",
+          "name": "Captain Morgan Spiced Gold 700ml",
+          "price": 769000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2ae20afe-c1e1-4af1-a4e6-b9242eb4c39d.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2ae20afe-c1e1-4af1-a4e6-b9242eb4c39d_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2ae20afe-c1e1-4af1-a4e6-b9242eb4c39d_thumb.webp"
+            }
+          ],
+          "offerId": 45283,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-21T20:00:25.049627"
     },
     {
       "id": 42798,
@@ -8897,7 +9053,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:43.992731"
+      "last_updated": "2026-02-21T20:00:25.049627"
     },
     {
       "id": 42587,
@@ -8936,7 +9092,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:43.992731"
+      "last_updated": "2026-02-21T20:00:25.049627"
     },
     {
       "id": 43351,
@@ -8975,7 +9131,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:44.351742"
+      "last_updated": "2026-02-21T20:00:25.468532"
     },
     {
       "id": 43352,
@@ -9014,7 +9170,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:44.351742"
+      "last_updated": "2026-02-21T20:00:25.468532"
     },
     {
       "id": 43353,
@@ -9053,7 +9209,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:44.351742"
+      "last_updated": "2026-02-21T20:00:25.468532"
     },
     {
       "id": 43204,
@@ -9092,7 +9248,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:44.351742"
+      "last_updated": "2026-02-21T20:00:25.468532"
     },
     {
       "id": 43047,
@@ -9131,7 +9287,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:44.351742"
+      "last_updated": "2026-02-21T20:00:25.468532"
     },
     {
       "id": 42994,
@@ -9170,7 +9326,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:44.351742"
+      "last_updated": "2026-02-21T20:00:25.468532"
     },
     {
       "id": 42563,
@@ -9209,7 +9365,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:44.351742"
+      "last_updated": "2026-02-21T20:00:25.468532"
     },
     {
       "id": 43025,
@@ -9248,7 +9404,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:44.666229"
+      "last_updated": "2026-02-21T20:00:25.788199"
     },
     {
       "id": 42700,
@@ -9287,7 +9443,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:44.666229"
+      "last_updated": "2026-02-21T20:00:25.788199"
     },
     {
       "id": 42550,
@@ -9326,7 +9482,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:44.666229"
+      "last_updated": "2026-02-21T20:00:25.788199"
     },
     {
       "id": 42570,
@@ -9365,7 +9521,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:44.908041"
+      "last_updated": "2026-02-21T20:00:26.158629"
     },
     {
       "id": 42555,
@@ -9404,7 +9560,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:44.908041"
+      "last_updated": "2026-02-21T20:00:26.158629"
     },
     {
       "id": 42544,
@@ -9443,7 +9599,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:44.908041"
+      "last_updated": "2026-02-21T20:00:26.158629"
     },
     {
       "id": 42786,
@@ -9482,7 +9638,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:44.908041"
+      "last_updated": "2026-02-21T20:00:26.158629"
     },
     {
       "id": 42613,
@@ -9521,7 +9677,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:44.908041"
+      "last_updated": "2026-02-21T20:00:26.158629"
     },
     {
       "id": 42596,
@@ -9560,7 +9716,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:44.908041"
+      "last_updated": "2026-02-21T20:00:26.158629"
     },
     {
       "id": 43053,
@@ -9599,7 +9755,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:44.908041"
+      "last_updated": "2026-02-21T20:00:26.158629"
     },
     {
       "id": 42618,
@@ -9638,7 +9794,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:44.908041"
+      "last_updated": "2026-02-21T20:00:26.158629"
     },
     {
       "id": 42604,
@@ -9677,7 +9833,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:44.908041"
+      "last_updated": "2026-02-21T20:00:26.158629"
     },
     {
       "id": 42536,
@@ -9716,7 +9872,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:44.908041"
+      "last_updated": "2026-02-21T20:00:26.158629"
     },
     {
       "id": 42820,
@@ -9755,7 +9911,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:44.908041"
+      "last_updated": "2026-02-21T20:00:26.158629"
     },
     {
       "id": 42779,
@@ -9794,7 +9950,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:44.908041"
+      "last_updated": "2026-02-21T20:00:26.158629"
     },
     {
       "id": 42818,
@@ -9833,7 +9989,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:44.908041"
+      "last_updated": "2026-02-21T20:00:26.158629"
     },
     {
       "id": 42808,
@@ -9872,7 +10028,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:44.908041"
+      "last_updated": "2026-02-21T20:00:26.158629"
     },
     {
       "id": 42793,
@@ -9911,7 +10067,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:44.908041"
+      "last_updated": "2026-02-21T20:00:26.158629"
     },
     {
       "id": 42788,
@@ -9950,7 +10106,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:44.908041"
+      "last_updated": "2026-02-21T20:00:26.158629"
     },
     {
       "id": 42673,
@@ -9994,7 +10150,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:45.173778"
+      "last_updated": "2026-02-21T20:00:26.489703"
     },
     {
       "id": 42651,
@@ -10038,7 +10194,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:45.173778"
+      "last_updated": "2026-02-21T20:00:26.489703"
     },
     {
       "id": 42630,
@@ -10082,7 +10238,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:45.173778"
+      "last_updated": "2026-02-21T20:00:26.489703"
     },
     {
       "id": 43199,
@@ -10121,7 +10277,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:45.173778"
+      "last_updated": "2026-02-21T20:00:26.489703"
     },
     {
       "id": 42795,
@@ -10160,7 +10316,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:45.173778"
+      "last_updated": "2026-02-21T20:00:26.489703"
     },
     {
       "id": 43009,
@@ -10199,7 +10355,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:45.534350"
+      "last_updated": "2026-02-21T20:00:26.770297"
     },
     {
       "id": 43033,
@@ -10238,7 +10394,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:45.991552"
+      "last_updated": "2026-02-21T20:00:27.078946"
     },
     {
       "id": 43000,
@@ -10277,7 +10433,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:45.991552"
+      "last_updated": "2026-02-21T20:00:27.078946"
     },
     {
       "id": 42794,
@@ -10316,7 +10472,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:45.991552"
+      "last_updated": "2026-02-21T20:00:27.078946"
     },
     {
       "id": 43001,
@@ -10334,7 +10490,7 @@
       },
       "total_stock": 6,
       "variants": [],
-      "last_updated": "2026-02-21T14:48:46.278916"
+      "last_updated": "2026-02-21T20:00:27.398893"
     },
     {
       "id": 42812,
@@ -10373,7 +10529,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:46.278916"
+      "last_updated": "2026-02-21T20:00:27.398893"
     },
     {
       "id": 43002,
@@ -10412,7 +10568,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:46.278916"
+      "last_updated": "2026-02-21T20:00:27.398893"
     },
     {
       "id": 43083,
@@ -10451,7 +10607,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:46.573837"
+      "last_updated": "2026-02-21T20:00:27.746420"
     },
     {
       "id": 43082,
@@ -10490,7 +10646,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:46.573837"
+      "last_updated": "2026-02-21T20:00:27.746420"
     },
     {
       "id": 43073,
@@ -10529,7 +10685,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:46.573837"
+      "last_updated": "2026-02-21T20:00:27.746420"
     },
     {
       "id": 43072,
@@ -10568,7 +10724,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:46.573837"
+      "last_updated": "2026-02-21T20:00:27.746420"
     },
     {
       "id": 43071,
@@ -10607,7 +10763,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:46.573837"
+      "last_updated": "2026-02-21T20:00:27.746420"
     },
     {
       "id": 43081,
@@ -10646,7 +10802,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:46.820265"
+      "last_updated": "2026-02-21T20:00:28.283271"
     },
     {
       "id": 43089,
@@ -10685,7 +10841,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:47.091399"
+      "last_updated": "2026-02-21T20:00:28.890248"
     },
     {
       "id": 43077,
@@ -10724,7 +10880,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:47.091399"
+      "last_updated": "2026-02-21T20:00:28.890248"
     },
     {
       "id": 43078,
@@ -10763,7 +10919,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:47.091399"
+      "last_updated": "2026-02-21T20:00:28.890248"
     },
     {
       "id": 43075,
@@ -10802,7 +10958,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:47.091399"
+      "last_updated": "2026-02-21T20:00:28.890248"
     },
     {
       "id": 42515,
@@ -10841,7 +10997,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:47.359511"
+      "last_updated": "2026-02-21T20:00:29.521134"
     },
     {
       "id": 42514,
@@ -10880,7 +11036,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:47.359511"
+      "last_updated": "2026-02-21T20:00:29.521134"
     },
     {
       "id": 42509,
@@ -10919,7 +11075,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:47.359511"
+      "last_updated": "2026-02-21T20:00:29.521134"
     },
     {
       "id": 42496,
@@ -10958,7 +11114,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:47.359511"
+      "last_updated": "2026-02-21T20:00:29.521134"
     },
     {
       "id": 42494,
@@ -10997,7 +11153,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:47.359511"
+      "last_updated": "2026-02-21T20:00:29.521134"
     },
     {
       "id": 42525,
@@ -11036,7 +11192,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:47.616756"
+      "last_updated": "2026-02-21T20:00:29.977995"
     },
     {
       "id": 42524,
@@ -11075,7 +11231,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:47.616756"
+      "last_updated": "2026-02-21T20:00:29.977995"
     },
     {
       "id": 42510,
@@ -11114,7 +11270,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:47.616756"
+      "last_updated": "2026-02-21T20:00:29.977995"
     },
     {
       "id": 42503,
@@ -11153,7 +11309,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:47.616756"
+      "last_updated": "2026-02-21T20:00:29.977995"
     },
     {
       "id": 42500,
@@ -11192,7 +11348,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:47.616756"
+      "last_updated": "2026-02-21T20:00:29.977995"
     },
     {
       "id": 42498,
@@ -11231,7 +11387,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:47.616756"
+      "last_updated": "2026-02-21T20:00:29.977995"
     },
     {
       "id": 42493,
@@ -11270,7 +11426,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:47.616756"
+      "last_updated": "2026-02-21T20:00:29.977995"
     },
     {
       "id": 42488,
@@ -11288,16 +11444,16 @@
       },
       "total_stock": 10,
       "variants": [],
-      "last_updated": "2026-02-21T14:48:47.616756"
+      "last_updated": "2026-02-21T20:00:29.977995"
     },
     {
       "id": 43356,
       "code": "10000069",
       "name": "Winston Red Classic Box",
       "slug": "winston-red-classic-box-43356",
-      "category_id": 4306,
-      "category_name": "All Cigarettes",
-      "category_path": "Nicotine > Cigarettes > All Cigarettes",
+      "category_id": 5315,
+      "category_name": "Winston",
+      "category_path": "Nicotine > Cigarettes > Winston",
       "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d77fbae2-fd86-4643-9353-76f0574dd1bb.webp",
       "price": 199000,
       "discount_price": null,
@@ -11327,55 +11483,16 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:47.870682"
-    },
-    {
-      "id": 43438,
-      "code": "10024582",
-      "name": "Winston White Menthol Slims Box",
-      "slug": "winston-white-menthol-slims-box-43438",
-      "category_id": 4306,
-      "category_name": "All Cigarettes",
-      "category_path": "Nicotine > Cigarettes > All Cigarettes",
-      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/66f4a585-9251-494e-895c-612569f2e800.webp",
-      "price": 198500,
-      "discount_price": null,
-      "stock": {
-        "H495": 20
-      },
-      "total_stock": 20,
-      "variants": [
-        {
-          "sku": "10024582",
-          "name": "Winston White Menthol Slims Box",
-          "price": 198500,
-          "value": "0.7mg",
-          "images": [
-            {
-              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/66f4a585-9251-494e-895c-612569f2e800.webp",
-              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/66f4a585-9251-494e-895c-612569f2e800_orig.png",
-              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/66f4a585-9251-494e-895c-612569f2e800_thumb.webp"
-            }
-          ],
-          "offerId": 45089,
-          "sorting": 0,
-          "property": "volume",
-          "sellable": 20,
-          "discountPrice": null,
-          "localeChoices": null,
-          "isBackorderAvailable": false
-        }
-      ],
-      "last_updated": "2026-02-21T14:48:47.870682"
+      "last_updated": "2026-02-21T20:00:30.498290"
     },
     {
       "id": 43437,
       "code": "10045835",
       "name": "Winston White Menthol Box",
       "slug": "winston-white-menthol-box-43437",
-      "category_id": 4306,
-      "category_name": "All Cigarettes",
-      "category_path": "Nicotine > Cigarettes > All Cigarettes",
+      "category_id": 5315,
+      "category_name": "Winston",
+      "category_path": "Nicotine > Cigarettes > Winston",
       "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/07d5dd42-cd3c-4436-9190-267be8ef1984.webp",
       "price": 199000,
       "discount_price": null,
@@ -11405,55 +11522,55 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:47.870682"
+      "last_updated": "2026-02-21T20:00:30.498290"
     },
     {
-      "id": 43433,
-      "code": "10031877",
-      "name": "Marlboro Red Box",
-      "slug": "marlboro-red-box-43433",
-      "category_id": 4306,
-      "category_name": "All Cigarettes",
-      "category_path": "Nicotine > Cigarettes > All Cigarettes",
-      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/0eb40969-9e2e-4aec-b32b-fa79f64ab501.webp",
-      "price": 199000,
+      "id": 43438,
+      "code": "10024582",
+      "name": "Winston White Menthol Slims Box",
+      "slug": "winston-white-menthol-slims-box-43438",
+      "category_id": 5315,
+      "category_name": "Winston",
+      "category_path": "Nicotine > Cigarettes > Winston",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/66f4a585-9251-494e-895c-612569f2e800.webp",
+      "price": 198500,
       "discount_price": null,
       "stock": {
-        "H495": 10
+        "H495": 20
       },
-      "total_stock": 10,
+      "total_stock": 20,
       "variants": [
         {
-          "sku": "10031877",
-          "name": "Marlboro Red Box",
-          "price": 199000,
+          "sku": "10024582",
+          "name": "Winston White Menthol Slims Box",
+          "price": 198500,
           "value": "0.7mg",
           "images": [
             {
-              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/0eb40969-9e2e-4aec-b32b-fa79f64ab501.webp",
-              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/0eb40969-9e2e-4aec-b32b-fa79f64ab501_orig.png",
-              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/0eb40969-9e2e-4aec-b32b-fa79f64ab501_thumb.webp"
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/66f4a585-9251-494e-895c-612569f2e800.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/66f4a585-9251-494e-895c-612569f2e800_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/66f4a585-9251-494e-895c-612569f2e800_thumb.webp"
             }
           ],
-          "offerId": 45084,
+          "offerId": 45089,
           "sorting": 0,
           "property": "volume",
-          "sellable": 10,
+          "sellable": 20,
           "discountPrice": null,
           "localeChoices": null,
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:47.870682"
+      "last_updated": "2026-02-21T20:00:30.498290"
     },
     {
       "id": 43432,
       "code": "10041061",
       "name": "Marlboro Red 100s Box",
       "slug": "marlboro-red-100s-box-43432",
-      "category_id": 4306,
-      "category_name": "All Cigarettes",
-      "category_path": "Nicotine > Cigarettes > All Cigarettes",
+      "category_id": 5316,
+      "category_name": "Marlboro",
+      "category_path": "Nicotine > Cigarettes > Marlboro",
       "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/34d26974-7285-4e47-928b-c2bf3b8dba0f.webp",
       "price": 199000,
       "discount_price": null,
@@ -11483,16 +11600,55 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:47.870682"
+      "last_updated": "2026-02-21T20:00:30.827648"
+    },
+    {
+      "id": 43433,
+      "code": "10031877",
+      "name": "Marlboro Red Box",
+      "slug": "marlboro-red-box-43433",
+      "category_id": 5316,
+      "category_name": "Marlboro",
+      "category_path": "Nicotine > Cigarettes > Marlboro",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/0eb40969-9e2e-4aec-b32b-fa79f64ab501.webp",
+      "price": 199000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "10031877",
+          "name": "Marlboro Red Box",
+          "price": 199000,
+          "value": "0.7mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/0eb40969-9e2e-4aec-b32b-fa79f64ab501.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/0eb40969-9e2e-4aec-b32b-fa79f64ab501_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/0eb40969-9e2e-4aec-b32b-fa79f64ab501_thumb.webp"
+            }
+          ],
+          "offerId": 45084,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-21T20:00:30.827648"
     },
     {
       "id": 43357,
       "code": "10031878",
       "name": "Marlboro Gold Box",
       "slug": "marlboro-gold-box-43357",
-      "category_id": 4306,
-      "category_name": "All Cigarettes",
-      "category_path": "Nicotine > Cigarettes > All Cigarettes",
+      "category_id": 5316,
+      "category_name": "Marlboro",
+      "category_path": "Nicotine > Cigarettes > Marlboro",
       "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d1ad9dc9-28a9-4e50-9bcb-ab7f1f7608d8.webp",
       "price": 199000,
       "discount_price": null,
@@ -11522,16 +11678,16 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:47.870682"
+      "last_updated": "2026-02-21T20:00:30.827648"
     },
     {
       "id": 43435,
       "code": "10000059",
       "name": "Camel Blue Box",
       "slug": "camel-blue-box-43435",
-      "category_id": 4306,
-      "category_name": "All Cigarettes",
-      "category_path": "Nicotine > Cigarettes > All Cigarettes",
+      "category_id": 5317,
+      "category_name": "Camel",
+      "category_path": "Nicotine > Cigarettes > Camel",
       "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/0bfae101-e0f0-4840-9a41-b085b827b763.webp",
       "price": 199000,
       "discount_price": null,
@@ -11561,16 +11717,16 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:47.870682"
+      "last_updated": "2026-02-21T20:00:31.387650"
     },
     {
       "id": 43436,
       "code": "10000160",
       "name": "Capri Menthol 100s Box",
       "slug": "capri-menthol-100s-box-43436",
-      "category_id": 4306,
-      "category_name": "All Cigarettes",
-      "category_path": "Nicotine > Cigarettes > All Cigarettes",
+      "category_id": 5318,
+      "category_name": "Capri",
+      "category_path": "Nicotine > Cigarettes > Capri",
       "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3c4f0c93-35c2-433f-8c80-d2925bede370.webp",
       "price": 198500,
       "discount_price": null,
@@ -11600,7 +11756,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:47.870682"
+      "last_updated": "2026-02-21T20:00:31.829798"
     },
     {
       "id": 42436,
@@ -11639,7 +11795,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:48.803239"
+      "last_updated": "2026-02-21T20:00:33.453746"
     },
     {
       "id": 42474,
@@ -11683,7 +11839,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:48.803239"
+      "last_updated": "2026-02-21T20:00:33.453746"
     },
     {
       "id": 42434,
@@ -11727,7 +11883,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:48.803239"
+      "last_updated": "2026-02-21T20:00:33.453746"
     },
     {
       "id": 42521,
@@ -11771,7 +11927,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:48.803239"
+      "last_updated": "2026-02-21T20:00:33.453746"
     },
     {
       "id": 42502,
@@ -11810,7 +11966,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:48.803239"
+      "last_updated": "2026-02-21T20:00:33.453746"
     },
     {
       "id": 42465,
@@ -11854,7 +12010,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:48.803239"
+      "last_updated": "2026-02-21T20:00:33.453746"
     },
     {
       "id": 42516,
@@ -11893,7 +12049,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:49.268498"
+      "last_updated": "2026-02-21T20:00:33.947955"
     },
     {
       "id": 43022,
@@ -11932,7 +12088,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:49.679302"
+      "last_updated": "2026-02-21T20:00:34.543451"
     },
     {
       "id": 42501,
@@ -11965,7 +12121,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:49.679302"
+      "last_updated": "2026-02-21T20:00:34.543451"
     },
     {
       "id": 43024,
@@ -12004,7 +12160,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:49.679302"
+      "last_updated": "2026-02-21T20:00:34.543451"
     },
     {
       "id": 43006,
@@ -12022,7 +12178,7 @@
       },
       "total_stock": 5,
       "variants": [],
-      "last_updated": "2026-02-21T14:48:49.679302"
+      "last_updated": "2026-02-21T20:00:34.543451"
     },
     {
       "id": 42506,
@@ -12066,7 +12222,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:49.679302"
+      "last_updated": "2026-02-21T20:00:34.543451"
     },
     {
       "id": 42492,
@@ -12110,7 +12266,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:49.679302"
+      "last_updated": "2026-02-21T20:00:34.543451"
     },
     {
       "id": 42556,
@@ -12149,7 +12305,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:49.679302"
+      "last_updated": "2026-02-21T20:00:34.543451"
     },
     {
       "id": 42518,
@@ -12188,7 +12344,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:49.679302"
+      "last_updated": "2026-02-21T20:00:34.543451"
     },
     {
       "id": 42480,
@@ -12227,7 +12383,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:49.679302"
+      "last_updated": "2026-02-21T20:00:34.543451"
     },
     {
       "id": 42455,
@@ -12266,7 +12422,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:49.679302"
+      "last_updated": "2026-02-21T20:00:34.543451"
     },
     {
       "id": 43023,
@@ -12305,7 +12461,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:49.679302"
+      "last_updated": "2026-02-21T20:00:34.543451"
     },
     {
       "id": 43020,
@@ -12344,7 +12500,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:49.679302"
+      "last_updated": "2026-02-21T20:00:34.543451"
     },
     {
       "id": 42522,
@@ -12388,7 +12544,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:49.679302"
+      "last_updated": "2026-02-21T20:00:34.543451"
     },
     {
       "id": 42486,
@@ -12427,7 +12583,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:49.679302"
+      "last_updated": "2026-02-21T20:00:34.543451"
     },
     {
       "id": 42447,
@@ -12466,7 +12622,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:49.679302"
+      "last_updated": "2026-02-21T20:00:34.543451"
     },
     {
       "id": 42463,
@@ -12505,7 +12661,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:50.088022"
+      "last_updated": "2026-02-21T20:00:35.112257"
     },
     {
       "id": 43060,
@@ -12544,7 +12700,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:50.088022"
+      "last_updated": "2026-02-21T20:00:35.112257"
     },
     {
       "id": 43031,
@@ -12583,7 +12739,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:50.088022"
+      "last_updated": "2026-02-21T20:00:35.112257"
     },
     {
       "id": 43008,
@@ -12622,7 +12778,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:50.088022"
+      "last_updated": "2026-02-21T20:00:35.112257"
     },
     {
       "id": 42443,
@@ -12661,7 +12817,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:50.088022"
+      "last_updated": "2026-02-21T20:00:35.112257"
     },
     {
       "id": 42441,
@@ -12705,7 +12861,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:50.363153"
+      "last_updated": "2026-02-21T20:00:35.672471"
     },
     {
       "id": 42472,
@@ -12749,7 +12905,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:50.363153"
+      "last_updated": "2026-02-21T20:00:35.672471"
     },
     {
       "id": 43358,
@@ -12808,7 +12964,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:51.313899"
+      "last_updated": "2026-02-21T20:00:36.678589"
     },
     {
       "id": 43361,
@@ -12867,7 +13023,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:51.313899"
+      "last_updated": "2026-02-21T20:00:36.678589"
     },
     {
       "id": 43360,
@@ -12926,7 +13082,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:51.313899"
+      "last_updated": "2026-02-21T20:00:36.678589"
     },
     {
       "id": 43359,
@@ -12985,7 +13141,7 @@
           "isBackorderAvailable": false
         }
       ],
-      "last_updated": "2026-02-21T14:48:51.313899"
+      "last_updated": "2026-02-21T20:00:36.678589"
     }
   ]
 }
