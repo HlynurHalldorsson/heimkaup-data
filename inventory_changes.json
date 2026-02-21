@@ -27891,5 +27891,75 @@
     "current_stock": 17,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-21T22:34:39.016624",
+    "product_id": 42582,
+    "product_name": "Bailey's Original 500ml",
+    "previous_stock": 17,
+    "current_stock": 16,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-21T22:34:39.016624",
+    "product_id": 43660,
+    "product_name": "Captain Morgan Spiced Gold 500ml",
+    "stock": 6,
+    "details": {
+      "id": 43660,
+      "code": "30234640",
+      "name": "Captain Morgan Spiced Gold 500ml",
+      "slug": "captain-morgan-spiced-500-ml-43660",
+      "category_id": 4278,
+      "category_name": "All Rum",
+      "category_path": "Spirits > Rum > All Rum",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bba1f9ec-df97-4102-bded-013356371aca.webp",
+      "price": 559000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "30234640",
+          "name": "Captain Morgan Spiced Gold 500ml",
+          "price": 559000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bba1f9ec-df97-4102-bded-013356371aca.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bba1f9ec-df97-4102-bded-013356371aca_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bba1f9ec-df97-4102-bded-013356371aca_thumb.webp"
+            }
+          ],
+          "offerId": 45284,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-21T22:34:30.746122"
+    }
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-21T22:34:39.016624",
+    "product_id": 43042,
+    "product_name": "Melini Chianti DOCG 750ml",
+    "last_stock": 9
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-21T22:34:39.016624",
+    "product_id": 42748,
+    "product_name": "Baffo Rosso Chianti Doc 750ml",
+    "last_stock": 12
   }
 ]
