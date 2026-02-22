@@ -28461,5 +28461,82 @@
       ],
       "last_updated": "2026-02-22T01:46:41.513757"
     }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-22T12:10:21.028374",
+    "product_id": 43709,
+    "product_name": "Saku Originaal 6x500ml",
+    "previous_stock": 288,
+    "current_stock": 284,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-22T12:10:21.028374",
+    "product_id": 42720,
+    "product_name": "Carlsberg 10x500ml",
+    "previous_stock": 6,
+    "current_stock": 5,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-22T12:10:21.028374",
+    "product_id": 42608,
+    "product_name": "Boli Sterkur Pilsner 6x500ml",
+    "previous_stock": 6,
+    "current_stock": 4,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-22T12:10:21.028374",
+    "product_id": 42715,
+    "product_name": "Tuborg Green 12x330ml",
+    "previous_stock": 11,
+    "current_stock": 9,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-22T12:10:21.028374",
+    "product_id": 42661,
+    "product_name": "Boli X 12x330ml",
+    "previous_stock": 26,
+    "current_stock": 25,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-22T12:10:21.028374",
+    "product_id": 42683,
+    "product_name": "Frontera Cabernet Sauvignon 3L",
+    "previous_stock": 20,
+    "current_stock": 18,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-22T12:10:21.028374",
+    "product_id": 42724,
+    "product_name": "Finca Las Moras Malbec 750ml",
+    "previous_stock": 17,
+    "current_stock": 13,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-22T12:10:21.028374",
+    "product_id": 43081,
+    "product_name": "ACE X Cool Mint 5",
+    "last_stock": 7
   }
 ]
