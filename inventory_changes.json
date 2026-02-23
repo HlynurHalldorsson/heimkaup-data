@@ -29150,5 +29150,107 @@
     "product_id": 43436,
     "product_name": "Capri Menthol 100s Box",
     "last_stock": 9
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-23T09:54:00.132819",
+    "product_id": 42733,
+    "product_name": "Víking Gylltur 12x500ml",
+    "previous_stock": 66,
+    "current_stock": 63,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-23T09:54:00.132819",
+    "product_id": 42859,
+    "product_name": "Víking 2.25% 6x500ml",
+    "stock": 4,
+    "details": {
+      "id": 42859,
+      "code": "216604247",
+      "name": "Víking 2.25% 6x500ml",
+      "slug": "viking-2-25-6x500ml-42859",
+      "category_id": 4247,
+      "category_name": "All Low-Alcohol Beers",
+      "category_path": "Beer > Low-alcohol > All Low-Alcohol Beers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c28ab2a3-efa5-416e-a036-3220c72f2def.webp",
+      "price": 159000,
+      "discount_price": null,
+      "stock": {
+        "H495": 4
+      },
+      "total_stock": 4,
+      "variants": [
+        {
+          "sku": "216604247",
+          "name": "Víking 2.25% 6x500ml",
+          "price": 159000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c28ab2a3-efa5-416e-a036-3220c72f2def.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c28ab2a3-efa5-416e-a036-3220c72f2def_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c28ab2a3-efa5-416e-a036-3220c72f2def_thumb.webp"
+            }
+          ],
+          "offerId": 44156,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 4,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-23T09:53:42.929950"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-23T09:54:00.132819",
+    "product_id": 43436,
+    "product_name": "Capri Menthol 100s Box",
+    "stock": 9,
+    "details": {
+      "id": 43436,
+      "code": "10000160",
+      "name": "Capri Menthol 100s Box",
+      "slug": "capri-menthol-100s-box-43436",
+      "category_id": 5318,
+      "category_name": "Capri",
+      "category_path": "Nicotine > Cigarettes > Capri",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3c4f0c93-35c2-433f-8c80-d2925bede370.webp",
+      "price": 198500,
+      "discount_price": null,
+      "stock": {
+        "H495": 9
+      },
+      "total_stock": 9,
+      "variants": [
+        {
+          "sku": "10000160",
+          "name": "Capri Menthol 100s Box",
+          "price": 198500,
+          "value": "0.6mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3c4f0c93-35c2-433f-8c80-d2925bede370.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3c4f0c93-35c2-433f-8c80-d2925bede370_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3c4f0c93-35c2-433f-8c80-d2925bede370_thumb.webp"
+            }
+          ],
+          "offerId": 45087,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 9,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-23T09:53:56.542427"
+    }
   }
 ]
