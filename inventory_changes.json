@@ -29262,5 +29262,25 @@
     "current_stock": 22,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-23T13:58:02.580537",
+    "product_id": 42585,
+    "product_name": "Two Oceans Fresh & Fruity 3L",
+    "previous_stock": 29,
+    "current_stock": 27,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-23T13:58:02.580537",
+    "product_id": 42689,
+    "product_name": "Opal Rauður 500ml",
+    "previous_stock": 21,
+    "current_stock": 19,
+    "change": -2,
+    "direction": "decrease"
   }
 ]
