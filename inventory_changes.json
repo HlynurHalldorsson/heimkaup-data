@@ -29312,5 +29312,229 @@
     "current_stock": 17,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-23T17:02:34.931690",
+    "product_id": 42776,
+    "product_name": "Thule 12x500ml",
+    "previous_stock": 36,
+    "current_stock": 34,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-23T17:02:34.931690",
+    "product_id": 42709,
+    "product_name": "Heineken 4x500ml",
+    "previous_stock": 62,
+    "current_stock": 61,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-23T17:02:34.931690",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 124,
+    "current_stock": 123,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-23T17:02:34.931690",
+    "product_id": 42577,
+    "product_name": "Baron De Ley Reserva 750ml",
+    "previous_stock": 13,
+    "current_stock": 12,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-23T17:02:34.931690",
+    "product_id": 43675,
+    "product_name": "Beronia Crianza 750 ml",
+    "previous_stock": 6,
+    "current_stock": 5,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-23T17:02:34.931690",
+    "product_id": 42810,
+    "product_name": "Barefoot Pinot Grigio 750ml",
+    "previous_stock": 66,
+    "current_stock": 64,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-23T17:02:34.931690",
+    "product_id": 43664,
+    "product_name": "Chateau Ste Michelle Riesling 750ml",
+    "previous_stock": 6,
+    "current_stock": 4,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-23T17:02:34.931690",
+    "product_id": 42528,
+    "product_name": "Bailly Lapierre Cremant Reserve Brut 750ml",
+    "previous_stock": 14,
+    "current_stock": 13,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-23T17:02:34.931690",
+    "product_id": 42697,
+    "product_name": "Jagermeister Miniature 9x20ml",
+    "previous_stock": 9,
+    "current_stock": 8,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-23T17:02:34.931690",
+    "product_id": 42689,
+    "product_name": "Opal Rauður 500ml",
+    "previous_stock": 19,
+    "current_stock": 18,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-23T17:02:34.931690",
+    "product_id": 43695,
+    "product_name": "White Fox Double Mint",
+    "stock": 40,
+    "details": {
+      "id": 43695,
+      "code": "30192478",
+      "name": "White Fox Double Mint",
+      "slug": "white-fox-double-mint-43695",
+      "category_id": 5320,
+      "category_name": "White Fox",
+      "category_path": "Nicotine > Pouches > White Fox",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b055e6e5-a633-440a-80ea-bc56cd36f207.webp",
+      "price": 99000,
+      "discount_price": null,
+      "stock": {
+        "H495": 40
+      },
+      "total_stock": 40,
+      "variants": [
+        {
+          "sku": "30192478",
+          "name": "White Fox Double Mint",
+          "price": 99000,
+          "value": "12mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b055e6e5-a633-440a-80ea-bc56cd36f207.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b055e6e5-a633-440a-80ea-bc56cd36f207_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b055e6e5-a633-440a-80ea-bc56cd36f207_thumb.webp"
+            }
+          ],
+          "offerId": 45316,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 40,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-23T17:02:30.267924"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-23T17:02:34.931690",
+    "product_id": 43697,
+    "product_name": "White Fox Peppered Mint",
+    "stock": 40,
+    "details": {
+      "id": 43697,
+      "code": "30199585",
+      "name": "White Fox Peppered Mint",
+      "slug": "white-fox-peppered-mint-43697",
+      "category_id": 5320,
+      "category_name": "White Fox",
+      "category_path": "Nicotine > Pouches > White Fox",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/056ee886-e1d9-478a-bd4f-417bef4352a6.webp",
+      "price": 99000,
+      "discount_price": null,
+      "stock": {
+        "H495": 40
+      },
+      "total_stock": 40,
+      "variants": [
+        {
+          "sku": "30199585",
+          "name": "White Fox Peppered Mint",
+          "price": 99000,
+          "value": "12mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/056ee886-e1d9-478a-bd4f-417bef4352a6.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/056ee886-e1d9-478a-bd4f-417bef4352a6_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/056ee886-e1d9-478a-bd4f-417bef4352a6_thumb.webp"
+            }
+          ],
+          "offerId": 45318,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 40,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-23T17:02:30.267924"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-23T17:02:34.931690",
+    "product_id": 43699,
+    "product_name": "White Fox Full Charge",
+    "stock": 30,
+    "details": {
+      "id": 43699,
+      "code": "30192476",
+      "name": "White Fox Full Charge",
+      "slug": "white-fox-full-charge-43699",
+      "category_id": 5320,
+      "category_name": "White Fox",
+      "category_path": "Nicotine > Pouches > White Fox",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/0e1575fe-6f57-4176-a7c4-d9f1935a186f.webp",
+      "price": 99000,
+      "discount_price": null,
+      "stock": {
+        "H495": 30
+      },
+      "total_stock": 30,
+      "variants": [],
+      "last_updated": "2026-02-23T17:02:30.267924"
+    }
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-23T17:02:34.931690",
+    "product_id": 42751,
+    "product_name": "Faustino V Reserva 750ml",
+    "last_stock": 1
   }
 ]
