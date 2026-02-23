@@ -29282,5 +29282,25 @@
     "current_stock": 19,
     "change": -2,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-23T14:58:22.402564",
+    "product_id": 43058,
+    "product_name": "Thule 12x330ml",
+    "previous_stock": 52,
+    "current_stock": 51,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-23T14:58:22.402564",
+    "product_id": 42610,
+    "product_name": "Adobe Chardonnay Reserva 2024 750ml",
+    "previous_stock": 24,
+    "current_stock": 20,
+    "change": -4,
+    "direction": "decrease"
   }
 ]
