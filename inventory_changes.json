@@ -30628,5 +30628,35 @@
     "current_stock": 61,
     "change": -2,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-24T11:51:13.533556",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 135,
+    "current_stock": 134,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-24T11:51:13.533556",
+    "product_id": 42536,
+    "product_name": "VES 6x330ml",
+    "previous_stock": 20,
+    "current_stock": 16,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-24T11:51:13.533556",
+    "product_id": 42434,
+    "product_name": "Pepsi Max 12x330ml",
+    "previous_stock": 22,
+    "current_stock": 21,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
