@@ -30708,5 +30708,101 @@
     "current_stock": 21,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-24T15:59:47.676934",
+    "product_id": 42705,
+    "product_name": "Víking Sterkr 6x500ml",
+    "previous_stock": 45,
+    "current_stock": 44,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-24T15:59:47.676934",
+    "product_id": 42778,
+    "product_name": "Víking Lite 12x330ml",
+    "stock": 40,
+    "details": {
+      "id": 42778,
+      "code": "30230918",
+      "name": "Víking Lite 12x330ml",
+      "slug": "viking-lite-12x330ml-42778",
+      "category_id": 4239,
+      "category_name": "All Lite Beers",
+      "category_path": "Beer > Lite > All Lite Beers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8a6b803e-b929-4815-8336-9d810bc8019c.webp",
+      "price": 449000,
+      "discount_price": null,
+      "stock": {
+        "H495": 40
+      },
+      "total_stock": 40,
+      "variants": [
+        {
+          "sku": "30230918",
+          "name": "Víking Lite 12x330ml",
+          "price": 449000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8a6b803e-b929-4815-8336-9d810bc8019c.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8a6b803e-b929-4815-8336-9d810bc8019c_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8a6b803e-b929-4815-8336-9d810bc8019c_thumb.webp"
+            }
+          ],
+          "offerId": 44134,
+          "sorting": 3,
+          "property": "volume",
+          "sellable": 40,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-24T15:59:28.659747"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-24T15:59:47.676934",
+    "product_id": 42803,
+    "product_name": "Einstök Arctic Pale Ale 12x330ml",
+    "previous_stock": 3,
+    "current_stock": 18,
+    "change": 15,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-24T15:59:47.676934",
+    "product_id": 42581,
+    "product_name": "Butcher's Cut Premium Malbec 3L",
+    "previous_stock": 3,
+    "current_stock": 7,
+    "change": 4,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-24T15:59:47.676934",
+    "product_id": 42603,
+    "product_name": "Drostdy Hof Shiraz Merlot 3L",
+    "previous_stock": 1,
+    "current_stock": 9,
+    "change": 8,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-24T15:59:47.676934",
+    "product_id": 42797,
+    "product_name": "Absolut Vodka 1L",
+    "previous_stock": 11,
+    "current_stock": 35,
+    "change": 24,
+    "direction": "increase"
   }
 ]
