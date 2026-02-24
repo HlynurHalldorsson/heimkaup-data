@@ -30658,5 +30658,25 @@
     "current_stock": 21,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-24T12:51:35.855358",
+    "product_id": 42709,
+    "product_name": "Heineken 4x500ml",
+    "previous_stock": 61,
+    "current_stock": 45,
+    "change": -16,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-24T12:51:35.855358",
+    "product_id": 42680,
+    "product_name": "Tuborg Green 12x500ml",
+    "previous_stock": 92,
+    "current_stock": 91,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
