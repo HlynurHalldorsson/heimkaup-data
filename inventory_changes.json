@@ -31428,5 +31428,45 @@
     "current_stock": 274,
     "change": -8,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-25T12:35:27.948316",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 16,
+    "current_stock": 15,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-25T12:35:27.948316",
+    "product_id": 42733,
+    "product_name": "Víking Gylltur 12x500ml",
+    "previous_stock": 61,
+    "current_stock": 59,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-25T12:35:27.948316",
+    "product_id": 42710,
+    "product_name": "Víking Lite 12x500ml",
+    "previous_stock": 17,
+    "current_stock": 16,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-25T12:35:27.948316",
+    "product_id": 42998,
+    "product_name": "Adobe Rosé Poki 1,5L",
+    "previous_stock": 26,
+    "current_stock": 24,
+    "change": -2,
+    "direction": "decrease"
   }
 ]
