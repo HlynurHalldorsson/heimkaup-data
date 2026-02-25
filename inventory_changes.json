@@ -31705,5 +31705,55 @@
     "product_id": 42474,
     "product_name": "Appelsín 6x330ml",
     "last_stock": 1
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-25T18:05:22.188990",
+    "product_id": 42703,
+    "product_name": "Gull 12x500ml",
+    "previous_stock": 18,
+    "current_stock": 17,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-25T18:05:22.188990",
+    "product_id": 42776,
+    "product_name": "Thule 12x500ml",
+    "previous_stock": 33,
+    "current_stock": 31,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-25T18:05:22.188990",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 12,
+    "current_stock": 11,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-25T18:05:22.188990",
+    "product_id": 43709,
+    "product_name": "Saku Originaal 6x500ml",
+    "previous_stock": 274,
+    "current_stock": 270,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-25T18:05:22.188990",
+    "product_id": 42733,
+    "product_name": "Víking Gylltur 12x500ml",
+    "previous_stock": 59,
+    "current_stock": 58,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
