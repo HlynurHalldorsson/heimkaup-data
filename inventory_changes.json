@@ -31805,5 +31805,35 @@
     "current_stock": 13,
     "change": -2,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-25T20:22:20.918136",
+    "product_id": 42680,
+    "product_name": "Tuborg Green 12x500ml",
+    "previous_stock": 90,
+    "current_stock": 88,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-25T20:22:20.918136",
+    "product_id": 42624,
+    "product_name": "Gull Lite Yuzu Lime 10x330ml",
+    "previous_stock": 4,
+    "current_stock": 3,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-25T20:22:20.918136",
+    "product_id": 42486,
+    "product_name": "Monster Ultra White 4x500ml / Monster Ultra White 4pk",
+    "previous_stock": 19,
+    "current_stock": 17,
+    "change": -2,
+    "direction": "decrease"
   }
 ]
