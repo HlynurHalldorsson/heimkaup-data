@@ -31835,5 +31835,32 @@
     "current_stock": 17,
     "change": -2,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-25T21:24:08.095122",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 125,
+    "current_stock": 123,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-25T21:24:08.095122",
+    "product_id": 43675,
+    "product_name": "Beronia Crianza 750 ml",
+    "previous_stock": 5,
+    "current_stock": 4,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-25T21:24:08.095122",
+    "product_id": 43072,
+    "product_name": "LOOP Jalapeno Lime 4",
+    "last_stock": 3
   }
 ]
