@@ -31862,5 +31862,22 @@
     "product_id": 43072,
     "product_name": "LOOP Jalapeno Lime 4",
     "last_stock": 3
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-25T22:34:14.245679",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 123,
+    "current_stock": 122,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-25T22:34:14.245679",
+    "product_id": 42588,
+    "product_name": "Heineken 6x330ml",
+    "last_stock": 36
   }
 ]
