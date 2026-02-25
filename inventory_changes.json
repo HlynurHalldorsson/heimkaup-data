@@ -30964,5 +30964,91 @@
     "current_stock": 22,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-25T07:58:52.043974",
+    "product_id": 42709,
+    "product_name": "Heineken 4x500ml",
+    "previous_stock": 45,
+    "current_stock": 58,
+    "change": 13,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-25T07:58:52.043974",
+    "product_id": 42724,
+    "product_name": "Finca Las Moras Malbec 750ml",
+    "previous_stock": 13,
+    "current_stock": 12,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-25T07:58:52.043974",
+    "product_id": 42559,
+    "product_name": "Finlandia Vodka 200ml",
+    "previous_stock": 4,
+    "current_stock": 3,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-25T07:58:52.043974",
+    "product_id": 42632,
+    "product_name": "Lamberti Garda Merlot 750ml",
+    "last_stock": 6
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-25T07:58:52.043974",
+    "product_id": 42767,
+    "product_name": "Adobe Organic Chardonnay 3L",
+    "last_stock": 17
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-25T07:58:52.043974",
+    "product_id": 42687,
+    "product_name": "Tommasi Pinot Grigio 3L",
+    "last_stock": 24
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-25T07:58:52.043974",
+    "product_id": 42699,
+    "product_name": "Frontera Chardonnay 3L",
+    "last_stock": 55
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-25T07:58:52.043974",
+    "product_id": 42585,
+    "product_name": "Two Oceans Fresh & Fruity 3L",
+    "last_stock": 27
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-25T07:58:52.043974",
+    "product_id": 42607,
+    "product_name": "Montalto Pinot Grigio 3L",
+    "last_stock": 4
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-25T07:58:52.043974",
+    "product_id": 42526,
+    "product_name": "Van Gogh Riesling 3L",
+    "last_stock": 17
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-25T07:58:52.043974",
+    "product_id": 42540,
+    "product_name": "Fairview Goats do Roam White Blend 3L",
+    "last_stock": 6
   }
 ]
