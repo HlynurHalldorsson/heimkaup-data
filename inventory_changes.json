@@ -32641,5 +32641,383 @@
     "product_id": 43071,
     "product_name": "LOOP Habanero Mint 4",
     "last_stock": 4
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-26T21:36:44.466054",
+    "product_id": 42705,
+    "product_name": "Víking Sterkr 6x500ml",
+    "previous_stock": 43,
+    "current_stock": 42,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-26T21:36:44.466054",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 121,
+    "current_stock": 120,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-26T21:36:44.466054",
+    "product_id": 42607,
+    "product_name": "Montalto Pinot Grigio 3L",
+    "previous_stock": 4,
+    "current_stock": 3,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-26T21:36:44.466054",
+    "product_id": 43088,
+    "product_name": "LOOP Smooth Mint 3",
+    "stock": 20,
+    "details": {
+      "id": 43088,
+      "code": "30204250",
+      "name": "LOOP Smooth Mint 3",
+      "slug": "loop-smooth-mint-3-43088",
+      "category_id": 2805,
+      "category_name": "LOOP",
+      "category_path": "Nicotine > Pouches > LOOP",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/401bbbbc-92b6-4591-b08b-189a85f21c9a.webp",
+      "price": 99000,
+      "discount_price": null,
+      "stock": {
+        "H495": 20
+      },
+      "total_stock": 20,
+      "variants": [
+        {
+          "sku": "30204250",
+          "name": "LOOP Smooth Mint 3",
+          "price": 99000,
+          "value": "9.4mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/401bbbbc-92b6-4591-b08b-189a85f21c9a.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/401bbbbc-92b6-4591-b08b-189a85f21c9a_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/401bbbbc-92b6-4591-b08b-189a85f21c9a_thumb.webp"
+            }
+          ],
+          "offerId": 44590,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 20,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-26T21:36:37.331997"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-26T21:36:44.466054",
+    "product_id": 43084,
+    "product_name": "LOOP Mini Smooth Mint 2",
+    "stock": 20,
+    "details": {
+      "id": 43084,
+      "code": "30206941",
+      "name": "LOOP Mini Smooth Mint 2",
+      "slug": "loop-mini-smooth-mint-2-43084",
+      "category_id": 2805,
+      "category_name": "LOOP",
+      "category_path": "Nicotine > Pouches > LOOP",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/073f70cd-4a89-4ab9-96af-fcce87f87979.webp",
+      "price": 99000,
+      "discount_price": null,
+      "stock": {
+        "H495": 20
+      },
+      "total_stock": 20,
+      "variants": [
+        {
+          "sku": "30206941",
+          "name": "LOOP Mini Smooth Mint 2",
+          "price": 99000,
+          "value": "6.8mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/073f70cd-4a89-4ab9-96af-fcce87f87979.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/073f70cd-4a89-4ab9-96af-fcce87f87979_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/073f70cd-4a89-4ab9-96af-fcce87f87979_thumb.webp"
+            }
+          ],
+          "offerId": 44592,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 20,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-26T21:36:37.331997"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-26T21:36:44.466054",
+    "product_id": 43083,
+    "product_name": "LOOP Mini Jalapeno Lime 2",
+    "previous_stock": 4,
+    "current_stock": 17,
+    "change": 13,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-26T21:36:44.466054",
+    "product_id": 43711,
+    "product_name": "Ace X Nordic Freeze 5",
+    "previous_stock": 10,
+    "current_stock": 20,
+    "change": 10,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-26T21:36:44.466054",
+    "product_id": 43087,
+    "product_name": "ACE X Cool Mint Cosmic 5",
+    "stock": 13,
+    "details": {
+      "id": 43087,
+      "code": "30218467",
+      "name": "ACE X Cool Mint Cosmic 5",
+      "slug": "ace-x-cool-mint-cosmic-5-43087",
+      "category_id": 2805,
+      "category_name": "ACE",
+      "category_path": "Nicotine > Pouches > ACE",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/1047d5a9-45d8-4627-9b32-39834224dc38.webp",
+      "price": 109000,
+      "discount_price": null,
+      "stock": {
+        "H495": 13
+      },
+      "total_stock": 13,
+      "variants": [],
+      "last_updated": "2026-02-26T21:36:37.787809"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-26T21:36:44.466054",
+    "product_id": 43074,
+    "product_name": "ACE Eucalyptus 4",
+    "stock": 20,
+    "details": {
+      "id": 43074,
+      "code": "30226512",
+      "name": "ACE Eucalyptus 4",
+      "slug": "ace-eucalyptus-4-43074",
+      "category_id": 2805,
+      "category_name": "ACE",
+      "category_path": "Nicotine > Pouches > ACE",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/867d46d6-b3be-46b3-bbb0-b613678eea36.webp",
+      "price": 99000,
+      "discount_price": null,
+      "stock": {
+        "H495": 20
+      },
+      "total_stock": 20,
+      "variants": [
+        {
+          "sku": "30226512",
+          "name": "ACE Eucalyptus 4",
+          "price": 99000,
+          "value": "9.6mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/867d46d6-b3be-46b3-bbb0-b613678eea36.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/867d46d6-b3be-46b3-bbb0-b613678eea36_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/867d46d6-b3be-46b3-bbb0-b613678eea36_thumb.webp"
+            }
+          ],
+          "offerId": 44576,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 20,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-26T21:36:37.787809"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-26T21:36:44.466054",
+    "product_id": 43086,
+    "product_name": "VELO Crispy Peppermint 3",
+    "stock": 50,
+    "details": {
+      "id": 43086,
+      "code": "30192468",
+      "name": "VELO Crispy Peppermint 3",
+      "slug": "velo-crispy-peppermint-3-43086",
+      "category_id": 2805,
+      "category_name": "VELO",
+      "category_path": "Nicotine > Pouches > VELO",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/75797e26-12d2-44fd-a543-ca139de0fd74.webp",
+      "price": 99000,
+      "discount_price": null,
+      "stock": {
+        "H495": 50
+      },
+      "total_stock": 50,
+      "variants": [
+        {
+          "sku": "30192468",
+          "name": "VELO Crispy Peppermint 3",
+          "price": 99000,
+          "value": "10mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/75797e26-12d2-44fd-a543-ca139de0fd74.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/75797e26-12d2-44fd-a543-ca139de0fd74_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/75797e26-12d2-44fd-a543-ca139de0fd74_thumb.webp"
+            }
+          ],
+          "offerId": 44588,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 50,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-26T21:36:38.068518"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-26T21:36:44.466054",
+    "product_id": 43076,
+    "product_name": "VELO Freezing Peppermint 4",
+    "stock": 60,
+    "details": {
+      "id": 43076,
+      "code": "30192467",
+      "name": "VELO Freezing Peppermint 4",
+      "slug": "velo-freezing-peppermint-4-43076",
+      "category_id": 2805,
+      "category_name": "VELO",
+      "category_path": "Nicotine > Pouches > VELO",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/70333865-8e77-48be-be69-f44ea73a08f9.webp",
+      "price": 99000,
+      "discount_price": null,
+      "stock": {
+        "H495": 60
+      },
+      "total_stock": 60,
+      "variants": [
+        {
+          "sku": "30192467",
+          "name": "VELO Freezing Peppermint 4",
+          "price": 99000,
+          "value": "10.9mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/70333865-8e77-48be-be69-f44ea73a08f9.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/70333865-8e77-48be-be69-f44ea73a08f9_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/70333865-8e77-48be-be69-f44ea73a08f9_thumb.webp"
+            }
+          ],
+          "offerId": 44586,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 60,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-26T21:36:38.068518"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-26T21:36:44.466054",
+    "product_id": 43078,
+    "product_name": "VELO Smooth Spearmint 2",
+    "previous_stock": 2,
+    "current_stock": 12,
+    "change": 10,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-26T21:36:44.466054",
+    "product_id": 43075,
+    "product_name": "VELO Tropical Mango 2",
+    "previous_stock": 5,
+    "current_stock": 10,
+    "change": 5,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-26T21:36:44.466054",
+    "product_id": 43712,
+    "product_name": "COLLAB Engifer & Ferskju 6x330ml",
+    "stock": 4,
+    "details": {
+      "id": 43712,
+      "code": "30213117",
+      "name": "COLLAB Engifer & Ferskju 6x330ml",
+      "slug": "collab-engifer-ferskju-6x330ml-43712",
+      "category_id": 4317,
+      "category_name": "All Energy Drinks",
+      "category_path": "Soft drinks > Energy Drinks > All Energy Drinks",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f39deead-b29e-47e6-bfd9-ff6ba6067c8e.webp",
+      "price": 179000,
+      "discount_price": null,
+      "stock": {
+        "H495": 4
+      },
+      "total_stock": 4,
+      "variants": [
+        {
+          "sku": "30213117",
+          "name": "COLLAB Engifer & Ferskju 6x330ml",
+          "price": 179000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f39deead-b29e-47e6-bfd9-ff6ba6067c8e.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f39deead-b29e-47e6-bfd9-ff6ba6067c8e_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f39deead-b29e-47e6-bfd9-ff6ba6067c8e_thumb.webp"
+            }
+          ],
+          "offerId": 45332,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 4,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-26T21:36:42.762107"
+    }
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-26T21:36:44.466054",
+    "product_id": 43077,
+    "product_name": "VELO Salty Liquorice 3",
+    "last_stock": 13
   }
 ]
