@@ -32086,5 +32086,35 @@
     "product_id": 42616,
     "product_name": "Löwenbräu Original 6x500ml",
     "last_stock": 1
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-26T15:50:58.718929",
+    "product_id": 42705,
+    "product_name": "Víking Sterkr 6x500ml",
+    "previous_stock": 44,
+    "current_stock": 43,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-26T15:50:58.718929",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 116,
+    "current_stock": 112,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-26T15:50:58.718929",
+    "product_id": 42472,
+    "product_name": "Kristall án bragðefna 12x330ml",
+    "previous_stock": 13,
+    "current_stock": 19,
+    "change": 6,
+    "direction": "increase"
   }
 ]
