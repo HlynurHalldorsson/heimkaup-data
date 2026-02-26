@@ -31932,5 +31932,45 @@
       ],
       "last_updated": "2026-02-26T09:27:14.871716"
     }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-26T11:28:13.500171",
+    "product_id": 42722,
+    "product_name": "Peroni Nastro Azzurro 6x330ml (Gler)",
+    "previous_stock": 30,
+    "current_stock": 27,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-26T11:28:13.500171",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 122,
+    "current_stock": 116,
+    "change": -6,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-26T11:28:13.500171",
+    "product_id": 42661,
+    "product_name": "Boli X 12x330ml",
+    "previous_stock": 23,
+    "current_stock": 21,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-26T11:28:13.500171",
+    "product_id": 42528,
+    "product_name": "Bailly Lapierre Cremant Reserve Brut 750ml",
+    "previous_stock": 13,
+    "current_stock": 10,
+    "change": -3,
+    "direction": "decrease"
   }
 ]
