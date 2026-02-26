@@ -33019,5 +33019,163 @@
     "product_id": 43077,
     "product_name": "VELO Salty Liquorice 3",
     "last_stock": 13
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-26T22:37:09.485383",
+    "product_id": 43709,
+    "product_name": "Saku Originaal 6x500ml",
+    "previous_stock": 258,
+    "current_stock": 254,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-26T22:37:09.485383",
+    "product_id": 43085,
+    "product_name": "LOOP Smooth Mint 4",
+    "stock": 20,
+    "details": {
+      "id": 43085,
+      "code": "30202705",
+      "name": "LOOP Smooth Mint 4",
+      "slug": "loop-smooth-mint-4-43085",
+      "category_id": 2805,
+      "category_name": "LOOP",
+      "category_path": "Nicotine > Pouches > LOOP",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5196eea0-6ddc-439a-bf48-c43dc875886a.webp",
+      "price": 99000,
+      "discount_price": null,
+      "stock": {
+        "H495": 20
+      },
+      "total_stock": 20,
+      "variants": [
+        {
+          "sku": "30202705",
+          "name": "LOOP Smooth Mint 4",
+          "price": 99000,
+          "value": "12.5mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5196eea0-6ddc-439a-bf48-c43dc875886a.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5196eea0-6ddc-439a-bf48-c43dc875886a_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5196eea0-6ddc-439a-bf48-c43dc875886a_thumb.webp"
+            }
+          ],
+          "offerId": 44591,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 20,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-26T22:37:03.229738"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-26T22:37:09.485383",
+    "product_id": 43079,
+    "product_name": "LOOP Ice Cool Mint 3",
+    "stock": 20,
+    "details": {
+      "id": 43079,
+      "code": "30218469",
+      "name": "LOOP Ice Cool Mint 3",
+      "slug": "loop-ice-cool-mint-3-43079",
+      "category_id": 2805,
+      "category_name": "LOOP",
+      "category_path": "Nicotine > Pouches > LOOP",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4d12a3b7-0ab7-41ee-b560-dc62316bea21.webp",
+      "price": 99000,
+      "discount_price": null,
+      "stock": {
+        "H495": 20
+      },
+      "total_stock": 20,
+      "variants": [
+        {
+          "sku": "30218469",
+          "name": "LOOP Ice Cool Mint 3",
+          "price": 99000,
+          "value": "9.4mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4d12a3b7-0ab7-41ee-b560-dc62316bea21.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4d12a3b7-0ab7-41ee-b560-dc62316bea21_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4d12a3b7-0ab7-41ee-b560-dc62316bea21_thumb.webp"
+            }
+          ],
+          "offerId": 44582,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 20,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-26T22:37:03.229738"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-26T22:37:09.485383",
+    "product_id": 43087,
+    "product_name": "ACE X Cool Mint Cosmic 5",
+    "previous_stock": 13,
+    "current_stock": 43,
+    "change": 30,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-26T22:37:09.485383",
+    "product_id": 43685,
+    "product_name": "Reymont 800 Blueberry Cherry Cranberry",
+    "stock": 20,
+    "details": {
+      "id": 43685,
+      "code": "30224452",
+      "name": "Reymont 800 Blueberry Cherry Cranberry",
+      "slug": "reymont-800-blueberry-cherry-cranberry-43685",
+      "category_id": 4355,
+      "category_name": "REYMONT",
+      "category_path": "Nicotine > Vapes > REYMONT",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/19d7676e-f384-42d3-8ebe-8e1fb0fa6e15.webp",
+      "price": 97000,
+      "discount_price": null,
+      "stock": {
+        "H495": 20
+      },
+      "total_stock": 20,
+      "variants": [
+        {
+          "sku": "30224452",
+          "name": "Reymont 800 Blueberry Cherry Cranberry",
+          "price": 97000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/19d7676e-f384-42d3-8ebe-8e1fb0fa6e15.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/19d7676e-f384-42d3-8ebe-8e1fb0fa6e15_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/19d7676e-f384-42d3-8ebe-8e1fb0fa6e15_thumb.webp"
+            }
+          ],
+          "offerId": 45309,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 20,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-26T22:37:05.206689"
+    }
   }
 ]
