@@ -32116,5 +32116,530 @@
     "current_stock": 19,
     "change": 6,
     "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-26T20:36:18.552221",
+    "product_id": 42703,
+    "product_name": "Gull 12x500ml",
+    "previous_stock": 17,
+    "current_stock": 16,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-26T20:36:18.552221",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 11,
+    "current_stock": 10,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-26T20:36:18.552221",
+    "product_id": 43709,
+    "product_name": "Saku Originaal 6x500ml",
+    "previous_stock": 262,
+    "current_stock": 258,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-26T20:36:18.552221",
+    "product_id": 42701,
+    "product_name": "Tuborg Classic 12x500ml",
+    "previous_stock": 14,
+    "current_stock": 12,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-26T20:36:18.552221",
+    "product_id": 42614,
+    "product_name": "Budweiser Budvar 6x500ml",
+    "previous_stock": 12,
+    "current_stock": 11,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-26T20:36:18.552221",
+    "product_id": 43710,
+    "product_name": "Krombacher Pils 6x330ml",
+    "previous_stock": 23,
+    "current_stock": 29,
+    "change": 6,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-26T20:36:18.552221",
+    "product_id": 42597,
+    "product_name": "Estrella Damm 6x330ml",
+    "previous_stock": 6,
+    "current_stock": 5,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-26T20:36:18.552221",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 122,
+    "current_stock": 121,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-26T20:36:18.552221",
+    "product_id": 42615,
+    "product_name": "Boli X 12x500ml",
+    "previous_stock": 13,
+    "current_stock": 10,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-26T20:36:18.552221",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 112,
+    "current_stock": 111,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-26T20:36:18.552221",
+    "product_id": 42782,
+    "product_name": "Kaldi Ljós 10x330ml",
+    "previous_stock": 3,
+    "current_stock": 2,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-26T20:36:18.552221",
+    "product_id": 42661,
+    "product_name": "Boli X 12x330ml",
+    "previous_stock": 21,
+    "current_stock": 19,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-26T20:36:18.552221",
+    "product_id": 42624,
+    "product_name": "Gull Lite Yuzu Lime 10x330ml",
+    "previous_stock": 3,
+    "current_stock": 2,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-26T20:36:18.552221",
+    "product_id": 43715,
+    "product_name": "Jóla Bjössi 6x330ml",
+    "stock": 7,
+    "details": {
+      "id": 43715,
+      "code": "30234623",
+      "name": "Jóla Bjössi 6x330ml",
+      "slug": "jola-bjossi-6x330ml-43715",
+      "category_id": 4243,
+      "category_name": "All Seasonal Beers",
+      "category_path": "Beer > Seasonal > All Seasonal Beers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c3f179fb-ca1a-4a44-8f94-203f67bb6241.webp",
+      "price": 279000,
+      "discount_price": null,
+      "stock": {
+        "H495": 7
+      },
+      "total_stock": 7,
+      "variants": [
+        {
+          "sku": "30234623",
+          "name": "Jóla Bjössi 6x330ml",
+          "price": 279000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c3f179fb-ca1a-4a44-8f94-203f67bb6241.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c3f179fb-ca1a-4a44-8f94-203f67bb6241_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c3f179fb-ca1a-4a44-8f94-203f67bb6241_thumb.webp"
+            }
+          ],
+          "offerId": 45335,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 7,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-26T20:36:00.216392"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-26T20:36:18.552221",
+    "product_id": 43719,
+    "product_name": "Villa Lucia Chianti Riserva 750ml",
+    "stock": 6,
+    "details": {
+      "id": 43719,
+      "code": "30234627",
+      "name": "Villa Lucia Chianti Riserva 750ml",
+      "slug": "villa-lucia-chianti-riserva-750ml-43719",
+      "category_id": 4328,
+      "category_name": "Chianti",
+      "category_path": "Wine > Red > Chianti",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/29197847-aa5f-4cbc-bf6c-87307f451a93.webp",
+      "price": 265000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "30234627",
+          "name": "Villa Lucia Chianti Riserva 750ml",
+          "price": 265000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/29197847-aa5f-4cbc-bf6c-87307f451a93.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/29197847-aa5f-4cbc-bf6c-87307f451a93_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/29197847-aa5f-4cbc-bf6c-87307f451a93_thumb.webp"
+            }
+          ],
+          "offerId": 45339,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-26T20:36:02.756483"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-26T20:36:18.552221",
+    "product_id": 43675,
+    "product_name": "Beronia Crianza 750 ml",
+    "previous_stock": 4,
+    "current_stock": 3,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-26T20:36:18.552221",
+    "product_id": 42681,
+    "product_name": "Tommasi Graticcio Appassionato 750ml",
+    "previous_stock": 17,
+    "current_stock": 15,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-26T20:36:18.552221",
+    "product_id": 42638,
+    "product_name": "Adobe Chardonnay Poki 1,5L",
+    "previous_stock": 22,
+    "current_stock": 21,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-26T20:36:18.552221",
+    "product_id": 43716,
+    "product_name": "Maison Muré Riesling Calcaires Jaunes 750ml",
+    "stock": 6,
+    "details": {
+      "id": 43716,
+      "code": "30234624",
+      "name": "Maison Muré Riesling Calcaires Jaunes 750ml",
+      "slug": "maison-mure-riesling-calcaires-jaunes-750ml-43716",
+      "category_id": 4332,
+      "category_name": "Riesling",
+      "category_path": "Wine > White > Riesling",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2bededcb-1675-4a6b-a501-cb2107604bb3.webp",
+      "price": 339000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "30234624",
+          "name": "Maison Muré Riesling Calcaires Jaunes 750ml",
+          "price": 339000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2bededcb-1675-4a6b-a501-cb2107604bb3.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2bededcb-1675-4a6b-a501-cb2107604bb3_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2bededcb-1675-4a6b-a501-cb2107604bb3_thumb.webp"
+            }
+          ],
+          "offerId": 45336,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-26T20:36:05.495857"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-26T20:36:18.552221",
+    "product_id": 42693,
+    "product_name": "Faustino VII Blanco 750ml",
+    "previous_stock": 3,
+    "current_stock": 2,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-26T20:36:18.552221",
+    "product_id": 42526,
+    "product_name": "Van Gogh Riesling 3L",
+    "previous_stock": 17,
+    "current_stock": 16,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-26T20:36:18.552221",
+    "product_id": 42729,
+    "product_name": "Lamberti Prosecco 750ml",
+    "previous_stock": 32,
+    "current_stock": 31,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-26T20:36:18.552221",
+    "product_id": 42797,
+    "product_name": "Absolut Vodka 1L",
+    "previous_stock": 33,
+    "current_stock": 29,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-26T20:36:18.552221",
+    "product_id": 43717,
+    "product_name": "The Famous Grouse 1L",
+    "stock": 6,
+    "details": {
+      "id": 43717,
+      "code": "30234625",
+      "name": "The Famous Grouse 1L",
+      "slug": "the-famous-grouse-1l-43717",
+      "category_id": 4269,
+      "category_name": "All Whiskey",
+      "category_path": "Spirits > Whiskey > All Whiskey",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/649e2dd5-997f-4820-b9f2-cd434cf7e7dd.webp",
+      "price": 1289000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "30234625",
+          "name": "The Famous Grouse 1L",
+          "price": 1289000,
+          "value": "1ltr",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/649e2dd5-997f-4820-b9f2-cd434cf7e7dd.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/649e2dd5-997f-4820-b9f2-cd434cf7e7dd_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/649e2dd5-997f-4820-b9f2-cd434cf7e7dd_thumb.webp"
+            }
+          ],
+          "offerId": 45337,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-26T20:36:08.165443"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-26T20:36:18.552221",
+    "product_id": 43718,
+    "product_name": "Hendricks´s Lunar Gin 700ml",
+    "stock": 1,
+    "details": {
+      "id": 43718,
+      "code": "30234626",
+      "name": "Hendricks´s Lunar Gin 700ml",
+      "slug": "hendricks-s-lunar-gin-700ml-43718",
+      "category_id": 4272,
+      "category_name": "All Gin",
+      "category_path": "Spirits > Gin > All Gin",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2d06225c-a81f-486b-8dba-e59e7cc4e037.webp",
+      "price": 1539000,
+      "discount_price": null,
+      "stock": {
+        "H495": 1
+      },
+      "total_stock": 1,
+      "variants": [
+        {
+          "sku": "30234626",
+          "name": "Hendricks´s Lunar Gin 700ml",
+          "price": 1539000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2d06225c-a81f-486b-8dba-e59e7cc4e037.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2d06225c-a81f-486b-8dba-e59e7cc4e037_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2d06225c-a81f-486b-8dba-e59e7cc4e037_thumb.webp"
+            }
+          ],
+          "offerId": 45338,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 1,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-26T20:36:08.577019"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-26T20:36:18.552221",
+    "product_id": 42765,
+    "product_name": "Askur Gin 700ml",
+    "previous_stock": 37,
+    "current_stock": 36,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-26T20:36:18.552221",
+    "product_id": 43714,
+    "product_name": "Fentimans Victorian Lemonade 4x275ml",
+    "stock": 2,
+    "details": {
+      "id": 43714,
+      "code": "30225279",
+      "name": "Fentimans Victorian Lemonade 4x275ml",
+      "slug": "fentimans-victorian-lemonade-4x275ml-43714",
+      "category_id": 4319,
+      "category_name": "All Tonics",
+      "category_path": "Soft drinks > Tonic > All Tonics",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/45014088-42e5-4e80-9124-d4bd654e8704.webp",
+      "price": 139000,
+      "discount_price": null,
+      "stock": {
+        "H495": 2
+      },
+      "total_stock": 2,
+      "variants": [
+        {
+          "sku": "30225279",
+          "name": "Fentimans Victorian Lemonade 4x275ml",
+          "price": 139000,
+          "value": "275ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/45014088-42e5-4e80-9124-d4bd654e8704.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/45014088-42e5-4e80-9124-d4bd654e8704_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/45014088-42e5-4e80-9124-d4bd654e8704_thumb.webp"
+            }
+          ],
+          "offerId": 45334,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 2,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-26T20:36:17.250600"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-26T20:36:18.552221",
+    "product_id": 43713,
+    "product_name": "Fentimans Rose Lemonade 4x275ml",
+    "stock": 1,
+    "details": {
+      "id": 43713,
+      "code": "30225278",
+      "name": "Fentimans Rose Lemonade 4x275ml",
+      "slug": "fentimans-rose-lemonade-4x275ml-43713",
+      "category_id": 4319,
+      "category_name": "All Tonics",
+      "category_path": "Soft drinks > Tonic > All Tonics",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/def62dc7-2041-4c8c-b678-3dc160680ab3.webp",
+      "price": 139000,
+      "discount_price": null,
+      "stock": {
+        "H495": 1
+      },
+      "total_stock": 1,
+      "variants": [],
+      "last_updated": "2026-02-26T20:36:17.250600"
+    }
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-26T20:36:18.552221",
+    "product_id": 42694,
+    "product_name": "Finca Las Moras Sauvignon Blanc 750ml",
+    "last_stock": 1
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-26T20:36:18.552221",
+    "product_id": 43071,
+    "product_name": "LOOP Habanero Mint 4",
+    "last_stock": 4
   }
 ]
