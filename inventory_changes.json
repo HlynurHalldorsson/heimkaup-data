@@ -33177,5 +33177,137 @@
       ],
       "last_updated": "2026-02-26T22:37:05.206689"
     }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-27T09:23:00.374727",
+    "product_id": 42778,
+    "product_name": "Víking Lite 12x330ml",
+    "previous_stock": 40,
+    "current_stock": 33,
+    "change": -7,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-27T09:23:00.374727",
+    "product_id": 42661,
+    "product_name": "Boli X 12x330ml",
+    "previous_stock": 19,
+    "current_stock": 15,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-27T09:23:00.374727",
+    "product_id": 42729,
+    "product_name": "Lamberti Prosecco 750ml",
+    "last_stock": 31
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-27T09:23:00.374727",
+    "product_id": 42692,
+    "product_name": "Martini Prosecco 750ml",
+    "last_stock": 39
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-27T09:23:00.374727",
+    "product_id": 42594,
+    "product_name": "Piccini Prosecco 750ml",
+    "last_stock": 29
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-27T09:23:00.374727",
+    "product_id": 43203,
+    "product_name": "Moet Chandon Brut Imperial 750ml",
+    "last_stock": 12
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-27T09:23:00.374727",
+    "product_id": 43201,
+    "product_name": "Tosti Prosecco 750ml",
+    "last_stock": 10
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-27T09:23:00.374727",
+    "product_id": 42770,
+    "product_name": "Tosti Prosecco Rosé vegan 750ml",
+    "last_stock": 5
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-27T09:23:00.374727",
+    "product_id": 42737,
+    "product_name": "Willm Cremant d'Alsace Brut 750ml",
+    "last_stock": 5
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-27T09:23:00.374727",
+    "product_id": 42713,
+    "product_name": "Faustino Cava Brut 750ml",
+    "last_stock": 7
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-27T09:23:00.374727",
+    "product_id": 42642,
+    "product_name": "Champagne Collet Brut Rosé 750ml",
+    "last_stock": 1
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-27T09:23:00.374727",
+    "product_id": 42648,
+    "product_name": "Champagne Collet Brut 750ml",
+    "last_stock": 11
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-27T09:23:00.374727",
+    "product_id": 42528,
+    "product_name": "Bailly Lapierre Cremant Reserve Brut 750ml",
+    "last_stock": 10
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-27T09:23:00.374727",
+    "product_id": 42723,
+    "product_name": "Codorniu Clasico Seco 200ml",
+    "last_stock": 9
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-27T09:23:00.374727",
+    "product_id": 42679,
+    "product_name": "Martini Prosecco 200ml",
+    "last_stock": 6
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-27T09:23:00.374727",
+    "product_id": 42672,
+    "product_name": "Lamberti Prosecco 200ml",
+    "last_stock": 46
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-27T09:23:00.374727",
+    "product_id": 42658,
+    "product_name": "Pizzolato Spumante Rosé 200ml",
+    "last_stock": 6
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-02-27T09:23:00.374727",
+    "product_id": 42652,
+    "product_name": "Nicolas Feuillatte Brut Réserve 200ml",
+    "last_stock": 4
   }
 ]

@@ -39611,3 +39611,157 @@ Categories (58):
 2026-02-26 23:37:32,459 - INFO - Saved CSV snapshot to inventory_data/inventory_2026-02-26_2337.csv
 2026-02-26 23:37:32,461 - INFO - Appended to master CSV: inventory_data/inventory_all.csv
 2026-02-26 23:37:32,462 - INFO - Inventory check completed successfully
+2026-02-26 23:37:34,691 - INFO - Successfully pushed inventory data to GitHub
+
+============================================================
+HEIMKAUP INVENTORY SUMMARY - 2026-02-26 23:37:32
+============================================================
+
+Total Products: 371
+Total Stock Units: 5827
+Out of Stock: 0
+Low Stock (<=5): 79
+
+Categories (58):
+  - ACE: 5 products, 123 units
+  - All 0% Beer: 1 products, 3 units
+  - All 0% Wine: 3 products, 9 units
+  - All Ales: 9 products, 173 units
+  - All Aquavit: 1 products, 14 units
+  - All Ciders: 3 products, 19 units
+  - All Energy Drinks: 16 products, 111 units
+  - All Gin: 9 products, 76 units
+  - All Lagers: 35 products, 1106 units
+  - All Liqueurs: 18 products, 208 units
+  - All Lite Beers: 11 products, 353 units
+  - All Low-Alcohol Beers: 1 products, 4 units
+  - All Mixed Drinks: 16 products, 257 units
+  - All Nicotine Free Pouches: 1 products, 30 units
+  - All Other 0% Alcohols: 3 products, 13 units
+  - All Other Cigarettes: 4 products, 40 units
+  - All Rosé Wines: 7 products, 59 units
+  - All Rum: 5 products, 33 units
+  - All Seasonal Beers: 5 products, 63 units
+  - All Seltzers: 5 products, 28 units
+  - All Sparkling Waters: 2 products, 40 units
+  - All Sparkling Wines: 16 products, 231 units
+  - All Tequila: 7 products, 37 units
+  - All Tonics: 7 products, 69 units
+  - All Vodka: 10 products, 157 units
+  - All Whiskey: 8 products, 69 units
+  - BLYS: 5 products, 26 units
+  - Bitters: 3 products, 33 units
+  - Boxed Red Wines: 6 products, 51 units
+  - Boxed White Wine: 7 products, 143 units
+  - Cabernet Sauvignon: 8 products, 77 units
+  - Camel: 3 products, 55 units
+  - Capri: 2 products, 19 units
+  - Chardonnay: 10 products, 141 units
+  - Chianti: 5 products, 42 units
+  - Cognac: 2 products, 3 units
+  - Doritos: 4 products, 390 units
+  - LOOP: 8 products, 196 units
+  - Malbec: 5 products, 44 units
+  - Marlboro: 7 products, 69 units
+  - Merlot: 1 products, 6 units
+  - Moscato: 1 products, 6 units
+  - Other Red Wine: 3 products, 21 units
+  - Other White Wine: 1 products, 12 units
+  - Pinot Grigio: 6 products, 96 units
+  - Pinot Noir: 2 products, 49 units
+  - REYMONT: 9 products, 100 units
+  - Red Blends: 16 products, 142 units
+  - Riesling: 5 products, 31 units
+  - Sauvignon Blanc: 3 products, 98 units
+  - Sodas (With Sugar): 5 products, 83 units
+  - Sugar-Free Sodas: 1 products, 13 units
+  - Syrah: 1 products, 26 units
+  - Tempranillo: 10 products, 86 units
+  - VELO: 5 products, 142 units
+  - White Blends: 10 products, 84 units
+  - White Fox: 3 products, 110 units
+  - Winston: 6 products, 108 units
+
+--- LOW STOCK ALERT ---
+  - Casa Solis Cabernet Sauvignon 750ml: 1 left
+  - Apothic Red 750ml: 1 left
+  - Gomez El Predilecto 750ml: 1 left
+  - Massolino Barolo 2020 750ml: 1 left
+  - Piccanti Rosso Toscana 3L: 1 left
+  - Champagne Collet Brut Rosé 750ml: 1 left
+  - Hendricks´s Lunar Gin 700ml: 1 left
+  - Remy Martin VSOP 700ml: 1 left
+  - Torres Sangre de Toro hvítt 0,0% 700ml: 1 left
+  - Monday Gin Óáfengt 750ml: 1 left
+
+============================================================
+/Users/hlynurhalldorsson/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+2026-02-27 09:21:08,753 - INFO - Starting inventory check...
+2026-02-27 09:21:08,999 - INFO - Fetched category tree: 8 top-level categories
+2026-02-27 09:21:09,000 - INFO - Found 59 leaf categories to fetch
+2026-02-27 09:21:09,428 - INFO -   All Lagers: 35 products
+2026-02-27 09:21:09,743 - INFO -   All Lite Beers: 11 products
+2026-02-27 09:21:10,130 - INFO -   All Ales: 9 products
+2026-02-27 09:21:10,654 - INFO -   All Seasonal Beers: 5 products
+2026-02-27 09:21:11,042 - INFO -   All Low-Alcohol Beers: 1 products
+2026-02-27 09:21:11,307 - INFO -   Cabernet Sauvignon: 8 products
+2026-02-27 09:21:11,606 - INFO -   Merlot: 1 products
+2026-02-27 09:21:12,049 - INFO -   Pinot Noir: 2 products
+2026-02-27 09:21:12,344 - INFO -   Syrah: 1 products
+2026-02-27 09:21:12,603 - INFO -   Malbec: 5 products
+2026-02-27 09:21:13,011 - INFO -   Chianti: 5 products
+2026-02-27 09:21:13,523 - INFO -   Tempranillo: 10 products
+2026-02-27 09:21:13,933 - INFO -   Red Blends: 16 products
+2026-02-27 09:21:14,211 - INFO -   Other Red Wine: 3 products
+2026-02-27 09:21:14,651 - INFO -   Boxed Red Wines: 6 products
+2026-02-27 09:21:15,058 - INFO -   All Rosé Wines: 7 products
+2026-02-27 09:21:15,571 - INFO -   Chardonnay: 10 products
+2026-02-27 09:21:15,859 - INFO -   Sauvignon Blanc: 3 products
+2026-02-27 09:21:16,120 - INFO -   Riesling: 5 products
+2026-02-27 09:21:16,394 - INFO -   Pinot Grigio: 6 products
+2026-02-27 09:21:16,638 - INFO -   Moscato: 1 products
+2026-02-27 09:21:16,882 - INFO -   White Blends: 10 products
+2026-02-27 09:21:17,163 - INFO -   Other White Wine: 1 products
+2026-02-27 09:21:17,413 - INFO -   Boxed White Wine: 7 products
+2026-02-27 09:22:48,932 - ERROR - API request failed (catalog/v1/client/categories/4256/products): HTTPSConnectionPool(host='api2.jiffygrocery.co.uk', port=443): Read timed out. (read timeout=30)
+2026-02-27 09:22:49,307 - INFO -   All Vodka: 10 products
+2026-02-27 09:22:49,579 - INFO -   All Whiskey: 8 products
+2026-02-27 09:22:50,084 - INFO -   All Gin: 9 products
+2026-02-27 09:22:50,324 - INFO -   All Liqueurs: 18 products
+2026-02-27 09:22:50,801 - INFO -   All Rum: 5 products
+2026-02-27 09:22:51,212 - INFO -   All Tequila: 7 products
+2026-02-27 09:22:51,621 - INFO -   Cognac: 2 products
+2026-02-27 09:22:51,888 - INFO -   All Aquavit: 1 products
+2026-02-27 09:22:52,160 - INFO -   Bitters: 3 products
+2026-02-27 09:22:52,522 - INFO -   All Ciders: 3 products
+2026-02-27 09:22:52,784 - INFO -   All Mixed Drinks: 16 products
+2026-02-27 09:22:53,156 - INFO -   All Seltzers: 5 products
+2026-02-27 09:22:53,400 - INFO -   All 0% Beer: 1 products
+2026-02-27 09:22:53,755 - INFO -   All 0% Wine: 3 products
+2026-02-27 09:22:54,038 - INFO -   All Other 0% Alcohols: 3 products
+2026-02-27 09:22:54,370 - INFO -   LOOP: 8 products
+2026-02-27 09:22:54,644 - INFO -   ACE: 5 products
+2026-02-27 09:22:54,917 - INFO -   VELO: 5 products
+2026-02-27 09:22:55,323 - INFO -   White Fox: 3 products
+2026-02-27 09:22:55,772 - INFO -   All Nicotine Free Pouches: 1 products
+2026-02-27 09:22:56,127 - INFO -   BLYS: 5 products
+2026-02-27 09:22:56,395 - INFO -   REYMONT: 9 products
+2026-02-27 09:22:56,687 - INFO -   Winston: 6 products
+2026-02-27 09:22:56,982 - INFO -   Marlboro: 7 products
+2026-02-27 09:22:57,389 - INFO -   Camel: 3 products
+2026-02-27 09:22:57,669 - INFO -   Capri: 2 products
+2026-02-27 09:22:57,958 - INFO -   All Other Cigarettes: 4 products
+2026-02-27 09:22:58,318 - INFO -   Sodas (With Sugar): 5 products
+2026-02-27 09:22:58,687 - INFO -   Sugar-Free Sodas: 1 products
+2026-02-27 09:22:58,953 - INFO -   All Energy Drinks: 16 products
+2026-02-27 09:22:59,427 - INFO -   All Tonics: 7 products
+2026-02-27 09:22:59,838 - INFO -   All Sparkling Waters: 2 products
+2026-02-27 09:23:00,365 - INFO -   Doritos: 4 products
+2026-02-27 09:23:00,365 - INFO - Fetched 355 unique products total
+2026-02-27 09:23:00,405 - INFO - Saved current inventory to inventory_data/current_inventory.json
+2026-02-27 09:23:00,429 - INFO - Saved 18 changes to inventory_data/inventory_changes.json
+2026-02-27 09:23:00,546 - INFO - Saved history snapshot to inventory_data/inventory_history.json
+2026-02-27 09:23:00,550 - INFO - Saved CSV snapshot to inventory_data/inventory_2026-02-27_0923.csv
+2026-02-27 09:23:00,553 - INFO - Appended to master CSV: inventory_data/inventory_all.csv
+2026-02-27 09:23:00,553 - INFO - Inventory check completed successfully
