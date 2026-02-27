@@ -34431,5 +34431,100 @@
       ],
       "last_updated": "2026-02-27T12:30:36.838153"
     }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-27T13:31:06.995554",
+    "product_id": 43709,
+    "product_name": "Saku Originaal 6x500ml",
+    "previous_stock": 203,
+    "current_stock": 153,
+    "change": -50,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-27T13:31:06.995554",
+    "product_id": 42661,
+    "product_name": "Boli X 12x330ml",
+    "previous_stock": 14,
+    "current_stock": 13,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-27T13:31:06.995554",
+    "product_id": 42767,
+    "product_name": "Adobe Organic Chardonnay 3L",
+    "previous_stock": 17,
+    "current_stock": 16,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-27T13:31:06.995554",
+    "product_id": 42699,
+    "product_name": "Frontera Chardonnay 3L",
+    "previous_stock": 54,
+    "current_stock": 53,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-27T13:31:06.995554",
+    "product_id": 42497,
+    "product_name": "Reymont 800 Blueberry Raspberry",
+    "stock": 10,
+    "details": {
+      "id": 42497,
+      "code": "30219783",
+      "name": "Reymont 800 Blueberry Raspberry",
+      "slug": "rm-800-blueberry-raspberry-42497",
+      "category_id": 4355,
+      "category_name": "REYMONT",
+      "category_path": "Nicotine > Vapes > REYMONT",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ec0b128d-1cad-4750-9121-9fff0c7fc300.webp",
+      "price": 97000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [],
+      "last_updated": "2026-02-27T13:31:02.827423"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-27T13:31:06.995554",
+    "product_id": 42436,
+    "product_name": "Coca-Cola 10x330ml",
+    "previous_stock": 52,
+    "current_stock": 51,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-27T13:31:06.995554",
+    "product_id": 43360,
+    "product_name": "Doritos Sweet Chili 170g",
+    "previous_stock": 96,
+    "current_stock": 92,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-27T13:31:06.995554",
+    "product_id": 43359,
+    "product_name": "Doritos Nacho Cheese 170g",
+    "previous_stock": 98,
+    "current_stock": 96,
+    "change": -2,
+    "direction": "decrease"
   }
 ]
