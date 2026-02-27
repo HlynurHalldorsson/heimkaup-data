@@ -35328,5 +35328,542 @@
     "product_id": 42443,
     "product_name": "Fever Tree Ginger Ale 4x200ml",
     "last_stock": 17
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-27T22:26:07.009892",
+    "product_id": 42709,
+    "product_name": "Heineken 4x500ml",
+    "previous_stock": 51,
+    "current_stock": 50,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-27T22:26:07.009892",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 12,
+    "current_stock": 11,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-27T22:26:07.009892",
+    "product_id": 42701,
+    "product_name": "Tuborg Classic 12x500ml",
+    "previous_stock": 12,
+    "current_stock": 10,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-27T22:26:07.009892",
+    "product_id": 43058,
+    "product_name": "Thule 12x330ml",
+    "previous_stock": 50,
+    "current_stock": 49,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-27T22:26:07.009892",
+    "product_id": 43710,
+    "product_name": "Krombacher Pils 6x330ml",
+    "previous_stock": 29,
+    "current_stock": 28,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-27T22:26:07.009892",
+    "product_id": 42669,
+    "product_name": "Ölvisholt Classic 10x330ml",
+    "previous_stock": 34,
+    "current_stock": 32,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-27T22:26:07.009892",
+    "product_id": 42716,
+    "product_name": "Peroni Nastro Azzurro 6x330ml",
+    "previous_stock": 4,
+    "current_stock": 1,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-27T22:26:07.009892",
+    "product_id": 42569,
+    "product_name": "Heineken 6x330ml (Gler)",
+    "previous_stock": 114,
+    "current_stock": 113,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-27T22:26:07.009892",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 136,
+    "current_stock": 133,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-27T22:26:07.009892",
+    "product_id": 42710,
+    "product_name": "Víking Lite 12x500ml",
+    "previous_stock": 16,
+    "current_stock": 14,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-27T22:26:07.009892",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 111,
+    "current_stock": 110,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-27T22:26:07.009892",
+    "product_id": 42661,
+    "product_name": "Boli X 12x330ml",
+    "previous_stock": 13,
+    "current_stock": 12,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-27T22:26:07.009892",
+    "product_id": 42605,
+    "product_name": "Gull Lite Premium 12x330ml",
+    "previous_stock": 10,
+    "current_stock": 9,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-27T22:26:07.009892",
+    "product_id": 42612,
+    "product_name": "Ölvisholt Birta 6x330ml",
+    "previous_stock": 25,
+    "current_stock": 24,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-27T22:26:07.009892",
+    "product_id": 42600,
+    "product_name": "Smirnoff Red 700ml",
+    "previous_stock": 8,
+    "current_stock": 5,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-27T22:26:07.009892",
+    "product_id": 42797,
+    "product_name": "Absolut Vodka 1L",
+    "previous_stock": 29,
+    "current_stock": 28,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-27T22:26:07.009892",
+    "product_id": 42504,
+    "product_name": "BLYS 800 Strawberry Banana",
+    "stock": 10,
+    "details": {
+      "id": 42504,
+      "code": "30222025",
+      "name": "BLYS 800 Strawberry Banana",
+      "slug": "blys-800---strawberry-banana-1stk-42504",
+      "category_id": 4516,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/01271aeb-020e-424d-aea1-2af2f5846b92.webp",
+      "price": 97000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30222025",
+          "name": "BLYS 800 Strawberry Banana",
+          "price": 97000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/01271aeb-020e-424d-aea1-2af2f5846b92.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/01271aeb-020e-424d-aea1-2af2f5846b92_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/01271aeb-020e-424d-aea1-2af2f5846b92_thumb.webp"
+            }
+          ],
+          "offerId": 43850,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-27T22:26:02.077840"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-27T22:26:07.009892",
+    "product_id": 42436,
+    "product_name": "Coca-Cola 10x330ml",
+    "previous_stock": 50,
+    "current_stock": 48,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-27T22:26:07.009892",
+    "product_id": 42463,
+    "product_name": "Fever Tree Mediterranean Tonic 4x200ml",
+    "stock": 7,
+    "details": {
+      "id": 42463,
+      "code": "30171294",
+      "name": "Fever Tree Mediterranean Tonic 4x200ml",
+      "slug": "fever-tree-mediterranean-tonic-4x200ml-42463",
+      "category_id": 2560,
+      "category_name": "All Tonics",
+      "category_path": "Soft drinks > Tonic > All Tonics",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/78298c2b-89dd-4030-9ff0-a4cf40ea1a56.webp",
+      "price": 109000,
+      "discount_price": null,
+      "stock": {
+        "H495": 7
+      },
+      "total_stock": 7,
+      "variants": [
+        {
+          "sku": "30171294",
+          "name": "Fever Tree Mediterranean Tonic 4x200ml",
+          "price": 109000,
+          "value": "200ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/78298c2b-89dd-4030-9ff0-a4cf40ea1a56.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/78298c2b-89dd-4030-9ff0-a4cf40ea1a56_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/78298c2b-89dd-4030-9ff0-a4cf40ea1a56_thumb.webp"
+            }
+          ],
+          "offerId": 43800,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 7,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-27T22:26:05.563483"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-27T22:26:07.009892",
+    "product_id": 43714,
+    "product_name": "Fentimans Victorian Lemonade 4x275ml",
+    "stock": 2,
+    "details": {
+      "id": 43714,
+      "code": "30225279",
+      "name": "Fentimans Victorian Lemonade 4x275ml",
+      "slug": "fentimans-victorian-lemonade-4x275ml-43714",
+      "category_id": 4319,
+      "category_name": "All Tonics",
+      "category_path": "Soft drinks > Tonic > All Tonics",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/45014088-42e5-4e80-9124-d4bd654e8704.webp",
+      "price": 139000,
+      "discount_price": null,
+      "stock": {
+        "H495": 2
+      },
+      "total_stock": 2,
+      "variants": [
+        {
+          "sku": "30225279",
+          "name": "Fentimans Victorian Lemonade 4x275ml",
+          "price": 139000,
+          "value": "275ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/45014088-42e5-4e80-9124-d4bd654e8704.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/45014088-42e5-4e80-9124-d4bd654e8704_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/45014088-42e5-4e80-9124-d4bd654e8704_thumb.webp"
+            }
+          ],
+          "offerId": 45334,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 2,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-27T22:26:05.563483"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-27T22:26:07.009892",
+    "product_id": 43713,
+    "product_name": "Fentimans Rose Lemonade 4x275ml",
+    "stock": 1,
+    "details": {
+      "id": 43713,
+      "code": "30225278",
+      "name": "Fentimans Rose Lemonade 4x275ml",
+      "slug": "fentimans-rose-lemonade-4x275ml-43713",
+      "category_id": 4319,
+      "category_name": "All Tonics",
+      "category_path": "Soft drinks > Tonic > All Tonics",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/def62dc7-2041-4c8c-b678-3dc160680ab3.webp",
+      "price": 139000,
+      "discount_price": null,
+      "stock": {
+        "H495": 1
+      },
+      "total_stock": 1,
+      "variants": [],
+      "last_updated": "2026-02-27T22:26:05.563483"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-27T22:26:07.009892",
+    "product_id": 43060,
+    "product_name": "Fever Tree Mexican Lime Soda 4x200ml",
+    "stock": 12,
+    "details": {
+      "id": 43060,
+      "code": "30233871",
+      "name": "Fever Tree Mexican Lime Soda 4x200ml",
+      "slug": "fever-tree-mexican-lime-soda-4x200ml-43060",
+      "category_id": 4319,
+      "category_name": "All Tonics",
+      "category_path": "Soft drinks > Tonic > All Tonics",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ae132ff8-ce35-45aa-9918-43108335f868.webp",
+      "price": 109000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "30233871",
+          "name": "Fever Tree Mexican Lime Soda 4x200ml",
+          "price": 109000,
+          "value": "200ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ae132ff8-ce35-45aa-9918-43108335f868.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ae132ff8-ce35-45aa-9918-43108335f868_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ae132ff8-ce35-45aa-9918-43108335f868_thumb.webp"
+            }
+          ],
+          "offerId": 44555,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-27T22:26:05.563483"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-27T22:26:07.009892",
+    "product_id": 43031,
+    "product_name": "Fever Tree Ginger Beer 4x200ml",
+    "stock": 14,
+    "details": {
+      "id": 43031,
+      "code": "30161259",
+      "name": "Fever Tree Ginger Beer 4x200ml",
+      "slug": "fever-tree-ginger-beer-4x200ml-43031",
+      "category_id": 4319,
+      "category_name": "All Tonics",
+      "category_path": "Soft drinks > Tonic > All Tonics",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2900bab2-b82d-4442-afaa-a8ad6f472565.webp",
+      "price": 109000,
+      "discount_price": null,
+      "stock": {
+        "H495": 14
+      },
+      "total_stock": 14,
+      "variants": [
+        {
+          "sku": "30161259",
+          "name": "Fever Tree Ginger Beer 4x200ml",
+          "price": 109000,
+          "value": "200ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2900bab2-b82d-4442-afaa-a8ad6f472565.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2900bab2-b82d-4442-afaa-a8ad6f472565_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2900bab2-b82d-4442-afaa-a8ad6f472565_thumb.webp"
+            }
+          ],
+          "offerId": 44526,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 14,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-27T22:26:05.563483"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-27T22:26:07.009892",
+    "product_id": 43008,
+    "product_name": "Fever Tree Elderflower 4x200ml",
+    "stock": 16,
+    "details": {
+      "id": 43008,
+      "code": "30203154",
+      "name": "Fever Tree Elderflower 4x200ml",
+      "slug": "fever-tree-elderflower-4x200ml-43008",
+      "category_id": 4319,
+      "category_name": "All Tonics",
+      "category_path": "Soft drinks > Tonic > All Tonics",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/135a1755-b657-473a-a523-acd12aad0195.webp",
+      "price": 109000,
+      "discount_price": null,
+      "stock": {
+        "H495": 16
+      },
+      "total_stock": 16,
+      "variants": [
+        {
+          "sku": "30203154",
+          "name": "Fever Tree Elderflower 4x200ml",
+          "price": 109000,
+          "value": "200ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/135a1755-b657-473a-a523-acd12aad0195.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/135a1755-b657-473a-a523-acd12aad0195_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/135a1755-b657-473a-a523-acd12aad0195_thumb.webp"
+            }
+          ],
+          "offerId": 44514,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 16,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-27T22:26:05.563483"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-02-27T22:26:07.009892",
+    "product_id": 42443,
+    "product_name": "Fever Tree Ginger Ale 4x200ml",
+    "stock": 17,
+    "details": {
+      "id": 42443,
+      "code": "30161258",
+      "name": "Fever Tree Ginger Ale 4x200ml",
+      "slug": "fever-tree-ginger-ale-4x200ml-42443",
+      "category_id": 4319,
+      "category_name": "All Tonics",
+      "category_path": "Soft drinks > Tonic > All Tonics",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/313a65b6-d9bb-4b92-98ec-d78dc5bb8851.webp",
+      "price": 109000,
+      "discount_price": null,
+      "stock": {
+        "H495": 17
+      },
+      "total_stock": 17,
+      "variants": [
+        {
+          "sku": "30161258",
+          "name": "Fever Tree Ginger Ale 4x200ml",
+          "price": 109000,
+          "value": "200ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/313a65b6-d9bb-4b92-98ec-d78dc5bb8851.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/313a65b6-d9bb-4b92-98ec-d78dc5bb8851_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/313a65b6-d9bb-4b92-98ec-d78dc5bb8851_thumb.webp"
+            }
+          ],
+          "offerId": 43786,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 17,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-02-27T22:26:05.563483"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-27T22:26:07.009892",
+    "product_id": 42441,
+    "product_name": "Kristall Mexican Lime 12x330ml",
+    "previous_stock": 21,
+    "current_stock": 20,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-27T22:26:07.009892",
+    "product_id": 43358,
+    "product_name": "Doritos Cool American 170g",
+    "previous_stock": 96,
+    "current_stock": 92,
+    "change": -4,
+    "direction": "decrease"
   }
 ]
