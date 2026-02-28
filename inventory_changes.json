@@ -38671,5 +38671,55 @@
       ],
       "last_updated": "2026-02-28T16:07:17.831951"
     }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-28T16:59:06.749306",
+    "product_id": 42776,
+    "product_name": "Thule 12x500ml",
+    "previous_stock": 29,
+    "current_stock": 28,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-28T16:59:06.749306",
+    "product_id": 42709,
+    "product_name": "Heineken 4x500ml",
+    "previous_stock": 50,
+    "current_stock": 49,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-28T16:59:06.749306",
+    "product_id": 42766,
+    "product_name": "Casa Solís Chardonnay 750ml",
+    "previous_stock": 27,
+    "current_stock": 26,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-28T16:59:06.749306",
+    "product_id": 42810,
+    "product_name": "Barefoot Pinot Grigio 750ml",
+    "previous_stock": 61,
+    "current_stock": 59,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-02-28T16:59:06.749306",
+    "product_id": 42559,
+    "product_name": "Finlandia Vodka 200ml",
+    "previous_stock": 3,
+    "current_stock": 2,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
