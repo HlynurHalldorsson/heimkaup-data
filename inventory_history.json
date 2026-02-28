@@ -179300,5 +179300,638 @@
         "stock": 1
       }
     ]
+  },
+  {
+    "timestamp": "2026-02-28T00:27:00.199451",
+    "total_products": 384,
+    "total_stock": 5746,
+    "by_category": {
+      "All Lagers": {
+        "count": 35,
+        "total_stock": 830
+      },
+      "All Lite Beers": {
+        "count": 11,
+        "total_stock": 348
+      },
+      "All Ales": {
+        "count": 9,
+        "total_stock": 173
+      },
+      "All Seasonal Beers": {
+        "count": 5,
+        "total_stock": 62
+      },
+      "All Low-Alcohol Beers": {
+        "count": 1,
+        "total_stock": 4
+      },
+      "Cabernet Sauvignon": {
+        "count": 8,
+        "total_stock": 91
+      },
+      "Merlot": {
+        "count": 1,
+        "total_stock": 6
+      },
+      "Pinot Noir": {
+        "count": 2,
+        "total_stock": 57
+      },
+      "Syrah": {
+        "count": 1,
+        "total_stock": 26
+      },
+      "Malbec": {
+        "count": 5,
+        "total_stock": 44
+      },
+      "Chianti": {
+        "count": 5,
+        "total_stock": 42
+      },
+      "Tempranillo": {
+        "count": 10,
+        "total_stock": 85
+      },
+      "Red Blends": {
+        "count": 16,
+        "total_stock": 151
+      },
+      "Other Red Wine": {
+        "count": 3,
+        "total_stock": 21
+      },
+      "Boxed Red Wines": {
+        "count": 6,
+        "total_stock": 51
+      },
+      "All Rosé Wines": {
+        "count": 7,
+        "total_stock": 57
+      },
+      "Chardonnay": {
+        "count": 10,
+        "total_stock": 143
+      },
+      "Sauvignon Blanc": {
+        "count": 3,
+        "total_stock": 101
+      },
+      "Riesling": {
+        "count": 5,
+        "total_stock": 31
+      },
+      "Pinot Grigio": {
+        "count": 6,
+        "total_stock": 96
+      },
+      "Moscato": {
+        "count": 1,
+        "total_stock": 6
+      },
+      "White Blends": {
+        "count": 10,
+        "total_stock": 84
+      },
+      "Other White Wine": {
+        "count": 1,
+        "total_stock": 12
+      },
+      "Boxed White Wine": {
+        "count": 7,
+        "total_stock": 137
+      },
+      "All Sparkling Wines": {
+        "count": 16,
+        "total_stock": 242
+      },
+      "All Vodka": {
+        "count": 10,
+        "total_stock": 153
+      },
+      "All Whiskey": {
+        "count": 8,
+        "total_stock": 69
+      },
+      "All Gin": {
+        "count": 9,
+        "total_stock": 76
+      },
+      "All Liqueurs": {
+        "count": 18,
+        "total_stock": 205
+      },
+      "All Rum": {
+        "count": 5,
+        "total_stock": 33
+      },
+      "All Tequila": {
+        "count": 7,
+        "total_stock": 37
+      },
+      "Cognac": {
+        "count": 2,
+        "total_stock": 3
+      },
+      "All Aquavit": {
+        "count": 1,
+        "total_stock": 14
+      },
+      "Bitters": {
+        "count": 3,
+        "total_stock": 33
+      },
+      "All Ciders": {
+        "count": 3,
+        "total_stock": 19
+      },
+      "All Mixed Drinks": {
+        "count": 16,
+        "total_stock": 254
+      },
+      "All Seltzers": {
+        "count": 5,
+        "total_stock": 28
+      },
+      "All 0% Beer": {
+        "count": 1,
+        "total_stock": 3
+      },
+      "All 0% Wine": {
+        "count": 3,
+        "total_stock": 9
+      },
+      "All Other 0% Alcohols": {
+        "count": 3,
+        "total_stock": 13
+      },
+      "LOOP": {
+        "count": 9,
+        "total_stock": 194
+      },
+      "ACE": {
+        "count": 6,
+        "total_stock": 113
+      },
+      "VELO": {
+        "count": 5,
+        "total_stock": 142
+      },
+      "White Fox": {
+        "count": 3,
+        "total_stock": 100
+      },
+      "All Nicotine Free Pouches": {
+        "count": 1,
+        "total_stock": 30
+      },
+      "BLYS": {
+        "count": 10,
+        "total_stock": 126
+      },
+      "REYMONT": {
+        "count": 16,
+        "total_stock": 237
+      },
+      "Winston": {
+        "count": 6,
+        "total_stock": 105
+      },
+      "Marlboro": {
+        "count": 7,
+        "total_stock": 69
+      },
+      "Camel": {
+        "count": 3,
+        "total_stock": 55
+      },
+      "Capri": {
+        "count": 2,
+        "total_stock": 19
+      },
+      "All Other Cigarettes": {
+        "count": 4,
+        "total_stock": 40
+      },
+      "Sodas (With Sugar)": {
+        "count": 5,
+        "total_stock": 79
+      },
+      "All Energy Drinks": {
+        "count": 16,
+        "total_stock": 103
+      },
+      "All Tonics": {
+        "count": 7,
+        "total_stock": 69
+      },
+      "All Sparkling Waters": {
+        "count": 2,
+        "total_stock": 36
+      },
+      "Doritos": {
+        "count": 4,
+        "total_stock": 380
+      }
+    },
+    "out_of_stock": [],
+    "low_stock": [
+      {
+        "id": 43709,
+        "name": "Saku Originaal 6x500ml",
+        "stock": 1
+      },
+      {
+        "id": 42720,
+        "name": "Carlsberg 10x500ml",
+        "stock": 5
+      },
+      {
+        "id": 42608,
+        "name": "Boli Sterkur Pilsner 6x500ml",
+        "stock": 4
+      },
+      {
+        "id": 42533,
+        "name": "Víking Rökkr 12x500ml",
+        "stock": 4
+      },
+      {
+        "id": 42597,
+        "name": "Estrella Damm 6x330ml",
+        "stock": 5
+      },
+      {
+        "id": 42716,
+        "name": "Peroni Nastro Azzurro 6x330ml",
+        "stock": 1
+      },
+      {
+        "id": 42782,
+        "name": "Kaldi Ljós 10x330ml",
+        "stock": 2
+      },
+      {
+        "id": 42707,
+        "name": "Víking Lite Classic 12x330ml",
+        "stock": 3
+      },
+      {
+        "id": 42624,
+        "name": "Gull Lite Yuzu Lime 10x330ml",
+        "stock": 2
+      },
+      {
+        "id": 43034,
+        "name": "Víking Systir 6x330ml",
+        "stock": 3
+      },
+      {
+        "id": 43029,
+        "name": "Ölvisholt Red Ale 6x330ml",
+        "stock": 4
+      },
+      {
+        "id": 43007,
+        "name": "Kronenbourg 1664 Blanc 6x330ml (Gler)",
+        "stock": 2
+      },
+      {
+        "id": 43044,
+        "name": "Einstök Winter Ale 6x330ml",
+        "stock": 3
+      },
+      {
+        "id": 42859,
+        "name": "Víking 2.25% 6x500ml",
+        "stock": 4
+      },
+      {
+        "id": 43658,
+        "name": "M.T. Las Mulas Cab.Sauv Org 750 ml",
+        "stock": 5
+      },
+      {
+        "id": 43004,
+        "name": "Casillero Del Diablo Cabernet Sauvignon 3L",
+        "stock": 2
+      },
+      {
+        "id": 42557,
+        "name": "Trivento Malbec Reserve 750ml",
+        "stock": 5
+      },
+      {
+        "id": 42761,
+        "name": "Chianti Classico Campomaggio 750ml",
+        "stock": 4
+      },
+      {
+        "id": 42813,
+        "name": "Faustino VII Red 750ml",
+        "stock": 3
+      },
+      {
+        "id": 42583,
+        "name": "El Coto Crianza 750ml",
+        "stock": 3
+      },
+      {
+        "id": 42627,
+        "name": "Cune Crianza 187ml",
+        "stock": 5
+      },
+      {
+        "id": 42599,
+        "name": "Apothic Red 750ml",
+        "stock": 1
+      },
+      {
+        "id": 43675,
+        "name": "Beronia Crianza 750 ml",
+        "stock": 3
+      },
+      {
+        "id": 43043,
+        "name": "Gomez El Predilecto 750ml",
+        "stock": 1
+      },
+      {
+        "id": 42943,
+        "name": "Massolino Barolo 2020 750ml",
+        "stock": 1
+      },
+      {
+        "id": 42667,
+        "name": "Adobe Merlot Cabernet Syrah Poki 1,5L",
+        "stock": 4
+      },
+      {
+        "id": 43662,
+        "name": "La Copa Vermouth Rojo 750ml",
+        "stock": 3
+      },
+      {
+        "id": 43015,
+        "name": "Piccanti Rosso Toscana 3L",
+        "stock": 1
+      },
+      {
+        "id": 42593,
+        "name": "Barefoot White Zinfandel Rosé 750ml",
+        "stock": 2
+      },
+      {
+        "id": 43677,
+        "name": "Beronia Rosé Rioja 750ml",
+        "stock": 5
+      },
+      {
+        "id": 43048,
+        "name": "Rene Mure Crémant Rosé 750ml",
+        "stock": 3
+      },
+      {
+        "id": 42815,
+        "name": "Faustino VII Rose 750ml",
+        "stock": 5
+      },
+      {
+        "id": 43667,
+        "name": "Folonari Chardonnay 750ml",
+        "stock": 5
+      },
+      {
+        "id": 43063,
+        "name": "Beaune Bastion 1ER CRU Blanc 750ml",
+        "stock": 5
+      },
+      {
+        "id": 43664,
+        "name": "Chateau Ste Michelle Riesling 750ml",
+        "stock": 4
+      },
+      {
+        "id": 42693,
+        "name": "Faustino VII Blanco 750ml",
+        "stock": 2
+      },
+      {
+        "id": 42541,
+        "name": "JP. Chenet Medium Sweet 750ml",
+        "stock": 2
+      },
+      {
+        "id": 42607,
+        "name": "Montalto Pinot Grigio 3L",
+        "stock": 3
+      },
+      {
+        "id": 42770,
+        "name": "Tosti Prosecco Rosé vegan 750ml",
+        "stock": 5
+      },
+      {
+        "id": 42737,
+        "name": "Willm Cremant d'Alsace Brut 750ml",
+        "stock": 5
+      },
+      {
+        "id": 42642,
+        "name": "Champagne Collet Brut Rosé 750ml",
+        "stock": 1
+      },
+      {
+        "id": 42652,
+        "name": "Nicolas Feuillatte Brut Réserve 200ml",
+        "stock": 4
+      },
+      {
+        "id": 42559,
+        "name": "Finlandia Vodka 200ml",
+        "stock": 3
+      },
+      {
+        "id": 42600,
+        "name": "Smirnoff Red 700ml",
+        "stock": 5
+      },
+      {
+        "id": 43207,
+        "name": "Monkey Shoulder 700ml",
+        "stock": 4
+      },
+      {
+        "id": 42749,
+        "name": "Tullamore Dew 700ml",
+        "stock": 4
+      },
+      {
+        "id": 42548,
+        "name": "Beefeater 500ml",
+        "stock": 2
+      },
+      {
+        "id": 43718,
+        "name": "Hendricks´s Lunar Gin 700ml",
+        "stock": 1
+      },
+      {
+        "id": 42746,
+        "name": "Martin Miller's Gin 700ml",
+        "stock": 2
+      },
+      {
+        "id": 43206,
+        "name": "Disaronno Amaretto 500ml",
+        "stock": 3
+      },
+      {
+        "id": 42777,
+        "name": "Poli Elisir Sambuca 700ml",
+        "stock": 5
+      },
+      {
+        "id": 43052,
+        "name": "Gajol Grænn Granatepla 1L",
+        "stock": 3
+      },
+      {
+        "id": 42587,
+        "name": "Planteray Pineapple Rum 700ml",
+        "stock": 3
+      },
+      {
+        "id": 43204,
+        "name": "Don Julio Blanco 700ml",
+        "stock": 4
+      },
+      {
+        "id": 42994,
+        "name": "JOSE CUERVO Especial 700ml",
+        "stock": 2
+      },
+      {
+        "id": 42563,
+        "name": "Patrón Silver Tequila 700ml",
+        "stock": 2
+      },
+      {
+        "id": 42592,
+        "name": "Camus V.S.O.P. 500ml",
+        "stock": 2
+      },
+      {
+        "id": 42726,
+        "name": "Remy Martin VSOP 700ml",
+        "stock": 1
+      },
+      {
+        "id": 43025,
+        "name": "Kopparberg Strawberry Pineapple 4x330ml",
+        "stock": 5
+      },
+      {
+        "id": 42700,
+        "name": "Somersby Apple 6x330ml",
+        "stock": 4
+      },
+      {
+        "id": 42820,
+        "name": "Breezer Lemon 4x275ml",
+        "stock": 3
+      },
+      {
+        "id": 42788,
+        "name": "Breezer Pineapple 4x275ml",
+        "stock": 5
+      },
+      {
+        "id": 42673,
+        "name": "BARA Jarðaber & Límóna 6x330ml",
+        "stock": 4
+      },
+      {
+        "id": 42630,
+        "name": "BARA Hindber & Sítróna 6x330ml",
+        "stock": 5
+      },
+      {
+        "id": 43009,
+        "name": "Víking Gylltur Áfengislaus 6x330ml",
+        "stock": 3
+      },
+      {
+        "id": 43000,
+        "name": "Torres Sangre de Toro hvítt 0,0% 700ml",
+        "stock": 1
+      },
+      {
+        "id": 42794,
+        "name": "Lussory Rosé Freyðivín Óáfengt 750ml",
+        "stock": 2
+      },
+      {
+        "id": 42812,
+        "name": "Monday Gin Óáfengt 750ml",
+        "stock": 1
+      },
+      {
+        "id": 42521,
+        "name": "7UP Zero 6x330ml",
+        "stock": 1
+      },
+      {
+        "id": 42502,
+        "name": "Bonaqua Epla 10x330ml",
+        "stock": 5
+      },
+      {
+        "id": 43712,
+        "name": "COLLAB Engifer & Ferskju 6x330ml",
+        "stock": 4
+      },
+      {
+        "id": 43006,
+        "name": "COLLAB Epla & Kíví 6x330ml",
+        "stock": 5
+      },
+      {
+        "id": 42506,
+        "name": "COLLAB Jarðarberja og Sítrónu 6x330ml",
+        "stock": 3
+      },
+      {
+        "id": 42556,
+        "name": "NOCCO The Berries 6x330ml",
+        "stock": 4
+      },
+      {
+        "id": 43020,
+        "name": "Mist Uppbygging Jarðarber & Lime 6x330ml",
+        "stock": 3
+      },
+      {
+        "id": 42522,
+        "name": "Mist Uppbygging Skógarber og Chai 6x330ml",
+        "stock": 3
+      },
+      {
+        "id": 42447,
+        "name": "Monster Pipeline Punch 4x500ml",
+        "stock": 2
+      },
+      {
+        "id": 43714,
+        "name": "Fentimans Victorian Lemonade 4x275ml",
+        "stock": 2
+      },
+      {
+        "id": 43713,
+        "name": "Fentimans Rose Lemonade 4x275ml",
+        "stock": 1
+      }
+    ]
   }
 ]
