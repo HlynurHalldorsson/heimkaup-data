@@ -41720,3 +41720,102 @@ Categories (57):
 2026-02-28 07:39:32,881 - INFO - Saved CSV snapshot to inventory_data/inventory_2026-02-28_0739.csv
 2026-02-28 07:39:32,883 - INFO - Appended to master CSV: inventory_data/inventory_all.csv
 2026-02-28 07:39:32,883 - INFO - Inventory check completed successfully
+2026-02-28 07:39:33,195 - ERROR - Failed to push to GitHub: Command '['git', 'push']' returned non-zero exit status 128.
+
+============================================================
+HEIMKAUP INVENTORY SUMMARY - 2026-02-28 07:39:32
+============================================================
+
+Total Products: 336
+Total Stock Units: 4896
+Out of Stock: 0
+Low Stock (<=5): 66
+
+Categories (50):
+  - ACE: 6 products, 113 units
+  - All 0% Beer: 1 products, 3 units
+  - All 0% Wine: 3 products, 9 units
+  - All Ales: 9 products, 173 units
+  - All Aquavit: 1 products, 14 units
+  - All Ciders: 3 products, 19 units
+  - All Gin: 9 products, 76 units
+  - All Lagers: 35 products, 830 units
+  - All Liqueurs: 18 products, 205 units
+  - All Lite Beers: 11 products, 348 units
+  - All Low-Alcohol Beers: 1 products, 4 units
+  - All Mixed Drinks: 16 products, 254 units
+  - All Nicotine Free Pouches: 1 products, 30 units
+  - All Other 0% Alcohols: 3 products, 13 units
+  - All Rosé Wines: 7 products, 57 units
+  - All Rum: 5 products, 33 units
+  - All Seasonal Beers: 5 products, 62 units
+  - All Seltzers: 5 products, 28 units
+  - All Sparkling Wines: 16 products, 242 units
+  - All Tequila: 7 products, 37 units
+  - All Vodka: 10 products, 153 units
+  - All Whiskey: 8 products, 69 units
+  - BLYS: 10 products, 126 units
+  - Bitters: 3 products, 33 units
+  - Boxed Red Wines: 6 products, 51 units
+  - Boxed White Wine: 7 products, 137 units
+  - Cabernet Sauvignon: 8 products, 91 units
+  - Camel: 3 products, 55 units
+  - Capri: 2 products, 19 units
+  - Chianti: 5 products, 42 units
+  - Cognac: 2 products, 3 units
+  - LOOP: 9 products, 194 units
+  - Malbec: 5 products, 44 units
+  - Marlboro: 7 products, 69 units
+  - Merlot: 1 products, 6 units
+  - Moscato: 1 products, 6 units
+  - Other Red Wine: 3 products, 21 units
+  - Other White Wine: 1 products, 12 units
+  - Pinot Grigio: 6 products, 96 units
+  - Pinot Noir: 2 products, 57 units
+  - REYMONT: 16 products, 237 units
+  - Red Blends: 16 products, 151 units
+  - Riesling: 5 products, 31 units
+  - Sauvignon Blanc: 3 products, 101 units
+  - Syrah: 1 products, 26 units
+  - Tempranillo: 10 products, 85 units
+  - VELO: 5 products, 142 units
+  - White Blends: 10 products, 84 units
+  - White Fox: 3 products, 100 units
+  - Winston: 6 products, 105 units
+
+--- CHANGES DETECTED (48) ---
+  [product_removed] Folonari Chardonnay 750ml
+  [product_removed] Beaune Bastion 1ER CRU Blanc 750ml
+  [product_removed] Casa Solís Chardonnay 750ml
+  [product_removed] Finca Las Moras Chardonnay 750ml
+  [product_removed] Finca Las Moras Chardonnay Barrel Select 750ml
+  [product_removed] Lamberti Garda Chardonnay 750ml
+  [product_removed] Montes Chardonnay 750ml
+  [product_removed] Petit Chablis ,,Pas Si Petit" 750ml
+  [product_removed] Adobe Chardonnay Reserva 2024 750ml
+  [product_removed] Adobe Chardonnay Poki 1,5L
+  [product_removed] Prince Red Box
+  [product_removed] Gold Coast Blue Box
+  [product_removed] Gold Coast Red Box
+  [product_removed] L&M Red KSF Box
+  [product_removed] Coca-Cola 10x330ml
+  [product_removed] Pepsi Max 12x330ml
+  [product_removed] 7UP Zero 6x330ml
+  [product_removed] Bonaqua Epla 10x330ml
+  [product_removed] Plús Blóðappelsínu 4x330ml
+  [product_removed] Red Bull Sykurlaus 6x250ml
+  ... and 28 more changes
+
+--- LOW STOCK ALERT ---
+  - Saku Originaal 6x500ml: 1 left
+  - Peroni Nastro Azzurro 6x330ml: 1 left
+  - Apothic Red 750ml: 1 left
+  - Gomez El Predilecto 750ml: 1 left
+  - Massolino Barolo 2020 750ml: 1 left
+  - Piccanti Rosso Toscana 3L: 1 left
+  - Champagne Collet Brut Rosé 750ml: 1 left
+  - Hendricks´s Lunar Gin 700ml: 1 left
+  - Remy Martin VSOP 700ml: 1 left
+  - Torres Sangre de Toro hvítt 0,0% 700ml: 1 left
+
+============================================================
