@@ -42049,3 +42049,96 @@ Categories (57):
 2026-02-28 17:59:33,801 - INFO - Saved CSV snapshot to inventory_data/inventory_2026-02-28_1759.csv
 2026-02-28 17:59:33,803 - INFO - Appended to master CSV: inventory_data/inventory_all.csv
 2026-02-28 17:59:33,803 - INFO - Inventory check completed successfully
+2026-02-28 17:59:36,356 - INFO - Successfully pushed inventory data to GitHub
+
+============================================================
+HEIMKAUP INVENTORY SUMMARY - 2026-02-28 17:59:33
+============================================================
+
+Total Products: 383
+Total Stock Units: 5730
+Out of Stock: 0
+Low Stock (<=5): 80
+
+Categories (57):
+  - ACE: 6 products, 113 units
+  - All 0% Beer: 1 products, 3 units
+  - All 0% Wine: 3 products, 9 units
+  - All Ales: 9 products, 173 units
+  - All Aquavit: 1 products, 14 units
+  - All Ciders: 3 products, 19 units
+  - All Energy Drinks: 16 products, 103 units
+  - All Gin: 9 products, 76 units
+  - All Lagers: 35 products, 832 units
+  - All Liqueurs: 18 products, 205 units
+  - All Lite Beers: 11 products, 354 units
+  - All Low-Alcohol Beers: 1 products, 4 units
+  - All Mixed Drinks: 16 products, 250 units
+  - All Nicotine Free Pouches: 1 products, 30 units
+  - All Other 0% Alcohols: 3 products, 13 units
+  - All Other Cigarettes: 4 products, 40 units
+  - All Rosé Wines: 7 products, 56 units
+  - All Rum: 5 products, 33 units
+  - All Seasonal Beers: 5 products, 60 units
+  - All Seltzers: 5 products, 27 units
+  - All Sparkling Waters: 2 products, 36 units
+  - All Sparkling Wines: 16 products, 242 units
+  - All Tequila: 7 products, 37 units
+  - All Tonics: 7 products, 69 units
+  - All Vodka: 10 products, 152 units
+  - All Whiskey: 8 products, 69 units
+  - BLYS: 10 products, 126 units
+  - Bitters: 3 products, 33 units
+  - Boxed Red Wines: 6 products, 49 units
+  - Boxed White Wine: 7 products, 134 units
+  - Cabernet Sauvignon: 8 products, 89 units
+  - Camel: 3 products, 55 units
+  - Capri: 2 products, 19 units
+  - Chardonnay: 10 products, 153 units
+  - Chianti: 5 products, 42 units
+  - Cognac: 2 products, 3 units
+  - Doritos: 4 products, 377 units
+  - LOOP: 9 products, 194 units
+  - Malbec: 5 products, 43 units
+  - Marlboro: 7 products, 69 units
+  - Merlot: 1 products, 6 units
+  - Moscato: 1 products, 6 units
+  - Other Red Wine: 3 products, 21 units
+  - Other White Wine: 1 products, 12 units
+  - Pinot Grigio: 6 products, 96 units
+  - Pinot Noir: 2 products, 57 units
+  - REYMONT: 16 products, 237 units
+  - Red Blends: 16 products, 151 units
+  - Riesling: 5 products, 29 units
+  - Sauvignon Blanc: 3 products, 109 units
+  - Sodas (With Sugar): 4 products, 72 units
+  - Syrah: 1 products, 26 units
+  - Tempranillo: 10 products, 84 units
+  - VELO: 5 products, 131 units
+  - White Blends: 10 products, 83 units
+  - White Fox: 3 products, 100 units
+  - Winston: 6 products, 105 units
+
+--- CHANGES DETECTED (8) ---
+  [stock_change] Stella Artois 10x440ml: 7 -> 6 (-1)
+  [stock_change] Faustino VII Cabernet Sauvignon 750ml: 5 -> 4 (-1)
+  [stock_change] El Coto Crianza 750ml: 3 -> 2 (-1)
+  [stock_change] Frontera Cabernet Sauvignon 3L: 18 -> 16 (-2)
+  [stock_change] Adobe Rosé Poki 1,5L: 24 -> 23 (-1)
+  [stock_change] Faustino VII Blanco 750ml: 2 -> 1 (-1)
+  [stock_change] BARA Hindber & Sítróna 6x330ml: 5 -> 4 (-1)
+  [stock_change] Plús Blóðappelsínu 4x330ml: 7 -> 6 (-1)
+
+--- LOW STOCK ALERT ---
+  - Saku Originaal 6x500ml: 1 left
+  - Peroni Nastro Azzurro 6x330ml: 1 left
+  - Apothic Red 750ml: 1 left
+  - Gomez El Predilecto 750ml: 1 left
+  - Massolino Barolo 2020 750ml: 1 left
+  - Piccanti Rosso Toscana 3L: 1 left
+  - Faustino VII Blanco 750ml: 1 left
+  - Champagne Collet Brut Rosé 750ml: 1 left
+  - Hendricks´s Lunar Gin 700ml: 1 left
+  - Remy Martin VSOP 700ml: 1 left
+
+============================================================
