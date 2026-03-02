@@ -40631,5 +40631,113 @@
     "current_stock": 100,
     "change": 6,
     "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-02T12:21:47.182715",
+    "product_id": 42709,
+    "product_name": "Heineken 4x500ml",
+    "previous_stock": 5,
+    "current_stock": 3,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-02T12:21:47.182715",
+    "product_id": 42705,
+    "product_name": "Víking Sterkr 6x500ml",
+    "previous_stock": 39,
+    "current_stock": 31,
+    "change": -8,
+    "direction": "decrease"
+  },
+  {
+    "type": "price_change",
+    "timestamp": "2026-03-02T12:21:47.182715",
+    "product_id": 42436,
+    "product_name": "Coca-Cola 10x330ml",
+    "previous_price": 129000,
+    "current_price": 114000
+  },
+  {
+    "type": "price_change",
+    "timestamp": "2026-03-02T12:21:47.182715",
+    "product_id": 42474,
+    "product_name": "Appelsín 6x330ml",
+    "previous_price": 79000,
+    "current_price": 99000
+  },
+  {
+    "type": "price_change",
+    "timestamp": "2026-03-02T12:21:47.182715",
+    "product_id": 42434,
+    "product_name": "Pepsi Max 12x330ml",
+    "previous_price": 159000,
+    "current_price": 129000
+  },
+  {
+    "type": "price_change",
+    "timestamp": "2026-03-02T12:21:47.182715",
+    "product_id": 42520,
+    "product_name": "Pepsi Max Lime 6x330ml",
+    "previous_price": 79000,
+    "current_price": 89000
+  },
+  {
+    "type": "price_change",
+    "timestamp": "2026-03-02T12:21:47.182715",
+    "product_id": 42490,
+    "product_name": "Mountain Dew 6x330ml",
+    "previous_price": 79000,
+    "current_price": 89000
+  },
+  {
+    "type": "price_change",
+    "timestamp": "2026-03-02T12:21:47.182715",
+    "product_id": 42467,
+    "product_name": "Appelsín án sykurs 12x330ml",
+    "previous_price": 159000,
+    "current_price": 166000
+  },
+  {
+    "type": "price_change",
+    "timestamp": "2026-03-02T12:21:47.182715",
+    "product_id": 42502,
+    "product_name": "Bonaqua Epla 10x330ml",
+    "previous_price": 119000,
+    "current_price": 127000
+  },
+  {
+    "type": "price_change",
+    "timestamp": "2026-03-02T12:21:47.182715",
+    "product_id": 42483,
+    "product_name": "Bonaqua Límónu & Sítrónu 10x330ml",
+    "previous_price": 109000,
+    "current_price": 127000
+  },
+  {
+    "type": "price_change",
+    "timestamp": "2026-03-02T12:21:47.182715",
+    "product_id": 42465,
+    "product_name": "Plús Blóðappelsínu 4x330ml",
+    "previous_price": 51000,
+    "current_price": 57000
+  },
+  {
+    "type": "price_change",
+    "timestamp": "2026-03-02T12:21:47.182715",
+    "product_id": 42864,
+    "product_name": "Malt 6x500ml",
+    "previous_price": 159000,
+    "current_price": 173000
+  },
+  {
+    "type": "price_change",
+    "timestamp": "2026-03-02T12:21:47.182715",
+    "product_id": 42516,
+    "product_name": "Coca-Cola án sykurs 10x330ml",
+    "previous_price": 129000,
+    "current_price": 114000
   }
 ]
