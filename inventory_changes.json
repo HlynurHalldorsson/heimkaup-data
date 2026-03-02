@@ -40208,5 +40208,428 @@
     "current_stock": 5,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-02T11:04:12.035223",
+    "product_id": 42474,
+    "product_name": "Appelsín 6x330ml",
+    "stock": 100,
+    "details": {
+      "id": 42474,
+      "code": "30208680",
+      "name": "Appelsín 6x330ml",
+      "slug": "appelsin-6x330ml-42474",
+      "category_id": 4315,
+      "category_name": "Sodas (With Sugar)",
+      "category_path": "Soft drinks > Soda > Sodas (With Sugar)",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/debe7f0d-6b8a-48b0-800e-b234cf41f564.webp",
+      "price": 79000,
+      "discount_price": null,
+      "stock": {
+        "H495": 100
+      },
+      "total_stock": 100,
+      "variants": [
+        {
+          "sku": "30208680",
+          "name": "Appelsín 6x330ml",
+          "price": 79000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/debe7f0d-6b8a-48b0-800e-b234cf41f564.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/debe7f0d-6b8a-48b0-800e-b234cf41f564_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/debe7f0d-6b8a-48b0-800e-b234cf41f564_thumb.webp"
+            },
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/dfce45c3-f204-4301-9c21-47b2fefcba22.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/dfce45c3-f204-4301-9c21-47b2fefcba22_orig.jpeg",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/dfce45c3-f204-4301-9c21-47b2fefcba22_thumb.webp"
+            }
+          ],
+          "offerId": 43801,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 100,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-02T11:04:09.941758"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-02T11:04:12.035223",
+    "product_id": 42521,
+    "product_name": "7UP Zero 6x330ml",
+    "stock": 100,
+    "details": {
+      "id": 42521,
+      "code": "30208763",
+      "name": "7UP Zero 6x330ml",
+      "slug": "7up-zero-6x330ml-42521",
+      "category_id": 4315,
+      "category_name": "Sodas (With Sugar)",
+      "category_path": "Soft drinks > Soda > Sodas (With Sugar)",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/48dd0889-bd31-4082-a96a-e08e0f758d3c.webp",
+      "price": 79000,
+      "discount_price": null,
+      "stock": {
+        "H495": 100
+      },
+      "total_stock": 100,
+      "variants": [
+        {
+          "sku": "30208763",
+          "name": "7UP Zero 6x330ml",
+          "price": 79000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/48dd0889-bd31-4082-a96a-e08e0f758d3c.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/48dd0889-bd31-4082-a96a-e08e0f758d3c_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/48dd0889-bd31-4082-a96a-e08e0f758d3c_thumb.webp"
+            },
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7b10aeb4-05f1-493e-ae46-cc1f5d1bae4a.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7b10aeb4-05f1-493e-ae46-cc1f5d1bae4a_orig.jpeg",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7b10aeb4-05f1-493e-ae46-cc1f5d1bae4a_thumb.webp"
+            }
+          ],
+          "offerId": 43835,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 100,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-02T11:04:09.941758"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-02T11:04:12.035223",
+    "product_id": 42520,
+    "product_name": "Pepsi Max Lime 6x330ml",
+    "stock": 100,
+    "details": {
+      "id": 42520,
+      "code": "30208716",
+      "name": "Pepsi Max Lime 6x330ml",
+      "slug": "pepsi-max-lime-6x330ml-42520",
+      "category_id": 4315,
+      "category_name": "Sodas (With Sugar)",
+      "category_path": "Soft drinks > Soda > Sodas (With Sugar)",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/32f0a730-c112-4ef0-8088-317b6b58cd3b.webp",
+      "price": 79000,
+      "discount_price": null,
+      "stock": {
+        "H495": 100
+      },
+      "total_stock": 100,
+      "variants": [
+        {
+          "sku": "30208716",
+          "name": "Pepsi Max Lime 6x330ml",
+          "price": 79000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/32f0a730-c112-4ef0-8088-317b6b58cd3b.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/32f0a730-c112-4ef0-8088-317b6b58cd3b_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/32f0a730-c112-4ef0-8088-317b6b58cd3b_thumb.webp"
+            },
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5ccb3577-ff6c-4c57-9c67-ee088523d2b3.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5ccb3577-ff6c-4c57-9c67-ee088523d2b3_orig.jpeg",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5ccb3577-ff6c-4c57-9c67-ee088523d2b3_thumb.webp"
+            }
+          ],
+          "offerId": 43821,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 100,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-02T11:04:09.941758"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-02T11:04:12.035223",
+    "product_id": 42490,
+    "product_name": "Mountain Dew 6x330ml",
+    "stock": 100,
+    "details": {
+      "id": 42490,
+      "code": "30209629",
+      "name": "Mountain Dew 6x330ml",
+      "slug": "mountain-dew-6x330ml-42490",
+      "category_id": 4315,
+      "category_name": "Sodas (With Sugar)",
+      "category_path": "Soft drinks > Soda > Sodas (With Sugar)",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/15779d56-b7ba-4790-ab1e-21a6a672074c.webp",
+      "price": 79000,
+      "discount_price": null,
+      "stock": {
+        "H495": 100
+      },
+      "total_stock": 100,
+      "variants": [
+        {
+          "sku": "30209629",
+          "name": "Mountain Dew 6x330ml",
+          "price": 79000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/15779d56-b7ba-4790-ab1e-21a6a672074c.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/15779d56-b7ba-4790-ab1e-21a6a672074c_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/15779d56-b7ba-4790-ab1e-21a6a672074c_thumb.webp"
+            },
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/92f50fd8-f0a0-44c8-b4b9-ab767256ea35.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/92f50fd8-f0a0-44c8-b4b9-ab767256ea35_orig.jpeg",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/92f50fd8-f0a0-44c8-b4b9-ab767256ea35_thumb.webp"
+            }
+          ],
+          "offerId": 43811,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 100,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-02T11:04:09.941758"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-02T11:04:12.035223",
+    "product_id": 42467,
+    "product_name": "Appelsín án sykurs 12x330ml",
+    "stock": 100,
+    "details": {
+      "id": 42467,
+      "code": "30208681",
+      "name": "Appelsín án sykurs 12x330ml",
+      "slug": "appelsin-an-sykurs-12x330ml-42467",
+      "category_id": 4315,
+      "category_name": "Sodas (With Sugar)",
+      "category_path": "Soft drinks > Soda > Sodas (With Sugar)",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/496d8c3c-c11f-46ee-bd17-47c2e20c239e.webp",
+      "price": 159000,
+      "discount_price": null,
+      "stock": {
+        "H495": 100
+      },
+      "total_stock": 100,
+      "variants": [
+        {
+          "sku": "30208681",
+          "name": "Appelsín án sykurs 12x330ml",
+          "price": 159000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/496d8c3c-c11f-46ee-bd17-47c2e20c239e.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/496d8c3c-c11f-46ee-bd17-47c2e20c239e_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/496d8c3c-c11f-46ee-bd17-47c2e20c239e_thumb.webp"
+            },
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/49cab5c3-f9ea-4e42-90ab-c10f03a13a80.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/49cab5c3-f9ea-4e42-90ab-c10f03a13a80_orig.jpeg",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/49cab5c3-f9ea-4e42-90ab-c10f03a13a80_thumb.webp"
+            }
+          ],
+          "offerId": 43794,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 100,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-02T11:04:09.941758"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-02T11:04:12.035223",
+    "product_id": 42483,
+    "product_name": "Bonaqua Límónu & Sítrónu 10x330ml",
+    "stock": 100,
+    "details": {
+      "id": 42483,
+      "code": "30214282",
+      "name": "Bonaqua Límónu & Sítrónu 10x330ml",
+      "slug": "bonaqua-limonu-sitronu-10x330ml-42483",
+      "category_id": 4315,
+      "category_name": "Sodas (With Sugar)",
+      "category_path": "Soft drinks > Soda > Sodas (With Sugar)",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f08d1c04-cf35-4e89-9c37-6a40991d35da.webp",
+      "price": 109000,
+      "discount_price": null,
+      "stock": {
+        "H495": 100
+      },
+      "total_stock": 100,
+      "variants": [
+        {
+          "sku": "30214282",
+          "name": "Bonaqua Límónu & Sítrónu 10x330ml",
+          "price": 109000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f08d1c04-cf35-4e89-9c37-6a40991d35da.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f08d1c04-cf35-4e89-9c37-6a40991d35da_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f08d1c04-cf35-4e89-9c37-6a40991d35da_thumb.webp"
+            }
+          ],
+          "offerId": 43807,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 100,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-02T11:04:09.941758"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-02T11:04:12.035223",
+    "product_id": 42864,
+    "product_name": "Malt 6x500ml",
+    "stock": 100,
+    "details": {
+      "id": 42864,
+      "code": "K53914",
+      "name": "Malt 6x500ml",
+      "slug": "malt-6x500ml-42864",
+      "category_id": 4315,
+      "category_name": "Sodas (With Sugar)",
+      "category_path": "Soft drinks > Soda > Sodas (With Sugar)",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5be6c661-a2cd-4aaa-9e3a-f1adce88411e.webp",
+      "price": 159000,
+      "discount_price": null,
+      "stock": {
+        "H495": 100
+      },
+      "total_stock": 100,
+      "variants": [
+        {
+          "sku": "K53914",
+          "name": "Malt 6x500ml",
+          "price": 159000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5be6c661-a2cd-4aaa-9e3a-f1adce88411e.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5be6c661-a2cd-4aaa-9e3a-f1adce88411e_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5be6c661-a2cd-4aaa-9e3a-f1adce88411e_thumb.webp"
+            }
+          ],
+          "offerId": 44172,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 100,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-02T11:04:09.941758"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-02T11:04:12.035223",
+    "product_id": 42516,
+    "product_name": "Coca-Cola án sykurs 10x330ml",
+    "stock": 100,
+    "details": {
+      "id": 42516,
+      "code": "30209468",
+      "name": "Coca-Cola án sykurs 10x330ml",
+      "slug": "coca-cola-an-sykurs-10x330ml-42516",
+      "category_id": 4338,
+      "category_name": "Sugar-Free Sodas",
+      "category_path": "Soft drinks > Soda > Sugar-Free Sodas",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/69814392-8cdc-49ae-86d4-81f63d1b7d95.webp",
+      "price": 129000,
+      "discount_price": null,
+      "stock": {
+        "H495": 100
+      },
+      "total_stock": 100,
+      "variants": [
+        {
+          "sku": "30209468",
+          "name": "Coca-Cola án sykurs 10x330ml",
+          "price": 129000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/69814392-8cdc-49ae-86d4-81f63d1b7d95.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/69814392-8cdc-49ae-86d4-81f63d1b7d95_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/69814392-8cdc-49ae-86d4-81f63d1b7d95_thumb.webp"
+            }
+          ],
+          "offerId": 43823,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 100,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-02T11:04:10.221384"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-02T11:04:12.035223",
+    "product_id": 43358,
+    "product_name": "Doritos Cool American 170g",
+    "previous_stock": 91,
+    "current_stock": 100,
+    "change": 9,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-02T11:04:12.035223",
+    "product_id": 43360,
+    "product_name": "Doritos Sweet Chili 170g",
+    "previous_stock": 90,
+    "current_stock": 99,
+    "change": 9,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-02T11:04:12.035223",
+    "product_id": 43359,
+    "product_name": "Doritos Nacho Cheese 170g",
+    "previous_stock": 94,
+    "current_stock": 100,
+    "change": 6,
+    "direction": "increase"
   }
 ]
