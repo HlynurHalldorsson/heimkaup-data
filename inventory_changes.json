@@ -41277,5 +41277,106 @@
     "product_id": 42593,
     "product_name": "Barefoot White Zinfandel Rosé 750ml",
     "last_stock": 2
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-02T23:16:43.466372",
+    "product_id": 42715,
+    "product_name": "Tuborg Green 12x330ml",
+    "previous_stock": 9,
+    "current_stock": 24,
+    "change": 15,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-02T23:16:43.466372",
+    "product_id": 42669,
+    "product_name": "Ölvisholt Classic 10x330ml",
+    "previous_stock": 31,
+    "current_stock": 21,
+    "change": -10,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-02T23:16:43.466372",
+    "product_id": 42649,
+    "product_name": "Ölvisholt Session IPA 10x330ml",
+    "previous_stock": 84,
+    "current_stock": 80,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-02T23:16:43.466372",
+    "product_id": 42607,
+    "product_name": "Montalto Pinot Grigio 3L",
+    "previous_stock": 1,
+    "current_stock": 5,
+    "change": 4,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-02T23:16:43.466372",
+    "product_id": 42548,
+    "product_name": "Beefeater 500ml",
+    "previous_stock": 2,
+    "current_stock": 8,
+    "change": 6,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-02T23:16:43.466372",
+    "product_id": 42630,
+    "product_name": "BARA Hindber & Sítróna 6x330ml",
+    "stock": 8,
+    "details": {
+      "id": 42630,
+      "code": "30230718",
+      "name": "BARA Hindber & Sítróna 6x330ml",
+      "slug": "bara-hindber-sitrona-6x330ml-42630",
+      "category_id": 4294,
+      "category_name": "All Seltzers",
+      "category_path": "Ready-to-Drink Cocktails > Seltzers > All Seltzers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/83378ce2-33ac-42d4-aa39-a09a20226c7b.webp",
+      "price": 309000,
+      "discount_price": null,
+      "stock": {
+        "H495": 8
+      },
+      "total_stock": 8,
+      "variants": [
+        {
+          "sku": "30230718",
+          "name": "BARA Hindber & Sítróna 6x330ml",
+          "price": 309000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/83378ce2-33ac-42d4-aa39-a09a20226c7b.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/83378ce2-33ac-42d4-aa39-a09a20226c7b_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/83378ce2-33ac-42d4-aa39-a09a20226c7b_thumb.webp"
+            },
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/55bd771c-703d-496d-a29c-0dda9b5a4812.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/55bd771c-703d-496d-a29c-0dda9b5a4812_orig.jpeg",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/55bd771c-703d-496d-a29c-0dda9b5a4812_thumb.webp"
+            }
+          ],
+          "offerId": 43953,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 8,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-02T23:16:35.491242"
+    }
   }
 ]
