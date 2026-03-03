@@ -41434,5 +41434,373 @@
     "product_id": 42552,
     "product_name": "Bombay Gin 700ml",
     "last_stock": 9
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-03T10:33:33.972148",
+    "product_id": 42548,
+    "product_name": "Beefeater 500ml",
+    "stock": 8,
+    "details": {
+      "id": 42548,
+      "code": "30230599",
+      "name": "Beefeater 500ml",
+      "slug": "beefeater-500ml-42548",
+      "category_id": 4272,
+      "category_name": "All Gin",
+      "category_path": "Spirits > Gin > All Gin",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c2707fe5-7ef4-4efe-8eed-3ff48cb10f5c.webp",
+      "price": 579000,
+      "discount_price": null,
+      "stock": {
+        "H495": 8
+      },
+      "total_stock": 8,
+      "variants": [
+        {
+          "sku": "30230599",
+          "name": "Beefeater 500ml",
+          "price": 579000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c2707fe5-7ef4-4efe-8eed-3ff48cb10f5c.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c2707fe5-7ef4-4efe-8eed-3ff48cb10f5c_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c2707fe5-7ef4-4efe-8eed-3ff48cb10f5c_thumb.webp"
+            }
+          ],
+          "offerId": 43853,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 8,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-03T10:33:23.191726"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-03T10:33:33.972148",
+    "product_id": 43013,
+    "product_name": "Tanqueray London Dry 700ml",
+    "stock": 6,
+    "details": {
+      "id": 43013,
+      "code": "30230672",
+      "name": "Tanqueray London Dry 700ml",
+      "slug": "tanqueray-london-dry-700ml-43013",
+      "category_id": 4272,
+      "category_name": "All Gin",
+      "category_path": "Spirits > Gin > All Gin",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4c194734-62ff-4940-8fe8-49cb07a12204.webp",
+      "price": 879000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "30230672",
+          "name": "Tanqueray London Dry 700ml",
+          "price": 879000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4c194734-62ff-4940-8fe8-49cb07a12204.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4c194734-62ff-4940-8fe8-49cb07a12204_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4c194734-62ff-4940-8fe8-49cb07a12204_thumb.webp"
+            }
+          ],
+          "offerId": 44527,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-03T10:33:23.191726"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-03T10:33:33.972148",
+    "product_id": 43011,
+    "product_name": "Hendricks Gin 700ml",
+    "stock": 3,
+    "details": {
+      "id": 43011,
+      "code": "30230891",
+      "name": "Hendricks Gin 700ml",
+      "slug": "hendricks-gin-700ml-43011",
+      "category_id": 4272,
+      "category_name": "All Gin",
+      "category_path": "Spirits > Gin > All Gin",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6f6bca09-2a34-41b1-b1fe-26d8f27634e8.webp",
+      "price": 1069000,
+      "discount_price": null,
+      "stock": {
+        "H495": 3
+      },
+      "total_stock": 3,
+      "variants": [
+        {
+          "sku": "30230891",
+          "name": "Hendricks Gin 700ml",
+          "price": 1069000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6f6bca09-2a34-41b1-b1fe-26d8f27634e8.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6f6bca09-2a34-41b1-b1fe-26d8f27634e8_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6f6bca09-2a34-41b1-b1fe-26d8f27634e8_thumb.webp"
+            }
+          ],
+          "offerId": 44517,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 3,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-03T10:33:23.191726"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-03T10:33:33.972148",
+    "product_id": 42996,
+    "product_name": "Gordons Gin 700ml",
+    "stock": 6,
+    "details": {
+      "id": 42996,
+      "code": "30230702",
+      "name": "Gordons Gin 700ml",
+      "slug": "gordons-gin-700ml-42996",
+      "category_id": 4272,
+      "category_name": "All Gin",
+      "category_path": "Spirits > Gin > All Gin",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d51dc56a-f015-4e4a-9f7d-f55715704d5d.webp",
+      "price": 759000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "30230702",
+          "name": "Gordons Gin 700ml",
+          "price": 759000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d51dc56a-f015-4e4a-9f7d-f55715704d5d.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d51dc56a-f015-4e4a-9f7d-f55715704d5d_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d51dc56a-f015-4e4a-9f7d-f55715704d5d_thumb.webp"
+            }
+          ],
+          "offerId": 44506,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-03T10:33:23.191726"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-03T10:33:33.972148",
+    "product_id": 42746,
+    "product_name": "Martin Miller's Gin 700ml",
+    "stock": 2,
+    "details": {
+      "id": 42746,
+      "code": "30230856",
+      "name": "Martin Miller's Gin 700ml",
+      "slug": "martin-miller-s-gin-700ml-42746",
+      "category_id": 4272,
+      "category_name": "All Gin",
+      "category_path": "Spirits > Gin > All Gin",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/34d7a8d0-96af-41d8-ba9b-ab5f9082373a.webp",
+      "price": 999000,
+      "discount_price": null,
+      "stock": {
+        "H495": 2
+      },
+      "total_stock": 2,
+      "variants": [
+        {
+          "sku": "30230856",
+          "name": "Martin Miller's Gin 700ml",
+          "price": 999000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/34d7a8d0-96af-41d8-ba9b-ab5f9082373a.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/34d7a8d0-96af-41d8-ba9b-ab5f9082373a_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/34d7a8d0-96af-41d8-ba9b-ab5f9082373a_thumb.webp"
+            }
+          ],
+          "offerId": 44081,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 2,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-03T10:33:23.191726"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-03T10:33:33.972148",
+    "product_id": 42765,
+    "product_name": "Askur Gin 700ml",
+    "stock": 36,
+    "details": {
+      "id": 42765,
+      "code": "30230894",
+      "name": "Askur Gin 700ml",
+      "slug": "askur-gin-700ml-42765",
+      "category_id": 4272,
+      "category_name": "All Gin",
+      "category_path": "Spirits > Gin > All Gin",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ca73dc9d-5277-40ac-9e4b-906422639903.webp",
+      "price": 780000,
+      "discount_price": null,
+      "stock": {
+        "H495": 36
+      },
+      "total_stock": 36,
+      "variants": [
+        {
+          "sku": "30230894",
+          "name": "Askur Gin 700ml",
+          "price": 780000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ca73dc9d-5277-40ac-9e4b-906422639903.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ca73dc9d-5277-40ac-9e4b-906422639903_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ca73dc9d-5277-40ac-9e4b-906422639903_thumb.webp"
+            }
+          ],
+          "offerId": 44077,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 36,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-03T10:33:23.191726"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-03T10:33:33.972148",
+    "product_id": 42753,
+    "product_name": "Roku Gin 700ml",
+    "stock": 8,
+    "details": {
+      "id": 42753,
+      "code": "30230865",
+      "name": "Roku Gin 700ml",
+      "slug": "roku-gin-700ml-42753",
+      "category_id": 4272,
+      "category_name": "All Gin",
+      "category_path": "Spirits > Gin > All Gin",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/281e509e-0982-4a2d-9d57-9f3127d14f87.webp",
+      "price": 999000,
+      "discount_price": null,
+      "stock": {
+        "H495": 8
+      },
+      "total_stock": 8,
+      "variants": [
+        {
+          "sku": "30230865",
+          "name": "Roku Gin 700ml",
+          "price": 999000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/281e509e-0982-4a2d-9d57-9f3127d14f87.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/281e509e-0982-4a2d-9d57-9f3127d14f87_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/281e509e-0982-4a2d-9d57-9f3127d14f87_thumb.webp"
+            }
+          ],
+          "offerId": 44068,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 8,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-03T10:33:23.191726"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-03T10:33:33.972148",
+    "product_id": 42552,
+    "product_name": "Bombay Gin 700ml",
+    "stock": 9,
+    "details": {
+      "id": 42552,
+      "code": "30230604",
+      "name": "Bombay Gin 700ml",
+      "slug": "bombay-gin-700ml-42552",
+      "category_id": 4272,
+      "category_name": "All Gin",
+      "category_path": "Spirits > Gin > All Gin",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c4449f29-09c7-4b8a-91dd-e6bae6f9cde7.webp",
+      "price": 859000,
+      "discount_price": null,
+      "stock": {
+        "H495": 9
+      },
+      "total_stock": 9,
+      "variants": [
+        {
+          "sku": "30230604",
+          "name": "Bombay Gin 700ml",
+          "price": 859000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c4449f29-09c7-4b8a-91dd-e6bae6f9cde7.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c4449f29-09c7-4b8a-91dd-e6bae6f9cde7_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c4449f29-09c7-4b8a-91dd-e6bae6f9cde7_thumb.webp"
+            }
+          ],
+          "offerId": 43865,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 9,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-03T10:33:23.191726"
+    }
   }
 ]
