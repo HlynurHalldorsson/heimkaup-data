@@ -42120,5 +42120,362 @@
     "current_stock": 99,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-03T21:39:10.511236",
+    "product_id": 42710,
+    "product_name": "Víking Lite 12x500ml",
+    "previous_stock": 9,
+    "current_stock": 6,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-03T21:39:10.511236",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 96,
+    "current_stock": 95,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-03T21:39:10.511236",
+    "product_id": 42810,
+    "product_name": "Barefoot Pinot Grigio 750ml",
+    "previous_stock": 57,
+    "current_stock": 56,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-03T21:39:10.511236",
+    "product_id": 42658,
+    "product_name": "Pizzolato Spumante Rosé 200ml",
+    "previous_stock": 6,
+    "current_stock": 5,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-03T21:39:10.511236",
+    "product_id": 43086,
+    "product_name": "VELO Crispy Peppermint 3",
+    "previous_stock": 45,
+    "current_stock": 44,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-03T21:39:10.511236",
+    "product_id": 43076,
+    "product_name": "VELO Freezing Peppermint 4",
+    "previous_stock": 50,
+    "current_stock": 49,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-03T21:39:10.511236",
+    "product_id": 46236,
+    "product_name": "BLYS 800 Blueberry Sour Strawberry",
+    "stock": 10,
+    "details": {
+      "id": 46236,
+      "code": "30232147",
+      "name": "BLYS 800 Blueberry Sour Strawberry",
+      "slug": "blys-800-blueberry-sour-strawberry-46236",
+      "category_id": 4308,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7a0aa8c3-1567-4a20-aab2-0d2235298145.webp",
+      "price": 97000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30232147",
+          "name": "BLYS 800 Blueberry Sour Strawberry",
+          "price": 97000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7a0aa8c3-1567-4a20-aab2-0d2235298145.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7a0aa8c3-1567-4a20-aab2-0d2235298145_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7a0aa8c3-1567-4a20-aab2-0d2235298145_thumb.webp"
+            }
+          ],
+          "offerId": 47780,
+          "sorting": 130,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-03T21:39:05.145843"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-03T21:39:10.511236",
+    "product_id": 43679,
+    "product_name": "BLYS 800 Blueberry Sour Raspberry",
+    "previous_stock": 30,
+    "current_stock": 20,
+    "change": -10,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-03T21:39:10.511236",
+    "product_id": 43359,
+    "product_name": "Doritos Nacho Cheese 170g",
+    "previous_stock": 99,
+    "current_stock": 98,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-03T21:39:10.511236",
+    "product_id": 42776,
+    "product_name": "Thule 12x500ml",
+    "last_stock": 23
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-03T21:39:10.511236",
+    "product_id": 42709,
+    "product_name": "Heineken 4x500ml",
+    "last_stock": 3
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-03T21:39:10.511236",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "last_stock": 12
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-03T21:39:10.511236",
+    "product_id": 42733,
+    "product_name": "Víking Gylltur 12x500ml",
+    "last_stock": 52
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-03T21:39:10.511236",
+    "product_id": 42705,
+    "product_name": "Víking Sterkr 6x500ml",
+    "last_stock": 39
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-03T21:39:10.511236",
+    "product_id": 42701,
+    "product_name": "Tuborg Classic 12x500ml",
+    "last_stock": 5
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-03T21:39:10.511236",
+    "product_id": 42680,
+    "product_name": "Tuborg Green 12x500ml",
+    "last_stock": 86
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-03T21:39:10.511236",
+    "product_id": 42720,
+    "product_name": "Carlsberg 10x500ml",
+    "last_stock": 4
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-03T21:39:10.511236",
+    "product_id": 42614,
+    "product_name": "Budweiser Budvar 6x500ml",
+    "last_stock": 10
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-03T21:39:10.511236",
+    "product_id": 42609,
+    "product_name": "Polar Beer 6x500ml",
+    "last_stock": 11
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-03T21:39:10.511236",
+    "product_id": 42608,
+    "product_name": "Boli Sterkur Pilsner 6x500ml",
+    "last_stock": 1
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-03T21:39:10.511236",
+    "product_id": 42576,
+    "product_name": "Stella Artois 10x440ml",
+    "last_stock": 3
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-03T21:39:10.511236",
+    "product_id": 43362,
+    "product_name": "Budweiser 10x440ml",
+    "last_stock": 12
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-03T21:39:10.511236",
+    "product_id": 42533,
+    "product_name": "Víking Rökkr 12x500ml",
+    "last_stock": 3
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-03T21:39:10.511236",
+    "product_id": 43058,
+    "product_name": "Thule 12x330ml",
+    "last_stock": 43
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-03T21:39:10.511236",
+    "product_id": 43710,
+    "product_name": "Krombacher Pils 6x330ml",
+    "last_stock": 28
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-03T21:39:10.511236",
+    "product_id": 43055,
+    "product_name": "Tuborg Classic 12x330ml",
+    "last_stock": 17
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-03T21:39:10.511236",
+    "product_id": 43010,
+    "product_name": "Budweiser Budvar 6x330ml",
+    "last_stock": 14
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-03T21:39:10.511236",
+    "product_id": 42822,
+    "product_name": "Víking Gylltur 12x330ml",
+    "last_stock": 47
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-03T21:39:10.511236",
+    "product_id": 42805,
+    "product_name": "Víking Lager 18x330ml",
+    "last_stock": 6
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-03T21:39:10.511236",
+    "product_id": 42715,
+    "product_name": "Tuborg Green 12x330ml",
+    "last_stock": 24
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-03T21:39:10.511236",
+    "product_id": 42708,
+    "product_name": "Gull 12x330ml",
+    "last_stock": 14
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-03T21:39:10.511236",
+    "product_id": 42669,
+    "product_name": "Ölvisholt Classic 10x330ml",
+    "last_stock": 21
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-03T21:39:10.511236",
+    "product_id": 42574,
+    "product_name": "Stella Artois 6x330ml",
+    "last_stock": 14
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-03T21:39:10.511236",
+    "product_id": 42597,
+    "product_name": "Estrella Damm 6x330ml",
+    "last_stock": 4
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-03T21:39:10.511236",
+    "product_id": 42564,
+    "product_name": "Carlsberg Elephant 6x330ml",
+    "last_stock": 30
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-03T21:39:10.511236",
+    "product_id": 42716,
+    "product_name": "Peroni Nastro Azzurro 6x330ml",
+    "last_stock": 1
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-03T21:39:10.511236",
+    "product_id": 42636,
+    "product_name": "RVK Kopar Klassík 6x330ml",
+    "last_stock": 17
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-03T21:39:10.511236",
+    "product_id": 42657,
+    "product_name": "Ölvisholt Lager 10x330ml",
+    "last_stock": 23
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-03T21:39:10.511236",
+    "product_id": 42755,
+    "product_name": "Corona Extra 6x355ml (Gler)",
+    "last_stock": 14
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-03T21:39:10.511236",
+    "product_id": 42741,
+    "product_name": "Stella Artois 6x330ml (Gler)",
+    "last_stock": 13
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-03T21:39:10.511236",
+    "product_id": 42722,
+    "product_name": "Peroni Nastro Azzurro 6x330ml (Gler)",
+    "last_stock": 19
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-03T21:39:10.511236",
+    "product_id": 42569,
+    "product_name": "Heineken 6x330ml (Gler)",
+    "last_stock": 109
   }
 ]
