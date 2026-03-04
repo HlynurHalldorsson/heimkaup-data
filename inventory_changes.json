@@ -44115,5 +44115,584 @@
     "current_stock": 47,
     "change": -2,
     "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-04T14:23:36.227940",
+    "product_id": 46235,
+    "product_name": "BLYS 800 Green Sour Grape",
+    "stock": 20,
+    "details": {
+      "id": 46235,
+      "code": "30232146",
+      "name": "BLYS 800 Green Sour Grape",
+      "slug": "blys-800-green-sour-grape-46235",
+      "category_id": 4308,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a496a54c-5e62-4bfb-814f-b73132b15e31.webp",
+      "price": 97000,
+      "discount_price": null,
+      "stock": {
+        "H495": 20
+      },
+      "total_stock": 20,
+      "variants": [
+        {
+          "sku": "30232146",
+          "name": "BLYS 800 Green Sour Grape",
+          "price": 97000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a496a54c-5e62-4bfb-814f-b73132b15e31.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a496a54c-5e62-4bfb-814f-b73132b15e31_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a496a54c-5e62-4bfb-814f-b73132b15e31_thumb.webp"
+            }
+          ],
+          "offerId": 47779,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 20,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-04T14:23:31.006673"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-04T14:23:36.227940",
+    "product_id": 46239,
+    "product_name": "BLYS 800 Pineapple Ice",
+    "stock": 10,
+    "details": {
+      "id": 46239,
+      "code": "30234749",
+      "name": "BLYS 800 Pineapple Ice",
+      "slug": "blys-800-pineapple-ice-46239",
+      "category_id": 4308,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a9adab8a-a42c-4dc1-a1f1-451c169d1bc4.webp",
+      "price": 97000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30234749",
+          "name": "BLYS 800 Pineapple Ice",
+          "price": 97000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a9adab8a-a42c-4dc1-a1f1-451c169d1bc4.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a9adab8a-a42c-4dc1-a1f1-451c169d1bc4_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a9adab8a-a42c-4dc1-a1f1-451c169d1bc4_thumb.webp"
+            }
+          ],
+          "offerId": 47783,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-04T14:23:31.006673"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-04T14:23:36.227940",
+    "product_id": 46231,
+    "product_name": "BLYS 800 Habanero Ice",
+    "stock": 10,
+    "details": {
+      "id": 46231,
+      "code": "30222724",
+      "name": "BLYS 800 Habanero Ice",
+      "slug": "blys-800-habanero-ice-46231",
+      "category_id": 4308,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b7d1500b-b431-4ffd-bd95-91a1a578cf8f.webp",
+      "price": 97000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30222724",
+          "name": "BLYS 800 Habanero Ice",
+          "price": 97000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b7d1500b-b431-4ffd-bd95-91a1a578cf8f.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b7d1500b-b431-4ffd-bd95-91a1a578cf8f_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b7d1500b-b431-4ffd-bd95-91a1a578cf8f_thumb.webp"
+            }
+          ],
+          "offerId": 47775,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-04T14:23:31.006673"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-04T14:23:36.227940",
+    "product_id": 46232,
+    "product_name": "BLYS 800 Jalapeno Sour",
+    "stock": 10,
+    "details": {
+      "id": 46232,
+      "code": "30222725",
+      "name": "BLYS 800 Jalapeno Sour",
+      "slug": "blys-800-jalapeno-sour-46232",
+      "category_id": 4308,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c3f93f99-77c6-4bef-9dc2-8f700cd17218.webp",
+      "price": 97000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30222725",
+          "name": "BLYS 800 Jalapeno Sour",
+          "price": 97000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c3f93f99-77c6-4bef-9dc2-8f700cd17218.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c3f93f99-77c6-4bef-9dc2-8f700cd17218_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c3f93f99-77c6-4bef-9dc2-8f700cd17218_thumb.webp"
+            }
+          ],
+          "offerId": 47776,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-04T14:23:31.006673"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-04T14:23:36.227940",
+    "product_id": 46233,
+    "product_name": "BLYS 800 Liquorice Raspberry",
+    "stock": 10,
+    "details": {
+      "id": 46233,
+      "code": "30224453",
+      "name": "BLYS 800 Liquorice Raspberry",
+      "slug": "blys-800-liqourice-raspberry-46233",
+      "category_id": 4308,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4e512aff-f7ff-4897-927f-800443867969.webp",
+      "price": 97000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30224453",
+          "name": "BLYS 800 Liquorice Raspberry",
+          "price": 97000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4e512aff-f7ff-4897-927f-800443867969.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4e512aff-f7ff-4897-927f-800443867969_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4e512aff-f7ff-4897-927f-800443867969_thumb.webp"
+            }
+          ],
+          "offerId": 47777,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-04T14:23:31.006673"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-04T14:23:36.227940",
+    "product_id": 46234,
+    "product_name": "BLYS 800 Liqourice Ice",
+    "stock": 10,
+    "details": {
+      "id": 46234,
+      "code": "30225737",
+      "name": "BLYS 800 Liqourice Ice",
+      "slug": "blys-800-liqourice-ice-46234",
+      "category_id": 4308,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9f13e7dc-bf89-47cf-b437-3f3540457626.webp",
+      "price": 97000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30225737",
+          "name": "BLYS 800 Liqourice Ice",
+          "price": 97000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9f13e7dc-bf89-47cf-b437-3f3540457626.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9f13e7dc-bf89-47cf-b437-3f3540457626_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9f13e7dc-bf89-47cf-b437-3f3540457626_thumb.webp"
+            }
+          ],
+          "offerId": 47778,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-04T14:23:31.006673"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-04T14:23:36.227940",
+    "product_id": 43683,
+    "product_name": "Reymont 800 White Peach Razz",
+    "previous_stock": 29,
+    "current_stock": 20,
+    "change": -9,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-04T14:23:36.227940",
+    "product_id": 42554,
+    "product_name": "Reymont 800 Kiwi Passion Fruit Guava",
+    "previous_stock": 19,
+    "current_stock": 9,
+    "change": -10,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-04T14:23:36.227940",
+    "product_id": 46276,
+    "product_name": "ELFBAR 600 Lemon Lime",
+    "stock": 10,
+    "details": {
+      "id": 46276,
+      "code": "30225808",
+      "name": "ELFBAR 600 Lemon Lime",
+      "slug": "elfbar-600-lemon-lime-46276",
+      "category_id": 5677,
+      "category_name": "ELFBAR",
+      "category_path": "Nicotine > Vapes > ELFBAR",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ba44eeae-299d-4189-8689-bf3d9705ea0d.webp",
+      "price": 99000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30225808",
+          "name": "ELFBAR 600 Lemon Lime",
+          "price": 99000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ba44eeae-299d-4189-8689-bf3d9705ea0d.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ba44eeae-299d-4189-8689-bf3d9705ea0d_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ba44eeae-299d-4189-8689-bf3d9705ea0d_thumb.webp"
+            }
+          ],
+          "offerId": 47820,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-04T14:23:31.706792"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-04T14:23:36.227940",
+    "product_id": 46277,
+    "product_name": "ELFBAR 600 Wildberry Ice",
+    "stock": 10,
+    "details": {
+      "id": 46277,
+      "code": "30224485",
+      "name": "ELFBAR 600 Wildberry Ice",
+      "slug": "elfbar-600-wildberry-ice-46277",
+      "category_id": 5677,
+      "category_name": "ELFBAR",
+      "category_path": "Nicotine > Vapes > ELFBAR",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/11d8b82e-f032-4918-855b-96ff1b1afa42.webp",
+      "price": 99000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30224485",
+          "name": "ELFBAR 600 Wildberry Ice",
+          "price": 99000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/11d8b82e-f032-4918-855b-96ff1b1afa42.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/11d8b82e-f032-4918-855b-96ff1b1afa42_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/11d8b82e-f032-4918-855b-96ff1b1afa42_thumb.webp"
+            }
+          ],
+          "offerId": 47821,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-04T14:23:31.706792"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-04T14:23:36.227940",
+    "product_id": 46278,
+    "product_name": "ELFBAR 600 Blueberry",
+    "stock": 10,
+    "details": {
+      "id": 46278,
+      "code": "30224482",
+      "name": "ELFBAR 600 Blueberry",
+      "slug": "elfbar-600-blueberry-46278",
+      "category_id": 5677,
+      "category_name": "ELFBAR",
+      "category_path": "Nicotine > Vapes > ELFBAR",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4dfb1d04-e189-4922-8916-6e4826b3c390.webp",
+      "price": 99000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30224482",
+          "name": "ELFBAR 600 Blueberry",
+          "price": 99000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4dfb1d04-e189-4922-8916-6e4826b3c390.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4dfb1d04-e189-4922-8916-6e4826b3c390_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4dfb1d04-e189-4922-8916-6e4826b3c390_thumb.webp"
+            }
+          ],
+          "offerId": 47822,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-04T14:23:31.706792"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-04T14:23:36.227940",
+    "product_id": 46279,
+    "product_name": "ELFBAR 600 Blue Razz Lemonade",
+    "stock": 10,
+    "details": {
+      "id": 46279,
+      "code": "30224486",
+      "name": "ELFBAR 600 Blue Razz Lemonade",
+      "slug": "elfbar-600-blue-razz-lemonade-46279",
+      "category_id": 5677,
+      "category_name": "ELFBAR",
+      "category_path": "Nicotine > Vapes > ELFBAR",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/399a0bd0-7682-410e-9195-3eb3f6948424.webp",
+      "price": 99000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30224486",
+          "name": "ELFBAR 600 Blue Razz Lemonade",
+          "price": 99000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/399a0bd0-7682-410e-9195-3eb3f6948424.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/399a0bd0-7682-410e-9195-3eb3f6948424_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/399a0bd0-7682-410e-9195-3eb3f6948424_thumb.webp"
+            }
+          ],
+          "offerId": 47823,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-04T14:23:31.706792"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-04T14:23:36.227940",
+    "product_id": 46274,
+    "product_name": "ELFBAR 600 Cola",
+    "stock": 10,
+    "details": {
+      "id": 46274,
+      "code": "30224483",
+      "name": "ELFBAR 600 Cola",
+      "slug": "elfbar-600-cola-46274",
+      "category_id": 5677,
+      "category_name": "ELFBAR",
+      "category_path": "Nicotine > Vapes > ELFBAR",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/691c7a47-020e-4b22-978c-f9042a2ef8e3.webp",
+      "price": 99000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30224483",
+          "name": "ELFBAR 600 Cola",
+          "price": 99000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/691c7a47-020e-4b22-978c-f9042a2ef8e3.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/691c7a47-020e-4b22-978c-f9042a2ef8e3_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/691c7a47-020e-4b22-978c-f9042a2ef8e3_thumb.webp"
+            }
+          ],
+          "offerId": 47818,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-04T14:23:31.706792"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-04T14:23:36.227940",
+    "product_id": 46275,
+    "product_name": "ELFBAR 600 Grape",
+    "stock": 10,
+    "details": {
+      "id": 46275,
+      "code": "30225807",
+      "name": "ELFBAR 600 Grape",
+      "slug": "elfbar-600-grape-46275",
+      "category_id": 5677,
+      "category_name": "ELFBAR",
+      "category_path": "Nicotine > Vapes > ELFBAR",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/767774fe-e58f-4c7e-a83b-b38e1da5bf95.webp",
+      "price": 99000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30225807",
+          "name": "ELFBAR 600 Grape",
+          "price": 99000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/767774fe-e58f-4c7e-a83b-b38e1da5bf95.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/767774fe-e58f-4c7e-a83b-b38e1da5bf95_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/767774fe-e58f-4c7e-a83b-b38e1da5bf95_thumb.webp"
+            }
+          ],
+          "offerId": 47819,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-04T14:23:31.706792"
+    }
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-04T14:23:36.227940",
+    "product_id": 43085,
+    "product_name": "LOOP Smooth Mint 4",
+    "last_stock": 9
   }
 ]
