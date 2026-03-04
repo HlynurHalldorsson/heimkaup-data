@@ -44694,5 +44694,1040 @@
     "product_id": 43085,
     "product_name": "LOOP Smooth Mint 4",
     "last_stock": 9
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-04T23:37:57.749655",
+    "product_id": 42709,
+    "product_name": "Heineken 4x500ml",
+    "previous_stock": 3,
+    "current_stock": 1,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-04T23:37:57.749655",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 12,
+    "current_stock": 10,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-04T23:37:57.749655",
+    "product_id": 43709,
+    "product_name": "Saku Originaal 6x500ml",
+    "stock": 248,
+    "details": {
+      "id": 43709,
+      "code": "30234659",
+      "name": "Saku Originaal 6x500ml",
+      "slug": "saku-6x500ml-43709",
+      "category_id": 4237,
+      "category_name": "All Lagers",
+      "category_path": "Beer > Lager > All Lagers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a2f7e296-9d28-4ffe-912c-36c290bb6c39.webp",
+      "price": 227000,
+      "discount_price": null,
+      "stock": {
+        "H495": 248
+      },
+      "total_stock": 248,
+      "variants": [
+        {
+          "sku": "30234659",
+          "name": "Saku Originaal 6x500ml",
+          "price": 227000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a2f7e296-9d28-4ffe-912c-36c290bb6c39.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a2f7e296-9d28-4ffe-912c-36c290bb6c39_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a2f7e296-9d28-4ffe-912c-36c290bb6c39_thumb.webp"
+            }
+          ],
+          "offerId": 45329,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 248,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-04T23:37:35.711824"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-04T23:37:57.749655",
+    "product_id": 42733,
+    "product_name": "Víking Gylltur 12x500ml",
+    "previous_stock": 52,
+    "current_stock": 51,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-04T23:37:57.749655",
+    "product_id": 43055,
+    "product_name": "Tuborg Classic 12x330ml",
+    "previous_stock": 17,
+    "current_stock": 16,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-04T23:37:57.749655",
+    "product_id": 42708,
+    "product_name": "Gull 12x330ml",
+    "previous_stock": 14,
+    "current_stock": 4,
+    "change": -10,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-04T23:37:57.749655",
+    "product_id": 42597,
+    "product_name": "Estrella Damm 6x330ml",
+    "previous_stock": 4,
+    "current_stock": 2,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-04T23:37:57.749655",
+    "product_id": 42569,
+    "product_name": "Heineken 6x330ml (Gler)",
+    "previous_stock": 58,
+    "current_stock": 37,
+    "change": -21,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-04T23:37:57.749655",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 116,
+    "current_stock": 113,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-04T23:37:57.749655",
+    "product_id": 42615,
+    "product_name": "Boli X 12x500ml",
+    "previous_stock": 7,
+    "current_stock": 6,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-04T23:37:57.749655",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 95,
+    "current_stock": 93,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-04T23:37:57.749655",
+    "product_id": 42661,
+    "product_name": "Boli X 12x330ml",
+    "previous_stock": 8,
+    "current_stock": 4,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-04T23:37:57.749655",
+    "product_id": 43658,
+    "product_name": "M.T. Las Mulas Cab.Sauv Org 750 ml",
+    "previous_stock": 5,
+    "current_stock": 4,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-04T23:37:57.749655",
+    "product_id": 42610,
+    "product_name": "Adobe Chardonnay Reserva 2024 750ml",
+    "previous_stock": 16,
+    "current_stock": 15,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-04T23:37:57.749655",
+    "product_id": 42767,
+    "product_name": "Adobe Organic Chardonnay 3L",
+    "previous_stock": 15,
+    "current_stock": 14,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-04T23:37:57.749655",
+    "product_id": 42585,
+    "product_name": "Two Oceans Fresh & Fruity 3L",
+    "previous_stock": 17,
+    "current_stock": 16,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-04T23:37:57.749655",
+    "product_id": 42594,
+    "product_name": "Piccini Prosecco 750ml",
+    "previous_stock": 29,
+    "current_stock": 28,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-04T23:37:57.749655",
+    "product_id": 42528,
+    "product_name": "Bailly Lapierre Cremant Reserve Brut 750ml",
+    "previous_stock": 8,
+    "current_stock": 7,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-04T23:37:57.749655",
+    "product_id": 42797,
+    "product_name": "Absolut Vodka 1L",
+    "previous_stock": 25,
+    "current_stock": 24,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-04T23:37:57.749655",
+    "product_id": 42765,
+    "product_name": "Askur Gin 700ml",
+    "previous_stock": 36,
+    "current_stock": 35,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-04T23:37:57.749655",
+    "product_id": 42809,
+    "product_name": "Bacardi Carta Blanca 700ml",
+    "previous_stock": 6,
+    "current_stock": 5,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-04T23:37:57.749655",
+    "product_id": 42997,
+    "product_name": "Aperol Aperitivo 1L",
+    "previous_stock": 12,
+    "current_stock": 11,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-04T23:37:57.749655",
+    "product_id": 43199,
+    "product_name": "White Claw Natural Lime 4x330ml",
+    "previous_stock": 6,
+    "current_stock": 5,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-04T23:37:57.749655",
+    "product_id": 42795,
+    "product_name": "White Claw Raspberry 4x330ml",
+    "previous_stock": 6,
+    "current_stock": 5,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-04T23:37:57.749655",
+    "product_id": 46267,
+    "product_name": "LOOP Blueberry Ice 3",
+    "stock": 20,
+    "details": {
+      "id": 46267,
+      "code": "30232149",
+      "name": "LOOP Blueberry Ice 3",
+      "slug": "loop-blueberry-ice-3-46267",
+      "category_id": 4304,
+      "category_name": "LOOP",
+      "category_path": "Nicotine > Pouches > LOOP",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/0b8c79db-ed36-4025-b798-587ea305370d.webp",
+      "price": 99000,
+      "discount_price": null,
+      "stock": {
+        "H495": 20
+      },
+      "total_stock": 20,
+      "variants": [
+        {
+          "sku": "30232149",
+          "name": "LOOP Blueberry Ice 3",
+          "price": 99000,
+          "value": "9.4mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/0b8c79db-ed36-4025-b798-587ea305370d.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/0b8c79db-ed36-4025-b798-587ea305370d_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/0b8c79db-ed36-4025-b798-587ea305370d_thumb.webp"
+            }
+          ],
+          "offerId": 47811,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 20,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        },
+        {
+          "sku": "30232149",
+          "name": "LOOP Blueberry Ice 3",
+          "price": 99000,
+          "value": "12.5g",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/0b8c79db-ed36-4025-b798-587ea305370d.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/0b8c79db-ed36-4025-b798-587ea305370d_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/0b8c79db-ed36-4025-b798-587ea305370d_thumb.webp"
+            }
+          ],
+          "offerId": 47811,
+          "sorting": 0,
+          "property": "net_weight",
+          "sellable": 20,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-04T23:37:50.027071"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-04T23:37:57.749655",
+    "product_id": 46266,
+    "product_name": "LOOP Strawberry Ice 3",
+    "stock": 20,
+    "details": {
+      "id": 46266,
+      "code": "30232148",
+      "name": "LOOP Strawberry Ice 3",
+      "slug": "loop-strawberry-ice-3-46266",
+      "category_id": 4304,
+      "category_name": "LOOP",
+      "category_path": "Nicotine > Pouches > LOOP",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3ae4d3de-6fe5-464d-9cb5-68c671ef8fdb.webp",
+      "price": 99000,
+      "discount_price": null,
+      "stock": {
+        "H495": 20
+      },
+      "total_stock": 20,
+      "variants": [
+        {
+          "sku": "30232148",
+          "name": "LOOP Strawberry Ice 3",
+          "price": 99000,
+          "value": "9.4mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3ae4d3de-6fe5-464d-9cb5-68c671ef8fdb.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3ae4d3de-6fe5-464d-9cb5-68c671ef8fdb_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3ae4d3de-6fe5-464d-9cb5-68c671ef8fdb_thumb.webp"
+            }
+          ],
+          "offerId": 47810,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 20,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-04T23:37:50.027071"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-04T23:37:57.749655",
+    "product_id": 46265,
+    "product_name": "LOOP Creamy Cappuccino 3",
+    "stock": 20,
+    "details": {
+      "id": 46265,
+      "code": "30224523",
+      "name": "LOOP Creamy Cappuccino 3",
+      "slug": "loop-creamy-cappuccino-3-46265",
+      "category_id": 4304,
+      "category_name": "LOOP",
+      "category_path": "Nicotine > Pouches > LOOP",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5b31a7dc-9468-4a0d-95fd-0ce4ca2f16b2.webp",
+      "price": 99000,
+      "discount_price": null,
+      "stock": {
+        "H495": 20
+      },
+      "total_stock": 20,
+      "variants": [
+        {
+          "sku": "30224523",
+          "name": "LOOP Creamy Cappuccino 3",
+          "price": 99000,
+          "value": "9.4mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5b31a7dc-9468-4a0d-95fd-0ce4ca2f16b2.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5b31a7dc-9468-4a0d-95fd-0ce4ca2f16b2_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5b31a7dc-9468-4a0d-95fd-0ce4ca2f16b2_thumb.webp"
+            }
+          ],
+          "offerId": 47809,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 20,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-04T23:37:50.027071"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-04T23:37:57.749655",
+    "product_id": 46264,
+    "product_name": "LOOP Hot Mango 3",
+    "stock": 20,
+    "details": {
+      "id": 46264,
+      "code": "30204251",
+      "name": "LOOP Hot Mango 3",
+      "slug": "loop-hot-mango-3-46264",
+      "category_id": 4304,
+      "category_name": "LOOP",
+      "category_path": "Nicotine > Pouches > LOOP",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/products/dab20665-7caa-4f13-b40f-c18d0087548e.webp",
+      "price": 99000,
+      "discount_price": null,
+      "stock": {
+        "H495": 20
+      },
+      "total_stock": 20,
+      "variants": [
+        {
+          "sku": "30204251",
+          "name": "LOOP Hot Mango 3",
+          "price": 99000,
+          "value": "9.4mg",
+          "images": null,
+          "offerId": 47808,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 20,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        },
+        {
+          "sku": "30204251",
+          "name": "LOOP Hot Mango 3",
+          "price": 99000,
+          "value": "12.5g",
+          "images": null,
+          "offerId": 47808,
+          "sorting": 0,
+          "property": "net_weight",
+          "sellable": 20,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-04T23:37:50.027071"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-04T23:37:57.749655",
+    "product_id": 43096,
+    "product_name": "LOOP Jalapeno Lime 3",
+    "stock": 30,
+    "details": {
+      "id": 43096,
+      "code": "30202704",
+      "name": "LOOP Jalapeno Lime 3",
+      "slug": "loop-jalapeno-lime-3-43096",
+      "category_id": 2805,
+      "category_name": "LOOP",
+      "category_path": "Nicotine > Pouches > LOOP",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6ae1fea2-544e-4319-bc22-a526224cd8aa.webp",
+      "price": 99000,
+      "discount_price": null,
+      "stock": {
+        "H495": 30
+      },
+      "total_stock": 30,
+      "variants": [
+        {
+          "sku": "30202704",
+          "name": "LOOP Jalapeno Lime 3",
+          "price": 99000,
+          "value": "9.4mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6ae1fea2-544e-4319-bc22-a526224cd8aa.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6ae1fea2-544e-4319-bc22-a526224cd8aa_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6ae1fea2-544e-4319-bc22-a526224cd8aa_thumb.webp"
+            }
+          ],
+          "offerId": 44593,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 30,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-04T23:37:50.027071"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-04T23:37:57.749655",
+    "product_id": 43085,
+    "product_name": "LOOP Smooth Mint 4",
+    "stock": 9,
+    "details": {
+      "id": 43085,
+      "code": "30202705",
+      "name": "LOOP Smooth Mint 4",
+      "slug": "loop-smooth-mint-4-43085",
+      "category_id": 2805,
+      "category_name": "LOOP",
+      "category_path": "Nicotine > Pouches > LOOP",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5196eea0-6ddc-439a-bf48-c43dc875886a.webp",
+      "price": 99000,
+      "discount_price": null,
+      "stock": {
+        "H495": 9
+      },
+      "total_stock": 9,
+      "variants": [
+        {
+          "sku": "30202705",
+          "name": "LOOP Smooth Mint 4",
+          "price": 99000,
+          "value": "12.5mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5196eea0-6ddc-439a-bf48-c43dc875886a.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5196eea0-6ddc-439a-bf48-c43dc875886a_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5196eea0-6ddc-439a-bf48-c43dc875886a_thumb.webp"
+            }
+          ],
+          "offerId": 44591,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 9,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-04T23:37:50.027071"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-04T23:37:57.749655",
+    "product_id": 43072,
+    "product_name": "LOOP Jalapeno Lime 4",
+    "stock": 40,
+    "details": {
+      "id": 43072,
+      "code": "30202703",
+      "name": "LOOP Jalapeno Lime 4",
+      "slug": "loop-jalapeno-lime-4-43072",
+      "category_id": 2805,
+      "category_name": "LOOP",
+      "category_path": "Nicotine > Pouches > LOOP",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/184f5436-5d2b-4cee-8c3d-1b06a2ce9136.webp",
+      "price": 99000,
+      "discount_price": null,
+      "stock": {
+        "H495": 40
+      },
+      "total_stock": 40,
+      "variants": [
+        {
+          "sku": "30202703",
+          "name": "LOOP Jalapeno Lime 4",
+          "price": 99000,
+          "value": "12.5mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/184f5436-5d2b-4cee-8c3d-1b06a2ce9136.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/184f5436-5d2b-4cee-8c3d-1b06a2ce9136_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/184f5436-5d2b-4cee-8c3d-1b06a2ce9136_thumb.webp"
+            }
+          ],
+          "offerId": 44575,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 40,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-04T23:37:50.027071"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-04T23:37:57.749655",
+    "product_id": 43071,
+    "product_name": "LOOP Habanero Mint 4",
+    "previous_stock": 9,
+    "current_stock": 19,
+    "change": 10,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-04T23:37:57.749655",
+    "product_id": 43083,
+    "product_name": "LOOP Mini Jalapeno Lime 2",
+    "previous_stock": 17,
+    "current_stock": 24,
+    "change": 7,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-04T23:37:57.749655",
+    "product_id": 46268,
+    "product_name": "VELO Freezing Peppermint 5",
+    "stock": 40,
+    "details": {
+      "id": 46268,
+      "code": "30218464",
+      "name": "VELO Freezing Peppermint 5",
+      "slug": "velo-freezing-peppermint-5-46268",
+      "category_id": 4351,
+      "category_name": "VELO",
+      "category_path": "Nicotine > Pouches > VELO",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a63630dc-086f-4d32-bf5c-44c9f641b73c.webp",
+      "price": 99000,
+      "discount_price": null,
+      "stock": {
+        "H495": 40
+      },
+      "total_stock": 40,
+      "variants": [
+        {
+          "sku": "30218464",
+          "name": "VELO Freezing Peppermint 5",
+          "price": 99000,
+          "value": "14mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a63630dc-086f-4d32-bf5c-44c9f641b73c.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a63630dc-086f-4d32-bf5c-44c9f641b73c_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a63630dc-086f-4d32-bf5c-44c9f641b73c_thumb.webp"
+            }
+          ],
+          "offerId": 47812,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 40,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-04T23:37:50.847540"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-04T23:37:57.749655",
+    "product_id": 43077,
+    "product_name": "VELO Salty Liquorice 3",
+    "stock": 13,
+    "details": {
+      "id": 43077,
+      "code": "30192469",
+      "name": "VELO Salty Liquorice 3",
+      "slug": "velo-salty-liquorice-3-43077",
+      "category_id": 2805,
+      "category_name": "VELO",
+      "category_path": "Nicotine > Pouches > VELO",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ef0efa79-a1c5-40e6-8537-3cab3e8678cd.webp",
+      "price": 99000,
+      "discount_price": null,
+      "stock": {
+        "H495": 13
+      },
+      "total_stock": 13,
+      "variants": [
+        {
+          "sku": "30192469",
+          "name": "VELO Salty Liquorice 3",
+          "price": 99000,
+          "value": "10mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ef0efa79-a1c5-40e6-8537-3cab3e8678cd.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ef0efa79-a1c5-40e6-8537-3cab3e8678cd_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ef0efa79-a1c5-40e6-8537-3cab3e8678cd_thumb.webp"
+            }
+          ],
+          "offerId": 44587,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 13,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-04T23:37:50.847540"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-04T23:37:57.749655",
+    "product_id": 43076,
+    "product_name": "VELO Freezing Peppermint 4",
+    "previous_stock": 49,
+    "current_stock": 44,
+    "change": -5,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-04T23:37:57.749655",
+    "product_id": 43080,
+    "product_name": "VELO Tropical Mango 5",
+    "stock": 15,
+    "details": {
+      "id": 43080,
+      "code": "30226306",
+      "name": "VELO Tropical Mango 5",
+      "slug": "velo-tropical-mango-5-43080",
+      "category_id": 2805,
+      "category_name": "VELO",
+      "category_path": "Nicotine > Pouches > VELO",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6ee65866-1f46-4ea6-844e-fbbd4242c6a9.webp",
+      "price": 129000,
+      "discount_price": null,
+      "stock": {
+        "H495": 15
+      },
+      "total_stock": 15,
+      "variants": [
+        {
+          "sku": "30226306",
+          "name": "VELO Tropical Mango 5",
+          "price": 129000,
+          "value": "14mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6ee65866-1f46-4ea6-844e-fbbd4242c6a9.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6ee65866-1f46-4ea6-844e-fbbd4242c6a9_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6ee65866-1f46-4ea6-844e-fbbd4242c6a9_thumb.webp"
+            }
+          ],
+          "offerId": 44581,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 15,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-04T23:37:50.847540"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-04T23:37:57.749655",
+    "product_id": 43075,
+    "product_name": "VELO Tropical Mango 2",
+    "previous_stock": 10,
+    "current_stock": 15,
+    "change": 5,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-04T23:37:57.749655",
+    "product_id": 46270,
+    "product_name": "ELFBAR 600 Watermelon",
+    "stock": 10,
+    "details": {
+      "id": 46270,
+      "code": "30225809",
+      "name": "ELFBAR 600 Watermelon",
+      "slug": "elfbar-600-watermleon-46270",
+      "category_id": 5677,
+      "category_name": "ELFBAR",
+      "category_path": "Nicotine > Vapes > ELFBAR",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7eaa3041-7a30-4246-80d6-c3bd8f551372.webp",
+      "price": 99000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30225809",
+          "name": "ELFBAR 600 Watermelon",
+          "price": 99000,
+          "value": "2ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7eaa3041-7a30-4246-80d6-c3bd8f551372.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7eaa3041-7a30-4246-80d6-c3bd8f551372_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7eaa3041-7a30-4246-80d6-c3bd8f551372_thumb.webp"
+            }
+          ],
+          "offerId": 47814,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-04T23:37:52.924807"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-04T23:37:57.749655",
+    "product_id": 46271,
+    "product_name": "ELFBAR 600 Alps Ice",
+    "stock": 10,
+    "details": {
+      "id": 46271,
+      "code": "30225806",
+      "name": "ELFBAR 600 Alps Ice",
+      "slug": "elfbar-600-alps-ice-46271",
+      "category_id": 5677,
+      "category_name": "ELFBAR",
+      "category_path": "Nicotine > Vapes > ELFBAR",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/33c2b376-f1c7-49d8-8d74-5ad05c49ece5.webp",
+      "price": 99000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30225806",
+          "name": "ELFBAR 600 Alps Ice",
+          "price": 99000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/33c2b376-f1c7-49d8-8d74-5ad05c49ece5.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/33c2b376-f1c7-49d8-8d74-5ad05c49ece5_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/33c2b376-f1c7-49d8-8d74-5ad05c49ece5_thumb.webp"
+            }
+          ],
+          "offerId": 47815,
+          "sorting": 132,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-04T23:37:52.924807"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-04T23:37:57.749655",
+    "product_id": 46272,
+    "product_name": "ELFBAR 600 Apple Peach",
+    "stock": 10,
+    "details": {
+      "id": 46272,
+      "code": "30224481",
+      "name": "ELFBAR 600 Apple Peach",
+      "slug": "elfbar-600-apple-peach-46272",
+      "category_id": 5677,
+      "category_name": "ELFBAR",
+      "category_path": "Nicotine > Vapes > ELFBAR",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a55b2074-59f9-4845-9a0e-b698e3e5314e.webp",
+      "price": 99000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30224481",
+          "name": "ELFBAR 600 Apple Peach",
+          "price": 99000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a55b2074-59f9-4845-9a0e-b698e3e5314e.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a55b2074-59f9-4845-9a0e-b698e3e5314e_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a55b2074-59f9-4845-9a0e-b698e3e5314e_thumb.webp"
+            }
+          ],
+          "offerId": 47816,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-04T23:37:52.924807"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-04T23:37:57.749655",
+    "product_id": 46273,
+    "product_name": "ELFBAR 600 Strawberry Ice",
+    "stock": 10,
+    "details": {
+      "id": 46273,
+      "code": "30224484",
+      "name": "ELFBAR 600 Strawberry Ice",
+      "slug": "elfbar-600-strawberry-ice-46273",
+      "category_id": 5677,
+      "category_name": "ELFBAR",
+      "category_path": "Nicotine > Vapes > ELFBAR",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/598a8637-8f5a-4696-9d32-7967e120a44b.webp",
+      "price": 99000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30224484",
+          "name": "ELFBAR 600 Strawberry Ice",
+          "price": 99000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/598a8637-8f5a-4696-9d32-7967e120a44b.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/598a8637-8f5a-4696-9d32-7967e120a44b_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/598a8637-8f5a-4696-9d32-7967e120a44b_thumb.webp"
+            }
+          ],
+          "offerId": 47817,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-04T23:37:52.924807"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-04T23:37:57.749655",
+    "product_id": 42474,
+    "product_name": "Appelsín 6x330ml",
+    "previous_stock": 100,
+    "current_stock": 99,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-04T23:37:57.749655",
+    "product_id": 42434,
+    "product_name": "Pepsi Max 12x330ml",
+    "previous_stock": 16,
+    "current_stock": 14,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-04T23:37:57.749655",
+    "product_id": 42521,
+    "product_name": "7UP Zero 6x330ml",
+    "previous_stock": 100,
+    "current_stock": 99,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-04T23:37:57.749655",
+    "product_id": 42441,
+    "product_name": "Kristall Mexican Lime 12x330ml",
+    "previous_stock": 18,
+    "current_stock": 17,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-04T23:37:57.749655",
+    "product_id": 43356,
+    "product_name": "Winston Red Classic Box",
+    "last_stock": 8
   }
 ]
