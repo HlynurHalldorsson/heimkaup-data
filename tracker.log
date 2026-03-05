@@ -47389,3 +47389,168 @@ Categories (59):
 2026-03-05 11:20:17,379 - INFO - Saved CSV snapshot to inventory_data/inventory_2026-03-05_1120.csv
 2026-03-05 11:20:17,381 - INFO - Appended to master CSV: inventory_data/inventory_all.csv
 2026-03-05 11:20:17,381 - INFO - Inventory check completed successfully
+2026-03-05 11:20:20,242 - INFO - Successfully pushed inventory data to GitHub
+
+============================================================
+HEIMKAUP INVENTORY SUMMARY - 2026-03-05 11:20:17
+============================================================
+
+Total Products: 415
+Total Stock Units: 6641
+Out of Stock: 0
+Low Stock (<=5): 100
+
+Categories (59):
+  - ACE: 6 products, 111 units
+  - All 0% Beer: 1 products, 3 units
+  - All 0% Wine: 3 products, 9 units
+  - All Ales: 9 products, 167 units
+  - All Aquavit: 1 products, 14 units
+  - All Ciders: 3 products, 16 units
+  - All Energy Drinks: 16 products, 93 units
+  - All Gin: 8 products, 75 units
+  - All Lagers: 33 products, 809 units
+  - All Liqueurs: 18 products, 193 units
+  - All Lite Beers: 10 products, 287 units
+  - All Low-Alcohol Beers: 1 products, 4 units
+  - All Mixed Drinks: 18 products, 250 units
+  - All Nicotine Free Pouches: 1 products, 30 units
+  - All Other 0% Alcohols: 3 products, 13 units
+  - All Other Cigarettes: 4 products, 29 units
+  - All Rosé Wines: 6 products, 53 units
+  - All Rum: 6 products, 36 units
+  - All Seasonal Beers: 5 products, 52 units
+  - All Seltzers: 5 products, 25 units
+  - All Sparkling Waters: 2 products, 33 units
+  - All Sparkling Wines: 16 products, 235 units
+  - All Tequila: 8 products, 40 units
+  - All Tonics: 7 products, 68 units
+  - All Vodka: 10 products, 141 units
+  - All Whiskey: 8 products, 67 units
+  - BLYS: 18 products, 205 units
+  - Bitters: 3 products, 32 units
+  - Boxed Red Wines: 6 products, 40 units
+  - Boxed White Wine: 7 products, 118 units
+  - Cabernet Sauvignon: 8 products, 85 units
+  - Camel: 3 products, 54 units
+  - Capri: 2 products, 19 units
+  - Chardonnay: 10 products, 142 units
+  - Chianti: 5 products, 41 units
+  - Cognac: 2 products, 3 units
+  - Doritos: 4 products, 394 units
+  - ELFBAR: 10 products, 100 units
+  - LOOP: 15 products, 357 units
+  - Malbec: 5 products, 37 units
+  - Marlboro: 7 products, 67 units
+  - Merlot: 1 products, 4 units
+  - Moscato: 1 products, 5 units
+  - Other Red Wine: 3 products, 21 units
+  - Other White Wine: 1 products, 8 units
+  - Pinot Grigio: 6 products, 92 units
+  - Pinot Noir: 2 products, 56 units
+  - REYMONT: 16 products, 205 units
+  - Red Blends: 16 products, 142 units
+  - Riesling: 5 products, 25 units
+  - Sauvignon Blanc: 3 products, 106 units
+  - Sodas (With Sugar): 11 products, 764 units
+  - Sugar-Free Sodas: 1 products, 99 units
+  - Syrah: 1 products, 26 units
+  - Tempranillo: 10 products, 80 units
+  - VELO: 8 products, 193 units
+  - White Blends: 9 products, 76 units
+  - White Fox: 3 products, 100 units
+  - Winston: 5 products, 92 units
+
+--- CHANGES DETECTED (6) ---
+  [stock_change] Saku Originaal 6x500ml: 248 -> 184 (-64)
+  [stock_change] Heineken 6x330ml (Gler): 37 -> 33 (-4)
+  [stock_change] Tommasi Graticcio Appassionato 3L: 4 -> 2 (-2)
+  [stock_change] Two Oceans Fresh & Fruity 3L: 16 -> 15 (-1)
+  [stock_change] Roku Gin 700ml: 7 -> 6 (-1)
+  [product_removed] Boli Sterkur Pilsner 6x500ml
+
+--- LOW STOCK ALERT ---
+  - Heineken 4x500ml: 1 left
+  - Peroni Nastro Azzurro 6x330ml: 1 left
+  - Apothic Red 750ml: 1 left
+  - Gomez El Predilecto 750ml: 1 left
+  - Massolino Barolo 2020 750ml: 1 left
+  - Piccanti Rosso Toscana 3L: 1 left
+  - Champagne Collet Brut Rosé 750ml: 1 left
+  - Finlandia Vodka 200ml: 1 left
+  - Remy Martin VSOP 700ml: 1 left
+  - Torres Sangre de Toro hvítt 0,0% 700ml: 1 left
+
+============================================================
+/Users/hlynurhalldorsson/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+2026-03-05 12:20:20,579 - INFO - Starting inventory check...
+2026-03-05 12:20:20,797 - INFO - Fetched category tree: 8 top-level categories
+2026-03-05 12:20:20,798 - INFO - Found 62 leaf categories to fetch
+2026-03-05 12:20:21,125 - INFO -   All Lagers: 33 products
+2026-03-05 12:20:21,720 - INFO -   All Lite Beers: 10 products
+2026-03-05 12:20:22,131 - INFO -   All Ales: 9 products
+2026-03-05 12:20:22,528 - INFO -   All Seasonal Beers: 5 products
+2026-03-05 12:20:22,952 - INFO -   All Low-Alcohol Beers: 1 products
+2026-03-05 12:20:23,261 - INFO -   Cabernet Sauvignon: 8 products
+2026-03-05 12:20:23,583 - INFO -   Merlot: 1 products
+2026-03-05 12:20:23,973 - INFO -   Pinot Noir: 2 products
+2026-03-05 12:20:25,361 - INFO -   Syrah: 1 products
+2026-03-05 12:20:25,645 - INFO -   Malbec: 5 products
+2026-03-05 12:20:25,901 - INFO -   Chianti: 5 products
+2026-03-05 12:20:26,300 - INFO -   Tempranillo: 10 products
+2026-03-05 12:20:26,600 - INFO -   Red Blends: 16 products
+2026-03-05 12:20:26,885 - INFO -   Other Red Wine: 3 products
+2026-03-05 12:20:27,136 - INFO -   Boxed Red Wines: 6 products
+2026-03-05 12:20:27,574 - INFO -   All Rosé Wines: 6 products
+2026-03-05 12:20:28,073 - INFO -   Chardonnay: 10 products
+2026-03-05 12:20:28,349 - INFO -   Sauvignon Blanc: 3 products
+2026-03-05 12:20:28,712 - INFO -   Riesling: 5 products
+2026-03-05 12:20:28,986 - INFO -   Pinot Grigio: 6 products
+2026-03-05 12:20:29,278 - INFO -   Moscato: 1 products
+2026-03-05 12:20:29,674 - INFO -   White Blends: 9 products
+2026-03-05 12:20:30,040 - INFO -   Other White Wine: 1 products
+2026-03-05 12:20:30,296 - INFO -   Boxed White Wine: 7 products
+2026-03-05 12:20:30,574 - INFO -   All Sparkling Wines: 16 products
+2026-03-05 12:20:30,872 - INFO -   All Vodka: 10 products
+2026-03-05 12:20:31,157 - INFO -   All Whiskey: 8 products
+2026-03-05 12:20:31,653 - INFO -   All Gin: 8 products
+2026-03-05 12:20:32,063 - INFO -   All Liqueurs: 18 products
+2026-03-05 12:20:32,359 - INFO -   All Rum: 6 products
+2026-03-05 12:20:32,701 - INFO -   All Tequila: 8 products
+2026-03-05 12:20:33,143 - INFO -   Cognac: 2 products
+2026-03-05 12:20:33,508 - INFO -   All Aquavit: 1 products
+2026-03-05 12:20:33,908 - INFO -   Bitters: 3 products
+2026-03-05 12:20:34,245 - INFO -   All Ciders: 3 products
+2026-03-05 12:20:34,617 - INFO -   All Mixed Drinks: 18 products
+2026-03-05 12:20:34,898 - INFO -   All Seltzers: 5 products
+2026-03-05 12:20:35,248 - INFO -   All 0% Beer: 1 products
+2026-03-05 12:20:35,570 - INFO -   All 0% Wine: 3 products
+2026-03-05 12:20:35,855 - INFO -   All Other 0% Alcohols: 3 products
+2026-03-05 12:20:36,114 - INFO -   LOOP: 15 products
+2026-03-05 12:20:36,416 - INFO -   ACE: 6 products
+2026-03-05 12:20:36,754 - INFO -   VELO: 8 products
+2026-03-05 12:20:37,022 - INFO -   White Fox: 3 products
+2026-03-05 12:20:37,635 - INFO -   All Nicotine Free Pouches: 1 products
+2026-03-05 12:20:37,913 - INFO -   BLYS: 18 products
+2026-03-05 12:20:38,191 - INFO -   REYMONT: 16 products
+2026-03-05 12:20:38,615 - INFO -   ELFBAR: 10 products
+2026-03-05 12:20:38,946 - INFO -   All Nicotine Free Vapes: 2 products
+2026-03-05 12:20:39,235 - INFO -   Winston: 5 products
+2026-03-05 12:20:39,590 - INFO -   Marlboro: 7 products
+2026-03-05 12:20:39,864 - INFO -   Camel: 3 products
+2026-03-05 12:20:40,255 - INFO -   Capri: 2 products
+2026-03-05 12:20:40,527 - INFO -   All Other Cigarettes: 4 products
+2026-03-05 12:20:40,870 - INFO -   Sodas (With Sugar): 11 products
+2026-03-05 12:20:41,258 - INFO -   Sugar-Free Sodas: 1 products
+2026-03-05 12:20:41,538 - INFO -   All Energy Drinks: 16 products
+2026-03-05 12:20:41,997 - INFO -   All Tonics: 7 products
+2026-03-05 12:20:42,275 - INFO -   All Sparkling Waters: 2 products
+2026-03-05 12:20:43,020 - INFO -   Doritos: 4 products
+2026-03-05 12:20:43,020 - INFO - Fetched 415 unique products total
+2026-03-05 12:20:43,075 - INFO - Saved current inventory to inventory_data/current_inventory.json
+2026-03-05 12:20:43,111 - INFO - Saved 4 changes to inventory_data/inventory_changes.json
+2026-03-05 12:20:43,234 - INFO - Saved history snapshot to inventory_data/inventory_history.json
+2026-03-05 12:20:43,238 - INFO - Saved CSV snapshot to inventory_data/inventory_2026-03-05_1220.csv
+2026-03-05 12:20:43,240 - INFO - Appended to master CSV: inventory_data/inventory_all.csv
+2026-03-05 12:20:43,240 - INFO - Inventory check completed successfully
