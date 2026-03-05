@@ -46939,5 +46939,122 @@
     "product_id": 42569,
     "product_name": "Heineken 6x330ml (Gler)",
     "last_stock": 16
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-05T21:09:08.274890",
+    "product_id": 42680,
+    "product_name": "Tuborg Green 12x500ml",
+    "previous_stock": 86,
+    "current_stock": 85,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-05T21:09:08.274890",
+    "product_id": 42720,
+    "product_name": "Carlsberg 10x500ml",
+    "previous_stock": 4,
+    "current_stock": 1,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-05T21:09:08.274890",
+    "product_id": 42574,
+    "product_name": "Stella Artois 6x330ml",
+    "previous_stock": 14,
+    "current_stock": 13,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-05T21:09:08.274890",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 112,
+    "current_stock": 111,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-05T21:09:08.274890",
+    "product_id": 42710,
+    "product_name": "Víking Lite 12x500ml",
+    "previous_stock": 6,
+    "current_stock": 5,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-05T21:09:08.274890",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 87,
+    "current_stock": 86,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-05T21:09:08.274890",
+    "product_id": 42810,
+    "product_name": "Barefoot Pinot Grigio 750ml",
+    "previous_stock": 52,
+    "current_stock": 50,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-05T21:09:08.274890",
+    "product_id": 42797,
+    "product_name": "Absolut Vodka 1L",
+    "previous_stock": 20,
+    "current_stock": 19,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-05T21:09:08.274890",
+    "product_id": 43053,
+    "product_name": "LoV 6x330ml",
+    "previous_stock": 15,
+    "current_stock": 14,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-05T21:09:08.274890",
+    "product_id": 42673,
+    "product_name": "BARA Jarðaber & Límóna 6x330ml",
+    "previous_stock": 2,
+    "current_stock": 1,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-05T21:09:08.274890",
+    "product_id": 43357,
+    "product_name": "Marlboro Gold Box",
+    "previous_stock": 10,
+    "current_stock": 4,
+    "change": -6,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-05T21:09:08.274890",
+    "product_id": 42597,
+    "product_name": "Estrella Damm 6x330ml",
+    "last_stock": 2
   }
 ]
