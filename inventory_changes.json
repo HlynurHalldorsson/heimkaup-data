@@ -45749,5 +45749,62 @@
     "current_stock": 17,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-05T11:20:17.172071",
+    "product_id": 43709,
+    "product_name": "Saku Originaal 6x500ml",
+    "previous_stock": 248,
+    "current_stock": 184,
+    "change": -64,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-05T11:20:17.172071",
+    "product_id": 42569,
+    "product_name": "Heineken 6x330ml (Gler)",
+    "previous_stock": 37,
+    "current_stock": 33,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-05T11:20:17.172071",
+    "product_id": 42685,
+    "product_name": "Tommasi Graticcio Appassionato 3L",
+    "previous_stock": 4,
+    "current_stock": 2,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-05T11:20:17.172071",
+    "product_id": 42585,
+    "product_name": "Two Oceans Fresh & Fruity 3L",
+    "previous_stock": 16,
+    "current_stock": 15,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-05T11:20:17.172071",
+    "product_id": 42753,
+    "product_name": "Roku Gin 700ml",
+    "previous_stock": 7,
+    "current_stock": 6,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-05T11:20:17.172071",
+    "product_id": 42608,
+    "product_name": "Boli Sterkur Pilsner 6x500ml",
+    "last_stock": 1
   }
 ]
