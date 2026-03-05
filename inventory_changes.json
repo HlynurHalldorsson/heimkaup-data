@@ -45729,5 +45729,25 @@
     "product_id": 43356,
     "product_name": "Winston Red Classic Box",
     "last_stock": 8
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-05T10:00:34.253970",
+    "product_id": 42776,
+    "product_name": "Thule 12x500ml",
+    "previous_stock": 23,
+    "current_stock": 21,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-05T10:00:34.253970",
+    "product_id": 42689,
+    "product_name": "Opal Rauður 500ml",
+    "previous_stock": 18,
+    "current_stock": 17,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
