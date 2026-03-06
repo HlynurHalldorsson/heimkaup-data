@@ -47332,5 +47332,35 @@
     "product_id": 42708,
     "product_name": "Gull 12x330ml",
     "last_stock": 2
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-06T15:29:46.005197",
+    "product_id": 43709,
+    "product_name": "Saku Originaal 6x500ml",
+    "previous_stock": 192,
+    "current_stock": 152,
+    "change": -40,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-06T15:29:46.005197",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 86,
+    "current_stock": 84,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-06T15:29:46.005197",
+    "product_id": 42666,
+    "product_name": "Ölvisholt Lite 10x330ml",
+    "previous_stock": 18,
+    "current_stock": 17,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
