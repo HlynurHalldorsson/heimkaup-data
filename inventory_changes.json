@@ -48891,5 +48891,71 @@
     "current_stock": 7,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-06T21:41:49.258523",
+    "product_id": 42680,
+    "product_name": "Tuborg Green 12x500ml",
+    "previous_stock": 84,
+    "current_stock": 83,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-06T21:41:49.258523",
+    "product_id": 42615,
+    "product_name": "Boli X 12x500ml",
+    "previous_stock": 4,
+    "current_stock": 3,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-06T21:41:49.258523",
+    "product_id": 46240,
+    "product_name": "Skruf Superwhite Slim 4",
+    "stock": 100,
+    "details": {
+      "id": 46240,
+      "code": "30234488",
+      "name": "Skruf Superwhite Slim 4",
+      "slug": "skruf-superwhite-slim-4-46240",
+      "category_id": 5675,
+      "category_name": "Skruf",
+      "category_path": "Nicotine > Pouches > Skruf",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7ef0c61b-ffd6-4fe7-b7f5-e59a54e0c9c4.webp",
+      "price": 123000,
+      "discount_price": null,
+      "stock": {
+        "H495": 100
+      },
+      "total_stock": 100,
+      "variants": [
+        {
+          "sku": "30234488",
+          "name": "Skruf Superwhite Slim 4",
+          "price": 123000,
+          "value": "11gm/pouch",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7ef0c61b-ffd6-4fe7-b7f5-e59a54e0c9c4.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7ef0c61b-ffd6-4fe7-b7f5-e59a54e0c9c4_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7ef0c61b-ffd6-4fe7-b7f5-e59a54e0c9c4_thumb.webp"
+            }
+          ],
+          "offerId": 47784,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 100,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-06T21:41:42.710827"
+    }
   }
 ]
