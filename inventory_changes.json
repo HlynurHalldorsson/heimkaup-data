@@ -47056,5 +47056,71 @@
     "product_id": 42597,
     "product_name": "Estrella Damm 6x330ml",
     "last_stock": 2
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-06T00:05:03.569808",
+    "product_id": 46269,
+    "product_name": "VELO Bright Spearmint MINI",
+    "stock": 10,
+    "details": {
+      "id": 46269,
+      "code": "30200682",
+      "name": "VELO Bright Spearmint MINI",
+      "slug": "velo-bright-spearmint-mini-46269",
+      "category_id": 4351,
+      "category_name": "VELO",
+      "category_path": "Nicotine > Pouches > VELO",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/93d4a455-8971-45c4-a077-053276d7affb.webp",
+      "price": 99000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30200682",
+          "name": "VELO Bright Spearmint MINI",
+          "price": 99000,
+          "value": "8mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/93d4a455-8971-45c4-a077-053276d7affb.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/93d4a455-8971-45c4-a077-053276d7affb_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/93d4a455-8971-45c4-a077-053276d7affb_thumb.webp"
+            }
+          ],
+          "offerId": 47813,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        },
+        {
+          "sku": "30200682",
+          "name": "VELO Bright Spearmint MINI",
+          "price": 99000,
+          "value": "10g",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/93d4a455-8971-45c4-a077-053276d7affb.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/93d4a455-8971-45c4-a077-053276d7affb_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/93d4a455-8971-45c4-a077-053276d7affb_thumb.webp"
+            }
+          ],
+          "offerId": 47813,
+          "sorting": 0,
+          "property": "net_weight",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-06T00:04:56.668765"
+    }
   }
 ]
