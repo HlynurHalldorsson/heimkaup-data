@@ -48665,5 +48665,121 @@
     "product_id": 43085,
     "product_name": "LOOP Smooth Mint 4",
     "last_stock": 9
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-06T19:40:56.779327",
+    "product_id": 43710,
+    "product_name": "Krombacher Pils 6x330ml",
+    "previous_stock": 28,
+    "current_stock": 26,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-06T19:40:56.779327",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 106,
+    "current_stock": 104,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-06T19:40:56.779327",
+    "product_id": 47314,
+    "product_name": "Víking Páskabjór 6x330ml + 2 Víking 400ml Glass",
+    "stock": 40,
+    "details": {
+      "id": 47314,
+      "code": "30230776",
+      "name": "Víking Páskabjór 6x330ml + 2 Víking 400ml Glass",
+      "slug": "viking-paskabjor-6x330ml-47314",
+      "category_id": 2719,
+      "category_name": "All Seasonal Beers",
+      "category_path": "Beer > Seasonal > All Seasonal Beers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cd8a5cfa-65e1-4ce8-808f-d6a78a2347d9.webp",
+      "price": 249000,
+      "discount_price": null,
+      "stock": {
+        "H495": 40
+      },
+      "total_stock": 40,
+      "variants": [
+        {
+          "sku": "30230776",
+          "name": "Víking Páskabjór 6x330ml + 2 Víking 400ml Glass",
+          "price": 249000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cd8a5cfa-65e1-4ce8-808f-d6a78a2347d9.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cd8a5cfa-65e1-4ce8-808f-d6a78a2347d9_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cd8a5cfa-65e1-4ce8-808f-d6a78a2347d9_thumb.webp"
+            }
+          ],
+          "offerId": 48860,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 40,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-06T19:40:37.388074"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-06T19:40:56.779327",
+    "product_id": 43672,
+    "product_name": "Arpeggio Catarratto 750ml",
+    "previous_stock": 4,
+    "current_stock": 2,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-06T19:40:56.779327",
+    "product_id": 42530,
+    "product_name": "Jack Daniels 350ml",
+    "previous_stock": 9,
+    "current_stock": 8,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-06T19:40:56.779327",
+    "product_id": 42775,
+    "product_name": "Bombay Sapphire Gin & Tonic 4x250ml",
+    "previous_stock": 5,
+    "current_stock": 2,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-06T19:40:56.779327",
+    "product_id": 42630,
+    "product_name": "BARA Hindber & Sítróna 6x330ml",
+    "previous_stock": 8,
+    "current_stock": 7,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-06T19:40:56.779327",
+    "product_id": 42436,
+    "product_name": "Coca-Cola 10x330ml",
+    "previous_stock": 39,
+    "current_stock": 38,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
