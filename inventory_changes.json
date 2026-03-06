@@ -47139,5 +47139,25 @@
     "product_id": 42661,
     "product_name": "Boli X 12x330ml",
     "last_stock": 3
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-06T12:24:53.374290",
+    "product_id": 42776,
+    "product_name": "Thule 12x500ml",
+    "previous_stock": 21,
+    "current_stock": 16,
+    "change": -5,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-06T12:24:53.374290",
+    "product_id": 42733,
+    "product_name": "Víking Gylltur 12x500ml",
+    "previous_stock": 49,
+    "current_stock": 45,
+    "change": -4,
+    "direction": "decrease"
   }
 ]
