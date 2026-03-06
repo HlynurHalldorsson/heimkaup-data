@@ -47159,5 +47159,101 @@
     "current_stock": 45,
     "change": -4,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-06T13:25:18.861932",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 8,
+    "current_stock": 5,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-06T13:25:18.861932",
+    "product_id": 43709,
+    "product_name": "Saku Originaal 6x500ml",
+    "stock": 216,
+    "details": {
+      "id": 43709,
+      "code": "30234659",
+      "name": "Saku Originaal 6x500ml",
+      "slug": "saku-6x500ml-43709",
+      "category_id": 4237,
+      "category_name": "All Lagers",
+      "category_path": "Beer > Lager > All Lagers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a2f7e296-9d28-4ffe-912c-36c290bb6c39.webp",
+      "price": 227000,
+      "discount_price": null,
+      "stock": {
+        "H495": 216
+      },
+      "total_stock": 216,
+      "variants": [
+        {
+          "sku": "30234659",
+          "name": "Saku Originaal 6x500ml",
+          "price": 227000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a2f7e296-9d28-4ffe-912c-36c290bb6c39.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a2f7e296-9d28-4ffe-912c-36c290bb6c39_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a2f7e296-9d28-4ffe-912c-36c290bb6c39_thumb.webp"
+            }
+          ],
+          "offerId": 45329,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 216,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-06T13:24:56.767403"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-06T13:25:18.861932",
+    "product_id": 42705,
+    "product_name": "Víking Sterkr 6x500ml",
+    "previous_stock": 39,
+    "current_stock": 38,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-06T13:25:18.861932",
+    "product_id": 43058,
+    "product_name": "Thule 12x330ml",
+    "previous_stock": 43,
+    "current_stock": 42,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-06T13:25:18.861932",
+    "product_id": 42708,
+    "product_name": "Gull 12x330ml",
+    "previous_stock": 4,
+    "current_stock": 2,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-06T13:25:18.861932",
+    "product_id": 43672,
+    "product_name": "Arpeggio Catarratto 750ml",
+    "previous_stock": 5,
+    "current_stock": 4,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
