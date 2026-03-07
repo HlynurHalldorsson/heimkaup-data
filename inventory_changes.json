@@ -48967,5 +48967,22 @@
     "current_stock": 10,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-07T11:37:13.886376",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 104,
+    "current_stock": 103,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-07T11:37:13.886376",
+    "product_id": 42624,
+    "product_name": "Gull Lite Yuzu Lime 10x330ml",
+    "last_stock": 2
   }
 ]
