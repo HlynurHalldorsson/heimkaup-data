@@ -48984,5 +48984,751 @@
     "product_id": 42624,
     "product_name": "Gull Lite Yuzu Lime 10x330ml",
     "last_stock": 2
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 42733,
+    "product_name": "Víking Gylltur 12x500ml",
+    "previous_stock": 44,
+    "current_stock": 43,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 42705,
+    "product_name": "Víking Sterkr 6x500ml",
+    "previous_stock": 38,
+    "current_stock": 36,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 42616,
+    "product_name": "Löwenbräu Original 6x500ml",
+    "stock": 8,
+    "details": {
+      "id": 42616,
+      "code": "30230658",
+      "name": "Löwenbräu Original 6x500ml",
+      "slug": "lowenbrau-original-6x500ml-42616",
+      "category_id": 4237,
+      "category_name": "All Lagers",
+      "category_path": "Beer > Lager > All Lagers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e2367e1f-9717-4e27-9bc6-835add3a3fe1.webp",
+      "price": 299000,
+      "discount_price": null,
+      "stock": {
+        "H495": 8
+      },
+      "total_stock": 8,
+      "variants": [
+        {
+          "sku": "30230658",
+          "name": "Löwenbräu Original 6x500ml",
+          "price": 299000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e2367e1f-9717-4e27-9bc6-835add3a3fe1.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e2367e1f-9717-4e27-9bc6-835add3a3fe1_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e2367e1f-9717-4e27-9bc6-835add3a3fe1_thumb.webp"
+            }
+          ],
+          "offerId": 43944,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 8,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-07T19:59:39.311585"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 42576,
+    "product_name": "Stella Artois 10x440ml",
+    "previous_stock": 2,
+    "current_stock": 10,
+    "change": 8,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 43058,
+    "product_name": "Thule 12x330ml",
+    "previous_stock": 39,
+    "current_stock": 38,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 42822,
+    "product_name": "Víking Gylltur 12x330ml",
+    "previous_stock": 47,
+    "current_stock": 43,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 42669,
+    "product_name": "Ölvisholt Classic 10x330ml",
+    "previous_stock": 19,
+    "current_stock": 16,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 42722,
+    "product_name": "Peroni Nastro Azzurro 6x330ml (Gler)",
+    "previous_stock": 19,
+    "current_stock": 15,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 103,
+    "current_stock": 98,
+    "change": -5,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 42710,
+    "product_name": "Víking Lite 12x500ml",
+    "previous_stock": 5,
+    "current_stock": 2,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 42615,
+    "product_name": "Boli X 12x500ml",
+    "previous_stock": 3,
+    "current_stock": 2,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 81,
+    "current_stock": 80,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 42778,
+    "product_name": "Víking Lite 12x330ml",
+    "previous_stock": 26,
+    "current_stock": 25,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 43046,
+    "product_name": "Tuborg Lille jólabjór 12x500ml",
+    "previous_stock": 9,
+    "current_stock": 8,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 47314,
+    "product_name": "Víking Páskabjór 6x330ml + 2 Víking 400ml Glass",
+    "previous_stock": 40,
+    "current_stock": 38,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 43044,
+    "product_name": "Einstök Winter Ale 6x330ml",
+    "previous_stock": 3,
+    "current_stock": 2,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 43658,
+    "product_name": "M.T. Las Mulas Cab.Sauv Org 750 ml",
+    "previous_stock": 4,
+    "current_stock": 3,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 42704,
+    "product_name": "Faustino VII Cabernet Sauvignon 750ml",
+    "previous_stock": 4,
+    "current_stock": 2,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 42557,
+    "product_name": "Trivento Malbec Reserve 750ml",
+    "previous_stock": 5,
+    "current_stock": 3,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 43719,
+    "product_name": "Villa Lucia Chianti Riserva 750ml",
+    "previous_stock": 6,
+    "current_stock": 5,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 42583,
+    "product_name": "El Coto Crianza 750ml",
+    "previous_stock": 2,
+    "current_stock": 1,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 42675,
+    "product_name": "Silk & Spice Red Blend 750ml",
+    "previous_stock": 8,
+    "current_stock": 7,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 42681,
+    "product_name": "Tommasi Graticcio Appassionato 750ml",
+    "previous_stock": 14,
+    "current_stock": 13,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 43677,
+    "product_name": "Beronia Rosé Rioja 750ml",
+    "previous_stock": 5,
+    "current_stock": 4,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 42635,
+    "product_name": "Willm Riesling Reserve 750ml",
+    "stock": 6,
+    "details": {
+      "id": 42635,
+      "code": "30230761",
+      "name": "Willm Riesling Reserve 750ml",
+      "slug": "willm-riesling-reserve-750ml-42635",
+      "category_id": 4332,
+      "category_name": "Riesling",
+      "category_path": "Wine > White > Riesling",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/83a54cef-f9dd-4a1c-b0b3-d8594dc94da5.webp",
+      "price": 299000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "30230761",
+          "name": "Willm Riesling Reserve 750ml",
+          "price": 299000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/83a54cef-f9dd-4a1c-b0b3-d8594dc94da5.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/83a54cef-f9dd-4a1c-b0b3-d8594dc94da5_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/83a54cef-f9dd-4a1c-b0b3-d8594dc94da5_thumb.webp"
+            }
+          ],
+          "offerId": 43967,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-07T20:27:06.088915"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 42537,
+    "product_name": "Tommasi Le Rosse Pinot Grigio 750ml",
+    "previous_stock": 11,
+    "current_stock": 10,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 43672,
+    "product_name": "Arpeggio Catarratto 750ml",
+    "previous_stock": 2,
+    "current_stock": 1,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 42699,
+    "product_name": "Frontera Chardonnay 3L",
+    "previous_stock": 46,
+    "current_stock": 44,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 42692,
+    "product_name": "Martini Prosecco 750ml",
+    "previous_stock": 35,
+    "current_stock": 32,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 42606,
+    "product_name": "Koskenkorva Vodka 500ml",
+    "previous_stock": 42,
+    "current_stock": 41,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 42545,
+    "product_name": "Absolut Vodka 700ml",
+    "previous_stock": 10,
+    "current_stock": 9,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 42749,
+    "product_name": "Tullamore Dew 700ml",
+    "previous_stock": 3,
+    "current_stock": 2,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 42765,
+    "product_name": "Askur Gin 700ml",
+    "previous_stock": 34,
+    "current_stock": 32,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 42697,
+    "product_name": "Jagermeister Miniature 9x20ml",
+    "previous_stock": 7,
+    "current_stock": 6,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 42547,
+    "product_name": "Hot N' Sweet 100ml",
+    "previous_stock": 15,
+    "current_stock": 13,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 42582,
+    "product_name": "Bailey's Original 500ml",
+    "previous_stock": 15,
+    "current_stock": 14,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 43659,
+    "product_name": "Captain Morgan Spiced Gold 700ml",
+    "previous_stock": 6,
+    "current_stock": 5,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 42570,
+    "product_name": "BuzzBallz Choc Tease 200ml",
+    "previous_stock": 20,
+    "current_stock": 19,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 42544,
+    "product_name": "BuzzBallz Chili Mango 200ml",
+    "previous_stock": 11,
+    "current_stock": 10,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 42785,
+    "product_name": "Bacardi Mojito 4x250ml",
+    "previous_stock": 3,
+    "current_stock": 2,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 42604,
+    "product_name": "Bagl 6x330ml",
+    "previous_stock": 16,
+    "current_stock": 15,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 42536,
+    "product_name": "VES 6x330ml",
+    "previous_stock": 6,
+    "current_stock": 5,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 43072,
+    "product_name": "LOOP Jalapeno Lime 4",
+    "previous_stock": 40,
+    "current_stock": 38,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 43071,
+    "product_name": "LOOP Habanero Mint 4",
+    "previous_stock": 19,
+    "current_stock": 14,
+    "change": -5,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 47213,
+    "product_name": "THOR Ginger Blast 5",
+    "stock": 20,
+    "details": {
+      "id": 47213,
+      "code": "30219792",
+      "name": "THOR Ginger Blast 5",
+      "slug": "thor-ginger-blast-5-47213",
+      "category_id": 5676,
+      "category_name": "THOR",
+      "category_path": "Nicotine > Pouches > THOR",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2ecbc5e2-67d2-45c0-bf9b-cdb58a7aff1d.webp",
+      "price": 109000,
+      "discount_price": null,
+      "stock": {
+        "H495": 20
+      },
+      "total_stock": 20,
+      "variants": [
+        {
+          "sku": "30219792",
+          "name": "THOR Ginger Blast 5",
+          "price": 109000,
+          "value": "12mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2ecbc5e2-67d2-45c0-bf9b-cdb58a7aff1d.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2ecbc5e2-67d2-45c0-bf9b-cdb58a7aff1d_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2ecbc5e2-67d2-45c0-bf9b-cdb58a7aff1d_thumb.webp"
+            }
+          ],
+          "offerId": 48759,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 20,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-07T21:05:20.748037"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 46239,
+    "product_name": "BLYS 800 Pineapple Ice",
+    "previous_stock": 9,
+    "current_stock": 8,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 43741,
+    "product_name": "Winston Blue Box",
+    "previous_stock": 9,
+    "current_stock": 8,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 43437,
+    "product_name": "Winston White Menthol Box",
+    "previous_stock": 49,
+    "current_stock": 47,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 42474,
+    "product_name": "Appelsín 6x330ml",
+    "previous_stock": 98,
+    "current_stock": 97,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 42521,
+    "product_name": "7UP Zero 6x330ml",
+    "previous_stock": 99,
+    "current_stock": 96,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 42465,
+    "product_name": "Plús Blóðappelsínu 4x330ml",
+    "previous_stock": 5,
+    "current_stock": 4,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 42516,
+    "product_name": "Coca-Cola án sykurs 10x330ml",
+    "previous_stock": 94,
+    "current_stock": 91,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 43714,
+    "product_name": "Fentimans Victorian Lemonade 4x275ml",
+    "previous_stock": 2,
+    "current_stock": 1,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 43358,
+    "product_name": "Doritos Cool American 170g",
+    "previous_stock": 97,
+    "current_stock": 96,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "last_stock": 2
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 42728,
+    "product_name": "Finca Las Moras Shiraz 750ml",
+    "last_stock": 26
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 42599,
+    "product_name": "Apothic Red 750ml",
+    "last_stock": 1
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 43657,
+    "product_name": "Torres Vina Esmeralda 750 ml",
+    "last_stock": 11
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 43200,
+    "product_name": "El Coto Blanco 750ml",
+    "last_stock": 5
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 43064,
+    "product_name": "Gomez Cruzado Blanco 750ml",
+    "last_stock": 6
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 43019,
+    "product_name": "Lamberti Garda Bianco 750ml",
+    "last_stock": 4
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 42677,
+    "product_name": "Tommasi Soave Classico Le Volp 750ml",
+    "last_stock": 9
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 42670,
+    "product_name": "Muga Blanco 750ml",
+    "last_stock": 5
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 42541,
+    "product_name": "JP. Chenet Medium Sweet 750ml",
+    "last_stock": 2
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 43005,
+    "product_name": "Faustino VII White 187ml",
+    "last_stock": 22
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 42633,
+    "product_name": "Cune Blanco 187ml",
+    "last_stock": 12
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 42592,
+    "product_name": "Camus V.S.O.P. 500ml",
+    "last_stock": 2
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-07T21:24:52.225604",
+    "product_id": 42726,
+    "product_name": "Remy Martin VSOP 700ml",
+    "last_stock": 1
   }
 ]
