@@ -51522,3 +51522,161 @@ Categories (60):
 2026-03-07 02:43:53,963 - INFO - Saved CSV snapshot to inventory_data/inventory_2026-03-07_0243.csv
 2026-03-07 02:43:53,965 - INFO - Appended to master CSV: inventory_data/inventory_all.csv
 2026-03-07 02:43:53,965 - INFO - Inventory check completed successfully
+2026-03-07 02:43:56,598 - INFO - Successfully pushed inventory data to GitHub
+
+============================================================
+HEIMKAUP INVENTORY SUMMARY - 2026-03-07 02:43:53
+============================================================
+
+Total Products: 417
+Total Stock Units: 6445
+Out of Stock: 0
+Low Stock (<=5): 109
+
+Categories (60):
+  - ACE: 6 products, 111 units
+  - All 0% Wine: 3 products, 9 units
+  - All Ales: 9 products, 166 units
+  - All Aquavit: 1 products, 14 units
+  - All Ciders: 3 products, 16 units
+  - All Energy Drinks: 15 products, 91 units
+  - All Gin: 8 products, 69 units
+  - All Lagers: 29 products, 539 units
+  - All Liqueurs: 18 products, 193 units
+  - All Lite Beers: 9 products, 248 units
+  - All Low-Alcohol Beers: 1 products, 4 units
+  - All Mixed Drinks: 18 products, 243 units
+  - All Nicotine Free Pouches: 1 products, 30 units
+  - All Other 0% Alcohols: 3 products, 13 units
+  - All Other Cigarettes: 4 products, 29 units
+  - All Rosé Wines: 6 products, 52 units
+  - All Rum: 6 products, 35 units
+  - All Seasonal Beers: 6 products, 90 units
+  - All Seltzers: 5 products, 23 units
+  - All Sparkling Waters: 2 products, 26 units
+  - All Sparkling Wines: 16 products, 231 units
+  - All Tequila: 8 products, 39 units
+  - All Tonics: 7 products, 68 units
+  - All Vodka: 10 products, 128 units
+  - All Whiskey: 8 products, 66 units
+  - BLYS: 18 products, 188 units
+  - Bitters: 3 products, 32 units
+  - Boxed Red Wines: 6 products, 38 units
+  - Boxed White Wine: 7 products, 111 units
+  - Cabernet Sauvignon: 8 products, 85 units
+  - Camel: 3 products, 54 units
+  - Capri: 2 products, 18 units
+  - Chardonnay: 10 products, 128 units
+  - Chianti: 5 products, 41 units
+  - Cognac: 2 products, 3 units
+  - Doritos: 4 products, 386 units
+  - ELFBAR: 10 products, 100 units
+  - LOOP: 17 products, 397 units
+  - Malbec: 5 products, 37 units
+  - Marlboro: 7 products, 60 units
+  - Merlot: 1 products, 4 units
+  - Moscato: 1 products, 5 units
+  - Other Red Wine: 3 products, 20 units
+  - Other White Wine: 1 products, 2 units
+  - Pinot Grigio: 6 products, 79 units
+  - Pinot Noir: 2 products, 46 units
+  - REYMONT: 16 products, 205 units
+  - Red Blends: 16 products, 141 units
+  - Riesling: 5 products, 25 units
+  - Sauvignon Blanc: 3 products, 100 units
+  - Skruf: 1 products, 100 units
+  - Sodas (With Sugar): 11 products, 756 units
+  - Sugar-Free Sodas: 1 products, 94 units
+  - Syrah: 1 products, 26 units
+  - THOR: 5 products, 120 units
+  - Tempranillo: 10 products, 77 units
+  - VELO: 8 products, 166 units
+  - White Blends: 9 products, 76 units
+  - White Fox: 3 products, 100 units
+  - Winston: 5 products, 92 units
+
+--- LOW STOCK ALERT ---
+  - Heineken 4x500ml: 1 left
+  - Carlsberg 10x500ml: 1 left
+  - Peroni Nastro Azzurro 6x330ml: 1 left
+  - Faustino VII Red 750ml: 1 left
+  - Apothic Red 750ml: 1 left
+  - Gomez El Predilecto 750ml: 1 left
+  - Massolino Barolo 2020 750ml: 1 left
+  - Piccanti Rosso Toscana 3L: 1 left
+  - Champagne Collet Brut Rosé 750ml: 1 left
+  - Finlandia Vodka 200ml: 1 left
+
+============================================================
+/Users/hlynurhalldorsson/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+2026-03-07 09:10:24,864 - INFO - Starting inventory check...
+2026-03-07 09:10:25,256 - INFO - Fetched category tree: 8 top-level categories
+2026-03-07 09:10:25,256 - INFO - Found 63 leaf categories to fetch
+2026-03-07 09:10:25,665 - INFO -   All Lagers: 29 products
+2026-03-07 09:10:26,381 - INFO -   All Lite Beers: 9 products
+2026-03-07 09:10:26,791 - INFO -   All Ales: 9 products
+2026-03-07 09:10:27,301 - INFO -   All Seasonal Beers: 6 products
+2026-03-07 09:10:27,710 - INFO -   All Low-Alcohol Beers: 1 products
+2026-03-07 09:10:28,122 - INFO -   Cabernet Sauvignon: 8 products
+2026-03-07 09:10:28,426 - INFO -   Merlot: 1 products
+2026-03-07 09:10:28,709 - INFO -   Pinot Noir: 2 products
+2026-03-07 09:10:28,971 - INFO -   Syrah: 1 products
+2026-03-07 09:10:29,453 - INFO -   Malbec: 5 products
+2026-03-07 09:10:29,750 - INFO -   Chianti: 5 products
+2026-03-07 09:10:30,051 - INFO -   Tempranillo: 10 products
+2026-03-07 09:10:30,477 - INFO -   Red Blends: 16 products
+2026-03-07 09:10:30,886 - INFO -   Other Red Wine: 3 products
+2026-03-07 09:10:31,178 - INFO -   Boxed Red Wines: 6 products
+2026-03-07 09:10:31,450 - INFO -   All Rosé Wines: 6 products
+2026-03-07 09:10:31,726 - INFO -   Chardonnay: 10 products
+2026-03-07 09:10:32,113 - INFO -   Sauvignon Blanc: 3 products
+2026-03-07 09:10:32,388 - INFO -   Riesling: 5 products
+2026-03-07 09:10:32,730 - INFO -   Pinot Grigio: 6 products
+2026-03-07 09:10:33,139 - INFO -   Moscato: 1 products
+2026-03-07 09:10:33,547 - INFO -   White Blends: 9 products
+2026-03-07 09:10:33,958 - INFO -   Other White Wine: 1 products
+2026-03-07 09:10:34,367 - INFO -   Boxed White Wine: 7 products
+2026-03-07 09:10:34,649 - INFO -   All Sparkling Wines: 16 products
+2026-03-07 09:10:35,084 - INFO -   All Vodka: 10 products
+2026-03-07 09:10:35,369 - INFO -   All Whiskey: 8 products
+2026-03-07 09:10:35,801 - INFO -   All Gin: 8 products
+2026-03-07 09:10:36,208 - INFO -   All Liqueurs: 18 products
+2026-03-07 09:10:36,609 - INFO -   All Rum: 6 products
+2026-03-07 09:10:36,898 - INFO -   All Tequila: 8 products
+2026-03-07 09:10:37,344 - INFO -   Cognac: 2 products
+2026-03-07 09:10:37,608 - INFO -   All Aquavit: 1 products
+2026-03-07 09:10:37,877 - INFO -   Bitters: 3 products
+2026-03-07 09:10:38,250 - INFO -   All Ciders: 3 products
+2026-03-07 09:10:38,579 - INFO -   All Mixed Drinks: 18 products
+2026-03-07 09:10:38,848 - INFO -   All Seltzers: 5 products
+2026-03-07 09:10:39,469 - INFO -   All 0% Wine: 3 products
+2026-03-07 09:10:39,832 - INFO -   All Other 0% Alcohols: 3 products
+2026-03-07 09:10:40,102 - INFO -   LOOP: 17 products
+2026-03-07 09:10:40,406 - INFO -   ACE: 6 products
+2026-03-07 09:10:40,716 - INFO -   VELO: 8 products
+2026-03-07 09:10:41,127 - INFO -   White Fox: 3 products
+2026-03-07 09:10:41,403 - INFO -   THOR: 5 products
+2026-03-07 09:10:41,695 - INFO -   Skruf: 1 products
+2026-03-07 09:10:41,964 - INFO -   All Nicotine Free Pouches: 1 products
+2026-03-07 09:10:42,434 - INFO -   BLYS: 18 products
+2026-03-07 09:10:42,844 - INFO -   REYMONT: 16 products
+2026-03-07 09:10:43,124 - INFO -   ELFBAR: 10 products
+2026-03-07 09:10:43,509 - INFO -   All Nicotine Free Vapes: 2 products
+2026-03-07 09:10:43,783 - INFO -   Winston: 5 products
+2026-03-07 09:10:44,042 - INFO -   Marlboro: 7 products
+2026-03-07 09:10:44,412 - INFO -   Camel: 3 products
+2026-03-07 09:10:44,845 - INFO -   Capri: 2 products
+2026-03-07 09:10:45,226 - INFO -   All Other Cigarettes: 4 products
+2026-03-07 09:10:45,517 - INFO -   Sodas (With Sugar): 11 products
+2026-03-07 09:10:45,893 - INFO -   Sugar-Free Sodas: 1 products
+2026-03-07 09:10:46,154 - INFO -   All Energy Drinks: 15 products
+2026-03-07 09:10:46,420 - INFO -   All Tonics: 7 products
+2026-03-07 09:10:46,691 - INFO -   All Sparkling Waters: 2 products
+2026-03-07 09:10:47,285 - INFO -   Doritos: 4 products
+2026-03-07 09:10:47,285 - INFO - Fetched 417 unique products total
+2026-03-07 09:10:47,344 - INFO - Saved current inventory to inventory_data/current_inventory.json
+2026-03-07 09:10:47,480 - INFO - Saved history snapshot to inventory_data/inventory_history.json
+2026-03-07 09:10:47,484 - INFO - Saved CSV snapshot to inventory_data/inventory_2026-03-07_0910.csv
+2026-03-07 09:10:47,486 - INFO - Appended to master CSV: inventory_data/inventory_all.csv
+2026-03-07 09:10:47,486 - INFO - Inventory check completed successfully
