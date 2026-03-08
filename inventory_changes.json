@@ -51674,5 +51674,39 @@
     "product_id": 42753,
     "product_name": "Roku Gin 700ml",
     "last_stock": 6
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-08T22:13:21.872659",
+    "product_id": 42680,
+    "product_name": "Tuborg Green 12x500ml",
+    "previous_stock": 81,
+    "current_stock": 78,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-08T22:13:21.872659",
+    "product_id": 42574,
+    "product_name": "Stella Artois 6x330ml",
+    "previous_stock": 11,
+    "current_stock": 10,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-08T22:13:21.872659",
+    "product_id": 43750,
+    "product_name": "Capri 100's Red Box",
+    "last_stock": 10
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-08T22:13:21.872659",
+    "product_id": 43436,
+    "product_name": "Capri Menthol 100s Box",
+    "last_stock": 6
   }
 ]
