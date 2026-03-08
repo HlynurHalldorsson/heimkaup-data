@@ -49730,5 +49730,1024 @@
     "product_id": 42726,
     "product_name": "Remy Martin VSOP 700ml",
     "last_stock": 1
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-08T03:15:21.205193",
+    "product_id": 42703,
+    "product_name": "Gull 12x500ml",
+    "stock": 30,
+    "details": {
+      "id": 42703,
+      "code": "30230822",
+      "name": "Gull 12x500ml",
+      "slug": "gull-12x500ml-42703",
+      "category_id": 2724,
+      "category_name": "All Lagers",
+      "category_path": "Beer > Lager > All Lagers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bf7c1705-939c-4589-9e42-c8efa6646e32.webp",
+      "price": 579000,
+      "discount_price": null,
+      "stock": {
+        "H495": 30
+      },
+      "total_stock": 30,
+      "variants": [
+        {
+          "sku": "30230822",
+          "name": "Gull 12x500ml",
+          "price": 579000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bf7c1705-939c-4589-9e42-c8efa6646e32.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bf7c1705-939c-4589-9e42-c8efa6646e32_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bf7c1705-939c-4589-9e42-c8efa6646e32_thumb.webp"
+            },
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c185d035-631d-477a-b8f5-553da9fd32c5.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c185d035-631d-477a-b8f5-553da9fd32c5_orig.jpeg",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c185d035-631d-477a-b8f5-553da9fd32c5_thumb.webp"
+            }
+          ],
+          "offerId": 44032,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 30,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-08T03:14:59.363262"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-08T03:15:21.205193",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "stock": 30,
+    "details": {
+      "id": 42696,
+      "code": "30230821",
+      "name": "Boli 12x500ml",
+      "slug": "boli-12x500ml-42696",
+      "category_id": 4237,
+      "category_name": "All Lagers",
+      "category_path": "Beer > Lager > All Lagers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/48d594aa-fb12-4a7e-b71e-a1cfb6e94c2f.webp",
+      "price": 619000,
+      "discount_price": null,
+      "stock": {
+        "H495": 30
+      },
+      "total_stock": 30,
+      "variants": [
+        {
+          "sku": "30230821",
+          "name": "Boli 12x500ml",
+          "price": 619000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/48d594aa-fb12-4a7e-b71e-a1cfb6e94c2f.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/48d594aa-fb12-4a7e-b71e-a1cfb6e94c2f_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/48d594aa-fb12-4a7e-b71e-a1cfb6e94c2f_thumb.webp"
+            },
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/00042477-c9f7-4472-aab7-9faa5918aa86.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/00042477-c9f7-4472-aab7-9faa5918aa86_orig.jpeg",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/00042477-c9f7-4472-aab7-9faa5918aa86_thumb.webp"
+            }
+          ],
+          "offerId": 44029,
+          "sorting": 5,
+          "property": "volume",
+          "sellable": 30,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-08T03:14:59.363262"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-08T03:15:21.205193",
+    "product_id": 42701,
+    "product_name": "Tuborg Classic 12x500ml",
+    "previous_stock": 5,
+    "current_stock": 35,
+    "change": 30,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-08T03:15:21.205193",
+    "product_id": 42608,
+    "product_name": "Boli Sterkur Pilsner 6x500ml",
+    "stock": 8,
+    "details": {
+      "id": 42608,
+      "code": "30230691",
+      "name": "Boli Sterkur Pilsner 6x500ml",
+      "slug": "boli-sterkur-pilsner-6x500ml-42608",
+      "category_id": 4237,
+      "category_name": "All Lagers",
+      "category_path": "Beer > Lager > All Lagers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/157ce4bb-8f16-4496-8809-2caea1a680c5.webp",
+      "price": 429000,
+      "discount_price": null,
+      "stock": {
+        "H495": 8
+      },
+      "total_stock": 8,
+      "variants": [
+        {
+          "sku": "30230691",
+          "name": "Boli Sterkur Pilsner 6x500ml",
+          "price": 429000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/157ce4bb-8f16-4496-8809-2caea1a680c5.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/157ce4bb-8f16-4496-8809-2caea1a680c5_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/157ce4bb-8f16-4496-8809-2caea1a680c5_thumb.webp"
+            }
+          ],
+          "offerId": 43929,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 8,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-08T03:14:59.363262"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-08T03:15:21.205193",
+    "product_id": 42708,
+    "product_name": "Gull 12x330ml",
+    "stock": 15,
+    "details": {
+      "id": 42708,
+      "code": "30230818",
+      "name": "Gull 12x330ml",
+      "slug": "gull-12x330ml-42708",
+      "category_id": 2724,
+      "category_name": "All Lagers",
+      "category_path": "Beer > Lager > All Lagers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/de172e54-e444-492b-a647-1459ee765d2f.webp",
+      "price": 459000,
+      "discount_price": null,
+      "stock": {
+        "H495": 15
+      },
+      "total_stock": 15,
+      "variants": [
+        {
+          "sku": "30230818",
+          "name": "Gull 12x330ml",
+          "price": 459000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/de172e54-e444-492b-a647-1459ee765d2f.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/de172e54-e444-492b-a647-1459ee765d2f_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/de172e54-e444-492b-a647-1459ee765d2f_thumb.webp"
+            },
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f4f084d7-6322-4f25-a8cf-a4e2039289c3.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f4f084d7-6322-4f25-a8cf-a4e2039289c3_orig.jpeg",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f4f084d7-6322-4f25-a8cf-a4e2039289c3_thumb.webp"
+            }
+          ],
+          "offerId": 44043,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 15,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-08T03:14:59.363262"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-08T03:15:21.205193",
+    "product_id": 42669,
+    "product_name": "Ölvisholt Classic 10x330ml",
+    "previous_stock": 16,
+    "current_stock": 18,
+    "change": 2,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-08T03:15:21.205193",
+    "product_id": 42716,
+    "product_name": "Peroni Nastro Azzurro 6x330ml",
+    "previous_stock": 1,
+    "current_stock": 13,
+    "change": 12,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-08T03:15:21.205193",
+    "product_id": 42722,
+    "product_name": "Peroni Nastro Azzurro 6x330ml (Gler)",
+    "previous_stock": 15,
+    "current_stock": 14,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-08T03:15:21.205193",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 98,
+    "current_stock": 97,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-08T03:15:21.205193",
+    "product_id": 42661,
+    "product_name": "Boli X 12x330ml",
+    "stock": 20,
+    "details": {
+      "id": 42661,
+      "code": "30230734",
+      "name": "Boli X 12x330ml",
+      "slug": "boli-x-12x330ml-42661",
+      "category_id": 4239,
+      "category_name": "All Lite Beers",
+      "category_path": "Beer > Lite > All Lite Beers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/fa46213b-8bf7-49d3-865f-b573235ed87e.webp",
+      "price": 479000,
+      "discount_price": null,
+      "stock": {
+        "H495": 20
+      },
+      "total_stock": 20,
+      "variants": [
+        {
+          "sku": "30230734",
+          "name": "Boli X 12x330ml",
+          "price": 479000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/fa46213b-8bf7-49d3-865f-b573235ed87e.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/fa46213b-8bf7-49d3-865f-b573235ed87e_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/fa46213b-8bf7-49d3-865f-b573235ed87e_thumb.webp"
+            }
+          ],
+          "offerId": 43981,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 20,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-08T03:14:59.946479"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-08T03:15:21.205193",
+    "product_id": 43034,
+    "product_name": "Víking Systir 6x330ml",
+    "previous_stock": 3,
+    "current_stock": 2,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-08T03:15:21.205193",
+    "product_id": 42728,
+    "product_name": "Finca Las Moras Shiraz 750ml",
+    "stock": 26,
+    "details": {
+      "id": 42728,
+      "code": "30230847",
+      "name": "Finca Las Moras Shiraz 750ml",
+      "slug": "finca-las-moras-shiraz-750ml-42728",
+      "category_id": 4326,
+      "category_name": "Syrah",
+      "category_path": "Wine > Red > Syrah",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b51f2d0b-e680-4e94-874a-631b14e4db22.webp",
+      "price": 259000,
+      "discount_price": null,
+      "stock": {
+        "H495": 26
+      },
+      "total_stock": 26,
+      "variants": [
+        {
+          "sku": "30230847",
+          "name": "Finca Las Moras Shiraz 750ml",
+          "price": 259000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b51f2d0b-e680-4e94-874a-631b14e4db22.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b51f2d0b-e680-4e94-874a-631b14e4db22_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b51f2d0b-e680-4e94-874a-631b14e4db22_thumb.webp"
+            }
+          ],
+          "offerId": 44088,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 26,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-08T03:15:02.528825"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-08T03:15:21.205193",
+    "product_id": 42599,
+    "product_name": "Apothic Red 750ml",
+    "stock": 6,
+    "details": {
+      "id": 42599,
+      "code": "30230645",
+      "name": "Apothic Red 750ml",
+      "slug": "apothic-red-750ml-42599",
+      "category_id": 4329,
+      "category_name": "Red Blends",
+      "category_path": "Wine > Red > Red Blends",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/38a0cddd-a1df-485c-93df-a8198f0ac0c9.webp",
+      "price": 318000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "30230645",
+          "name": "Apothic Red 750ml",
+          "price": 318000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/38a0cddd-a1df-485c-93df-a8198f0ac0c9.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/38a0cddd-a1df-485c-93df-a8198f0ac0c9_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/38a0cddd-a1df-485c-93df-a8198f0ac0c9_thumb.webp"
+            }
+          ],
+          "offerId": 43950,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-08T03:15:04.448212"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-08T03:15:21.205193",
+    "product_id": 42603,
+    "product_name": "Drostdy Hof Shiraz Merlot 3L",
+    "previous_stock": 3,
+    "current_stock": 15,
+    "change": 12,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-08T03:15:21.205193",
+    "product_id": 42593,
+    "product_name": "Barefoot White Zinfandel Rosé 750ml",
+    "stock": 12,
+    "details": {
+      "id": 42593,
+      "code": "30230647",
+      "name": "Barefoot White Zinfandel Rosé 750ml",
+      "slug": "barefoot-white-zinfandel-rose-750ml-42593",
+      "category_id": 4254,
+      "category_name": "All Rosé Wines",
+      "category_path": "Wine > Rosé > All Rosé Wines",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ee29222a-b8ac-4b92-bd87-62507ed3d657.webp",
+      "price": 186000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "30230647",
+          "name": "Barefoot White Zinfandel Rosé 750ml",
+          "price": 186000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ee29222a-b8ac-4b92-bd87-62507ed3d657.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ee29222a-b8ac-4b92-bd87-62507ed3d657_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ee29222a-b8ac-4b92-bd87-62507ed3d657_thumb.webp"
+            }
+          ],
+          "offerId": 43907,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-08T03:15:05.472702"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-08T03:15:21.205193",
+    "product_id": 43657,
+    "product_name": "Torres Vina Esmeralda 750 ml",
+    "stock": 11,
+    "details": {
+      "id": 43657,
+      "code": "30234637",
+      "name": "Torres Vina Esmeralda 750 ml",
+      "slug": "torres-vina-esmeralda-750-ml-43657",
+      "category_id": 4334,
+      "category_name": "White Blends",
+      "category_path": "Wine > White > White Blends",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8a6ac7ab-1335-4a2f-bff3-7bfa23e058e9.webp",
+      "price": 216000,
+      "discount_price": null,
+      "stock": {
+        "H495": 11
+      },
+      "total_stock": 11,
+      "variants": [
+        {
+          "sku": "30234637",
+          "name": "Torres Vina Esmeralda 750 ml",
+          "price": 216000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8a6ac7ab-1335-4a2f-bff3-7bfa23e058e9.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8a6ac7ab-1335-4a2f-bff3-7bfa23e058e9_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8a6ac7ab-1335-4a2f-bff3-7bfa23e058e9_thumb.webp"
+            }
+          ],
+          "offerId": 45281,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 11,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-08T03:15:07.373798"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-08T03:15:21.205193",
+    "product_id": 43200,
+    "product_name": "El Coto Blanco 750ml",
+    "stock": 5,
+    "details": {
+      "id": 43200,
+      "code": "30230629",
+      "name": "El Coto Blanco 750ml",
+      "slug": "el-coto-blanco-750ml-43200",
+      "category_id": 4334,
+      "category_name": "White Blends",
+      "category_path": "Wine > White > White Blends",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/058567dd-9104-41ab-a6b1-05a5500ae916.webp",
+      "price": 229000,
+      "discount_price": null,
+      "stock": {
+        "H495": 5
+      },
+      "total_stock": 5,
+      "variants": [
+        {
+          "sku": "30230629",
+          "name": "El Coto Blanco 750ml",
+          "price": 229000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/058567dd-9104-41ab-a6b1-05a5500ae916.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/058567dd-9104-41ab-a6b1-05a5500ae916_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/058567dd-9104-41ab-a6b1-05a5500ae916_thumb.webp"
+            }
+          ],
+          "offerId": 44799,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 5,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-08T03:15:07.373798"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-08T03:15:21.205193",
+    "product_id": 43064,
+    "product_name": "Gomez Cruzado Blanco 750ml",
+    "stock": 6,
+    "details": {
+      "id": 43064,
+      "code": "30230713",
+      "name": "Gomez Cruzado Blanco 750ml",
+      "slug": "gomez-cruzado-blanco-750ml-43064",
+      "category_id": 4334,
+      "category_name": "White Blends",
+      "category_path": "Wine > White > White Blends",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9603f449-8540-4ee1-bead-019764393ba2.webp",
+      "price": 319000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "30230713",
+          "name": "Gomez Cruzado Blanco 750ml",
+          "price": 319000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9603f449-8540-4ee1-bead-019764393ba2.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9603f449-8540-4ee1-bead-019764393ba2_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9603f449-8540-4ee1-bead-019764393ba2_thumb.webp"
+            }
+          ],
+          "offerId": 44571,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-08T03:15:07.373798"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-08T03:15:21.205193",
+    "product_id": 43019,
+    "product_name": "Lamberti Garda Bianco 750ml",
+    "stock": 4,
+    "details": {
+      "id": 43019,
+      "code": "30230765",
+      "name": "Lamberti Garda Bianco 750ml",
+      "slug": "lamberti-garda-bianco-750ml-43019",
+      "category_id": 4334,
+      "category_name": "White Blends",
+      "category_path": "Wine > White > White Blends",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6b117e2b-5af4-4023-80fc-82e6f8cfe00c.webp",
+      "price": 219000,
+      "discount_price": null,
+      "stock": {
+        "H495": 4
+      },
+      "total_stock": 4,
+      "variants": [
+        {
+          "sku": "30230765",
+          "name": "Lamberti Garda Bianco 750ml",
+          "price": 219000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6b117e2b-5af4-4023-80fc-82e6f8cfe00c.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6b117e2b-5af4-4023-80fc-82e6f8cfe00c_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6b117e2b-5af4-4023-80fc-82e6f8cfe00c_thumb.webp"
+            }
+          ],
+          "offerId": 44524,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 4,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-08T03:15:07.373798"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-08T03:15:21.205193",
+    "product_id": 42677,
+    "product_name": "Tommasi Soave Classico Le Volp 750ml",
+    "stock": 9,
+    "details": {
+      "id": 42677,
+      "code": "30230790",
+      "name": "Tommasi Soave Classico Le Volp 750ml",
+      "slug": "tommasi-soave-classico-le-volp-750ml-42677",
+      "category_id": 4334,
+      "category_name": "White Blends",
+      "category_path": "Wine > White > White Blends",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2bb38a61-3aad-4007-aeca-96421166eae5.webp",
+      "price": 259000,
+      "discount_price": null,
+      "stock": {
+        "H495": 9
+      },
+      "total_stock": 9,
+      "variants": [
+        {
+          "sku": "30230790",
+          "name": "Tommasi Soave Classico Le Volp 750ml",
+          "price": 259000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2bb38a61-3aad-4007-aeca-96421166eae5.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2bb38a61-3aad-4007-aeca-96421166eae5_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2bb38a61-3aad-4007-aeca-96421166eae5_thumb.webp"
+            }
+          ],
+          "offerId": 44049,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 9,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-08T03:15:07.373798"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-08T03:15:21.205193",
+    "product_id": 42670,
+    "product_name": "Muga Blanco 750ml",
+    "stock": 5,
+    "details": {
+      "id": 42670,
+      "code": "30230759",
+      "name": "Muga Blanco 750ml",
+      "slug": "muga-blanco-750ml-42670",
+      "category_id": 4334,
+      "category_name": "White Blends",
+      "category_path": "Wine > White > White Blends",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/509b388e-6caf-4b05-9722-fab112dabac0.webp",
+      "price": 299000,
+      "discount_price": null,
+      "stock": {
+        "H495": 5
+      },
+      "total_stock": 5,
+      "variants": [
+        {
+          "sku": "30230759",
+          "name": "Muga Blanco 750ml",
+          "price": 299000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/509b388e-6caf-4b05-9722-fab112dabac0.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/509b388e-6caf-4b05-9722-fab112dabac0_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/509b388e-6caf-4b05-9722-fab112dabac0_thumb.webp"
+            }
+          ],
+          "offerId": 43992,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 5,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-08T03:15:07.373798"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-08T03:15:21.205193",
+    "product_id": 42541,
+    "product_name": "JP. Chenet Medium Sweet 750ml",
+    "stock": 1,
+    "details": {
+      "id": 42541,
+      "code": "30230575",
+      "name": "JP. Chenet Medium Sweet 750ml",
+      "slug": "jp-chenet-medium-sweet-750ml-42541",
+      "category_id": 4334,
+      "category_name": "White Blends",
+      "category_path": "Wine > White > White Blends",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d8ae5cf0-20ff-40b0-bc06-9316ca006d8b.webp",
+      "price": 255000,
+      "discount_price": null,
+      "stock": {
+        "H495": 1
+      },
+      "total_stock": 1,
+      "variants": [
+        {
+          "sku": "30230575",
+          "name": "JP. Chenet Medium Sweet 750ml",
+          "price": 255000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d8ae5cf0-20ff-40b0-bc06-9316ca006d8b.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d8ae5cf0-20ff-40b0-bc06-9316ca006d8b_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d8ae5cf0-20ff-40b0-bc06-9316ca006d8b_thumb.webp"
+            }
+          ],
+          "offerId": 43897,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 1,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-08T03:15:07.373798"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-08T03:15:21.205193",
+    "product_id": 43005,
+    "product_name": "Faustino VII White 187ml",
+    "stock": 22,
+    "details": {
+      "id": 43005,
+      "code": "30202872",
+      "name": "Faustino VII White 187ml",
+      "slug": "faustino-vii-white-187ml-43005",
+      "category_id": 4334,
+      "category_name": "White Blends",
+      "category_path": "Wine > White > White Blends",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bba6a66c-122b-4a9a-9e31-55f2e5b67214.webp",
+      "price": 79000,
+      "discount_price": null,
+      "stock": {
+        "H495": 22
+      },
+      "total_stock": 22,
+      "variants": [
+        {
+          "sku": "30202872",
+          "name": "Faustino VII White 187ml",
+          "price": 79000,
+          "value": "187ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bba6a66c-122b-4a9a-9e31-55f2e5b67214.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bba6a66c-122b-4a9a-9e31-55f2e5b67214_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bba6a66c-122b-4a9a-9e31-55f2e5b67214_thumb.webp"
+            }
+          ],
+          "offerId": 44512,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 22,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-08T03:15:07.373798"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-08T03:15:21.205193",
+    "product_id": 42633,
+    "product_name": "Cune Blanco 187ml",
+    "stock": 12,
+    "details": {
+      "id": 42633,
+      "code": "30230735",
+      "name": "Cune Blanco 187ml",
+      "slug": "cune-blanco-187ml-42633",
+      "category_id": 4334,
+      "category_name": "White Blends",
+      "category_path": "Wine > White > White Blends",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/23365328-421c-47bb-82d3-67ef2d7f0ec8.webp",
+      "price": 82000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "30230735",
+          "name": "Cune Blanco 187ml",
+          "price": 82000,
+          "value": "187ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/23365328-421c-47bb-82d3-67ef2d7f0ec8.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/23365328-421c-47bb-82d3-67ef2d7f0ec8_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/23365328-421c-47bb-82d3-67ef2d7f0ec8_thumb.webp"
+            }
+          ],
+          "offerId": 43960,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-08T03:15:07.373798"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-08T03:15:21.205193",
+    "product_id": 42559,
+    "product_name": "Finlandia Vodka 200ml",
+    "previous_stock": 1,
+    "current_stock": 25,
+    "change": 24,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-08T03:15:21.205193",
+    "product_id": 42545,
+    "product_name": "Absolut Vodka 700ml",
+    "previous_stock": 9,
+    "current_stock": 8,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-08T03:15:21.205193",
+    "product_id": 42634,
+    "product_name": "Jagermeister 350ml",
+    "previous_stock": 3,
+    "current_stock": 9,
+    "change": 6,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-08T03:15:21.205193",
+    "product_id": 42592,
+    "product_name": "Camus V.S.O.P. 500ml",
+    "stock": 2,
+    "details": {
+      "id": 42592,
+      "code": "30230632",
+      "name": "Camus V.S.O.P. 500ml",
+      "slug": "camus-v-s-o-p-500ml-42592",
+      "category_id": 5627,
+      "category_name": "Cognac",
+      "category_path": "Spirits > Brandy > Cognac",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/84977cf7-93ca-451e-9df9-7dbb2d3aa69e.webp",
+      "price": 879000,
+      "discount_price": null,
+      "stock": {
+        "H495": 2
+      },
+      "total_stock": 2,
+      "variants": [
+        {
+          "sku": "30230632",
+          "name": "Camus V.S.O.P. 500ml",
+          "price": 879000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/84977cf7-93ca-451e-9df9-7dbb2d3aa69e.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/84977cf7-93ca-451e-9df9-7dbb2d3aa69e_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/84977cf7-93ca-451e-9df9-7dbb2d3aa69e_thumb.webp"
+            }
+          ],
+          "offerId": 43912,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 2,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-08T03:15:10.861544"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-08T03:15:21.205193",
+    "product_id": 42726,
+    "product_name": "Remy Martin VSOP 700ml",
+    "stock": 1,
+    "details": {
+      "id": 42726,
+      "code": "30230861",
+      "name": "Remy Martin VSOP 700ml",
+      "slug": "remy-martin-vsop-700ml-42726",
+      "category_id": 5627,
+      "category_name": "Cognac",
+      "category_path": "Spirits > Brandy > Cognac",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/fb793718-cbba-4d90-b609-b6fec797ca8a.webp",
+      "price": 1179000,
+      "discount_price": null,
+      "stock": {
+        "H495": 1
+      },
+      "total_stock": 1,
+      "variants": [
+        {
+          "sku": "30230861",
+          "name": "Remy Martin VSOP 700ml",
+          "price": 1179000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/fb793718-cbba-4d90-b609-b6fec797ca8a.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/fb793718-cbba-4d90-b609-b6fec797ca8a_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/fb793718-cbba-4d90-b609-b6fec797ca8a_thumb.webp"
+            }
+          ],
+          "offerId": 44084,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 1,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-08T03:15:10.861544"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-08T03:15:21.205193",
+    "product_id": 42700,
+    "product_name": "Somersby Apple 6x330ml",
+    "previous_stock": 2,
+    "current_stock": 14,
+    "change": 12,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-08T03:15:21.205193",
+    "product_id": 42536,
+    "product_name": "VES 6x330ml",
+    "previous_stock": 5,
+    "current_stock": 29,
+    "change": 24,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-08T03:15:21.205193",
+    "product_id": 42673,
+    "product_name": "BARA Jarðaber & Límóna 6x330ml",
+    "previous_stock": 1,
+    "current_stock": 9,
+    "change": 8,
+    "direction": "increase"
   }
 ]
