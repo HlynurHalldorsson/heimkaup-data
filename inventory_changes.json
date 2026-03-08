@@ -50980,5 +50980,35 @@
     "product_id": 42599,
     "product_name": "Apothic Red 750ml",
     "last_stock": 6
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-08T14:22:18.026806",
+    "product_id": 42530,
+    "product_name": "Jack Daniels 350ml",
+    "previous_stock": 8,
+    "current_stock": 7,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-08T14:22:18.026806",
+    "product_id": 42478,
+    "product_name": "BLYS 800 Peach Blueberry",
+    "previous_stock": 9,
+    "current_stock": 8,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-08T14:22:18.026806",
+    "product_id": 42497,
+    "product_name": "Reymont 800 Blueberry Raspberry",
+    "previous_stock": 9,
+    "current_stock": 8,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
