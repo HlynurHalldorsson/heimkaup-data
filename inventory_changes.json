@@ -51880,5 +51880,25 @@
     "current_stock": 2,
     "change": -4,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-09T14:00:35.416481",
+    "product_id": 42616,
+    "product_name": "Löwenbräu Original 6x500ml",
+    "previous_stock": 8,
+    "current_stock": 6,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-09T14:00:35.416481",
+    "product_id": 42557,
+    "product_name": "Trivento Malbec Reserve 750ml",
+    "previous_stock": 3,
+    "current_stock": 2,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
