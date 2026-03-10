@@ -52315,5 +52315,739 @@
     "product_id": 42447,
     "product_name": "Monster Pipeline Punch 4x500ml",
     "last_stock": 2
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-10T13:14:59.332198",
+    "product_id": 42778,
+    "product_name": "Víking Lite 12x330ml",
+    "previous_stock": 24,
+    "current_stock": 6,
+    "change": -18,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-10T13:14:59.332198",
+    "product_id": 47314,
+    "product_name": "Víking Páskabjór 6x330ml + 2 Víking 400ml Glass",
+    "previous_stock": 21,
+    "current_stock": 19,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-10T13:14:59.332198",
+    "product_id": 42687,
+    "product_name": "Tommasi Pinot Grigio 3L",
+    "previous_stock": 21,
+    "current_stock": 20,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-10T13:14:59.332198",
+    "product_id": 42516,
+    "product_name": "Coca-Cola án sykurs 10x330ml",
+    "previous_stock": 69,
+    "current_stock": 61,
+    "change": -8,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-10T13:14:59.332198",
+    "product_id": 42501,
+    "product_name": "Red Bull Original 6x250ml",
+    "stock": 12,
+    "details": {
+      "id": 42501,
+      "code": "30212330",
+      "name": "Red Bull Original 6x250ml",
+      "slug": "red-bull-original-6x250ml-42501",
+      "category_id": 4317,
+      "category_name": "All Energy Drinks",
+      "category_path": "Soft drinks > Energy Drinks > All Energy Drinks",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/products/9eeff471-3590-404d-892b-3bd501b09a2a.webp",
+      "price": 168000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "30212330",
+          "name": "Red Bull Original 6x250ml",
+          "price": 168000,
+          "value": "250ml",
+          "images": null,
+          "offerId": 43832,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-10T13:14:57.547511"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-10T13:14:59.332198",
+    "product_id": 43712,
+    "product_name": "COLLAB Engifer & Ferskju 6x330ml",
+    "stock": 2,
+    "details": {
+      "id": 43712,
+      "code": "30213117",
+      "name": "COLLAB Engifer & Ferskju 6x330ml",
+      "slug": "collab-engifer-ferskju-6x330ml-43712",
+      "category_id": 4317,
+      "category_name": "All Energy Drinks",
+      "category_path": "Soft drinks > Energy Drinks > All Energy Drinks",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f39deead-b29e-47e6-bfd9-ff6ba6067c8e.webp",
+      "price": 179000,
+      "discount_price": null,
+      "stock": {
+        "H495": 2
+      },
+      "total_stock": 2,
+      "variants": [
+        {
+          "sku": "30213117",
+          "name": "COLLAB Engifer & Ferskju 6x330ml",
+          "price": 179000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f39deead-b29e-47e6-bfd9-ff6ba6067c8e.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f39deead-b29e-47e6-bfd9-ff6ba6067c8e_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f39deead-b29e-47e6-bfd9-ff6ba6067c8e_thumb.webp"
+            }
+          ],
+          "offerId": 45332,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 2,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-10T13:14:57.547511"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-10T13:14:59.332198",
+    "product_id": 43024,
+    "product_name": "COLLAB Án Koffíns Hindberja og Apríkósu 6x330ml",
+    "stock": 5,
+    "details": {
+      "id": 43024,
+      "code": "30212773",
+      "name": "COLLAB Án Koffíns Hindberja og Apríkósu 6x330ml",
+      "slug": "collab-an-koffins-hindberja-og-aprikosu-6x330ml-43024",
+      "category_id": 4317,
+      "category_name": "All Energy Drinks",
+      "category_path": "Soft drinks > Energy Drinks > All Energy Drinks",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3c9c300b-7f60-4975-ad8c-91742a76478c.webp",
+      "price": 179000,
+      "discount_price": null,
+      "stock": {
+        "H495": 5
+      },
+      "total_stock": 5,
+      "variants": [
+        {
+          "sku": "30212773",
+          "name": "COLLAB Án Koffíns Hindberja og Apríkósu 6x330ml",
+          "price": 179000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3c9c300b-7f60-4975-ad8c-91742a76478c.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3c9c300b-7f60-4975-ad8c-91742a76478c_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3c9c300b-7f60-4975-ad8c-91742a76478c_thumb.webp"
+            }
+          ],
+          "offerId": 44543,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 5,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-10T13:14:57.547511"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-10T13:14:59.332198",
+    "product_id": 43006,
+    "product_name": "COLLAB Epla & Kíví 6x330ml",
+    "stock": 3,
+    "details": {
+      "id": 43006,
+      "code": "30227174",
+      "name": "COLLAB Epla & Kíví 6x330ml",
+      "slug": "collab-epla-kivi-6x330ml-43006",
+      "category_id": 4317,
+      "category_name": "All Energy Drinks",
+      "category_path": "Soft drinks > Energy Drinks > All Energy Drinks",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/04c0b98a-622a-49b7-a217-fd614c282691.webp",
+      "price": 179000,
+      "discount_price": null,
+      "stock": {
+        "H495": 3
+      },
+      "total_stock": 3,
+      "variants": [
+        {
+          "sku": "30227174",
+          "name": "COLLAB Epla & Kíví 6x330ml",
+          "price": 179000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/04c0b98a-622a-49b7-a217-fd614c282691.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/04c0b98a-622a-49b7-a217-fd614c282691_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/04c0b98a-622a-49b7-a217-fd614c282691_thumb.webp"
+            }
+          ],
+          "offerId": 44513,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 3,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-10T13:14:57.547511"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-10T13:14:59.332198",
+    "product_id": 42492,
+    "product_name": "COLLAB X Birnir 6x330ml",
+    "stock": 12,
+    "details": {
+      "id": 42492,
+      "code": "30224089",
+      "name": "COLLAB X Birnir 6x330ml",
+      "slug": "collab-x-birnir-6x330ml-42492",
+      "category_id": 4317,
+      "category_name": "All Energy Drinks",
+      "category_path": "Soft drinks > Energy Drinks > All Energy Drinks",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c67bb255-585d-4a6d-93d7-d0a5701d4c04.webp",
+      "price": 189000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "30224089",
+          "name": "COLLAB X Birnir 6x330ml",
+          "price": 189000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c67bb255-585d-4a6d-93d7-d0a5701d4c04.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c67bb255-585d-4a6d-93d7-d0a5701d4c04_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c67bb255-585d-4a6d-93d7-d0a5701d4c04_thumb.webp"
+            },
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4156b66a-592c-4c56-b969-0e54339521a6.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4156b66a-592c-4c56-b969-0e54339521a6_orig.jpeg",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4156b66a-592c-4c56-b969-0e54339521a6_thumb.webp"
+            }
+          ],
+          "offerId": 43824,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-10T13:14:57.547511"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-10T13:14:59.332198",
+    "product_id": 42556,
+    "product_name": "NOCCO The Berries 6x330ml",
+    "stock": 4,
+    "details": {
+      "id": 42556,
+      "code": "30227172",
+      "name": "NOCCO The Berries 6x330ml",
+      "slug": "nocco-the-berries-6x330ml-42556",
+      "category_id": 4317,
+      "category_name": "All Energy Drinks",
+      "category_path": "Soft drinks > Energy Drinks > All Energy Drinks",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/61ccc725-c687-4a76-a93f-0eac387560d7.webp",
+      "price": 179000,
+      "discount_price": null,
+      "stock": {
+        "H495": 4
+      },
+      "total_stock": 4,
+      "variants": [
+        {
+          "sku": "30227172",
+          "name": "NOCCO The Berries 6x330ml",
+          "price": 179000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/61ccc725-c687-4a76-a93f-0eac387560d7.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/61ccc725-c687-4a76-a93f-0eac387560d7_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/61ccc725-c687-4a76-a93f-0eac387560d7_thumb.webp"
+            }
+          ],
+          "offerId": 43880,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 4,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-10T13:14:57.547511"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-10T13:14:59.332198",
+    "product_id": 42518,
+    "product_name": "NOCCO Berruba 6x330ml",
+    "stock": 4,
+    "details": {
+      "id": 42518,
+      "code": "30218335",
+      "name": "NOCCO Berruba 6x330ml",
+      "slug": "nocco-berruba-6x330ml-42518",
+      "category_id": 4317,
+      "category_name": "All Energy Drinks",
+      "category_path": "Soft drinks > Energy Drinks > All Energy Drinks",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e5fb719c-9a20-4a51-a57f-d5f38799067c.webp",
+      "price": 179000,
+      "discount_price": null,
+      "stock": {
+        "H495": 4
+      },
+      "total_stock": 4,
+      "variants": [
+        {
+          "sku": "30218335",
+          "name": "NOCCO Berruba 6x330ml",
+          "price": 179000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e5fb719c-9a20-4a51-a57f-d5f38799067c.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e5fb719c-9a20-4a51-a57f-d5f38799067c_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e5fb719c-9a20-4a51-a57f-d5f38799067c_thumb.webp"
+            }
+          ],
+          "offerId": 43844,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 4,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-10T13:14:57.547511"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-10T13:14:59.332198",
+    "product_id": 42480,
+    "product_name": "NOCCO Stellar 6x330ml",
+    "stock": 9,
+    "details": {
+      "id": 42480,
+      "code": "30222435",
+      "name": "NOCCO Stellar 6x330ml",
+      "slug": "nocco-stellar-6x330ml-42480",
+      "category_id": 4317,
+      "category_name": "All Energy Drinks",
+      "category_path": "Soft drinks > Energy Drinks > All Energy Drinks",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c7ec7ab2-17d3-46a6-8f49-ed4b9ea46c4f.webp",
+      "price": 189000,
+      "discount_price": null,
+      "stock": {
+        "H495": 9
+      },
+      "total_stock": 9,
+      "variants": [
+        {
+          "sku": "30222435",
+          "name": "NOCCO Stellar 6x330ml",
+          "price": 189000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c7ec7ab2-17d3-46a6-8f49-ed4b9ea46c4f.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c7ec7ab2-17d3-46a6-8f49-ed4b9ea46c4f_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c7ec7ab2-17d3-46a6-8f49-ed4b9ea46c4f_thumb.webp"
+            }
+          ],
+          "offerId": 43806,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 9,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-10T13:14:57.547511"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-10T13:14:59.332198",
+    "product_id": 42455,
+    "product_name": "NOCCO Ramonade 6x330ml",
+    "stock": 9,
+    "details": {
+      "id": 42455,
+      "code": "30207020",
+      "name": "NOCCO Ramonade 6x330ml",
+      "slug": "nocco-ramonade-6x330ml-42455",
+      "category_id": 4317,
+      "category_name": "All Energy Drinks",
+      "category_path": "Soft drinks > Energy Drinks > All Energy Drinks",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/040613ff-5675-4e02-ad87-4ce29df47ed9.webp",
+      "price": 179000,
+      "discount_price": null,
+      "stock": {
+        "H495": 9
+      },
+      "total_stock": 9,
+      "variants": [
+        {
+          "sku": "30207020",
+          "name": "NOCCO Ramonade 6x330ml",
+          "price": 179000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/040613ff-5675-4e02-ad87-4ce29df47ed9.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/040613ff-5675-4e02-ad87-4ce29df47ed9_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/040613ff-5675-4e02-ad87-4ce29df47ed9_thumb.webp"
+            }
+          ],
+          "offerId": 43787,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 9,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-10T13:14:57.547511"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-10T13:14:59.332198",
+    "product_id": 42444,
+    "product_name": "NOCCO Miami 6x330ml",
+    "stock": 2,
+    "details": {
+      "id": 42444,
+      "code": "30199668",
+      "name": "NOCCO Miami 6x330ml",
+      "slug": "nocco-miami-6x330ml-42444",
+      "category_id": 4317,
+      "category_name": "All Energy Drinks",
+      "category_path": "Soft drinks > Energy Drinks > All Energy Drinks",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/da105c51-00bf-4f5f-a774-ff141d04997d.webp",
+      "price": 179000,
+      "discount_price": null,
+      "stock": {
+        "H495": 2
+      },
+      "total_stock": 2,
+      "variants": [
+        {
+          "sku": "30199668",
+          "name": "NOCCO Miami 6x330ml",
+          "price": 179000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/da105c51-00bf-4f5f-a774-ff141d04997d.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/da105c51-00bf-4f5f-a774-ff141d04997d_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/da105c51-00bf-4f5f-a774-ff141d04997d_thumb.webp"
+            }
+          ],
+          "offerId": 43773,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 2,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-10T13:14:57.547511"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-10T13:14:59.332198",
+    "product_id": 43023,
+    "product_name": "Orka Engill 6x330ml",
+    "stock": 7,
+    "details": {
+      "id": 43023,
+      "code": "30223190",
+      "name": "Orka Engill 6x330ml",
+      "slug": "orka-engill-6x330ml-43023",
+      "category_id": 4317,
+      "category_name": "All Energy Drinks",
+      "category_path": "Soft drinks > Energy Drinks > All Energy Drinks",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/87a22ecf-b52c-4c78-a8db-af18b0bfe273.webp",
+      "price": 139000,
+      "discount_price": null,
+      "stock": {
+        "H495": 7
+      },
+      "total_stock": 7,
+      "variants": [
+        {
+          "sku": "30223190",
+          "name": "Orka Engill 6x330ml",
+          "price": 139000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/87a22ecf-b52c-4c78-a8db-af18b0bfe273.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/87a22ecf-b52c-4c78-a8db-af18b0bfe273_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/87a22ecf-b52c-4c78-a8db-af18b0bfe273_thumb.webp"
+            }
+          ],
+          "offerId": 44542,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 7,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-10T13:14:57.547511"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-10T13:14:59.332198",
+    "product_id": 43020,
+    "product_name": "Mist Uppbygging Jarðarber & Lime 6x330ml",
+    "stock": 3,
+    "details": {
+      "id": 43020,
+      "code": "30220485",
+      "name": "Mist Uppbygging Jarðarber & Lime 6x330ml",
+      "slug": "mist-uppbygging-jar-arber-lime-6x330ml-43020",
+      "category_id": 4317,
+      "category_name": "All Energy Drinks",
+      "category_path": "Soft drinks > Energy Drinks > All Energy Drinks",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cec2ae1f-17f7-47a1-b864-ab2afd5e3f3c.webp",
+      "price": 189000,
+      "discount_price": null,
+      "stock": {
+        "H495": 3
+      },
+      "total_stock": 3,
+      "variants": [
+        {
+          "sku": "30220485",
+          "name": "Mist Uppbygging Jarðarber & Lime 6x330ml",
+          "price": 189000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cec2ae1f-17f7-47a1-b864-ab2afd5e3f3c.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cec2ae1f-17f7-47a1-b864-ab2afd5e3f3c_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cec2ae1f-17f7-47a1-b864-ab2afd5e3f3c_thumb.webp"
+            }
+          ],
+          "offerId": 44525,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 3,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-10T13:14:57.547511"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-10T13:14:59.332198",
+    "product_id": 42522,
+    "product_name": "Mist Uppbygging Skógarber og Chai 6x330ml",
+    "stock": 3,
+    "details": {
+      "id": 42522,
+      "code": "30217998",
+      "name": "Mist Uppbygging Skógarber og Chai 6x330ml",
+      "slug": "mist-uppbygging-skogarber-og-chai-6x330ml-42522",
+      "category_id": 4317,
+      "category_name": "All Energy Drinks",
+      "category_path": "Soft drinks > Energy Drinks > All Energy Drinks",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/68d35426-2185-497c-ac9f-52ac31a33c8a.webp",
+      "price": 189000,
+      "discount_price": null,
+      "stock": {
+        "H495": 3
+      },
+      "total_stock": 3,
+      "variants": [
+        {
+          "sku": "30217998",
+          "name": "Mist Uppbygging Skógarber og Chai 6x330ml",
+          "price": 189000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/68d35426-2185-497c-ac9f-52ac31a33c8a.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/68d35426-2185-497c-ac9f-52ac31a33c8a_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/68d35426-2185-497c-ac9f-52ac31a33c8a_thumb.webp"
+            },
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9f81716c-b33d-4c0e-be41-8c85405cb9df.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9f81716c-b33d-4c0e-be41-8c85405cb9df_orig.jpeg",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9f81716c-b33d-4c0e-be41-8c85405cb9df_thumb.webp"
+            }
+          ],
+          "offerId": 43820,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 3,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-10T13:14:57.547511"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-10T13:14:59.332198",
+    "product_id": 42486,
+    "product_name": "Monster Ultra White 4x500ml / Monster Ultra White 4pk",
+    "stock": 9,
+    "details": {
+      "id": 42486,
+      "code": "30212391",
+      "name": "Monster Ultra White 4x500ml / Monster Ultra White 4pk",
+      "slug": "monster-ultra-white-4x500ml-42486",
+      "category_id": 4317,
+      "category_name": "All Energy Drinks",
+      "category_path": "Soft drinks > Energy Drinks > All Energy Drinks",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7933ed9d-1183-4909-95f5-4039b158b332.webp",
+      "price": 99000,
+      "discount_price": null,
+      "stock": {
+        "H495": 9
+      },
+      "total_stock": 9,
+      "variants": [
+        {
+          "sku": "30212391",
+          "name": "Monster Ultra White 4x500ml / Monster Ultra White 4pk",
+          "price": 99000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7933ed9d-1183-4909-95f5-4039b158b332.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7933ed9d-1183-4909-95f5-4039b158b332_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7933ed9d-1183-4909-95f5-4039b158b332_thumb.webp"
+            }
+          ],
+          "offerId": 43815,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 9,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-10T13:14:57.547511"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-10T13:14:59.332198",
+    "product_id": 42447,
+    "product_name": "Monster Pipeline Punch 4x500ml",
+    "stock": 2,
+    "details": {
+      "id": 42447,
+      "code": "30192850",
+      "name": "Monster Pipeline Punch 4x500ml",
+      "slug": "monster-pipeline-punch-4x500ml-42447",
+      "category_id": 4317,
+      "category_name": "All Energy Drinks",
+      "category_path": "Soft drinks > Energy Drinks > All Energy Drinks",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/594aca0a-5202-4419-8491-02eb2e4d9751.webp",
+      "price": 99000,
+      "discount_price": null,
+      "stock": {
+        "H495": 2
+      },
+      "total_stock": 2,
+      "variants": [
+        {
+          "sku": "30192850",
+          "name": "Monster Pipeline Punch 4x500ml",
+          "price": 99000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/594aca0a-5202-4419-8491-02eb2e4d9751.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/594aca0a-5202-4419-8491-02eb2e4d9751_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/594aca0a-5202-4419-8491-02eb2e4d9751_thumb.webp"
+            }
+          ],
+          "offerId": 43776,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 2,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-10T13:14:57.547511"
+    }
   }
 ]
