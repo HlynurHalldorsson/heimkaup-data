@@ -53913,5 +53913,25 @@
       ],
       "last_updated": "2026-03-10T21:28:08.716756"
     }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-10T22:38:32.328313",
+    "product_id": 42680,
+    "product_name": "Tuborg Green 12x500ml",
+    "previous_stock": 77,
+    "current_stock": 75,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-10T22:38:32.328313",
+    "product_id": 42681,
+    "product_name": "Tommasi Graticcio Appassionato 750ml",
+    "previous_stock": 13,
+    "current_stock": 12,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
