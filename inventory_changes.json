@@ -52160,5 +52160,25 @@
     "current_stock": 2,
     "change": -5,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-10T11:14:04.642241",
+    "product_id": 42705,
+    "product_name": "Víking Sterkr 6x500ml",
+    "previous_stock": 30,
+    "current_stock": 29,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-10T11:14:04.642241",
+    "product_id": 42630,
+    "product_name": "BARA Hindber & Sítróna 6x330ml",
+    "previous_stock": 7,
+    "current_stock": 5,
+    "change": -2,
+    "direction": "decrease"
   }
 ]
