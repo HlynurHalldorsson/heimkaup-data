@@ -53049,5 +53049,171 @@
       ],
       "last_updated": "2026-03-10T13:14:57.547511"
     }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-10T14:15:27.136330",
+    "product_id": 42703,
+    "product_name": "Gull 12x500ml",
+    "previous_stock": 29,
+    "current_stock": 28,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-10T14:15:27.136330",
+    "product_id": 42716,
+    "product_name": "Peroni Nastro Azzurro 6x330ml",
+    "previous_stock": 12,
+    "current_stock": 10,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-10T14:15:27.136330",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 75,
+    "current_stock": 74,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-10T14:15:27.136330",
+    "product_id": 42778,
+    "product_name": "Víking Lite 12x330ml",
+    "previous_stock": 6,
+    "current_stock": 24,
+    "change": 18,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-10T14:15:27.136330",
+    "product_id": 42707,
+    "product_name": "Víking Lite Classic 12x330ml",
+    "previous_stock": 3,
+    "current_stock": 2,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-10T14:15:27.136330",
+    "product_id": 42632,
+    "product_name": "Lamberti Garda Merlot 750ml",
+    "previous_stock": 4,
+    "current_stock": 2,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-10T14:15:27.136330",
+    "product_id": 42603,
+    "product_name": "Drostdy Hof Shiraz Merlot 3L",
+    "previous_stock": 15,
+    "current_stock": 14,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-10T14:15:27.136330",
+    "product_id": 42781,
+    "product_name": "Breezer Watermelon 4x275ml",
+    "stock": 24,
+    "details": {
+      "id": 42781,
+      "code": "30230987",
+      "name": "Breezer Watermelon 4x275ml",
+      "slug": "breezer-watermelon-4x275ml-42781",
+      "category_id": 4292,
+      "category_name": "All Mixed Drinks",
+      "category_path": "Ready-to-Drink Cocktails > Mixed > All Mixed Drinks",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/99b64b19-2ce4-4217-b554-02b70a15ece8.webp",
+      "price": 199000,
+      "discount_price": null,
+      "stock": {
+        "H495": 24
+      },
+      "total_stock": 24,
+      "variants": [
+        {
+          "sku": "30230987",
+          "name": "Breezer Watermelon 4x275ml",
+          "price": 199000,
+          "value": "275ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/99b64b19-2ce4-4217-b554-02b70a15ece8.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/99b64b19-2ce4-4217-b554-02b70a15ece8_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/99b64b19-2ce4-4217-b554-02b70a15ece8_thumb.webp"
+            }
+          ],
+          "offerId": 44150,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 24,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-10T14:15:17.318075"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-10T14:15:27.136330",
+    "product_id": 42436,
+    "product_name": "Coca-Cola 10x330ml",
+    "previous_stock": 37,
+    "current_stock": 36,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-10T14:15:27.136330",
+    "product_id": 42434,
+    "product_name": "Pepsi Max 12x330ml",
+    "previous_stock": 8,
+    "current_stock": 7,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-10T14:15:27.136330",
+    "product_id": 42483,
+    "product_name": "Bonaqua Límónu & Sítrónu 10x330ml",
+    "previous_stock": 100,
+    "current_stock": 99,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-10T14:15:27.136330",
+    "product_id": 43358,
+    "product_name": "Doritos Cool American 170g",
+    "previous_stock": 96,
+    "current_stock": 95,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-10T14:15:27.136330",
+    "product_id": 43359,
+    "product_name": "Doritos Nacho Cheese 170g",
+    "previous_stock": 95,
+    "current_stock": 94,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
