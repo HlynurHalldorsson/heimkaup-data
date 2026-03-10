@@ -53425,5 +53425,117 @@
     "current_stock": 73,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-10T20:27:46.178755",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 73,
+    "current_stock": 69,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-10T20:27:46.178755",
+    "product_id": 47314,
+    "product_name": "Víking Páskabjór 6x330ml + 2 Víking 400ml Glass",
+    "previous_stock": 18,
+    "current_stock": 16,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-10T20:27:46.178755",
+    "product_id": 42603,
+    "product_name": "Drostdy Hof Shiraz Merlot 3L",
+    "previous_stock": 14,
+    "current_stock": 13,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-10T20:27:46.178755",
+    "product_id": 42585,
+    "product_name": "Two Oceans Fresh & Fruity 3L",
+    "previous_stock": 9,
+    "current_stock": 7,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-10T20:27:46.178755",
+    "product_id": 42536,
+    "product_name": "VES 6x330ml",
+    "previous_stock": 29,
+    "current_stock": 27,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-10T20:27:46.178755",
+    "product_id": 43683,
+    "product_name": "Reymont 800 White Peach Razz",
+    "previous_stock": 20,
+    "current_stock": 18,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-10T20:27:46.178755",
+    "product_id": 42525,
+    "product_name": "Reymont 800 Pineapple",
+    "previous_stock": 9,
+    "current_stock": 7,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-10T20:27:46.178755",
+    "product_id": 47213,
+    "product_name": "THOR Ginger Blast 5",
+    "last_stock": 20
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-10T20:27:46.178755",
+    "product_id": 46253,
+    "product_name": "THOR Nordic Freeze 5",
+    "last_stock": 20
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-10T20:27:46.178755",
+    "product_id": 46254,
+    "product_name": "THOR Arctic Berries 5",
+    "last_stock": 40
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-10T20:27:46.178755",
+    "product_id": 46255,
+    "product_name": "THOR Arctic Berries 6",
+    "last_stock": 20
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-10T20:27:46.178755",
+    "product_id": 46256,
+    "product_name": "THOR Nordic Freeze 6",
+    "last_stock": 20
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-10T20:27:46.178755",
+    "product_id": 46257,
+    "product_name": "THOR Black Mint 6",
+    "last_stock": 20
   }
 ]
