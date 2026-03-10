@@ -53537,5 +53537,381 @@
     "product_id": 46257,
     "product_name": "THOR Black Mint 6",
     "last_stock": 20
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-10T21:28:15.795589",
+    "product_id": 42574,
+    "product_name": "Stella Artois 6x330ml",
+    "previous_stock": 10,
+    "current_stock": 9,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-10T21:28:15.795589",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 69,
+    "current_stock": 68,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-10T21:28:15.795589",
+    "product_id": 47314,
+    "product_name": "Víking Páskabjór 6x330ml + 2 Víking 400ml Glass",
+    "previous_stock": 16,
+    "current_stock": 15,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-10T21:28:15.795589",
+    "product_id": 43057,
+    "product_name": "Víking Lite Jóla 6x330ml",
+    "previous_stock": 11,
+    "current_stock": 10,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-10T21:28:15.795589",
+    "product_id": 42650,
+    "product_name": "Muga Reserva Selection Especial 750ml",
+    "previous_stock": 10,
+    "current_stock": 8,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-10T21:28:15.795589",
+    "product_id": 42815,
+    "product_name": "Faustino VII Rose 750ml",
+    "previous_stock": 5,
+    "current_stock": 4,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-10T21:28:15.795589",
+    "product_id": 42626,
+    "product_name": "Lamberti Garda Chardonnay 750ml",
+    "previous_stock": 11,
+    "current_stock": 10,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-10T21:28:15.795589",
+    "product_id": 42537,
+    "product_name": "Tommasi Le Rosse Pinot Grigio 750ml",
+    "previous_stock": 10,
+    "current_stock": 9,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-10T21:28:15.795589",
+    "product_id": 43200,
+    "product_name": "El Coto Blanco 750ml",
+    "previous_stock": 5,
+    "current_stock": 4,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-10T21:28:15.795589",
+    "product_id": 42527,
+    "product_name": "Bailey's Original 700ml",
+    "previous_stock": 20,
+    "current_stock": 19,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-10T21:28:15.795589",
+    "product_id": 47213,
+    "product_name": "THOR Ginger Blast 5",
+    "stock": 20,
+    "details": {
+      "id": 47213,
+      "code": "30219792",
+      "name": "THOR Ginger Blast 5",
+      "slug": "thor-ginger-blast-5-47213",
+      "category_id": 5676,
+      "category_name": "THOR",
+      "category_path": "Nicotine > Pouches > THOR",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2ecbc5e2-67d2-45c0-bf9b-cdb58a7aff1d.webp",
+      "price": 109000,
+      "discount_price": null,
+      "stock": {
+        "H495": 20
+      },
+      "total_stock": 20,
+      "variants": [
+        {
+          "sku": "30219792",
+          "name": "THOR Ginger Blast 5",
+          "price": 109000,
+          "value": "12mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2ecbc5e2-67d2-45c0-bf9b-cdb58a7aff1d.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2ecbc5e2-67d2-45c0-bf9b-cdb58a7aff1d_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2ecbc5e2-67d2-45c0-bf9b-cdb58a7aff1d_thumb.webp"
+            }
+          ],
+          "offerId": 48759,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 20,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-10T21:28:08.716756"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-10T21:28:15.795589",
+    "product_id": 46253,
+    "product_name": "THOR Nordic Freeze 5",
+    "stock": 20,
+    "details": {
+      "id": 46253,
+      "code": "30219795",
+      "name": "THOR Nordic Freeze 5",
+      "slug": "thor-nordic-freeze-5-46253",
+      "category_id": 5676,
+      "category_name": "THOR",
+      "category_path": "Nicotine > Pouches > THOR",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7dd3dbbd-39b6-4e6f-a928-2e14c371447d.webp",
+      "price": 109000,
+      "discount_price": null,
+      "stock": {
+        "H495": 20
+      },
+      "total_stock": 20,
+      "variants": [
+        {
+          "sku": "30219795",
+          "name": "THOR Nordic Freeze 5",
+          "price": 109000,
+          "value": "12mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7dd3dbbd-39b6-4e6f-a928-2e14c371447d.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7dd3dbbd-39b6-4e6f-a928-2e14c371447d_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7dd3dbbd-39b6-4e6f-a928-2e14c371447d_thumb.webp"
+            }
+          ],
+          "offerId": 47797,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 20,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-10T21:28:08.716756"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-10T21:28:15.795589",
+    "product_id": 46254,
+    "product_name": "THOR Arctic Berries 5",
+    "stock": 40,
+    "details": {
+      "id": 46254,
+      "code": "30219793",
+      "name": "THOR Arctic Berries 5",
+      "slug": "thor-arctic-berries-5-46254",
+      "category_id": 5676,
+      "category_name": "THOR",
+      "category_path": "Nicotine > Pouches > THOR",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/0ffa5972-f2f5-4677-89f0-7beae7902efd.webp",
+      "price": 109000,
+      "discount_price": null,
+      "stock": {
+        "H495": 40
+      },
+      "total_stock": 40,
+      "variants": [
+        {
+          "sku": "30219793",
+          "name": "THOR Arctic Berries 5",
+          "price": 109000,
+          "value": "12mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/0ffa5972-f2f5-4677-89f0-7beae7902efd.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/0ffa5972-f2f5-4677-89f0-7beae7902efd_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/0ffa5972-f2f5-4677-89f0-7beae7902efd_thumb.webp"
+            }
+          ],
+          "offerId": 47798,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 40,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-10T21:28:08.716756"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-10T21:28:15.795589",
+    "product_id": 46255,
+    "product_name": "THOR Arctic Berries 6",
+    "stock": 20,
+    "details": {
+      "id": 46255,
+      "code": "30234742",
+      "name": "THOR Arctic Berries 6",
+      "slug": "thor-arctic-berries-6-46255",
+      "category_id": 5676,
+      "category_name": "THOR",
+      "category_path": "Nicotine > Pouches > THOR",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c91b766c-9a23-433b-8386-1c7415a33222.webp",
+      "price": 119000,
+      "discount_price": null,
+      "stock": {
+        "H495": 20
+      },
+      "total_stock": 20,
+      "variants": [
+        {
+          "sku": "30234742",
+          "name": "THOR Arctic Berries 6",
+          "price": 119000,
+          "value": "16mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c91b766c-9a23-433b-8386-1c7415a33222.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c91b766c-9a23-433b-8386-1c7415a33222_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c91b766c-9a23-433b-8386-1c7415a33222_thumb.webp"
+            }
+          ],
+          "offerId": 47799,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 20,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-10T21:28:08.716756"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-10T21:28:15.795589",
+    "product_id": 46256,
+    "product_name": "THOR Nordic Freeze 6",
+    "stock": 20,
+    "details": {
+      "id": 46256,
+      "code": "30234743",
+      "name": "THOR Nordic Freeze 6",
+      "slug": "thor-nordic-freeze-6-46256",
+      "category_id": 5676,
+      "category_name": "THOR",
+      "category_path": "Nicotine > Pouches > THOR",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/59a4f746-5e19-4aeb-b40f-a8610002ef6a.webp",
+      "price": 119000,
+      "discount_price": null,
+      "stock": {
+        "H495": 20
+      },
+      "total_stock": 20,
+      "variants": [
+        {
+          "sku": "30234743",
+          "name": "THOR Nordic Freeze 6",
+          "price": 119000,
+          "value": "16mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/59a4f746-5e19-4aeb-b40f-a8610002ef6a.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/59a4f746-5e19-4aeb-b40f-a8610002ef6a_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/59a4f746-5e19-4aeb-b40f-a8610002ef6a_thumb.webp"
+            }
+          ],
+          "offerId": 47800,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 20,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-10T21:28:08.716756"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-10T21:28:15.795589",
+    "product_id": 46257,
+    "product_name": "THOR Black Mint 6",
+    "stock": 20,
+    "details": {
+      "id": 46257,
+      "code": "30234744",
+      "name": "THOR Black Mint 6",
+      "slug": "thor-black-mint-6-46257",
+      "category_id": 5676,
+      "category_name": "THOR",
+      "category_path": "Nicotine > Pouches > THOR",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5c245b1d-84c7-41fe-93cd-79dd6ee416b0.webp",
+      "price": 119000,
+      "discount_price": null,
+      "stock": {
+        "H495": 20
+      },
+      "total_stock": 20,
+      "variants": [
+        {
+          "sku": "30234744",
+          "name": "THOR Black Mint 6",
+          "price": 119000,
+          "value": "16mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5c245b1d-84c7-41fe-93cd-79dd6ee416b0.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5c245b1d-84c7-41fe-93cd-79dd6ee416b0_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5c245b1d-84c7-41fe-93cd-79dd6ee416b0_thumb.webp"
+            }
+          ],
+          "offerId": 47801,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 20,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-10T21:28:08.716756"
+    }
   }
 ]
