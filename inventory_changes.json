@@ -54033,5 +54033,178 @@
     "current_stock": 11,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-11T14:11:06.676177",
+    "product_id": 42776,
+    "product_name": "Thule 12x500ml",
+    "previous_stock": 13,
+    "current_stock": 12,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-11T14:11:06.676177",
+    "product_id": 43050,
+    "product_name": "Víking lager 12x500ml",
+    "stock": 12,
+    "details": {
+      "id": 43050,
+      "code": "30233863",
+      "name": "Víking lager 12x500ml",
+      "slug": "viking-lager-12x500ml-43050",
+      "category_id": 4237,
+      "category_name": "All Lagers",
+      "category_path": "Beer > Lager > All Lagers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/82ab7b3c-58af-4ea5-a27b-f3ce04b97486.webp",
+      "price": 399000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "30233863",
+          "name": "Víking lager 12x500ml",
+          "price": 399000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/82ab7b3c-58af-4ea5-a27b-f3ce04b97486.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/82ab7b3c-58af-4ea5-a27b-f3ce04b97486_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/82ab7b3c-58af-4ea5-a27b-f3ce04b97486_thumb.webp"
+            }
+          ],
+          "offerId": 44559,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-11T14:10:43.689253"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-11T14:11:06.676177",
+    "product_id": 42710,
+    "product_name": "Víking Lite 12x500ml",
+    "previous_stock": 1,
+    "current_stock": 21,
+    "change": 20,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-11T14:11:06.676177",
+    "product_id": 47314,
+    "product_name": "Víking Páskabjór 6x330ml + 2 Víking 400ml Glass",
+    "previous_stock": 13,
+    "current_stock": 10,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-11T14:11:06.676177",
+    "product_id": 42601,
+    "product_name": "Gato Negro Cabernet Sauvignon 750ml",
+    "previous_stock": 13,
+    "current_stock": 12,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-11T14:11:06.676177",
+    "product_id": 42724,
+    "product_name": "Finca Las Moras Malbec 750ml",
+    "previous_stock": 11,
+    "current_stock": 10,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-11T14:11:06.676177",
+    "product_id": 42627,
+    "product_name": "Cune Crianza 187ml",
+    "previous_stock": 5,
+    "current_stock": 3,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-11T14:11:06.676177",
+    "product_id": 42529,
+    "product_name": "Jameson 500ml",
+    "previous_stock": 17,
+    "current_stock": 15,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-11T14:11:06.676177",
+    "product_id": 43013,
+    "product_name": "Tanqueray London Dry 700ml",
+    "previous_stock": 5,
+    "current_stock": 4,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-11T14:11:06.676177",
+    "product_id": 42478,
+    "product_name": "BLYS 800 Peach Blueberry",
+    "previous_stock": 7,
+    "current_stock": 2,
+    "change": -5,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-11T14:11:06.676177",
+    "product_id": 42516,
+    "product_name": "Coca-Cola án sykurs 10x330ml",
+    "previous_stock": 59,
+    "current_stock": 58,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-11T14:11:06.676177",
+    "product_id": 42443,
+    "product_name": "Fever Tree Ginger Ale 4x200ml",
+    "previous_stock": 17,
+    "current_stock": 15,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-11T14:11:06.676177",
+    "product_id": 42441,
+    "product_name": "Kristall Mexican Lime 12x330ml",
+    "previous_stock": 15,
+    "current_stock": 14,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-11T14:11:06.676177",
+    "product_id": 43672,
+    "product_name": "Arpeggio Catarratto 750ml",
+    "last_stock": 1
   }
 ]
