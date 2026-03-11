@@ -54526,5 +54526,25 @@
     "current_stock": 13,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-11T20:21:12.639031",
+    "product_id": 42736,
+    "product_name": "Las Moras Cab Sauvignon 750ml",
+    "previous_stock": 14,
+    "current_stock": 8,
+    "change": -6,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-11T20:21:12.639031",
+    "product_id": 42607,
+    "product_name": "Montalto Pinot Grigio 3L",
+    "previous_stock": 5,
+    "current_stock": 4,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
