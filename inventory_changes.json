@@ -54546,5 +54546,25 @@
     "current_stock": 4,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-11T21:21:40.934528",
+    "product_id": 42574,
+    "product_name": "Stella Artois 6x330ml",
+    "previous_stock": 8,
+    "current_stock": 7,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-11T21:21:40.934528",
+    "product_id": 42700,
+    "product_name": "Somersby Apple 6x330ml",
+    "previous_stock": 11,
+    "current_stock": 10,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
