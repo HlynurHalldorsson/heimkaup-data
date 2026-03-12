@@ -55895,5 +55895,66 @@
     "current_stock": 18,
     "change": 10,
     "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-12T23:34:51.095071",
+    "product_id": 43055,
+    "product_name": "Tuborg Classic 12x330ml",
+    "previous_stock": 8,
+    "current_stock": 38,
+    "change": 30,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-12T23:34:51.095071",
+    "product_id": 42615,
+    "product_name": "Boli X 12x500ml",
+    "stock": 20,
+    "details": {
+      "id": 42615,
+      "code": "30230707",
+      "name": "Boli X 12x500ml",
+      "slug": "boli-x-12x500ml-42615",
+      "category_id": 4239,
+      "category_name": "All Lite Beers",
+      "category_path": "Beer > Lite > All Lite Beers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7f2a38ba-d331-47da-a1e3-fd405eff5c9a.webp",
+      "price": 580000,
+      "discount_price": null,
+      "stock": {
+        "H495": 20
+      },
+      "total_stock": 20,
+      "variants": [
+        {
+          "sku": "30230707",
+          "name": "Boli X 12x500ml",
+          "price": 580000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7f2a38ba-d331-47da-a1e3-fd405eff5c9a.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7f2a38ba-d331-47da-a1e3-fd405eff5c9a_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7f2a38ba-d331-47da-a1e3-fd405eff5c9a_thumb.webp"
+            },
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3103aee1-a7df-40e7-9162-05da61904296.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3103aee1-a7df-40e7-9162-05da61904296_orig.jpeg",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3103aee1-a7df-40e7-9162-05da61904296_thumb.webp"
+            }
+          ],
+          "offerId": 43932,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 20,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-12T23:34:28.804922"
+    }
   }
 ]
