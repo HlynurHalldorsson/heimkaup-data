@@ -54586,5 +54586,45 @@
     "current_stock": 23,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-12T11:03:13.131585",
+    "product_id": 42661,
+    "product_name": "Boli X 12x330ml",
+    "previous_stock": 12,
+    "current_stock": 11,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-12T11:03:13.131585",
+    "product_id": 47314,
+    "product_name": "Víking Páskabjór 6x330ml + 2 Víking 400ml Glass",
+    "previous_stock": 7,
+    "current_stock": 6,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-12T11:03:13.131585",
+    "product_id": 42434,
+    "product_name": "Pepsi Max 12x330ml",
+    "previous_stock": 6,
+    "current_stock": 4,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-12T11:03:13.131585",
+    "product_id": 42520,
+    "product_name": "Pepsi Max Lime 6x330ml",
+    "previous_stock": 100,
+    "current_stock": 99,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
