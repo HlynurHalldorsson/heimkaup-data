@@ -55583,5 +55583,25 @@
     "product_id": 47314,
     "product_name": "Víking Páskabjór 6x330ml + 2 Víking 400ml Glass",
     "last_stock": 1
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-12T21:33:56.983156",
+    "product_id": 42741,
+    "product_name": "Stella Artois 6x330ml (Gler)",
+    "previous_stock": 12,
+    "current_stock": 11,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-12T21:33:56.983156",
+    "product_id": 42699,
+    "product_name": "Frontera Chardonnay 3L",
+    "previous_stock": 38,
+    "current_stock": 36,
+    "change": -2,
+    "direction": "decrease"
   }
 ]
