@@ -54626,5 +54626,55 @@
     "current_stock": 99,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-12T12:03:38.862708",
+    "product_id": 42661,
+    "product_name": "Boli X 12x330ml",
+    "previous_stock": 11,
+    "current_stock": 12,
+    "change": 1,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-12T12:03:38.862708",
+    "product_id": 47314,
+    "product_name": "Víking Páskabjór 6x330ml + 2 Víking 400ml Glass",
+    "previous_stock": 6,
+    "current_stock": 5,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-12T12:03:38.862708",
+    "product_id": 42670,
+    "product_name": "Muga Blanco 750ml",
+    "previous_stock": 5,
+    "current_stock": 4,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-12T12:03:38.862708",
+    "product_id": 42687,
+    "product_name": "Tommasi Pinot Grigio 3L",
+    "previous_stock": 20,
+    "current_stock": 19,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-12T12:03:38.862708",
+    "product_id": 42699,
+    "product_name": "Frontera Chardonnay 3L",
+    "previous_stock": 38,
+    "current_stock": 36,
+    "change": -2,
+    "direction": "decrease"
   }
 ]
