@@ -56237,5 +56237,599 @@
     "current_stock": 39,
     "change": -2,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-13T18:16:05.096920",
+    "product_id": 42703,
+    "product_name": "Gull 12x500ml",
+    "previous_stock": 23,
+    "current_stock": 22,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-13T18:16:05.096920",
+    "product_id": 42733,
+    "product_name": "Víking Gylltur 12x500ml",
+    "previous_stock": 35,
+    "current_stock": 32,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-13T18:16:05.096920",
+    "product_id": 42701,
+    "product_name": "Tuborg Classic 12x500ml",
+    "previous_stock": 24,
+    "current_stock": 27,
+    "change": 3,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-13T18:16:05.096920",
+    "product_id": 42614,
+    "product_name": "Budweiser Budvar 6x500ml",
+    "previous_stock": 5,
+    "current_stock": 8,
+    "change": 3,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-13T18:16:05.096920",
+    "product_id": 43058,
+    "product_name": "Thule 12x330ml",
+    "previous_stock": 30,
+    "current_stock": 29,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-13T18:16:05.096920",
+    "product_id": 43055,
+    "product_name": "Tuborg Classic 12x330ml",
+    "previous_stock": 34,
+    "current_stock": 37,
+    "change": 3,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-13T18:16:05.096920",
+    "product_id": 42708,
+    "product_name": "Gull 12x330ml",
+    "previous_stock": 13,
+    "current_stock": 15,
+    "change": 2,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-13T18:16:05.096920",
+    "product_id": 42722,
+    "product_name": "Peroni Nastro Azzurro 6x330ml (Gler)",
+    "previous_stock": 12,
+    "current_stock": 4,
+    "change": -8,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-13T18:16:05.096920",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 78,
+    "current_stock": 76,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-13T18:16:05.096920",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 68,
+    "current_stock": 67,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-13T18:16:05.096920",
+    "product_id": 42661,
+    "product_name": "Boli X 12x330ml",
+    "previous_stock": 12,
+    "current_stock": 11,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-13T18:16:05.096920",
+    "product_id": 43034,
+    "product_name": "Víking Systir 6x330ml",
+    "stock": 1,
+    "details": {
+      "id": 43034,
+      "code": "30230667",
+      "name": "Víking Systir 6x330ml",
+      "slug": "viking-systir-6x330ml-43034",
+      "category_id": 4241,
+      "category_name": "All Ales",
+      "category_path": "Beer > Ales > All Ales",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/15e4febf-51a3-4778-af55-363721ec5eae.webp",
+      "price": 329000,
+      "discount_price": 296000,
+      "stock": {
+        "H495": 1
+      },
+      "total_stock": 1,
+      "variants": [
+        {
+          "sku": "30230667",
+          "name": "Víking Systir 6x330ml",
+          "price": 329000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/15e4febf-51a3-4778-af55-363721ec5eae.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/15e4febf-51a3-4778-af55-363721ec5eae_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/15e4febf-51a3-4778-af55-363721ec5eae_thumb.webp"
+            }
+          ],
+          "offerId": 44541,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 1,
+          "discountPrice": 296000,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-13T18:15:43.173023"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-13T18:16:05.096920",
+    "product_id": 43054,
+    "product_name": "Úlfey Nr.67 4x330ml",
+    "stock": 2,
+    "details": {
+      "id": 43054,
+      "code": "30233870",
+      "name": "Úlfey Nr.67 4x330ml",
+      "slug": "ulfey-nr-67-4x330ml-43054",
+      "category_id": 4241,
+      "category_name": "All Ales",
+      "category_path": "Beer > Ales > All Ales",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3297c344-43b6-4ac6-8f15-b3c1f0369a01.webp",
+      "price": 379000,
+      "discount_price": null,
+      "stock": {
+        "H495": 2
+      },
+      "total_stock": 2,
+      "variants": [
+        {
+          "sku": "30233870",
+          "name": "Úlfey Nr.67 4x330ml",
+          "price": 379000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3297c344-43b6-4ac6-8f15-b3c1f0369a01.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3297c344-43b6-4ac6-8f15-b3c1f0369a01_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3297c344-43b6-4ac6-8f15-b3c1f0369a01_thumb.webp"
+            }
+          ],
+          "offerId": 44556,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 2,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-13T18:15:43.173023"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-13T18:16:05.096920",
+    "product_id": 42641,
+    "product_name": "Cune Gran Reserva 750ml",
+    "previous_stock": 5,
+    "current_stock": 8,
+    "change": 3,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-13T18:16:05.096920",
+    "product_id": 42577,
+    "product_name": "Baron De Ley Reserva 750ml",
+    "previous_stock": 2,
+    "current_stock": 7,
+    "change": 5,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-13T18:16:05.096920",
+    "product_id": 42711,
+    "product_name": "Félix Solís Mucho Mas 750ml",
+    "previous_stock": 14,
+    "current_stock": 17,
+    "change": 3,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-13T18:16:05.096920",
+    "product_id": 42628,
+    "product_name": "Kylie Minogue Rose 750ml",
+    "previous_stock": 11,
+    "current_stock": 9,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-13T18:16:05.096920",
+    "product_id": 42766,
+    "product_name": "Casa Solís Chardonnay 750ml",
+    "previous_stock": 22,
+    "current_stock": 21,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-13T18:16:05.096920",
+    "product_id": 42598,
+    "product_name": "Petit Chablis ,,Pas Si Petit\" 750ml",
+    "stock": 6,
+    "details": {
+      "id": 42598,
+      "code": "30230628",
+      "name": "Petit Chablis ,,Pas Si Petit\" 750ml",
+      "slug": "petit-chablis-pas-si-petit-750ml-42598",
+      "category_id": 4331,
+      "category_name": "Chardonnay",
+      "category_path": "Wine > White > Chardonnay",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f133fc9e-7451-4d58-b0ba-97ac46ae0b77.webp",
+      "price": 395000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "30230628",
+          "name": "Petit Chablis ,,Pas Si Petit\" 750ml",
+          "price": 395000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f133fc9e-7451-4d58-b0ba-97ac46ae0b77.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f133fc9e-7451-4d58-b0ba-97ac46ae0b77_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f133fc9e-7451-4d58-b0ba-97ac46ae0b77_thumb.webp"
+            }
+          ],
+          "offerId": 43939,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-13T18:15:48.498199"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-13T18:16:05.096920",
+    "product_id": 42537,
+    "product_name": "Tommasi Le Rosse Pinot Grigio 750ml",
+    "previous_stock": 8,
+    "current_stock": 9,
+    "change": 1,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-13T18:16:05.096920",
+    "product_id": 42677,
+    "product_name": "Tommasi Soave Classico Le Volp 750ml",
+    "previous_stock": 2,
+    "current_stock": 7,
+    "change": 5,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-13T18:16:05.096920",
+    "product_id": 42670,
+    "product_name": "Muga Blanco 750ml",
+    "previous_stock": 5,
+    "current_stock": 4,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-13T18:16:05.096920",
+    "product_id": 42699,
+    "product_name": "Frontera Chardonnay 3L",
+    "previous_stock": 36,
+    "current_stock": 35,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-13T18:16:05.096920",
+    "product_id": 42585,
+    "product_name": "Two Oceans Fresh & Fruity 3L",
+    "previous_stock": 28,
+    "current_stock": 26,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-13T18:16:05.096920",
+    "product_id": 42526,
+    "product_name": "Van Gogh Riesling 3L",
+    "previous_stock": 8,
+    "current_stock": 7,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-13T18:16:05.096920",
+    "product_id": 42594,
+    "product_name": "Piccini Prosecco 750ml",
+    "previous_stock": 11,
+    "current_stock": 19,
+    "change": 8,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-13T18:16:05.096920",
+    "product_id": 42528,
+    "product_name": "Bailly Lapierre Cremant Reserve Brut 750ml",
+    "stock": 4,
+    "details": {
+      "id": 42528,
+      "code": "30230620",
+      "name": "Bailly Lapierre Cremant Reserve Brut 750ml",
+      "slug": "bailly-lapierre-cremant-reserve-brut-750ml-42528",
+      "category_id": 4256,
+      "category_name": "All Sparkling Wines",
+      "category_path": "Wine > Sparkling > All Sparkling Wines",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/552beadc-ff53-46a5-b1cc-b19f930375e6.webp",
+      "price": 299000,
+      "discount_price": null,
+      "stock": {
+        "H495": 4
+      },
+      "total_stock": 4,
+      "variants": [
+        {
+          "sku": "30230620",
+          "name": "Bailly Lapierre Cremant Reserve Brut 750ml",
+          "price": 299000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/552beadc-ff53-46a5-b1cc-b19f930375e6.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/552beadc-ff53-46a5-b1cc-b19f930375e6_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/552beadc-ff53-46a5-b1cc-b19f930375e6_thumb.webp"
+            }
+          ],
+          "offerId": 43859,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 4,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-13T18:15:51.160097"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-13T18:16:05.096920",
+    "product_id": 42606,
+    "product_name": "Koskenkorva Vodka 500ml",
+    "previous_stock": 39,
+    "current_stock": 38,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-13T18:16:05.096920",
+    "product_id": 42799,
+    "product_name": "Grey Goose Vodka 700ml",
+    "previous_stock": 11,
+    "current_stock": 10,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-13T18:16:05.096920",
+    "product_id": 42797,
+    "product_name": "Absolut Vodka 1L",
+    "previous_stock": 15,
+    "current_stock": 14,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-13T18:16:05.096920",
+    "product_id": 46236,
+    "product_name": "BLYS 800 Blueberry Sour Strawberry",
+    "previous_stock": 17,
+    "current_stock": 16,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-13T18:16:05.096920",
+    "product_id": 43679,
+    "product_name": "BLYS 800 Blueberry Sour Raspberry",
+    "previous_stock": 17,
+    "current_stock": 16,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-13T18:16:05.096920",
+    "product_id": 42504,
+    "product_name": "BLYS 800 Strawberry Banana",
+    "previous_stock": 18,
+    "current_stock": 17,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-13T18:16:05.096920",
+    "product_id": 42514,
+    "product_name": "BLYS 800 Strawberry Ice",
+    "previous_stock": 16,
+    "current_stock": 5,
+    "change": -11,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-13T18:16:05.096920",
+    "product_id": 42513,
+    "product_name": "BLYS 800 Blueberry Raspberry",
+    "previous_stock": 18,
+    "current_stock": 17,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-13T18:16:05.096920",
+    "product_id": 42487,
+    "product_name": "BLYS ZERO Fresh Mint",
+    "stock": 10,
+    "details": {
+      "id": 42487,
+      "code": "30222030",
+      "name": "BLYS ZERO Fresh Mint",
+      "slug": "blys-zero---fresh-mint-1stk-42487",
+      "category_id": 4308,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b527dab4-d033-48f4-ba81-8e2a44e6896f.webp",
+      "price": 97000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30222030",
+          "name": "BLYS ZERO Fresh Mint",
+          "price": 97000,
+          "value": "0mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b527dab4-d033-48f4-ba81-8e2a44e6896f.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b527dab4-d033-48f4-ba81-8e2a44e6896f_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b527dab4-d033-48f4-ba81-8e2a44e6896f_thumb.webp"
+            }
+          ],
+          "offerId": 43804,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-13T18:15:59.266565"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-13T18:16:05.096920",
+    "product_id": 42498,
+    "product_name": "Reymont 800 Peach Blueberry Candy",
+    "previous_stock": 9,
+    "current_stock": 8,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-13T18:16:05.096920",
+    "product_id": 42436,
+    "product_name": "Coca-Cola 10x330ml",
+    "previous_stock": 34,
+    "current_stock": 33,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-13T18:16:05.096920",
+    "product_id": 42434,
+    "product_name": "Pepsi Max 12x330ml",
+    "previous_stock": 3,
+    "current_stock": 2,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-13T18:16:05.096920",
+    "product_id": 42521,
+    "product_name": "7UP Zero 6x330ml",
+    "previous_stock": 93,
+    "current_stock": 91,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-13T18:16:05.096920",
+    "product_id": 47314,
+    "product_name": "Víking Páskabjór 6x330ml + 2 Víking 400ml Glass",
+    "last_stock": 1
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-13T18:16:05.096920",
+    "product_id": 42447,
+    "product_name": "Monster Pipeline Punch 4x500ml",
+    "last_stock": 2
   }
 ]
