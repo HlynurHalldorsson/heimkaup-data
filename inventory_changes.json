@@ -56111,5 +56111,81 @@
     "product_id": 42548,
     "product_name": "Beefeater 500ml",
     "last_stock": 5
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-13T11:50:22.997087",
+    "product_id": 42733,
+    "product_name": "Víking Gylltur 12x500ml",
+    "previous_stock": 41,
+    "current_stock": 36,
+    "change": -5,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-13T11:50:22.997087",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 81,
+    "current_stock": 80,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-13T11:50:22.997087",
+    "product_id": 47314,
+    "product_name": "Víking Páskabjór 6x330ml + 2 Víking 400ml Glass",
+    "stock": 1,
+    "details": {
+      "id": 47314,
+      "code": "30230776",
+      "name": "Víking Páskabjór 6x330ml + 2 Víking 400ml Glass",
+      "slug": "viking-paskabjor-6x330ml-47314",
+      "category_id": 4529,
+      "category_name": "All Seasonal Beers",
+      "category_path": "Beer > Seasonal > All Seasonal Beers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cd8a5cfa-65e1-4ce8-808f-d6a78a2347d9.webp",
+      "price": 249000,
+      "discount_price": null,
+      "stock": {
+        "H495": 1
+      },
+      "total_stock": 1,
+      "variants": [
+        {
+          "sku": "30230776",
+          "name": "Víking Páskabjór 6x330ml + 2 Víking 400ml Glass",
+          "price": 249000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cd8a5cfa-65e1-4ce8-808f-d6a78a2347d9.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cd8a5cfa-65e1-4ce8-808f-d6a78a2347d9_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cd8a5cfa-65e1-4ce8-808f-d6a78a2347d9_thumb.webp"
+            }
+          ],
+          "offerId": 48860,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 1,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-13T11:50:02.809012"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-13T11:50:22.997087",
+    "product_id": 43437,
+    "product_name": "Winston White Menthol Box",
+    "previous_stock": 45,
+    "current_stock": 42,
+    "change": -3,
+    "direction": "decrease"
   }
 ]
