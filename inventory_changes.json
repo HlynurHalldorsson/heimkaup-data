@@ -56831,5 +56831,65 @@
     "product_id": 42447,
     "product_name": "Monster Pipeline Punch 4x500ml",
     "last_stock": 2
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-13T19:16:31.515230",
+    "product_id": 42615,
+    "product_name": "Boli X 12x500ml",
+    "previous_stock": 20,
+    "current_stock": 19,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-13T19:16:31.515230",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 67,
+    "current_stock": 66,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-13T19:16:31.515230",
+    "product_id": 43046,
+    "product_name": "Tuborg Lille jólabjór 12x500ml",
+    "previous_stock": 4,
+    "current_stock": 2,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-13T19:16:31.515230",
+    "product_id": 42797,
+    "product_name": "Absolut Vodka 1L",
+    "previous_stock": 14,
+    "current_stock": 13,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-13T19:16:31.515230",
+    "product_id": 42529,
+    "product_name": "Jameson 500ml",
+    "previous_stock": 15,
+    "current_stock": 13,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-13T19:16:31.515230",
+    "product_id": 42536,
+    "product_name": "VES 6x330ml",
+    "previous_stock": 23,
+    "current_stock": 22,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
