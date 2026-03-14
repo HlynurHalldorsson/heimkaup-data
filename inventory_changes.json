@@ -58153,5 +58153,257 @@
     "current_stock": 18,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T18:43:57.246939",
+    "product_id": 42701,
+    "product_name": "Tuborg Classic 12x500ml",
+    "previous_stock": 25,
+    "current_stock": 24,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T18:43:57.246939",
+    "product_id": 42741,
+    "product_name": "Stella Artois 6x330ml (Gler)",
+    "previous_stock": 10,
+    "current_stock": 8,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T18:43:57.246939",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 50,
+    "current_stock": 48,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T18:43:57.246939",
+    "product_id": 42601,
+    "product_name": "Gato Negro Cabernet Sauvignon 750ml",
+    "previous_stock": 12,
+    "current_stock": 10,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T18:43:57.246939",
+    "product_id": 42603,
+    "product_name": "Drostdy Hof Shiraz Merlot 3L",
+    "previous_stock": 14,
+    "current_stock": 13,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T18:43:57.246939",
+    "product_id": 42585,
+    "product_name": "Two Oceans Fresh & Fruity 3L",
+    "previous_stock": 26,
+    "current_stock": 24,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-14T18:43:57.246939",
+    "product_id": 46204,
+    "product_name": "Bara Ísber 6x330ml",
+    "stock": 4,
+    "details": {
+      "id": 46204,
+      "code": "30234680",
+      "name": "Bara Ísber 6x330ml",
+      "slug": "bara-isber-6x330ml-46204",
+      "category_id": 4294,
+      "category_name": "All Seltzers",
+      "category_path": "Ready-to-Drink Cocktails > Seltzers > All Seltzers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5e473398-2d6f-42e0-afb4-18d2c0d38cfa.webp",
+      "price": 309000,
+      "discount_price": null,
+      "stock": {
+        "H495": 4
+      },
+      "total_stock": 4,
+      "variants": [
+        {
+          "sku": "30234680",
+          "name": "Bara Ísber 6x330ml",
+          "price": 309000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5e473398-2d6f-42e0-afb4-18d2c0d38cfa.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5e473398-2d6f-42e0-afb4-18d2c0d38cfa_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5e473398-2d6f-42e0-afb4-18d2c0d38cfa_thumb.webp"
+            }
+          ],
+          "offerId": 47748,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 4,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-14T18:43:47.751861"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T18:43:57.246939",
+    "product_id": 43072,
+    "product_name": "LOOP Jalapeno Lime 4",
+    "previous_stock": 28,
+    "current_stock": 23,
+    "change": -5,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-14T18:43:57.246939",
+    "product_id": 46203,
+    "product_name": "V&You Berry 4",
+    "stock": 20,
+    "details": {
+      "id": 46203,
+      "code": "30206345",
+      "name": "V&You Berry 4",
+      "slug": "v-you-berry-4-46203",
+      "category_id": 5319,
+      "category_name": "V&YOU",
+      "category_path": "Nicotine > Pouches > V&YOU",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/12e6a119-3c8c-4692-ba3c-6588c7a63538.webp",
+      "price": 99000,
+      "discount_price": null,
+      "stock": {
+        "H495": 20
+      },
+      "total_stock": 20,
+      "variants": [
+        {
+          "sku": "30206345",
+          "name": "V&You Berry 4",
+          "price": 99000,
+          "value": "16mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/12e6a119-3c8c-4692-ba3c-6588c7a63538.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/12e6a119-3c8c-4692-ba3c-6588c7a63538_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/12e6a119-3c8c-4692-ba3c-6588c7a63538_thumb.webp"
+            }
+          ],
+          "offerId": 47747,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 20,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-14T18:43:50.788150"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T18:43:57.246939",
+    "product_id": 46233,
+    "product_name": "BLYS 800 Liquorice Raspberry",
+    "previous_stock": 19,
+    "current_stock": 14,
+    "change": -5,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T18:43:57.246939",
+    "product_id": 42504,
+    "product_name": "BLYS 800 Strawberry Banana",
+    "previous_stock": 17,
+    "current_stock": 12,
+    "change": -5,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-14T18:43:57.246939",
+    "product_id": 46201,
+    "product_name": "Reymont 800 Strawberry Ice Cream",
+    "stock": 20,
+    "details": {
+      "id": 46201,
+      "code": "30218471",
+      "name": "Reymont 800 Strawberry Ice Cream",
+      "slug": "reymont-800-strawberry-ice-cream-46201",
+      "category_id": 4355,
+      "category_name": "REYMONT",
+      "category_path": "Nicotine > Vapes > REYMONT",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/500030dd-6676-4843-ab7d-98859e459a46.webp",
+      "price": 97000,
+      "discount_price": null,
+      "stock": {
+        "H495": 20
+      },
+      "total_stock": 20,
+      "variants": [
+        {
+          "sku": "30218471",
+          "name": "Reymont 800 Strawberry Ice Cream",
+          "price": 97000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/500030dd-6676-4843-ab7d-98859e459a46.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/500030dd-6676-4843-ab7d-98859e459a46_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/500030dd-6676-4843-ab7d-98859e459a46_thumb.webp"
+            }
+          ],
+          "offerId": 47745,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 20,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-14T18:43:52.530620"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T18:43:57.246939",
+    "product_id": 43712,
+    "product_name": "COLLAB Engifer & Ferskju 6x330ml",
+    "previous_stock": 2,
+    "current_stock": 1,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-14T18:43:57.246939",
+    "product_id": 43034,
+    "product_name": "Víking Systir 6x330ml",
+    "last_stock": 1
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-14T18:43:57.246939",
+    "product_id": 43715,
+    "product_name": "Jóla Bjössi 6x330ml",
+    "last_stock": 1
   }
 ]
