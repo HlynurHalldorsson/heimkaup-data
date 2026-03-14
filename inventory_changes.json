@@ -58482,5 +58482,72 @@
     "product_id": 42704,
     "product_name": "Faustino VII Cabernet Sauvignon 750ml",
     "last_stock": 2
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T20:51:09.030179",
+    "product_id": 42574,
+    "product_name": "Stella Artois 6x330ml",
+    "previous_stock": 6,
+    "current_stock": 5,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T20:51:09.030179",
+    "product_id": 42657,
+    "product_name": "Ölvisholt Lager 10x330ml",
+    "previous_stock": 22,
+    "current_stock": 21,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T20:51:09.030179",
+    "product_id": 42741,
+    "product_name": "Stella Artois 6x330ml (Gler)",
+    "previous_stock": 8,
+    "current_stock": 7,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T20:51:09.030179",
+    "product_id": 42612,
+    "product_name": "Ölvisholt Birta 6x330ml",
+    "previous_stock": 2,
+    "current_stock": 1,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T20:51:09.030179",
+    "product_id": 46204,
+    "product_name": "Bara Ísber 6x330ml",
+    "previous_stock": 5,
+    "current_stock": 4,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T20:51:09.030179",
+    "product_id": 46275,
+    "product_name": "ELFBAR 600 Grape",
+    "previous_stock": 10,
+    "current_stock": 6,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-14T20:51:09.030179",
+    "product_id": 42501,
+    "product_name": "Red Bull Original 6x250ml",
+    "last_stock": 12
   }
 ]
