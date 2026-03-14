@@ -57679,5 +57679,479 @@
     "current_stock": 12,
     "change": -3,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T17:43:30.881815",
+    "product_id": 42701,
+    "product_name": "Tuborg Classic 12x500ml",
+    "previous_stock": 26,
+    "current_stock": 25,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T17:43:30.881815",
+    "product_id": 43058,
+    "product_name": "Thule 12x330ml",
+    "previous_stock": 20,
+    "current_stock": 19,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T17:43:30.881815",
+    "product_id": 43010,
+    "product_name": "Budweiser Budvar 6x330ml",
+    "previous_stock": 12,
+    "current_stock": 10,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T17:43:30.881815",
+    "product_id": 42615,
+    "product_name": "Boli X 12x500ml",
+    "previous_stock": 19,
+    "current_stock": 18,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-14T17:43:30.881815",
+    "product_id": 47163,
+    "product_name": "ACE Berry Breeze 2",
+    "stock": 10,
+    "details": {
+      "id": 47163,
+      "code": "30223673",
+      "name": "ACE Berry Breeze 2",
+      "slug": "ace-brerry-breeze-2-47163",
+      "category_id": 4336,
+      "category_name": "ACE",
+      "category_path": "Nicotine > Pouches > ACE",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c0c0f75d-f44c-4c70-bd19-0b6c73894107.webp",
+      "price": 94000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30223673",
+          "name": "ACE Berry Breeze 2",
+          "price": 94000,
+          "value": "3.6mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c0c0f75d-f44c-4c70-bd19-0b6c73894107.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c0c0f75d-f44c-4c70-bd19-0b6c73894107_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c0c0f75d-f44c-4c70-bd19-0b6c73894107_thumb.webp"
+            }
+          ],
+          "offerId": 48709,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-14T17:43:22.894701"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-14T17:43:30.881815",
+    "product_id": 47162,
+    "product_name": "ACE Cool Mint 2",
+    "stock": 10,
+    "details": {
+      "id": 47162,
+      "code": "30218465",
+      "name": "ACE Cool Mint 2",
+      "slug": "ace-cool-mint-2-47162",
+      "category_id": 4336,
+      "category_name": "ACE",
+      "category_path": "Nicotine > Pouches > ACE",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/82a757ed-31bf-45f1-922a-fbb7bcdb09b3.webp",
+      "price": 94000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30218465",
+          "name": "ACE Cool Mint 2",
+          "price": 94000,
+          "value": "3.6mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/82a757ed-31bf-45f1-922a-fbb7bcdb09b3.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/82a757ed-31bf-45f1-922a-fbb7bcdb09b3_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/82a757ed-31bf-45f1-922a-fbb7bcdb09b3_thumb.webp"
+            }
+          ],
+          "offerId": 48708,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-14T17:43:22.894701"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-14T17:43:30.881815",
+    "product_id": 47167,
+    "product_name": "VELO Lime Flame 3",
+    "stock": 10,
+    "details": {
+      "id": 47167,
+      "code": "30218463",
+      "name": "VELO Lime Flame 3",
+      "slug": "velo-lime-flame-3-47167",
+      "category_id": 4351,
+      "category_name": "VELO",
+      "category_path": "Nicotine > Pouches > VELO",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bb8e60f4-7289-4e9c-801d-c252f7fa9fb2.webp",
+      "price": 99000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30218463",
+          "name": "VELO Lime Flame 3",
+          "price": 99000,
+          "value": "8mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bb8e60f4-7289-4e9c-801d-c252f7fa9fb2.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bb8e60f4-7289-4e9c-801d-c252f7fa9fb2_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bb8e60f4-7289-4e9c-801d-c252f7fa9fb2_thumb.webp"
+            }
+          ],
+          "offerId": 48713,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-14T17:43:23.406969"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-14T17:43:30.881815",
+    "product_id": 47164,
+    "product_name": "PAZ ZERO X-Freeze",
+    "stock": 10,
+    "details": {
+      "id": 47164,
+      "code": "30222034",
+      "name": "PAZ ZERO X-Freeze",
+      "slug": "paz-zero-x-freeze-47164",
+      "category_id": 5322,
+      "category_name": "PAZ",
+      "category_path": "Nicotine > Pouches > PAZ",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/aaac0bdf-10e8-473a-8741-26f4835be22c.webp",
+      "price": 69000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30222034",
+          "name": "PAZ ZERO X-Freeze",
+          "price": 69000,
+          "value": "0mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/aaac0bdf-10e8-473a-8741-26f4835be22c.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/aaac0bdf-10e8-473a-8741-26f4835be22c_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/aaac0bdf-10e8-473a-8741-26f4835be22c_thumb.webp"
+            }
+          ],
+          "offerId": 48710,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-14T17:43:24.458200"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-14T17:43:30.881815",
+    "product_id": 47165,
+    "product_name": "PAZ Cool Mint 5",
+    "stock": 20,
+    "details": {
+      "id": 47165,
+      "code": "30222726",
+      "name": "PAZ Cool Mint 5",
+      "slug": "paz-cool-mint-5-47165",
+      "category_id": 5322,
+      "category_name": "PAZ",
+      "category_path": "Nicotine > Pouches > PAZ",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/13fa0068-e388-41b7-b29f-03b493e77411.webp",
+      "price": 79000,
+      "discount_price": null,
+      "stock": {
+        "H495": 20
+      },
+      "total_stock": 20,
+      "variants": [
+        {
+          "sku": "30222726",
+          "name": "PAZ Cool Mint 5",
+          "price": 79000,
+          "value": "13mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/13fa0068-e388-41b7-b29f-03b493e77411.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/13fa0068-e388-41b7-b29f-03b493e77411_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/13fa0068-e388-41b7-b29f-03b493e77411_thumb.webp"
+            }
+          ],
+          "offerId": 48711,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 20,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-14T17:43:24.458200"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-14T17:43:30.881815",
+    "product_id": 47166,
+    "product_name": "PAZ X-Freeze+ 5",
+    "stock": 10,
+    "details": {
+      "id": 47166,
+      "code": "30221137",
+      "name": "PAZ X-Freeze+ 5",
+      "slug": "paz-x-freeze-5-47166",
+      "category_id": 5322,
+      "category_name": "PAZ",
+      "category_path": "Nicotine > Pouches > PAZ",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/294c317e-1edb-43a5-a839-2b67744059b5.webp",
+      "price": 119000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30221137",
+          "name": "PAZ X-Freeze+ 5",
+          "price": 119000,
+          "value": "17mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/294c317e-1edb-43a5-a839-2b67744059b5.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/294c317e-1edb-43a5-a839-2b67744059b5_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/294c317e-1edb-43a5-a839-2b67744059b5_thumb.webp"
+            }
+          ],
+          "offerId": 48712,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-14T17:43:24.458200"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T17:43:30.881815",
+    "product_id": 46231,
+    "product_name": "BLYS 800 Habanero Ice",
+    "previous_stock": 19,
+    "current_stock": 18,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-14T17:43:30.881815",
+    "product_id": 46242,
+    "product_name": "BLYS X 800 Fresh Mint",
+    "stock": 10,
+    "details": {
+      "id": 46242,
+      "code": "30234751",
+      "name": "BLYS X 800 Fresh Mint",
+      "slug": "blys-x-800-fresh-mint-46242",
+      "category_id": 4308,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2a441543-aff5-4c34-9bc6-610f2e67b9b5.webp",
+      "price": 119000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30234751",
+          "name": "BLYS X 800 Fresh Mint",
+          "price": 119000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2a441543-aff5-4c34-9bc6-610f2e67b9b5.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2a441543-aff5-4c34-9bc6-610f2e67b9b5_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2a441543-aff5-4c34-9bc6-610f2e67b9b5_thumb.webp"
+            }
+          ],
+          "offerId": 47786,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-14T17:43:25.865982"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-14T17:43:30.881815",
+    "product_id": 46243,
+    "product_name": "BLYS X 800 Watermelon Ice",
+    "stock": 10,
+    "details": {
+      "id": 46243,
+      "code": "30234752",
+      "name": "BLYS X 800 Watermelon Ice",
+      "slug": "blys-x-800-watermelon-ice-46243",
+      "category_id": 4308,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7f779cac-b75d-4583-a419-c257c21e8df3.webp",
+      "price": 119000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30234752",
+          "name": "BLYS X 800 Watermelon Ice",
+          "price": 119000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7f779cac-b75d-4583-a419-c257c21e8df3.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7f779cac-b75d-4583-a419-c257c21e8df3_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7f779cac-b75d-4583-a419-c257c21e8df3_thumb.webp"
+            }
+          ],
+          "offerId": 47787,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-14T17:43:25.865982"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-14T17:43:30.881815",
+    "product_id": 46241,
+    "product_name": "BLYS X 800 Blueberry Raspberry",
+    "stock": 10,
+    "details": {
+      "id": 46241,
+      "code": "30234750",
+      "name": "BLYS X 800 Blueberry Raspberry",
+      "slug": "blys-x-800-blueberry-raspberry-46241",
+      "category_id": 4308,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7bb0e459-7317-41fc-b7c9-5c90b837e19d.webp",
+      "price": 119000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30234750",
+          "name": "BLYS X 800 Blueberry Raspberry",
+          "price": 119000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7bb0e459-7317-41fc-b7c9-5c90b837e19d.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7bb0e459-7317-41fc-b7c9-5c90b837e19d_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7bb0e459-7317-41fc-b7c9-5c90b837e19d_thumb.webp"
+            }
+          ],
+          "offerId": 47785,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-14T17:43:25.865982"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T17:43:30.881815",
+    "product_id": 43682,
+    "product_name": "Reymont 800 Pink Lady",
+    "previous_stock": 19,
+    "current_stock": 18,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
