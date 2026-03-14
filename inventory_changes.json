@@ -57101,5 +57101,25 @@
     "current_stock": 32,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T11:40:53.236898",
+    "product_id": 43087,
+    "product_name": "ACE X Cool Mint Cosmic 5",
+    "previous_stock": 15,
+    "current_stock": 14,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T11:40:53.236898",
+    "product_id": 43699,
+    "product_name": "White Fox Full Charge",
+    "previous_stock": 10,
+    "current_stock": 9,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
