@@ -57305,5 +57305,35 @@
     "product_id": 43357,
     "product_name": "Marlboro Gold Box",
     "last_stock": 4
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T15:42:37.622647",
+    "product_id": 42822,
+    "product_name": "Víking Gylltur 12x330ml",
+    "previous_stock": 43,
+    "current_stock": 42,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T15:42:37.622647",
+    "product_id": 42711,
+    "product_name": "Félix Solís Mucho Mas 750ml",
+    "previous_stock": 17,
+    "current_stock": 16,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T15:42:37.622647",
+    "product_id": 42804,
+    "product_name": "Villa Lucia Pinot Grigio 750ml",
+    "previous_stock": 19,
+    "current_stock": 18,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
