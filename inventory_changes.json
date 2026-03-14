@@ -57121,5 +57121,82 @@
     "current_stock": 9,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T12:41:19.695430",
+    "product_id": 43058,
+    "product_name": "Thule 12x330ml",
+    "previous_stock": 29,
+    "current_stock": 21,
+    "change": -8,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T12:41:19.695430",
+    "product_id": 42669,
+    "product_name": "Ölvisholt Classic 10x330ml",
+    "previous_stock": 16,
+    "current_stock": 15,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T12:41:19.695430",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 60,
+    "current_stock": 50,
+    "change": -10,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T12:41:19.695430",
+    "product_id": 43054,
+    "product_name": "Úlfey Nr.67 4x330ml",
+    "previous_stock": 2,
+    "current_stock": 1,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T12:41:19.695430",
+    "product_id": 43086,
+    "product_name": "VELO Crispy Peppermint 3",
+    "previous_stock": 9,
+    "current_stock": 2,
+    "change": -7,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T12:41:19.695430",
+    "product_id": 42472,
+    "product_name": "Kristall án bragðefna 12x330ml",
+    "previous_stock": 11,
+    "current_stock": 10,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T12:41:19.695430",
+    "product_id": 43359,
+    "product_name": "Doritos Nacho Cheese 170g",
+    "previous_stock": 94,
+    "current_stock": 92,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-14T12:41:19.695430",
+    "product_id": 43044,
+    "product_name": "Einstök Winter Ale 6x330ml",
+    "last_stock": 1
   }
 ]
