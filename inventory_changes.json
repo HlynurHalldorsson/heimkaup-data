@@ -57335,5 +57335,349 @@
     "current_stock": 18,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T16:43:04.625106",
+    "product_id": 42724,
+    "product_name": "Finca Las Moras Malbec 750ml",
+    "previous_stock": 10,
+    "current_stock": 12,
+    "change": 2,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T16:43:04.625106",
+    "product_id": 42681,
+    "product_name": "Tommasi Graticcio Appassionato 750ml",
+    "previous_stock": 12,
+    "current_stock": 14,
+    "change": 2,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T16:43:04.625106",
+    "product_id": 42580,
+    "product_name": "Apothic Red 3L",
+    "previous_stock": 13,
+    "current_stock": 11,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T16:43:04.625106",
+    "product_id": 42603,
+    "product_name": "Drostdy Hof Shiraz Merlot 3L",
+    "previous_stock": 13,
+    "current_stock": 14,
+    "change": 1,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T16:43:04.625106",
+    "product_id": 42766,
+    "product_name": "Casa Solís Chardonnay 750ml",
+    "previous_stock": 20,
+    "current_stock": 22,
+    "change": 2,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T16:43:04.625106",
+    "product_id": 42690,
+    "product_name": "Finca Las Moras Chardonnay Barrel Select 750ml",
+    "previous_stock": 25,
+    "current_stock": 26,
+    "change": 1,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T16:43:04.625106",
+    "product_id": 42638,
+    "product_name": "Adobe Chardonnay Poki 1,5L",
+    "previous_stock": 20,
+    "current_stock": 24,
+    "change": 4,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T16:43:04.625106",
+    "product_id": 42810,
+    "product_name": "Barefoot Pinot Grigio 750ml",
+    "previous_stock": 43,
+    "current_stock": 48,
+    "change": 5,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T16:43:04.625106",
+    "product_id": 42537,
+    "product_name": "Tommasi Le Rosse Pinot Grigio 750ml",
+    "previous_stock": 9,
+    "current_stock": 12,
+    "change": 3,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T16:43:04.625106",
+    "product_id": 42699,
+    "product_name": "Frontera Chardonnay 3L",
+    "previous_stock": 35,
+    "current_stock": 33,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T16:43:04.625106",
+    "product_id": 42729,
+    "product_name": "Lamberti Prosecco 750ml",
+    "previous_stock": 42,
+    "current_stock": 43,
+    "change": 1,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T16:43:04.625106",
+    "product_id": 42648,
+    "product_name": "Champagne Collet Brut 750ml",
+    "previous_stock": 11,
+    "current_stock": 13,
+    "change": 2,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T16:43:04.625106",
+    "product_id": 42734,
+    "product_name": "Reyka Vodka 700ml",
+    "previous_stock": 9,
+    "current_stock": 10,
+    "change": 1,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T16:43:04.625106",
+    "product_id": 42997,
+    "product_name": "Aperol Aperitivo 1L",
+    "previous_stock": 10,
+    "current_stock": 12,
+    "change": 2,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T16:43:04.625106",
+    "product_id": 42651,
+    "product_name": "BARA Maracuja & Lime 6x330ml",
+    "previous_stock": 5,
+    "current_stock": 8,
+    "change": 3,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-14T16:43:04.625106",
+    "product_id": 47220,
+    "product_name": "BLYS POD Grape Ice",
+    "stock": 10,
+    "details": {
+      "id": 47220,
+      "code": "30225742",
+      "name": "BLYS POD Grape Ice",
+      "slug": "blys-pod-grape-ice-47220",
+      "category_id": 4308,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7d0c752a-6654-4acf-af53-61d85fbe0fdc.webp",
+      "price": 149000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30225742",
+          "name": "BLYS POD Grape Ice",
+          "price": 149000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7d0c752a-6654-4acf-af53-61d85fbe0fdc.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7d0c752a-6654-4acf-af53-61d85fbe0fdc_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7d0c752a-6654-4acf-af53-61d85fbe0fdc_thumb.webp"
+            }
+          ],
+          "offerId": 48766,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-14T16:42:58.661892"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-14T16:43:04.625106",
+    "product_id": 47219,
+    "product_name": "BLYS POD Watermelon Ice",
+    "stock": 10,
+    "details": {
+      "id": 47219,
+      "code": "30225745",
+      "name": "BLYS POD Watermelon Ice",
+      "slug": "blys-pod-watermelon-ice-47219",
+      "category_id": 4308,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9e4f7d7a-6bd8-42b3-a4f2-22b431a8877b.webp",
+      "price": 149000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30225745",
+          "name": "BLYS POD Watermelon Ice",
+          "price": 149000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9e4f7d7a-6bd8-42b3-a4f2-22b431a8877b.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9e4f7d7a-6bd8-42b3-a4f2-22b431a8877b_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9e4f7d7a-6bd8-42b3-a4f2-22b431a8877b_thumb.webp"
+            }
+          ],
+          "offerId": 48765,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-14T16:42:58.661892"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-14T16:43:04.625106",
+    "product_id": 47221,
+    "product_name": "BLYS POD Pink Lemonade",
+    "stock": 10,
+    "details": {
+      "id": 47221,
+      "code": "30225743",
+      "name": "BLYS POD Pink Lemonade",
+      "slug": "blys-pod-pink-lemonade-47221",
+      "category_id": 4308,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/444064f2-1de0-40ff-a42d-ec124e302ac9.webp",
+      "price": 149000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30225743",
+          "name": "BLYS POD Pink Lemonade",
+          "price": 149000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/444064f2-1de0-40ff-a42d-ec124e302ac9.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/444064f2-1de0-40ff-a42d-ec124e302ac9_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/444064f2-1de0-40ff-a42d-ec124e302ac9_thumb.webp"
+            }
+          ],
+          "offerId": 48767,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-14T16:42:58.661892"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-14T16:43:04.625106",
+    "product_id": 47222,
+    "product_name": "BLYS POD Fresh Mint",
+    "stock": 10,
+    "details": {
+      "id": 47222,
+      "code": "30234762",
+      "name": "BLYS POD Fresh Mint",
+      "slug": "blys-pod-fresh-mint-47222",
+      "category_id": 4308,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d5816666-9a8f-4723-9974-e56efc2a023f.webp",
+      "price": 149000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30234762",
+          "name": "BLYS POD Fresh Mint",
+          "price": 149000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d5816666-9a8f-4723-9974-e56efc2a023f.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d5816666-9a8f-4723-9974-e56efc2a023f_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d5816666-9a8f-4723-9974-e56efc2a023f_thumb.webp"
+            }
+          ],
+          "offerId": 48768,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-14T16:42:58.661892"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T16:43:04.625106",
+    "product_id": 42443,
+    "product_name": "Fever Tree Ginger Ale 4x200ml",
+    "previous_stock": 15,
+    "current_stock": 12,
+    "change": -3,
+    "direction": "decrease"
   }
 ]
