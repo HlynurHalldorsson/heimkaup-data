@@ -58405,5 +58405,82 @@
     "product_id": 43715,
     "product_name": "Jóla Bjössi 6x330ml",
     "last_stock": 1
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T19:44:54.059375",
+    "product_id": 42705,
+    "product_name": "Víking Sterkr 6x500ml",
+    "previous_stock": 25,
+    "current_stock": 24,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T19:44:54.059375",
+    "product_id": 42564,
+    "product_name": "Carlsberg Elephant 6x330ml",
+    "previous_stock": 29,
+    "current_stock": 28,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T19:44:54.059375",
+    "product_id": 43042,
+    "product_name": "Melini Chianti DOCG 750ml",
+    "previous_stock": 9,
+    "current_stock": 8,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T19:44:54.059375",
+    "product_id": 42537,
+    "product_name": "Tommasi Le Rosse Pinot Grigio 750ml",
+    "previous_stock": 12,
+    "current_stock": 11,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T19:44:54.059375",
+    "product_id": 42797,
+    "product_name": "Absolut Vodka 1L",
+    "previous_stock": 10,
+    "current_stock": 9,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T19:44:54.059375",
+    "product_id": 42992,
+    "product_name": "Opal Saltlakkrís 500ml",
+    "previous_stock": 16,
+    "current_stock": 15,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-14T19:44:54.059375",
+    "product_id": 46204,
+    "product_name": "Bara Ísber 6x330ml",
+    "previous_stock": 4,
+    "current_stock": 5,
+    "change": 1,
+    "direction": "increase"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-14T19:44:54.059375",
+    "product_id": 42704,
+    "product_name": "Faustino VII Cabernet Sauvignon 750ml",
+    "last_stock": 2
   }
 ]
