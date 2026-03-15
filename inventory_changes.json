@@ -58709,5 +58709,35 @@
       ],
       "last_updated": "2026-03-15T12:58:06.075288"
     }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-15T13:58:39.395823",
+    "product_id": 42703,
+    "product_name": "Gull 12x500ml",
+    "previous_stock": 22,
+    "current_stock": 21,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-15T13:58:39.395823",
+    "product_id": 42705,
+    "product_name": "Víking Sterkr 6x500ml",
+    "previous_stock": 24,
+    "current_stock": 23,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-15T13:58:39.395823",
+    "product_id": 46240,
+    "product_name": "Skruf Superwhite Slim 4",
+    "previous_stock": 98,
+    "current_stock": 96,
+    "change": -2,
+    "direction": "decrease"
   }
 ]
