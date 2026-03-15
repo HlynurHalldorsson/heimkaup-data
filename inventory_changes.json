@@ -58643,5 +58643,71 @@
     "product_id": 43702,
     "product_name": "Loop Zero Cool Mint",
     "last_stock": 29
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-15T12:58:11.867959",
+    "product_id": 42776,
+    "product_name": "Thule 12x500ml",
+    "previous_stock": 12,
+    "current_stock": 11,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-15T12:58:11.867959",
+    "product_id": 42608,
+    "product_name": "Boli Sterkur Pilsner 6x500ml",
+    "previous_stock": 3,
+    "current_stock": 2,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-15T12:58:11.867959",
+    "product_id": 43702,
+    "product_name": "Loop Zero Cool Mint",
+    "stock": 29,
+    "details": {
+      "id": 43702,
+      "code": "30222033",
+      "name": "Loop Zero Cool Mint",
+      "slug": "loop-zero-cool-mint-43702",
+      "category_id": 4354,
+      "category_name": "All Nicotine Free Pouches",
+      "category_path": "Nicotine > Pouches > All Nicotine Free Pouches",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/0d0d1bad-18ca-4371-a06d-5d794bb3820f.webp",
+      "price": 69000,
+      "discount_price": null,
+      "stock": {
+        "H495": 29
+      },
+      "total_stock": 29,
+      "variants": [
+        {
+          "sku": "30222033",
+          "name": "Loop Zero Cool Mint",
+          "price": 69000,
+          "value": "0mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/0d0d1bad-18ca-4371-a06d-5d794bb3820f.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/0d0d1bad-18ca-4371-a06d-5d794bb3820f_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/0d0d1bad-18ca-4371-a06d-5d794bb3820f_thumb.webp"
+            }
+          ],
+          "offerId": 45322,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 29,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-15T12:58:06.075288"
+    }
   }
 ]
