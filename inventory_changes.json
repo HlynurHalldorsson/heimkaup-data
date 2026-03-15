@@ -58739,5 +58739,55 @@
     "current_stock": 96,
     "change": -2,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-15T14:59:05.808674",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 18,
+    "current_stock": 17,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-15T14:59:05.808674",
+    "product_id": 42680,
+    "product_name": "Tuborg Green 12x500ml",
+    "previous_stock": 73,
+    "current_stock": 72,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-15T14:59:05.808674",
+    "product_id": 42669,
+    "product_name": "Ölvisholt Classic 10x330ml",
+    "previous_stock": 15,
+    "current_stock": 14,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-15T14:59:05.808674",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 72,
+    "current_stock": 69,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-15T14:59:05.808674",
+    "product_id": 43046,
+    "product_name": "Tuborg Lille jólabjór 12x500ml",
+    "previous_stock": 2,
+    "current_stock": 1,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
