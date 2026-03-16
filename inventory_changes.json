@@ -60029,5 +60029,25 @@
     "product_id": 43741,
     "product_name": "Winston Blue Box",
     "last_stock": 8
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-16T18:25:52.532469",
+    "product_id": 42615,
+    "product_name": "Boli X 12x500ml",
+    "previous_stock": 17,
+    "current_stock": 16,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-16T18:25:52.532469",
+    "product_id": 42526,
+    "product_name": "Van Gogh Riesling 3L",
+    "previous_stock": 7,
+    "current_stock": 6,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
