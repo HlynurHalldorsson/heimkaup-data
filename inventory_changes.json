@@ -60049,5 +60049,45 @@
     "current_stock": 6,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-16T19:26:25.406330",
+    "product_id": 42733,
+    "product_name": "Víking Gylltur 12x500ml",
+    "previous_stock": 27,
+    "current_stock": 24,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-16T19:26:25.406330",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 62,
+    "current_stock": 61,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-16T19:26:25.406330",
+    "product_id": 42620,
+    "product_name": "Guinness 4x440ml",
+    "previous_stock": 12,
+    "current_stock": 11,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-16T19:26:25.406330",
+    "product_id": 42607,
+    "product_name": "Montalto Pinot Grigio 3L",
+    "previous_stock": 4,
+    "current_stock": 3,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
