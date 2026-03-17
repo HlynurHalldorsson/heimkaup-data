@@ -60633,5 +60633,132 @@
     "product_id": 43085,
     "product_name": "LOOP Smooth Mint 4",
     "last_stock": 30
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-17T16:48:51.492678",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 59,
+    "current_stock": 57,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-17T16:48:51.492678",
+    "product_id": 47314,
+    "product_name": "Víking Páskabjór 6x330ml + 2 Víking 400ml Glass",
+    "stock": 60,
+    "details": {
+      "id": 47314,
+      "code": "30230776",
+      "name": "Víking Páskabjór 6x330ml + 2 Víking 400ml Glass",
+      "slug": "viking-paskabjor-6x330ml-47314",
+      "category_id": 4529,
+      "category_name": "All Seasonal Beers",
+      "category_path": "Beer > Seasonal > All Seasonal Beers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cd8a5cfa-65e1-4ce8-808f-d6a78a2347d9.webp",
+      "price": 249000,
+      "discount_price": null,
+      "stock": {
+        "H495": 60
+      },
+      "total_stock": 60,
+      "variants": [
+        {
+          "sku": "30230776",
+          "name": "Víking Páskabjór 6x330ml + 2 Víking 400ml Glass",
+          "price": 249000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cd8a5cfa-65e1-4ce8-808f-d6a78a2347d9.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cd8a5cfa-65e1-4ce8-808f-d6a78a2347d9_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cd8a5cfa-65e1-4ce8-808f-d6a78a2347d9_thumb.webp"
+            }
+          ],
+          "offerId": 48860,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 60,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-17T16:48:30.846881"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-17T16:48:51.492678",
+    "product_id": 42692,
+    "product_name": "Martini Prosecco 750ml",
+    "previous_stock": 31,
+    "current_stock": 30,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-17T16:48:51.492678",
+    "product_id": 46240,
+    "product_name": "Skruf Superwhite Slim 4",
+    "previous_stock": 92,
+    "current_stock": 90,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-17T16:48:51.492678",
+    "product_id": 42434,
+    "product_name": "Pepsi Max 12x330ml",
+    "stock": 100,
+    "details": {
+      "id": 42434,
+      "code": "30207919",
+      "name": "Pepsi Max 12x330ml",
+      "slug": "pepsi-max-12x330ml-42434",
+      "category_id": 4315,
+      "category_name": "Sodas (With Sugar)",
+      "category_path": "Soft drinks > Soda > Sodas (With Sugar)",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e51b72af-3503-472e-be60-678b96f8dfdc.webp",
+      "price": 129000,
+      "discount_price": null,
+      "stock": {
+        "H495": 100
+      },
+      "total_stock": 100,
+      "variants": [
+        {
+          "sku": "30207919",
+          "name": "Pepsi Max 12x330ml",
+          "price": 129000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e51b72af-3503-472e-be60-678b96f8dfdc.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e51b72af-3503-472e-be60-678b96f8dfdc_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e51b72af-3503-472e-be60-678b96f8dfdc_thumb.webp"
+            },
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8cf11d82-18d1-4e73-a584-a91c34d8e0d5.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8cf11d82-18d1-4e73-a584-a91c34d8e0d5_orig.jpeg",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8cf11d82-18d1-4e73-a584-a91c34d8e0d5_thumb.webp"
+            }
+          ],
+          "offerId": 43772,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 100,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-17T16:48:49.526124"
+    }
   }
 ]
