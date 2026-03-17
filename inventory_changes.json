@@ -60760,5 +60760,415 @@
       ],
       "last_updated": "2026-03-17T16:48:49.526124"
     }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-17T21:01:32.113155",
+    "product_id": 42709,
+    "product_name": "Heineken 4x500ml",
+    "stock": 36,
+    "details": {
+      "id": 42709,
+      "code": "30230837",
+      "name": "Heineken 4x500ml",
+      "slug": "heineken-4x500ml-42709",
+      "category_id": 4237,
+      "category_name": "All Lagers",
+      "category_path": "Beer > Lager > All Lagers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6704aa2b-c94f-4926-8249-973e60579c96.webp",
+      "price": 209000,
+      "discount_price": null,
+      "stock": {
+        "H495": 36
+      },
+      "total_stock": 36,
+      "variants": [
+        {
+          "sku": "30230837",
+          "name": "Heineken 4x500ml",
+          "price": 209000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6704aa2b-c94f-4926-8249-973e60579c96.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6704aa2b-c94f-4926-8249-973e60579c96_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6704aa2b-c94f-4926-8249-973e60579c96_thumb.webp"
+            }
+          ],
+          "offerId": 44044,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 36,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-17T21:01:09.968309"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-17T21:01:32.113155",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 14,
+    "current_stock": 13,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-17T21:01:32.113155",
+    "product_id": 43050,
+    "product_name": "Víking lager 12x500ml",
+    "previous_stock": 6,
+    "current_stock": 5,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-17T21:01:32.113155",
+    "product_id": 43058,
+    "product_name": "Thule 12x330ml",
+    "previous_stock": 12,
+    "current_stock": 39,
+    "change": 27,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-17T21:01:32.113155",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 57,
+    "current_stock": 53,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-17T21:01:32.113155",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 41,
+    "current_stock": 39,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-17T21:01:32.113155",
+    "product_id": 42782,
+    "product_name": "Kaldi Ljós 10x330ml",
+    "stock": 30,
+    "details": {
+      "id": 42782,
+      "code": "30230942",
+      "name": "Kaldi Ljós 10x330ml",
+      "slug": "kaldi-ljos-10x330ml-42782",
+      "category_id": 4239,
+      "category_name": "All Lite Beers",
+      "category_path": "Beer > Lite > All Lite Beers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/65dc62ab-1f14-4501-8c85-e2a0336e45d2.webp",
+      "price": 319000,
+      "discount_price": 296000,
+      "stock": {
+        "H495": 30
+      },
+      "total_stock": 30,
+      "variants": [
+        {
+          "sku": "30230942",
+          "name": "Kaldi Ljós 10x330ml",
+          "price": 319000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/65dc62ab-1f14-4501-8c85-e2a0336e45d2.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/65dc62ab-1f14-4501-8c85-e2a0336e45d2_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/65dc62ab-1f14-4501-8c85-e2a0336e45d2_thumb.webp"
+            }
+          ],
+          "offerId": 44108,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 30,
+          "discountPrice": 296000,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-17T21:01:10.582225"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-17T21:01:32.113155",
+    "product_id": 42721,
+    "product_name": "Kaldi Lite 10x330ml",
+    "stock": 15,
+    "details": {
+      "id": 42721,
+      "code": "30230808",
+      "name": "Kaldi Lite 10x330ml",
+      "slug": "kaldi-lite-10x330ml-42721",
+      "category_id": 4239,
+      "category_name": "All Lite Beers",
+      "category_path": "Beer > Lite > All Lite Beers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ea51b383-15db-4dee-bd73-440453a38f7b.webp",
+      "price": 339000,
+      "discount_price": null,
+      "stock": {
+        "H495": 15
+      },
+      "total_stock": 15,
+      "variants": [
+        {
+          "sku": "30230808",
+          "name": "Kaldi Lite 10x330ml",
+          "price": 339000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ea51b383-15db-4dee-bd73-440453a38f7b.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ea51b383-15db-4dee-bd73-440453a38f7b_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ea51b383-15db-4dee-bd73-440453a38f7b_thumb.webp"
+            }
+          ],
+          "offerId": 44028,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 15,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-17T21:01:10.582225"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-17T21:01:32.113155",
+    "product_id": 42545,
+    "product_name": "Absolut Vodka 700ml",
+    "previous_stock": 8,
+    "current_stock": 7,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-17T21:01:32.113155",
+    "product_id": 42618,
+    "product_name": "PRN 6x330ml",
+    "previous_stock": 9,
+    "current_stock": 13,
+    "change": 4,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-17T21:01:32.113155",
+    "product_id": 46204,
+    "product_name": "Bara Ísber 6x330ml",
+    "previous_stock": 4,
+    "current_stock": 11,
+    "change": 7,
+    "direction": "increase"
+  },
+  {
+    "type": "price_change",
+    "timestamp": "2026-03-17T21:01:32.113155",
+    "product_id": 43439,
+    "product_name": "Signiture Red Cigar Box",
+    "previous_price": 160000,
+    "current_price": 159000
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-17T21:01:32.113155",
+    "product_id": 48565,
+    "product_name": "Gatorade Orange 6x500ml",
+    "stock": 100,
+    "details": {
+      "id": 48565,
+      "code": "216650160PK6",
+      "name": "Gatorade Orange 6x500ml",
+      "slug": "gatorade-orange-6x500ml-48565",
+      "category_id": 4323,
+      "category_name": "All Sports Drinks",
+      "category_path": "Soft drinks > Sports Drinks > All Sports Drinks",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/19532e07-c16d-4d28-89ea-8dbeda994d25.webp",
+      "price": 149000,
+      "discount_price": null,
+      "stock": {
+        "H495": 100
+      },
+      "total_stock": 100,
+      "variants": [
+        {
+          "sku": "216650160PK6",
+          "name": "Gatorade Orange 6x500ml",
+          "price": 149000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/19532e07-c16d-4d28-89ea-8dbeda994d25.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/19532e07-c16d-4d28-89ea-8dbeda994d25_orig.webp",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/19532e07-c16d-4d28-89ea-8dbeda994d25_thumb.webp"
+            }
+          ],
+          "offerId": 50013,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 100,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-17T21:01:31.457745"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-17T21:01:32.113155",
+    "product_id": 48566,
+    "product_name": "Gatorade Cool Blue 6x500ml",
+    "stock": 100,
+    "details": {
+      "id": 48566,
+      "code": "10038179PK6",
+      "name": "Gatorade Cool Blue 6x500ml",
+      "slug": "gatorade-cool-blue-6x500ml-48566",
+      "category_id": 4323,
+      "category_name": "All Sports Drinks",
+      "category_path": "Soft drinks > Sports Drinks > All Sports Drinks",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/1e6d0a5c-604d-4920-a5bd-f7ae66b2d478.webp",
+      "price": 149000,
+      "discount_price": null,
+      "stock": {
+        "H495": 100
+      },
+      "total_stock": 100,
+      "variants": [
+        {
+          "sku": "10038179PK6",
+          "name": "Gatorade Cool Blue 6x500ml",
+          "price": 149000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/1e6d0a5c-604d-4920-a5bd-f7ae66b2d478.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/1e6d0a5c-604d-4920-a5bd-f7ae66b2d478_orig.webp",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/1e6d0a5c-604d-4920-a5bd-f7ae66b2d478_thumb.webp"
+            }
+          ],
+          "offerId": 50014,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 100,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-17T21:01:31.457745"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-17T21:01:32.113155",
+    "product_id": 48567,
+    "product_name": "Gatorade Red Orange 6x500ml",
+    "stock": 100,
+    "details": {
+      "id": 48567,
+      "code": "30160790PK6",
+      "name": "Gatorade Red Orange 6x500ml",
+      "slug": "gatorade-red-orange-6x500ml-48567",
+      "category_id": 4323,
+      "category_name": "All Sports Drinks",
+      "category_path": "Soft drinks > Sports Drinks > All Sports Drinks",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/69d5aa41-0842-4948-8799-bdf54f62b9cf.webp",
+      "price": 149000,
+      "discount_price": null,
+      "stock": {
+        "H495": 100
+      },
+      "total_stock": 100,
+      "variants": [
+        {
+          "sku": "30160790PK6",
+          "name": "Gatorade Red Orange 6x500ml",
+          "price": 149000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/69d5aa41-0842-4948-8799-bdf54f62b9cf.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/69d5aa41-0842-4948-8799-bdf54f62b9cf_orig.webp",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/69d5aa41-0842-4948-8799-bdf54f62b9cf_thumb.webp"
+            }
+          ],
+          "offerId": 50015,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 100,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-17T21:01:31.457745"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-17T21:01:32.113155",
+    "product_id": 48564,
+    "product_name": "Gatorade Lemon 6x500ml",
+    "stock": 100,
+    "details": {
+      "id": 48564,
+      "code": "30097035PK6",
+      "name": "Gatorade Lemon 6x500ml",
+      "slug": "gatorade-lemon-6x500ml-48564",
+      "category_id": 4323,
+      "category_name": "All Sports Drinks",
+      "category_path": "Soft drinks > Sports Drinks > All Sports Drinks",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c128a8d5-87c3-4895-8e67-80a8d5571274.webp",
+      "price": 149000,
+      "discount_price": null,
+      "stock": {
+        "H495": 100
+      },
+      "total_stock": 100,
+      "variants": [
+        {
+          "sku": "30097035PK6",
+          "name": "Gatorade Lemon 6x500ml",
+          "price": 149000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c128a8d5-87c3-4895-8e67-80a8d5571274.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c128a8d5-87c3-4895-8e67-80a8d5571274_orig.webp",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c128a8d5-87c3-4895-8e67-80a8d5571274_thumb.webp"
+            }
+          ],
+          "offerId": 50012,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 100,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-17T21:01:31.457745"
+    }
   }
 ]
