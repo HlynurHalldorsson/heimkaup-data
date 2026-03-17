@@ -60269,5 +60269,369 @@
     "current_stock": 13,
     "change": -6,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-17T15:31:57.871040",
+    "product_id": 42703,
+    "product_name": "Gull 12x500ml",
+    "previous_stock": 13,
+    "current_stock": 12,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-17T15:31:57.871040",
+    "product_id": 43058,
+    "product_name": "Thule 12x330ml",
+    "previous_stock": 13,
+    "current_stock": 12,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-17T15:31:57.871040",
+    "product_id": 42669,
+    "product_name": "Ölvisholt Classic 10x330ml",
+    "previous_stock": 13,
+    "current_stock": 12,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-17T15:31:57.871040",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 60,
+    "current_stock": 59,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-17T15:31:57.871040",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 44,
+    "current_stock": 41,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-17T15:31:57.871040",
+    "product_id": 42666,
+    "product_name": "Ölvisholt Lite 10x330ml",
+    "previous_stock": 14,
+    "current_stock": 12,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-17T15:31:57.871040",
+    "product_id": 42683,
+    "product_name": "Frontera Cabernet Sauvignon 3L",
+    "previous_stock": 14,
+    "current_stock": 13,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-17T15:31:57.871040",
+    "product_id": 43687,
+    "product_name": "Altanza Sauvignon Blanc 750ml",
+    "stock": 5,
+    "details": {
+      "id": 43687,
+      "code": "30230854",
+      "name": "Altanza Sauvignon Blanc 750ml",
+      "slug": "altanza-sauvignon-blanc-750ml-43687",
+      "category_id": 4252,
+      "category_name": "Sauvignon Blanc",
+      "category_path": "Wine > White > Sauvignon Blanc",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/products/e889a469-f036-4ce5-b5e5-8319bab69fb9.webp",
+      "price": 299000,
+      "discount_price": null,
+      "stock": {
+        "H495": 5
+      },
+      "total_stock": 5,
+      "variants": [
+        {
+          "sku": "30230854",
+          "name": "Altanza Sauvignon Blanc 750ml",
+          "price": 299000,
+          "value": "750ml",
+          "images": null,
+          "offerId": 45311,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 5,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-17T15:31:35.954992"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-17T15:31:57.871040",
+    "product_id": 42526,
+    "product_name": "Van Gogh Riesling 3L",
+    "previous_stock": 6,
+    "current_stock": 5,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-17T15:31:57.871040",
+    "product_id": 42594,
+    "product_name": "Piccini Prosecco 750ml",
+    "previous_stock": 19,
+    "current_stock": 17,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-17T15:31:57.871040",
+    "product_id": 42604,
+    "product_name": "Bagl 6x330ml",
+    "previous_stock": 12,
+    "current_stock": 10,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-17T15:31:57.871040",
+    "product_id": 46267,
+    "product_name": "LOOP Blueberry Ice 3",
+    "previous_stock": 17,
+    "current_stock": 2,
+    "change": -15,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-17T15:31:57.871040",
+    "product_id": 46266,
+    "product_name": "LOOP Strawberry Ice 3",
+    "previous_stock": 19,
+    "current_stock": 14,
+    "change": -5,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-17T15:31:57.871040",
+    "product_id": 43071,
+    "product_name": "LOOP Habanero Mint 4",
+    "previous_stock": 9,
+    "current_stock": 4,
+    "change": -5,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-17T15:31:57.871040",
+    "product_id": 46253,
+    "product_name": "THOR Nordic Freeze 5",
+    "previous_stock": 20,
+    "current_stock": 14,
+    "change": -6,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-17T15:31:57.871040",
+    "product_id": 43694,
+    "product_name": "V&YOU Flavour Free 4",
+    "stock": 20,
+    "details": {
+      "id": 43694,
+      "code": "30226287",
+      "name": "V&YOU Flavour Free 4",
+      "slug": "v-you-flavour-free-4-43694",
+      "category_id": 5319,
+      "category_name": "V&YOU",
+      "category_path": "Nicotine > Pouches > V&YOU",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9b5d1746-c7be-476f-a525-e1dc9439345a.webp",
+      "price": 99000,
+      "discount_price": null,
+      "stock": {
+        "H495": 20
+      },
+      "total_stock": 20,
+      "variants": [
+        {
+          "sku": "30226287",
+          "name": "V&YOU Flavour Free 4",
+          "price": 99000,
+          "value": "10mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9b5d1746-c7be-476f-a525-e1dc9439345a.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9b5d1746-c7be-476f-a525-e1dc9439345a_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9b5d1746-c7be-476f-a525-e1dc9439345a_thumb.webp"
+            }
+          ],
+          "offerId": 45315,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 20,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-17T15:31:48.327655"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-17T15:31:57.871040",
+    "product_id": 43692,
+    "product_name": "V&YOU Mint 4",
+    "stock": 20,
+    "details": {
+      "id": 43692,
+      "code": "30226284",
+      "name": "V&YOU Mint 4",
+      "slug": "v-you-mint-4-43692",
+      "category_id": 5319,
+      "category_name": "V&YOU",
+      "category_path": "Nicotine > Pouches > V&YOU",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/52e58560-79cb-4e6d-9be0-8395ede5d045.webp",
+      "price": 99000,
+      "discount_price": null,
+      "stock": {
+        "H495": 20
+      },
+      "total_stock": 20,
+      "variants": [
+        {
+          "sku": "30226284",
+          "name": "V&YOU Mint 4",
+          "price": 99000,
+          "value": "6mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/52e58560-79cb-4e6d-9be0-8395ede5d045.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/52e58560-79cb-4e6d-9be0-8395ede5d045_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/52e58560-79cb-4e6d-9be0-8395ede5d045_thumb.webp"
+            }
+          ],
+          "offerId": 45313,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 20,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-17T15:31:48.327655"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-17T15:31:57.871040",
+    "product_id": 43704,
+    "product_name": "Paz X-Freeze 5",
+    "stock": 20,
+    "details": {
+      "id": 43704,
+      "code": "30222727",
+      "name": "Paz X-Freeze 5",
+      "slug": "paz-x-freeze-5-43704",
+      "category_id": 5322,
+      "category_name": "PAZ",
+      "category_path": "Nicotine > Pouches > PAZ",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/292cf4c2-b122-448b-86d3-0a7172812cc7.webp",
+      "price": 99000,
+      "discount_price": null,
+      "stock": {
+        "H495": 20
+      },
+      "total_stock": 20,
+      "variants": [],
+      "last_updated": "2026-03-17T15:31:48.939367"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-17T15:31:57.871040",
+    "product_id": 46240,
+    "product_name": "Skruf Superwhite Slim 4",
+    "previous_stock": 96,
+    "current_stock": 92,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-17T15:31:57.871040",
+    "product_id": 43691,
+    "product_name": "V&YOU Mint Nikótínlausir",
+    "stock": 20,
+    "details": {
+      "id": 43691,
+      "code": "30224556",
+      "name": "V&YOU Mint Nikótínlausir",
+      "slug": "v-you-mint-nikotinlausir-43691",
+      "category_id": 4354,
+      "category_name": "All Nicotine Free Pouches",
+      "category_path": "Nicotine > Pouches > All Nicotine Free Pouches",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/603a4179-30c8-47ac-a1b4-b1d03240f784.webp",
+      "price": 99000,
+      "discount_price": null,
+      "stock": {
+        "H495": 20
+      },
+      "total_stock": 20,
+      "variants": [],
+      "last_updated": "2026-03-17T15:31:49.989641"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-17T15:31:57.871040",
+    "product_id": 43439,
+    "product_name": "Signiture Red Cigar Box",
+    "stock": 10,
+    "details": {
+      "id": 43439,
+      "code": "10071031",
+      "name": "Signiture Red Cigar Box",
+      "slug": "signiture-red-cigar-box-43439",
+      "category_id": 4310,
+      "category_name": "All Cigars",
+      "category_path": "Nicotine > Cigars > All Cigars",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c98790bb-1347-476e-aede-4848d30088df.webp",
+      "price": 160000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [],
+      "last_updated": "2026-03-17T15:31:54.553076"
+    }
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-17T15:31:57.871040",
+    "product_id": 43085,
+    "product_name": "LOOP Smooth Mint 4",
+    "last_stock": 30
   }
 ]
