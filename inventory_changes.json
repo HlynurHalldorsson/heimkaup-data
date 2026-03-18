@@ -61308,5 +61308,71 @@
     "current_stock": 17,
     "change": -3,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-18T15:54:09.061133",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 52,
+    "current_stock": 51,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-18T15:54:09.061133",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 38,
+    "current_stock": 37,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-18T15:54:09.061133",
+    "product_id": 43686,
+    "product_name": "Carlo Rossi California Rosé 1,5L",
+    "stock": 3,
+    "details": {
+      "id": 43686,
+      "code": "30230618",
+      "name": "Carlo Rossi California Rosé 1,5L",
+      "slug": "carlo-rossi-california-rose-1-5l-43686",
+      "category_id": 4254,
+      "category_name": "All Rosé Wines",
+      "category_path": "Wine > Rosé > All Rosé Wines",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/1d6d4303-4153-4704-8c0d-6cfba5447acd.webp",
+      "price": 259000,
+      "discount_price": null,
+      "stock": {
+        "H495": 3
+      },
+      "total_stock": 3,
+      "variants": [
+        {
+          "sku": "30230618",
+          "name": "Carlo Rossi California Rosé 1,5L",
+          "price": 259000,
+          "value": "1.5ltr",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/1d6d4303-4153-4704-8c0d-6cfba5447acd.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/1d6d4303-4153-4704-8c0d-6cfba5447acd_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/1d6d4303-4153-4704-8c0d-6cfba5447acd_thumb.webp"
+            }
+          ],
+          "offerId": 45310,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 3,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-18T15:53:48.877423"
+    }
   }
 ]
