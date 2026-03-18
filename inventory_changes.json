@@ -61374,5 +61374,45 @@
       ],
       "last_updated": "2026-03-18T15:53:48.877423"
     }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-18T16:55:56.807166",
+    "product_id": 42703,
+    "product_name": "Gull 12x500ml",
+    "previous_stock": 12,
+    "current_stock": 11,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-18T16:55:56.807166",
+    "product_id": 42709,
+    "product_name": "Heineken 4x500ml",
+    "previous_stock": 36,
+    "current_stock": 33,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-18T16:55:56.807166",
+    "product_id": 42733,
+    "product_name": "Víking Gylltur 12x500ml",
+    "previous_stock": 24,
+    "current_stock": 21,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-18T16:55:56.807166",
+    "product_id": 47314,
+    "product_name": "Víking Páskabjór 6x330ml + 2 Víking 400ml Glass",
+    "previous_stock": 60,
+    "current_stock": 59,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
