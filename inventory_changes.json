@@ -61170,5 +61170,25 @@
       ],
       "last_updated": "2026-03-17T21:01:31.457745"
     }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-18T00:43:42.888277",
+    "product_id": 42661,
+    "product_name": "Boli X 12x330ml",
+    "previous_stock": 3,
+    "current_stock": 2,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-18T00:43:42.888277",
+    "product_id": 43693,
+    "product_name": "Loop Blackcurrant 3",
+    "previous_stock": 17,
+    "current_stock": 13,
+    "change": -4,
+    "direction": "decrease"
   }
 ]
