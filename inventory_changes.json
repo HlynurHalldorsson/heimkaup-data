@@ -61190,5 +61190,32 @@
     "current_stock": 13,
     "change": -4,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-18T09:59:06.963521",
+    "product_id": 43205,
+    "product_name": "Mamma Piccini Rosso 3L",
+    "previous_stock": 5,
+    "current_stock": 4,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-18T09:59:06.963521",
+    "product_id": 42685,
+    "product_name": "Tommasi Graticcio Appassionato 3L",
+    "previous_stock": 7,
+    "current_stock": 6,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-18T09:59:06.963521",
+    "product_id": 43015,
+    "product_name": "Piccanti Rosso Toscana 3L",
+    "last_stock": 1
   }
 ]
