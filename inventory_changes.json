@@ -61278,5 +61278,35 @@
     "product_id": 42478,
     "product_name": "BLYS 800 Peach Blueberry",
     "last_stock": 10
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-18T14:00:56.391689",
+    "product_id": 42604,
+    "product_name": "Bagl 6x330ml",
+    "previous_stock": 10,
+    "current_stock": 14,
+    "change": 4,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-18T14:00:56.391689",
+    "product_id": 43072,
+    "product_name": "LOOP Jalapeno Lime 4",
+    "previous_stock": 18,
+    "current_stock": 13,
+    "change": -5,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-18T14:00:56.391689",
+    "product_id": 47214,
+    "product_name": "THOR Black Mint 5",
+    "previous_stock": 20,
+    "current_stock": 17,
+    "change": -3,
+    "direction": "decrease"
   }
 ]
