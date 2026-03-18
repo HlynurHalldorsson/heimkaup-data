@@ -61434,5 +61434,118 @@
     "current_stock": 20,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-18T22:56:34.296550",
+    "product_id": 42609,
+    "product_name": "Polar Beer 6x500ml",
+    "previous_stock": 9,
+    "current_stock": 7,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-18T22:56:34.296550",
+    "product_id": 43710,
+    "product_name": "Krombacher Pils 6x330ml",
+    "previous_stock": 26,
+    "current_stock": 24,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-18T22:56:34.296550",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 37,
+    "current_stock": 36,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "price_change",
+    "timestamp": "2026-03-18T22:56:34.296550",
+    "product_id": 42782,
+    "product_name": "Kaldi Ljós 10x330ml",
+    "previous_price": 319000,
+    "current_price": 369000
+  },
+  {
+    "type": "price_change",
+    "timestamp": "2026-03-18T22:56:34.296550",
+    "product_id": 42721,
+    "product_name": "Kaldi Lite 10x330ml",
+    "previous_price": 339000,
+    "current_price": 359000
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-18T22:56:34.296550",
+    "product_id": 47314,
+    "product_name": "Víking Páskabjór 6x330ml + 2 Víking 400ml Glass",
+    "previous_stock": 59,
+    "current_stock": 58,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-18T22:56:34.296550",
+    "product_id": 42638,
+    "product_name": "Adobe Chardonnay Poki 1,5L",
+    "previous_stock": 22,
+    "current_stock": 21,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-18T22:56:34.296550",
+    "product_id": 42547,
+    "product_name": "Hot N' Sweet 100ml",
+    "previous_stock": 8,
+    "current_stock": 7,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-18T22:56:34.296550",
+    "product_id": 42809,
+    "product_name": "Bacardi Carta Blanca 700ml",
+    "previous_stock": 2,
+    "current_stock": 1,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-18T22:56:34.296550",
+    "product_id": 42820,
+    "product_name": "Breezer Lemon 4x275ml",
+    "previous_stock": 2,
+    "current_stock": 1,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-18T22:56:34.296550",
+    "product_id": 42793,
+    "product_name": "Breezer Lime 4x275ml",
+    "previous_stock": 9,
+    "current_stock": 8,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-18T22:56:34.296550",
+    "product_id": 43046,
+    "product_name": "Tuborg Lille jólabjór 12x500ml",
+    "last_stock": 1
   }
 ]
