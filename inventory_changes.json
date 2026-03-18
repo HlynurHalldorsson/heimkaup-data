@@ -61414,5 +61414,25 @@
     "current_stock": 59,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-18T18:31:41.149081",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 13,
+    "current_stock": 11,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-18T18:31:41.149081",
+    "product_id": 42733,
+    "product_name": "Víking Gylltur 12x500ml",
+    "previous_stock": 21,
+    "current_stock": 20,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
