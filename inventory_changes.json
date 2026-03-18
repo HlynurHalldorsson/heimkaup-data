@@ -61241,5 +61241,35 @@
     "product_name": "Budweiser Budvar 6x330ml",
     "previous_price": 259000,
     "current_price": 239000
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-18T12:00:02.515868",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 53,
+    "current_stock": 52,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-18T12:00:02.515868",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 39,
+    "current_stock": 38,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-18T12:00:02.515868",
+    "product_id": 42682,
+    "product_name": "Van Gogh Riesling 750ml",
+    "previous_stock": 4,
+    "current_stock": 3,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
