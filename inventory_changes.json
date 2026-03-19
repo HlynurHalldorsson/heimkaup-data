@@ -61627,5 +61627,180 @@
     "current_stock": 13,
     "change": -4,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-19T14:28:31.475137",
+    "product_id": 42733,
+    "product_name": "Víking Gylltur 12x500ml",
+    "previous_stock": 20,
+    "current_stock": 17,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-19T14:28:31.475137",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 49,
+    "current_stock": 48,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-19T14:28:31.475137",
+    "product_id": 42661,
+    "product_name": "Boli X 12x330ml",
+    "previous_stock": 2,
+    "current_stock": 1,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-19T14:28:31.475137",
+    "product_id": 47314,
+    "product_name": "Víking Páskabjór 6x330ml + 2 Víking 400ml Glass",
+    "previous_stock": 58,
+    "current_stock": 57,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-19T14:28:31.475137",
+    "product_id": 43592,
+    "product_name": "Mateus Rosé 750ml",
+    "stock": 24,
+    "details": {
+      "id": 43592,
+      "code": "30230598",
+      "name": "Mateus Rosé 750ml",
+      "slug": "mateus-rose-750ml-43592",
+      "category_id": 4254,
+      "category_name": "All Rosé Wines",
+      "category_path": "Wine > Rosé > All Rosé Wines",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/0953eb29-dd2b-46a4-b701-b1fcedcae6c3.webp",
+      "price": 199000,
+      "discount_price": null,
+      "stock": {
+        "H495": 24
+      },
+      "total_stock": 24,
+      "variants": [
+        {
+          "sku": "30230598",
+          "name": "Mateus Rosé 750ml",
+          "price": 199000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/0953eb29-dd2b-46a4-b701-b1fcedcae6c3.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/0953eb29-dd2b-46a4-b701-b1fcedcae6c3_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/0953eb29-dd2b-46a4-b701-b1fcedcae6c3_thumb.webp"
+            }
+          ],
+          "offerId": 45245,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 24,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-19T14:28:08.519896"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-19T14:28:31.475137",
+    "product_id": 42638,
+    "product_name": "Adobe Chardonnay Poki 1,5L",
+    "previous_stock": 21,
+    "current_stock": 20,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-19T14:28:31.475137",
+    "product_id": 42585,
+    "product_name": "Two Oceans Fresh & Fruity 3L",
+    "previous_stock": 21,
+    "current_stock": 20,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-19T14:28:31.475137",
+    "product_id": 42606,
+    "product_name": "Koskenkorva Vodka 500ml",
+    "previous_stock": 36,
+    "current_stock": 32,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-19T14:28:31.475137",
+    "product_id": 42545,
+    "product_name": "Absolut Vodka 700ml",
+    "previous_stock": 7,
+    "current_stock": 6,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-19T14:28:31.475137",
+    "product_id": 43078,
+    "product_name": "VELO Smooth Spearmint 2",
+    "previous_stock": 20,
+    "current_stock": 10,
+    "change": -10,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-19T14:28:31.475137",
+    "product_id": 43703,
+    "product_name": "Cricket T50 Lighter",
+    "stock": 25,
+    "details": {
+      "id": 43703,
+      "code": "30159834",
+      "name": "Cricket T50 Lighter",
+      "slug": "cricket-t50-lighter-43703",
+      "category_id": 4312,
+      "category_name": "All Other Nicotine Products",
+      "category_path": "Nicotine > Other > All Other Nicotine Products",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e7151838-dee5-478c-9d54-1d8f26200ee3.webp",
+      "price": 39000,
+      "discount_price": null,
+      "stock": {
+        "H495": 25
+      },
+      "total_stock": 25,
+      "variants": [],
+      "last_updated": "2026-03-19T14:28:27.630671"
+    }
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-19T14:28:31.475137",
+    "product_id": 43054,
+    "product_name": "Úlfey Nr.67 4x330ml",
+    "last_stock": 1
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-19T14:28:31.475137",
+    "product_id": 43086,
+    "product_name": "VELO Crispy Peppermint 3",
+    "last_stock": 2
   }
 ]
