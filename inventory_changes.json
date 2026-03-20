@@ -63340,5 +63340,585 @@
     "current_stock": 26,
     "change": -4,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T17:36:25.032368",
+    "product_id": 42709,
+    "product_name": "Heineken 4x500ml",
+    "previous_stock": 33,
+    "current_stock": 26,
+    "change": -7,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T17:36:25.032368",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 9,
+    "current_stock": 7,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T17:36:25.032368",
+    "product_id": 42705,
+    "product_name": "Víking Sterkr 6x500ml",
+    "previous_stock": 19,
+    "current_stock": 18,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T17:36:25.032368",
+    "product_id": 42657,
+    "product_name": "Ölvisholt Lager 10x330ml",
+    "previous_stock": 21,
+    "current_stock": 18,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T17:36:25.032368",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 41,
+    "current_stock": 34,
+    "change": -7,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T17:36:25.032368",
+    "product_id": 47314,
+    "product_name": "Víking Páskabjór 6x330ml + 2 Víking 400ml Glass",
+    "previous_stock": 51,
+    "current_stock": 47,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T17:36:25.032368",
+    "product_id": 42766,
+    "product_name": "Casa Solís Chardonnay 750ml",
+    "previous_stock": 21,
+    "current_stock": 20,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T17:36:25.032368",
+    "product_id": 42810,
+    "product_name": "Barefoot Pinot Grigio 750ml",
+    "previous_stock": 44,
+    "current_stock": 42,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T17:36:25.032368",
+    "product_id": 42687,
+    "product_name": "Tommasi Pinot Grigio 3L",
+    "previous_stock": 19,
+    "current_stock": 18,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T17:36:25.032368",
+    "product_id": 42526,
+    "product_name": "Van Gogh Riesling 3L",
+    "previous_stock": 5,
+    "current_stock": 4,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T17:36:25.032368",
+    "product_id": 42738,
+    "product_name": "Jim Beam White 700ml",
+    "previous_stock": 6,
+    "current_stock": 1,
+    "change": -5,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T17:36:25.032368",
+    "product_id": 46267,
+    "product_name": "LOOP Blueberry Ice 3",
+    "previous_stock": 2,
+    "current_stock": 22,
+    "change": 20,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-20T17:36:25.032368",
+    "product_id": 43085,
+    "product_name": "LOOP Smooth Mint 4",
+    "stock": 40,
+    "details": {
+      "id": 43085,
+      "code": "30202705",
+      "name": "LOOP Smooth Mint 4",
+      "slug": "loop-smooth-mint-4-43085",
+      "category_id": 2805,
+      "category_name": "LOOP",
+      "category_path": "Nicotine > Pouches > LOOP",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5196eea0-6ddc-439a-bf48-c43dc875886a.webp",
+      "price": 99000,
+      "discount_price": null,
+      "stock": {
+        "H495": 40
+      },
+      "total_stock": 40,
+      "variants": [
+        {
+          "sku": "30202705",
+          "name": "LOOP Smooth Mint 4",
+          "price": 99000,
+          "value": "12.5mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5196eea0-6ddc-439a-bf48-c43dc875886a.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5196eea0-6ddc-439a-bf48-c43dc875886a_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5196eea0-6ddc-439a-bf48-c43dc875886a_thumb.webp"
+            }
+          ],
+          "offerId": 44591,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 40,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-20T17:36:15.620695"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T17:36:25.032368",
+    "product_id": 43073,
+    "product_name": "LOOP Red Chili Melon 3",
+    "previous_stock": 2,
+    "current_stock": 32,
+    "change": 30,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T17:36:25.032368",
+    "product_id": 43071,
+    "product_name": "LOOP Habanero Mint 4",
+    "previous_stock": 4,
+    "current_stock": 34,
+    "change": 30,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-20T17:36:25.032368",
+    "product_id": 43086,
+    "product_name": "VELO Crispy Peppermint 3",
+    "stock": 40,
+    "details": {
+      "id": 43086,
+      "code": "30192468",
+      "name": "VELO Crispy Peppermint 3",
+      "slug": "velo-crispy-peppermint-3-43086",
+      "category_id": 2805,
+      "category_name": "VELO",
+      "category_path": "Nicotine > Pouches > VELO",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/75797e26-12d2-44fd-a543-ca139de0fd74.webp",
+      "price": 99000,
+      "discount_price": null,
+      "stock": {
+        "H495": 40
+      },
+      "total_stock": 40,
+      "variants": [
+        {
+          "sku": "30192468",
+          "name": "VELO Crispy Peppermint 3",
+          "price": 99000,
+          "value": "10mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/75797e26-12d2-44fd-a543-ca139de0fd74.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/75797e26-12d2-44fd-a543-ca139de0fd74_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/75797e26-12d2-44fd-a543-ca139de0fd74_thumb.webp"
+            }
+          ],
+          "offerId": 44588,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 40,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-20T17:36:16.168561"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-20T17:36:25.032368",
+    "product_id": 46258,
+    "product_name": "THOR Frost Kick 5",
+    "stock": 20,
+    "details": {
+      "id": 46258,
+      "code": "30234745",
+      "name": "THOR Frost Kick 5",
+      "slug": "thor-frost-kick-5-46258",
+      "category_id": 5676,
+      "category_name": "THOR",
+      "category_path": "Nicotine > Pouches > THOR",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/1712357d-7954-4d68-a676-7e52fade9a77.webp",
+      "price": 109000,
+      "discount_price": null,
+      "stock": {
+        "H495": 20
+      },
+      "total_stock": 20,
+      "variants": [
+        {
+          "sku": "30234745",
+          "name": "THOR Frost Kick 5",
+          "price": 109000,
+          "value": "12mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/1712357d-7954-4d68-a676-7e52fade9a77.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/1712357d-7954-4d68-a676-7e52fade9a77_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/1712357d-7954-4d68-a676-7e52fade9a77_thumb.webp"
+            }
+          ],
+          "offerId": 47802,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 20,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-20T17:36:16.904629"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-20T17:36:25.032368",
+    "product_id": 46259,
+    "product_name": "THOR Honeymelon 5",
+    "stock": 20,
+    "details": {
+      "id": 46259,
+      "code": "30234746",
+      "name": "THOR Honeymelon 5",
+      "slug": "thor-honeymelon-5-46259",
+      "category_id": 5676,
+      "category_name": "THOR",
+      "category_path": "Nicotine > Pouches > THOR",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8669173b-b594-444b-80b2-deb2dfa9d502.webp",
+      "price": 109000,
+      "discount_price": null,
+      "stock": {
+        "H495": 20
+      },
+      "total_stock": 20,
+      "variants": [
+        {
+          "sku": "30234746",
+          "name": "THOR Honeymelon 5",
+          "price": 109000,
+          "value": "12mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8669173b-b594-444b-80b2-deb2dfa9d502.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8669173b-b594-444b-80b2-deb2dfa9d502_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8669173b-b594-444b-80b2-deb2dfa9d502_thumb.webp"
+            }
+          ],
+          "offerId": 47803,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 20,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-20T17:36:16.904629"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T17:36:25.032368",
+    "product_id": 46239,
+    "product_name": "BLYS 800 Pineapple Ice",
+    "previous_stock": 8,
+    "current_stock": 28,
+    "change": 20,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T17:36:25.032368",
+    "product_id": 42515,
+    "product_name": "BLYS 800 Fresh Mint",
+    "previous_stock": 15,
+    "current_stock": 14,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T17:36:25.032368",
+    "product_id": 42514,
+    "product_name": "BLYS 800 Strawberry Ice",
+    "previous_stock": 3,
+    "current_stock": 23,
+    "change": 20,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T17:36:25.032368",
+    "product_id": 42509,
+    "product_name": "BLYS 800 Pink Lemonade",
+    "previous_stock": 15,
+    "current_stock": 10,
+    "change": -5,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-20T17:36:25.032368",
+    "product_id": 42478,
+    "product_name": "BLYS 800 Peach Blueberry",
+    "stock": 20,
+    "details": {
+      "id": 42478,
+      "code": "30222027",
+      "name": "BLYS 800 Peach Blueberry",
+      "slug": "blys-800---peach-blueberry-1stk-42478",
+      "category_id": 4516,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6179a1be-58c0-4b6b-9f02-c142af31f563.webp",
+      "price": 97000,
+      "discount_price": null,
+      "stock": {
+        "H495": 20
+      },
+      "total_stock": 20,
+      "variants": [
+        {
+          "sku": "30222027",
+          "name": "BLYS 800 Peach Blueberry",
+          "price": 97000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6179a1be-58c0-4b6b-9f02-c142af31f563.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6179a1be-58c0-4b6b-9f02-c142af31f563_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6179a1be-58c0-4b6b-9f02-c142af31f563_thumb.webp"
+            }
+          ],
+          "offerId": 43803,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 20,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-20T17:36:18.978342"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T17:36:25.032368",
+    "product_id": 42565,
+    "product_name": "BLYS ZERO Strawberry Ice",
+    "previous_stock": 5,
+    "current_stock": 25,
+    "change": 20,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T17:36:25.032368",
+    "product_id": 42505,
+    "product_name": "BLYS ZERO Blueberry Raspberry",
+    "previous_stock": 8,
+    "current_stock": 28,
+    "change": 20,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T17:36:25.032368",
+    "product_id": 46276,
+    "product_name": "ELFBAR 600 Lemon Lime",
+    "previous_stock": 6,
+    "current_stock": 26,
+    "change": 20,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T17:36:25.032368",
+    "product_id": 46278,
+    "product_name": "ELFBAR 600 Blueberry",
+    "previous_stock": 4,
+    "current_stock": 24,
+    "change": 20,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T17:36:25.032368",
+    "product_id": 46274,
+    "product_name": "ELFBAR 600 Cola",
+    "previous_stock": 4,
+    "current_stock": 24,
+    "change": 20,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-20T17:36:25.032368",
+    "product_id": 46275,
+    "product_name": "ELFBAR 600 Grape",
+    "stock": 20,
+    "details": {
+      "id": 46275,
+      "code": "30225807",
+      "name": "ELFBAR 600 Grape",
+      "slug": "elfbar-600-grape-46275",
+      "category_id": 5677,
+      "category_name": "ELFBAR",
+      "category_path": "Nicotine > Vapes > ELFBAR",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/767774fe-e58f-4c7e-a83b-b38e1da5bf95.webp",
+      "price": 99000,
+      "discount_price": null,
+      "stock": {
+        "H495": 20
+      },
+      "total_stock": 20,
+      "variants": [
+        {
+          "sku": "30225807",
+          "name": "ELFBAR 600 Grape",
+          "price": 99000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/767774fe-e58f-4c7e-a83b-b38e1da5bf95.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/767774fe-e58f-4c7e-a83b-b38e1da5bf95_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/767774fe-e58f-4c7e-a83b-b38e1da5bf95_thumb.webp"
+            }
+          ],
+          "offerId": 47819,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 20,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-20T17:36:19.572765"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T17:36:25.032368",
+    "product_id": 42434,
+    "product_name": "Pepsi Max 12x330ml",
+    "previous_stock": 99,
+    "current_stock": 98,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T17:36:25.032368",
+    "product_id": 42521,
+    "product_name": "7UP Zero 6x330ml",
+    "previous_stock": 90,
+    "current_stock": 89,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T17:36:25.032368",
+    "product_id": 42465,
+    "product_name": "Plús Blóðappelsínu 4x330ml",
+    "previous_stock": 4,
+    "current_stock": 3,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T17:36:25.032368",
+    "product_id": 42483,
+    "product_name": "Bonaqua Límónu & Sítrónu 10x330ml",
+    "previous_stock": 99,
+    "current_stock": 98,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T17:36:25.032368",
+    "product_id": 43358,
+    "product_name": "Doritos Cool American 170g",
+    "previous_stock": 94,
+    "current_stock": 93,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T17:36:25.032368",
+    "product_id": 43360,
+    "product_name": "Doritos Sweet Chili 170g",
+    "previous_stock": 93,
+    "current_stock": 92,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-20T17:36:25.032368",
+    "product_id": 42669,
+    "product_name": "Ölvisholt Classic 10x330ml",
+    "last_stock": 12
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-20T17:36:25.032368",
+    "product_id": 42636,
+    "product_name": "RVK Kopar Klassík 6x330ml",
+    "last_stock": 15
   }
 ]
