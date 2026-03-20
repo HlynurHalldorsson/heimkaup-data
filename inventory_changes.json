@@ -64037,5 +64037,131 @@
     "product_id": 42574,
     "product_name": "Stella Artois 6x330ml",
     "last_stock": 1
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T21:36:03.657353",
+    "product_id": 42733,
+    "product_name": "Víking Gylltur 12x500ml",
+    "previous_stock": 17,
+    "current_stock": 16,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-20T21:36:03.657353",
+    "product_id": 49012,
+    "product_name": "Erdinger Oktoberfest 4x500ml",
+    "stock": 1056,
+    "details": {
+      "id": 49012,
+      "code": "50000148PK4",
+      "name": "Erdinger Oktoberfest 4x500ml",
+      "slug": "erdinger-oktoberfest-4x500ml-49012",
+      "category_id": 2719,
+      "category_name": "All Seasonal Beers",
+      "category_path": "Beer > Seasonal > All Seasonal Beers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f270a16a-df15-45aa-bdc8-8bf99f659e9d.webp",
+      "price": 264000,
+      "discount_price": 132000,
+      "stock": {
+        "H495": 1056
+      },
+      "total_stock": 1056,
+      "variants": [
+        {
+          "sku": "50000148PK4",
+          "name": "Erdinger Oktoberfest 4x500ml",
+          "price": 264000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f270a16a-df15-45aa-bdc8-8bf99f659e9d.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f270a16a-df15-45aa-bdc8-8bf99f659e9d_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f270a16a-df15-45aa-bdc8-8bf99f659e9d_thumb.webp"
+            }
+          ],
+          "offerId": 50352,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 1056,
+          "discountPrice": 132000,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-20T21:35:40.530468"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T21:36:03.657353",
+    "product_id": 42685,
+    "product_name": "Tommasi Graticcio Appassionato 3L",
+    "previous_stock": 6,
+    "current_stock": 5,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T21:36:03.657353",
+    "product_id": 42810,
+    "product_name": "Barefoot Pinot Grigio 750ml",
+    "previous_stock": 42,
+    "current_stock": 41,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T21:36:03.657353",
+    "product_id": 42699,
+    "product_name": "Frontera Chardonnay 3L",
+    "previous_stock": 31,
+    "current_stock": 30,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T21:36:03.657353",
+    "product_id": 42672,
+    "product_name": "Lamberti Prosecco 200ml",
+    "previous_stock": 46,
+    "current_stock": 45,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T21:36:03.657353",
+    "product_id": 42797,
+    "product_name": "Absolut Vodka 1L",
+    "previous_stock": 6,
+    "current_stock": 5,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T21:36:03.657353",
+    "product_id": 43351,
+    "product_name": "818 Blanco 700ml",
+    "previous_stock": 6,
+    "current_stock": 5,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T21:36:03.657353",
+    "product_id": 42700,
+    "product_name": "Somersby Apple 6x330ml",
+    "previous_stock": 7,
+    "current_stock": 3,
+    "change": -4,
+    "direction": "decrease"
   }
 ]
