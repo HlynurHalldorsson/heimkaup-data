@@ -63134,5 +63134,131 @@
     "current_stock": 23,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T11:59:40.229962",
+    "product_id": 42776,
+    "product_name": "Thule 12x500ml",
+    "previous_stock": 11,
+    "current_stock": 12,
+    "change": 1,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T11:59:40.229962",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 45,
+    "current_stock": 43,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T11:59:40.229962",
+    "product_id": 47314,
+    "product_name": "Víking Páskabjór 6x330ml + 2 Víking 400ml Glass",
+    "previous_stock": 54,
+    "current_stock": 51,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-20T11:59:40.229962",
+    "product_id": 43672,
+    "product_name": "Arpeggio Catarratto 750ml",
+    "stock": 1,
+    "details": {
+      "id": 43672,
+      "code": "30234652",
+      "name": "Arpeggio Catarratto 750ml",
+      "slug": "arpeggio-catarratto-750ml-43672",
+      "category_id": 5415,
+      "category_name": "Other White Wine",
+      "category_path": "Wine > White > Other White Wine",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e590bc72-f568-4af1-8b05-c5c646783abd.webp",
+      "price": 199000,
+      "discount_price": null,
+      "stock": {
+        "H495": 1
+      },
+      "total_stock": 1,
+      "variants": [
+        {
+          "sku": "30234652",
+          "name": "Arpeggio Catarratto 750ml",
+          "price": 199000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e590bc72-f568-4af1-8b05-c5c646783abd.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e590bc72-f568-4af1-8b05-c5c646783abd_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e590bc72-f568-4af1-8b05-c5c646783abd_thumb.webp"
+            }
+          ],
+          "offerId": 45296,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 1,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-20T11:59:24.822436"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T11:59:40.229962",
+    "product_id": 42529,
+    "product_name": "Jameson 500ml",
+    "previous_stock": 13,
+    "current_stock": 15,
+    "change": 2,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T11:59:40.229962",
+    "product_id": 43013,
+    "product_name": "Tanqueray London Dry 700ml",
+    "previous_stock": 4,
+    "current_stock": 5,
+    "change": 1,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T11:59:40.229962",
+    "product_id": 46270,
+    "product_name": "ELFBAR 600 Watermelon",
+    "previous_stock": 18,
+    "current_stock": 16,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T11:59:40.229962",
+    "product_id": 42516,
+    "product_name": "Coca-Cola án sykurs 10x330ml",
+    "previous_stock": 58,
+    "current_stock": 59,
+    "change": 1,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T11:59:40.229962",
+    "product_id": 42443,
+    "product_name": "Fever Tree Ginger Ale 4x200ml",
+    "previous_stock": 11,
+    "current_stock": 12,
+    "change": 1,
+    "direction": "increase"
   }
 ]
