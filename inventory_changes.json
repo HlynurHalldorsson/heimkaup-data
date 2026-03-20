@@ -64163,5 +64163,177 @@
     "current_stock": 3,
     "change": -4,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T23:18:42.736495",
+    "product_id": 42703,
+    "product_name": "Gull 12x500ml",
+    "previous_stock": 7,
+    "current_stock": 47,
+    "change": 40,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T23:18:42.736495",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 6,
+    "current_stock": 46,
+    "change": 40,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T23:18:42.736495",
+    "product_id": 42680,
+    "product_name": "Tuborg Green 12x500ml",
+    "previous_stock": 70,
+    "current_stock": 33,
+    "change": -37,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T23:18:42.736495",
+    "product_id": 42608,
+    "product_name": "Boli Sterkur Pilsner 6x500ml",
+    "previous_stock": 1,
+    "current_stock": 13,
+    "change": 12,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T23:18:42.736495",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 33,
+    "current_stock": 83,
+    "change": 50,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T23:18:42.736495",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 36,
+    "current_stock": 136,
+    "change": 100,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-20T23:18:42.736495",
+    "product_id": 42661,
+    "product_name": "Boli X 12x330ml",
+    "stock": 40,
+    "details": {
+      "id": 42661,
+      "code": "30230734",
+      "name": "Boli X 12x330ml",
+      "slug": "boli-x-12x330ml-42661",
+      "category_id": 4239,
+      "category_name": "All Lite Beers",
+      "category_path": "Beer > Lite > All Lite Beers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/fa46213b-8bf7-49d3-865f-b573235ed87e.webp",
+      "price": 479000,
+      "discount_price": null,
+      "stock": {
+        "H495": 40
+      },
+      "total_stock": 40,
+      "variants": [
+        {
+          "sku": "30230734",
+          "name": "Boli X 12x330ml",
+          "price": 479000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/fa46213b-8bf7-49d3-865f-b573235ed87e.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/fa46213b-8bf7-49d3-865f-b573235ed87e_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/fa46213b-8bf7-49d3-865f-b573235ed87e_thumb.webp"
+            }
+          ],
+          "offerId": 43981,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 40,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-20T23:18:20.402329"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T23:18:42.736495",
+    "product_id": 49012,
+    "product_name": "Erdinger Oktoberfest 4x500ml",
+    "previous_stock": 1056,
+    "current_stock": 1053,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-20T23:18:42.736495",
+    "product_id": 42561,
+    "product_name": "Stemmari Pinot Grigio 3L",
+    "stock": 9,
+    "details": {
+      "id": 42561,
+      "code": "30230612",
+      "name": "Stemmari Pinot Grigio 3L",
+      "slug": "stemmari-pinot-grigio-3l-42561",
+      "category_id": 4335,
+      "category_name": "Boxed White Wine",
+      "category_path": "Wine > White > Boxed White Wine",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7b133b20-3ed3-43ec-83aa-5c63a7252894.webp",
+      "price": 799000,
+      "discount_price": null,
+      "stock": {
+        "H495": 9
+      },
+      "total_stock": 9,
+      "variants": [
+        {
+          "sku": "30230612",
+          "name": "Stemmari Pinot Grigio 3L",
+          "price": 799000,
+          "value": "3ltr",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7b133b20-3ed3-43ec-83aa-5c63a7252894.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7b133b20-3ed3-43ec-83aa-5c63a7252894_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7b133b20-3ed3-43ec-83aa-5c63a7252894_thumb.webp"
+            }
+          ],
+          "offerId": 43898,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 9,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-20T23:18:28.413082"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T23:18:42.736495",
+    "product_id": 42607,
+    "product_name": "Montalto Pinot Grigio 3L",
+    "previous_stock": 3,
+    "current_stock": 11,
+    "change": 8,
+    "direction": "increase"
   }
 ]
