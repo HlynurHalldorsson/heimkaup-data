@@ -63290,5 +63290,55 @@
     "current_stock": 99,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T14:00:40.504222",
+    "product_id": 42703,
+    "product_name": "Gull 12x500ml",
+    "previous_stock": 8,
+    "current_stock": 7,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T14:00:40.504222",
+    "product_id": 42680,
+    "product_name": "Tuborg Green 12x500ml",
+    "previous_stock": 71,
+    "current_stock": 70,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T14:00:40.504222",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 42,
+    "current_stock": 41,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T14:00:40.504222",
+    "product_id": 42711,
+    "product_name": "Félix Solís Mucho Mas 750ml",
+    "previous_stock": 15,
+    "current_stock": 14,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T14:00:40.504222",
+    "product_id": 42436,
+    "product_name": "Coca-Cola 10x330ml",
+    "previous_stock": 30,
+    "current_stock": 26,
+    "change": -4,
+    "direction": "decrease"
   }
 ]
