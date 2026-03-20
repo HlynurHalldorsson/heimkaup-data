@@ -63260,5 +63260,35 @@
     "current_stock": 12,
     "change": 1,
     "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T13:00:12.542022",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 43,
+    "current_stock": 42,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T13:00:12.542022",
+    "product_id": 46262,
+    "product_name": "LOOP Hot Peach 3",
+    "previous_stock": 14,
+    "current_stock": 9,
+    "change": -5,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-20T13:00:12.542022",
+    "product_id": 42434,
+    "product_name": "Pepsi Max 12x330ml",
+    "previous_stock": 100,
+    "current_stock": 99,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
