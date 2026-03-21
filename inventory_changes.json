@@ -64335,5 +64335,381 @@
     "current_stock": 11,
     "change": 8,
     "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-21T00:19:10.069842",
+    "product_id": 42574,
+    "product_name": "Stella Artois 6x330ml",
+    "stock": 12,
+    "details": {
+      "id": 42574,
+      "code": "30230635",
+      "name": "Stella Artois 6x330ml",
+      "slug": "stella-artois-6x330ml-42574",
+      "category_id": 4237,
+      "category_name": "All Lagers",
+      "category_path": "Beer > Lager > All Lagers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4c9ab1dc-8344-4007-aa1e-f0e9392befeb.webp",
+      "price": 239000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "30230635",
+          "name": "Stella Artois 6x330ml",
+          "price": 239000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4c9ab1dc-8344-4007-aa1e-f0e9392befeb.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4c9ab1dc-8344-4007-aa1e-f0e9392befeb_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4c9ab1dc-8344-4007-aa1e-f0e9392befeb_thumb.webp"
+            }
+          ],
+          "offerId": 43941,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-21T00:18:47.233636"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-21T00:19:10.069842",
+    "product_id": 42755,
+    "product_name": "Corona Extra 6x355ml (Gler)",
+    "stock": 16,
+    "details": {
+      "id": 42755,
+      "code": "30230860",
+      "name": "Corona Extra 6x355ml (Gler)",
+      "slug": "corona-extra-6x355ml-gler-42755",
+      "category_id": 4237,
+      "category_name": "All Lagers",
+      "category_path": "Beer > Lager > All Lagers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d6cb9129-a9f5-4b64-bb2d-30aa485730fb.webp",
+      "price": 285000,
+      "discount_price": null,
+      "stock": {
+        "H495": 16
+      },
+      "total_stock": 16,
+      "variants": [
+        {
+          "sku": "30230860",
+          "name": "Corona Extra 6x355ml (Gler)",
+          "price": 285000,
+          "value": "350ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d6cb9129-a9f5-4b64-bb2d-30aa485730fb.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d6cb9129-a9f5-4b64-bb2d-30aa485730fb_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d6cb9129-a9f5-4b64-bb2d-30aa485730fb_thumb.webp"
+            }
+          ],
+          "offerId": 44066,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 16,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-21T00:18:47.233636"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-21T00:19:10.069842",
+    "product_id": 42741,
+    "product_name": "Stella Artois 6x330ml (Gler)",
+    "previous_stock": 5,
+    "current_stock": 21,
+    "change": 16,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-21T00:19:10.069842",
+    "product_id": 42722,
+    "product_name": "Peroni Nastro Azzurro 6x330ml (Gler)",
+    "previous_stock": 2,
+    "current_stock": 14,
+    "change": 12,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-21T00:19:10.069842",
+    "product_id": 43596,
+    "product_name": "Villa Wolf Pinot Noir Rose 750ml",
+    "previous_stock": 2,
+    "current_stock": 8,
+    "change": 6,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-21T00:19:10.069842",
+    "product_id": 42549,
+    "product_name": "Frontera Chardonnay 750ml",
+    "stock": 12,
+    "details": {
+      "id": 42549,
+      "code": "30230607",
+      "name": "Frontera Chardonnay 750ml",
+      "slug": "frontera-chardonnay-750ml-42549",
+      "category_id": 4331,
+      "category_name": "Chardonnay",
+      "category_path": "Wine > White > Chardonnay",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d835131d-00cb-46a4-8286-297339c81c3a.webp",
+      "price": 199000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "30230607",
+          "name": "Frontera Chardonnay 750ml",
+          "price": 199000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d835131d-00cb-46a4-8286-297339c81c3a.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d835131d-00cb-46a4-8286-297339c81c3a_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d835131d-00cb-46a4-8286-297339c81c3a_thumb.webp"
+            }
+          ],
+          "offerId": 43862,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-21T00:18:53.001306"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-21T00:19:10.069842",
+    "product_id": 42531,
+    "product_name": "Viña Maipo Sauvignon Blanc Chardonnay 750ml",
+    "stock": 12,
+    "details": {
+      "id": 42531,
+      "code": "30230615",
+      "name": "Viña Maipo Sauvignon Blanc Chardonnay 750ml",
+      "slug": "vina-maipo-sauvignon-blanc-chardonnay-750ml-42531",
+      "category_id": 4252,
+      "category_name": "Sauvignon Blanc",
+      "category_path": "Wine > White > Sauvignon Blanc",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5e79fa53-a7d0-476a-9fa8-7600e5f92cb9.webp",
+      "price": 189000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "30230615",
+          "name": "Viña Maipo Sauvignon Blanc Chardonnay 750ml",
+          "price": 189000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5e79fa53-a7d0-476a-9fa8-7600e5f92cb9.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5e79fa53-a7d0-476a-9fa8-7600e5f92cb9_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5e79fa53-a7d0-476a-9fa8-7600e5f92cb9_thumb.webp"
+            }
+          ],
+          "offerId": 43891,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-21T00:18:53.270177"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-21T00:19:10.069842",
+    "product_id": 42578,
+    "product_name": "Barefoot Riesling 750ml",
+    "stock": 12,
+    "details": {
+      "id": 42578,
+      "code": "30230649",
+      "name": "Barefoot Riesling 750ml",
+      "slug": "barefoot-riesling-750ml-42578",
+      "category_id": 4332,
+      "category_name": "Riesling",
+      "category_path": "Wine > White > Riesling",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/93722d52-ebfb-4028-87c6-d52898f48a45.webp",
+      "price": 159000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "30230649",
+          "name": "Barefoot Riesling 750ml",
+          "price": 159000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/93722d52-ebfb-4028-87c6-d52898f48a45.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/93722d52-ebfb-4028-87c6-d52898f48a45_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/93722d52-ebfb-4028-87c6-d52898f48a45_thumb.webp"
+            }
+          ],
+          "offerId": 43940,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-21T00:18:53.564972"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-21T00:19:10.069842",
+    "product_id": 42670,
+    "product_name": "Muga Blanco 750ml",
+    "previous_stock": 2,
+    "current_stock": 8,
+    "change": 6,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-21T00:19:10.069842",
+    "product_id": 42541,
+    "product_name": "JP. Chenet Medium Sweet 750ml",
+    "previous_stock": 1,
+    "current_stock": 7,
+    "change": 6,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-21T00:19:10.069842",
+    "product_id": 42561,
+    "product_name": "Stemmari Pinot Grigio 3L",
+    "previous_stock": 9,
+    "current_stock": 12,
+    "change": 3,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-21T00:19:10.069842",
+    "product_id": 42526,
+    "product_name": "Van Gogh Riesling 3L",
+    "previous_stock": 4,
+    "current_stock": 16,
+    "change": 12,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-21T00:19:10.069842",
+    "product_id": 42797,
+    "product_name": "Absolut Vodka 1L",
+    "previous_stock": 5,
+    "current_stock": 23,
+    "change": 18,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-21T00:19:10.069842",
+    "product_id": 42548,
+    "product_name": "Beefeater 500ml",
+    "stock": 12,
+    "details": {
+      "id": 42548,
+      "code": "30230599",
+      "name": "Beefeater 500ml",
+      "slug": "beefeater-500ml-42548",
+      "category_id": 4272,
+      "category_name": "All Gin",
+      "category_path": "Spirits > Gin > All Gin",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/481b0731-8d8f-4a8e-aefe-774e9947d45c.webp",
+      "price": 579000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "30230599",
+          "name": "Beefeater 500ml",
+          "price": 579000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/481b0731-8d8f-4a8e-aefe-774e9947d45c.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/481b0731-8d8f-4a8e-aefe-774e9947d45c_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/481b0731-8d8f-4a8e-aefe-774e9947d45c_thumb.webp"
+            }
+          ],
+          "offerId": 43853,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-21T00:18:56.715139"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-21T00:19:10.069842",
+    "product_id": 42725,
+    "product_name": "Aalborg Jubilæums Akvavit 700ml",
+    "previous_stock": 4,
+    "current_stock": 10,
+    "change": 6,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-21T00:19:10.069842",
+    "product_id": 42809,
+    "product_name": "Bacardi Carta Blanca 700ml",
+    "previous_stock": 1,
+    "current_stock": 13,
+    "change": 12,
+    "direction": "increase"
   }
 ]
