@@ -64711,5 +64711,55 @@
     "current_stock": 13,
     "change": 12,
     "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-21T11:20:00.095509",
+    "product_id": 42661,
+    "product_name": "Boli X 12x330ml",
+    "previous_stock": 40,
+    "current_stock": 38,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-21T11:20:00.095509",
+    "product_id": 49012,
+    "product_name": "Erdinger Oktoberfest 4x500ml",
+    "previous_stock": 1053,
+    "current_stock": 1052,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-21T11:20:00.095509",
+    "product_id": 43086,
+    "product_name": "VELO Crispy Peppermint 3",
+    "previous_stock": 40,
+    "current_stock": 30,
+    "change": -10,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-21T11:20:00.095509",
+    "product_id": 48566,
+    "product_name": "Gatorade Cool Blue 6x500ml",
+    "previous_stock": 100,
+    "current_stock": 99,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-21T11:20:00.095509",
+    "product_id": 43360,
+    "product_name": "Doritos Sweet Chili 170g",
+    "previous_stock": 92,
+    "current_stock": 91,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
