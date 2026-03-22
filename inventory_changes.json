@@ -66254,5 +66254,109 @@
     "current_stock": 8,
     "change": -2,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-22T19:09:57.327228",
+    "product_id": 42709,
+    "product_name": "Heineken 4x500ml",
+    "previous_stock": 21,
+    "current_stock": 19,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-22T19:09:57.327228",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 42,
+    "current_stock": 41,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-22T19:09:57.327228",
+    "product_id": 42680,
+    "product_name": "Tuborg Green 12x500ml",
+    "previous_stock": 25,
+    "current_stock": 24,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-22T19:09:57.327228",
+    "product_id": 42615,
+    "product_name": "Boli X 12x500ml",
+    "previous_stock": 12,
+    "current_stock": 11,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-22T19:09:57.327228",
+    "product_id": 49012,
+    "product_name": "Erdinger Oktoberfest 4x500ml",
+    "previous_stock": 800,
+    "current_stock": 792,
+    "change": -8,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-22T19:09:57.327228",
+    "product_id": 47314,
+    "product_name": "Víking Páskabjór 6x330ml + 2 Víking 400ml Glass",
+    "previous_stock": 37,
+    "current_stock": 36,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-22T19:09:57.327228",
+    "product_id": 42744,
+    "product_name": "Laurent Miquel Solas Pinot Noir 750ml",
+    "previous_stock": 37,
+    "current_stock": 34,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-22T19:09:57.327228",
+    "product_id": 43200,
+    "product_name": "El Coto Blanco 750ml",
+    "previous_stock": 4,
+    "current_stock": 3,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-22T19:09:57.327228",
+    "product_id": 42634,
+    "product_name": "Jagermeister 350ml",
+    "previous_stock": 7,
+    "current_stock": 6,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-22T19:09:57.327228",
+    "product_id": 43594,
+    "product_name": "Rosemount GTR 750ml",
+    "last_stock": 1
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-22T19:09:57.327228",
+    "product_id": 43019,
+    "product_name": "Lamberti Garda Bianco 750ml",
+    "last_stock": 1
   }
 ]
