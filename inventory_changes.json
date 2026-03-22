@@ -65518,5 +65518,231 @@
     "current_stock": 89,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-22T02:11:40.748564",
+    "product_id": 42703,
+    "product_name": "Gull 12x500ml",
+    "previous_stock": 45,
+    "current_stock": 44,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-22T02:11:40.748564",
+    "product_id": 42741,
+    "product_name": "Stella Artois 6x330ml (Gler)",
+    "previous_stock": 21,
+    "current_stock": 20,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-22T02:11:40.748564",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 78,
+    "current_stock": 108,
+    "change": 30,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-22T02:11:40.748564",
+    "product_id": 49012,
+    "product_name": "Erdinger Oktoberfest 4x500ml",
+    "previous_stock": 1038,
+    "current_stock": 1034,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-22T02:11:40.748564",
+    "product_id": 42998,
+    "product_name": "Adobe Rosé Poki 1,5L",
+    "previous_stock": 22,
+    "current_stock": 21,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-22T02:11:40.748564",
+    "product_id": 42699,
+    "product_name": "Frontera Chardonnay 3L",
+    "previous_stock": 29,
+    "current_stock": 27,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-22T02:11:40.748564",
+    "product_id": 42602,
+    "product_name": "Tindavodki 500ml",
+    "previous_stock": 15,
+    "current_stock": 14,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-22T02:11:40.748564",
+    "product_id": 42797,
+    "product_name": "Absolut Vodka 1L",
+    "previous_stock": 20,
+    "current_stock": 19,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-22T02:11:40.748564",
+    "product_id": 43603,
+    "product_name": "Opal Hindberja og Lakkrís 500ml",
+    "previous_stock": 4,
+    "current_stock": 3,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-22T02:11:40.748564",
+    "product_id": 43434,
+    "product_name": "Winston Red Classic 100s Box",
+    "previous_stock": 10,
+    "current_stock": 30,
+    "change": 20,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-22T02:11:40.748564",
+    "product_id": 43356,
+    "product_name": "Winston Red Classic Box",
+    "previous_stock": 10,
+    "current_stock": 30,
+    "change": 20,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-22T02:11:40.748564",
+    "product_id": 43427,
+    "product_name": "Winston Blue 100s Box",
+    "previous_stock": 6,
+    "current_stock": 16,
+    "change": 10,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-22T02:11:40.748564",
+    "product_id": 43741,
+    "product_name": "Winston Blue Box",
+    "stock": 10,
+    "details": {
+      "id": 43741,
+      "code": "10000063",
+      "name": "Winston Blue Box",
+      "slug": "winston-blue-box-43741",
+      "category_id": 5315,
+      "category_name": "Winston",
+      "category_path": "Nicotine > Cigarettes > Winston",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/81ba8778-2e0e-4149-a09a-6421836d8737.webp",
+      "price": 199000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "10000063",
+          "name": "Winston Blue Box",
+          "price": 199000,
+          "value": "0.5mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/81ba8778-2e0e-4149-a09a-6421836d8737.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/81ba8778-2e0e-4149-a09a-6421836d8737_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/81ba8778-2e0e-4149-a09a-6421836d8737_thumb.webp"
+            }
+          ],
+          "offerId": 45362,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-22T02:11:35.942743"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-22T02:11:40.748564",
+    "product_id": 43739,
+    "product_name": "Marlboro Beyond Blue Box",
+    "previous_stock": 10,
+    "current_stock": 20,
+    "change": 10,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-22T02:11:40.748564",
+    "product_id": 43745,
+    "product_name": "Marlboro Ice Blast Box",
+    "previous_stock": 10,
+    "current_stock": 20,
+    "change": 10,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-22T02:11:40.748564",
+    "product_id": 43749,
+    "product_name": "Marlboro Micro Touch Box",
+    "previous_stock": 10,
+    "current_stock": 20,
+    "change": 10,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-22T02:11:40.748564",
+    "product_id": 43357,
+    "product_name": "Marlboro Gold Box",
+    "previous_stock": 8,
+    "current_stock": 28,
+    "change": 20,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-22T02:11:40.748564",
+    "product_id": 43742,
+    "product_name": "Gold Coast Blue Box",
+    "previous_stock": 8,
+    "current_stock": 18,
+    "change": 10,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-22T02:11:40.748564",
+    "product_id": 43743,
+    "product_name": "Gold Coast Red Box",
+    "previous_stock": 5,
+    "current_stock": 15,
+    "change": 10,
+    "direction": "increase"
   }
 ]
