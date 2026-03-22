@@ -65744,5 +65744,95 @@
     "current_stock": 15,
     "change": 10,
     "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-22T12:34:03.957745",
+    "product_id": 42709,
+    "product_name": "Heineken 4x500ml",
+    "previous_stock": 23,
+    "current_stock": 22,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-22T12:34:03.957745",
+    "product_id": 42680,
+    "product_name": "Tuborg Green 12x500ml",
+    "previous_stock": 29,
+    "current_stock": 27,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-22T12:34:03.957745",
+    "product_id": 42608,
+    "product_name": "Boli Sterkur Pilsner 6x500ml",
+    "previous_stock": 13,
+    "current_stock": 12,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-22T12:34:03.957745",
+    "product_id": 43058,
+    "product_name": "Thule 12x330ml",
+    "previous_stock": 39,
+    "current_stock": 38,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-22T12:34:03.957745",
+    "product_id": 42822,
+    "product_name": "Víking Gylltur 12x330ml",
+    "previous_stock": 40,
+    "current_stock": 39,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-22T12:34:03.957745",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 108,
+    "current_stock": 107,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-22T12:34:03.957745",
+    "product_id": 49012,
+    "product_name": "Erdinger Oktoberfest 4x500ml",
+    "previous_stock": 1034,
+    "current_stock": 1025,
+    "change": -9,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-22T12:34:03.957745",
+    "product_id": 42687,
+    "product_name": "Tommasi Pinot Grigio 3L",
+    "previous_stock": 18,
+    "current_stock": 17,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-22T12:34:03.957745",
+    "product_id": 42536,
+    "product_name": "VES 6x330ml",
+    "previous_stock": 11,
+    "current_stock": 7,
+    "change": -4,
+    "direction": "decrease"
   }
 ]
