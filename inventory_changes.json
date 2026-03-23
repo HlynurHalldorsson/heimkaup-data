@@ -66488,5 +66488,35 @@
     "current_stock": 18,
     "change": -5,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-23T08:00:22.676370",
+    "product_id": 49012,
+    "product_name": "Erdinger Oktoberfest 4x500ml",
+    "previous_stock": 787,
+    "current_stock": 975,
+    "change": 188,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-23T08:00:22.676370",
+    "product_id": 42809,
+    "product_name": "Bacardi Carta Blanca 700ml",
+    "previous_stock": 12,
+    "current_stock": 11,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-23T08:00:22.676370",
+    "product_id": 42565,
+    "product_name": "BLYS ZERO Strawberry Ice",
+    "previous_stock": 15,
+    "current_stock": 5,
+    "change": -10,
+    "direction": "decrease"
   }
 ]
