@@ -66857,5 +66857,25 @@
     "current_stock": 93,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-23T15:04:27.863394",
+    "product_id": 42703,
+    "product_name": "Gull 12x500ml",
+    "previous_stock": 39,
+    "current_stock": 38,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-23T15:04:27.863394",
+    "product_id": 47314,
+    "product_name": "Víking Páskabjór 6x330ml + 2 Víking 400ml Glass",
+    "previous_stock": 33,
+    "current_stock": 31,
+    "change": -2,
+    "direction": "decrease"
   }
 ]
