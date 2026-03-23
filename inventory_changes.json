@@ -66518,5 +66518,46 @@
     "current_stock": 5,
     "change": -10,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-23T10:48:17.718145",
+    "product_id": 42703,
+    "product_name": "Gull 12x500ml",
+    "previous_stock": 44,
+    "current_stock": 40,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-23T10:48:17.718145",
+    "product_id": 42733,
+    "product_name": "Víking Gylltur 12x500ml",
+    "previous_stock": 13,
+    "current_stock": 12,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-23T10:48:17.718145",
+    "product_id": 42995,
+    "product_name": "Aperol Aperitivo 700ml",
+    "last_stock": 12
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-23T10:48:17.718145",
+    "product_id": 42997,
+    "product_name": "Aperol Aperitivo 1L",
+    "last_stock": 10
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-23T10:48:17.718145",
+    "product_id": 42993,
+    "product_name": "Campari 1L",
+    "last_stock": 9
   }
 ]
