@@ -66559,5 +66559,303 @@
     "product_id": 42993,
     "product_name": "Campari 1L",
     "last_stock": 9
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-23T14:03:45.045768",
+    "product_id": 42703,
+    "product_name": "Gull 12x500ml",
+    "previous_stock": 40,
+    "current_stock": 39,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-23T14:03:45.045768",
+    "product_id": 42701,
+    "product_name": "Tuborg Classic 12x500ml",
+    "previous_stock": 19,
+    "current_stock": 18,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-23T14:03:45.045768",
+    "product_id": 43050,
+    "product_name": "Víking lager 12x500ml",
+    "previous_stock": 5,
+    "current_stock": 4,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-23T14:03:45.045768",
+    "product_id": 43055,
+    "product_name": "Tuborg Classic 12x330ml",
+    "previous_stock": 35,
+    "current_stock": 34,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-23T14:03:45.045768",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 101,
+    "current_stock": 100,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-23T14:03:45.045768",
+    "product_id": 49012,
+    "product_name": "Erdinger Oktoberfest 4x500ml",
+    "previous_stock": 975,
+    "current_stock": 965,
+    "change": -10,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-23T14:03:45.045768",
+    "product_id": 47314,
+    "product_name": "Víking Páskabjór 6x330ml + 2 Víking 400ml Glass",
+    "previous_stock": 35,
+    "current_stock": 33,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-23T14:03:45.045768",
+    "product_id": 42632,
+    "product_name": "Lamberti Garda Merlot 750ml",
+    "previous_stock": 2,
+    "current_stock": 1,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-23T14:03:45.045768",
+    "product_id": 42748,
+    "product_name": "Baffo Rosso Chianti Doc 750ml",
+    "previous_stock": 12,
+    "current_stock": 11,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-23T14:03:45.045768",
+    "product_id": 42939,
+    "product_name": "Moulin de La Lagune 750ml",
+    "previous_stock": 8,
+    "current_stock": 7,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-23T14:03:45.045768",
+    "product_id": 42537,
+    "product_name": "Tommasi Le Rosse Pinot Grigio 750ml",
+    "previous_stock": 9,
+    "current_stock": 8,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-23T14:03:45.045768",
+    "product_id": 42575,
+    "product_name": "Yellow Tail Moscato 750ml",
+    "previous_stock": 4,
+    "current_stock": 3,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-23T14:03:45.045768",
+    "product_id": 43200,
+    "product_name": "El Coto Blanco 750ml",
+    "previous_stock": 3,
+    "current_stock": 1,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-23T14:03:45.045768",
+    "product_id": 42677,
+    "product_name": "Tommasi Soave Classico Le Volp 750ml",
+    "previous_stock": 4,
+    "current_stock": 3,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-23T14:03:45.045768",
+    "product_id": 42995,
+    "product_name": "Aperol Aperitivo 700ml",
+    "stock": 12,
+    "details": {
+      "id": 42995,
+      "code": "30230578",
+      "name": "Aperol Aperitivo 700ml",
+      "slug": "aperol-aperitivo-700ml-42995",
+      "category_id": 5634,
+      "category_name": "Bitters",
+      "category_path": "Spirits > Aperitif > Bitters",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d99ef0e2-cbac-4e96-8faf-56ff1585e04f.webp",
+      "price": 419000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "30230578",
+          "name": "Aperol Aperitivo 700ml",
+          "price": 419000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d99ef0e2-cbac-4e96-8faf-56ff1585e04f.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d99ef0e2-cbac-4e96-8faf-56ff1585e04f_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d99ef0e2-cbac-4e96-8faf-56ff1585e04f_thumb.webp"
+            }
+          ],
+          "offerId": 44533,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-23T14:03:32.073543"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-23T14:03:45.045768",
+    "product_id": 42997,
+    "product_name": "Aperol Aperitivo 1L",
+    "stock": 10,
+    "details": {
+      "id": 42997,
+      "code": "30230826",
+      "name": "Aperol Aperitivo 1L",
+      "slug": "aperol-aperitivo-1l-42997",
+      "category_id": 5634,
+      "category_name": "Bitters",
+      "category_path": "Spirits > Aperitif > Bitters",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b1df02f2-d31c-4c4a-90f6-09c1639fa570.webp",
+      "price": 659000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30230826",
+          "name": "Aperol Aperitivo 1L",
+          "price": 659000,
+          "value": "1ltr",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b1df02f2-d31c-4c4a-90f6-09c1639fa570.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b1df02f2-d31c-4c4a-90f6-09c1639fa570_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b1df02f2-d31c-4c4a-90f6-09c1639fa570_thumb.webp"
+            }
+          ],
+          "offerId": 44537,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-23T14:03:32.073543"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-23T14:03:45.045768",
+    "product_id": 42993,
+    "product_name": "Campari 1L",
+    "stock": 9,
+    "details": {
+      "id": 42993,
+      "code": "30230701",
+      "name": "Campari 1L",
+      "slug": "campari-1l-42993",
+      "category_id": 5634,
+      "category_name": "Bitters",
+      "category_path": "Spirits > Aperitif > Bitters",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a81034cd-d801-447f-a7c9-fdf1878b4788.webp",
+      "price": 969000,
+      "discount_price": null,
+      "stock": {
+        "H495": 9
+      },
+      "total_stock": 9,
+      "variants": [
+        {
+          "sku": "30230701",
+          "name": "Campari 1L",
+          "price": 969000,
+          "value": "1ltr",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a81034cd-d801-447f-a7c9-fdf1878b4788.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a81034cd-d801-447f-a7c9-fdf1878b4788_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a81034cd-d801-447f-a7c9-fdf1878b4788_thumb.webp"
+            }
+          ],
+          "offerId": 44520,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 9,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-23T14:03:32.073543"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-23T14:03:45.045768",
+    "product_id": 46240,
+    "product_name": "Skruf Superwhite Slim 4",
+    "previous_stock": 88,
+    "current_stock": 86,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-23T14:03:45.045768",
+    "product_id": 42434,
+    "product_name": "Pepsi Max 12x330ml",
+    "previous_stock": 94,
+    "current_stock": 93,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
