@@ -67147,5 +67147,200 @@
     "current_stock": 38,
     "change": -2,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-23T21:15:59.175728",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 38,
+    "current_stock": 37,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-23T21:15:59.175728",
+    "product_id": 42608,
+    "product_name": "Boli Sterkur Pilsner 6x500ml",
+    "previous_stock": 12,
+    "current_stock": 11,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-23T21:15:59.175728",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 127,
+    "current_stock": 126,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-23T21:15:59.175728",
+    "product_id": 49012,
+    "product_name": "Erdinger Oktoberfest 4x500ml",
+    "previous_stock": 919,
+    "current_stock": 893,
+    "change": -26,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-23T21:15:59.175728",
+    "product_id": 43666,
+    "product_name": "Folonari Montepulciano D'Abruzzo 750ml",
+    "stock": 5,
+    "details": {
+      "id": 43666,
+      "code": "30234646",
+      "name": "Folonari Montepulciano D'Abruzzo 750ml",
+      "slug": "folonari-montepulciano-43666",
+      "category_id": 5414,
+      "category_name": "Other Red Wine",
+      "category_path": "Wine > Red > Other Red Wine",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/422926d6-0e3d-4ecf-954e-ddddd45c3d40.webp",
+      "price": 209000,
+      "discount_price": null,
+      "stock": {
+        "H495": 5
+      },
+      "total_stock": 5,
+      "variants": [
+        {
+          "sku": "30234646",
+          "name": "Folonari Montepulciano D'Abruzzo 750ml",
+          "price": 209000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/422926d6-0e3d-4ecf-954e-ddddd45c3d40.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/422926d6-0e3d-4ecf-954e-ddddd45c3d40_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/422926d6-0e3d-4ecf-954e-ddddd45c3d40_thumb.webp"
+            }
+          ],
+          "offerId": 45290,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 5,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-23T21:15:40.796944"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-23T21:15:59.175728",
+    "product_id": 43706,
+    "product_name": "Riunite Rosato 750 ml",
+    "stock": 11,
+    "details": {
+      "id": 43706,
+      "code": "30234629",
+      "name": "Riunite Rosato 750 ml",
+      "slug": "riunite-rosato-750-ml-43706",
+      "category_id": 4254,
+      "category_name": "All Rosé Wines",
+      "category_path": "Wine > Rosé > All Rosé Wines",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2379cd38-8a14-4e17-8cd0-5322a22c5249.webp",
+      "price": 179000,
+      "discount_price": null,
+      "stock": {
+        "H495": 11
+      },
+      "total_stock": 11,
+      "variants": [
+        {
+          "sku": "30234629",
+          "name": "Riunite Rosato 750 ml",
+          "price": 179000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2379cd38-8a14-4e17-8cd0-5322a22c5249.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2379cd38-8a14-4e17-8cd0-5322a22c5249_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2379cd38-8a14-4e17-8cd0-5322a22c5249_thumb.webp"
+            }
+          ],
+          "offerId": 45326,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 11,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-23T21:15:41.482808"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-23T21:15:59.175728",
+    "product_id": 43707,
+    "product_name": "Maschio Prosecco Treviso 750ml",
+    "stock": 5,
+    "details": {
+      "id": 43707,
+      "code": "30234630",
+      "name": "Maschio Prosecco Treviso 750ml",
+      "slug": "maschio-prosecco-treviso-43707",
+      "category_id": 4256,
+      "category_name": "All Sparkling Wines",
+      "category_path": "Wine > Sparkling > All Sparkling Wines",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6220e006-7936-4b47-90eb-eae90a3b7228.webp",
+      "price": 239000,
+      "discount_price": null,
+      "stock": {
+        "H495": 5
+      },
+      "total_stock": 5,
+      "variants": [
+        {
+          "sku": "30234630",
+          "name": "Maschio Prosecco Treviso 750ml",
+          "price": 239000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6220e006-7936-4b47-90eb-eae90a3b7228.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6220e006-7936-4b47-90eb-eae90a3b7228_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6220e006-7936-4b47-90eb-eae90a3b7228_thumb.webp"
+            }
+          ],
+          "offerId": 45327,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 5,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-23T21:15:44.827248"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-23T21:15:59.175728",
+    "product_id": 42472,
+    "product_name": "Kristall án bragðefna 12x330ml",
+    "previous_stock": 10,
+    "current_stock": 9,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-23T21:15:59.175728",
+    "product_id": 43017,
+    "product_name": "Brennivín 500ml",
+    "last_stock": 14
   }
 ]
