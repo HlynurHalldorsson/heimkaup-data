@@ -67408,5 +67408,35 @@
       ],
       "last_updated": "2026-03-24T01:42:35.416149"
     }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-24T02:43:16.789755",
+    "product_id": 49012,
+    "product_name": "Erdinger Oktoberfest 4x500ml",
+    "previous_stock": 888,
+    "current_stock": 885,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-24T02:43:16.789755",
+    "product_id": 42724,
+    "product_name": "Finca Las Moras Malbec 750ml",
+    "previous_stock": 11,
+    "current_stock": 10,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-24T02:43:16.789755",
+    "product_id": 43603,
+    "product_name": "Opal Hindberja og Lakkrís 500ml",
+    "previous_stock": 3,
+    "current_stock": 2,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
