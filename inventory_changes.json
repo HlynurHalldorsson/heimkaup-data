@@ -67438,5 +67438,35 @@
     "current_stock": 2,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-24T11:18:52.458582",
+    "product_id": 43050,
+    "product_name": "Víking lager 12x500ml",
+    "previous_stock": 4,
+    "current_stock": 19,
+    "change": 15,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-24T11:18:52.458582",
+    "product_id": 42778,
+    "product_name": "Víking Lite 12x330ml",
+    "previous_stock": 15,
+    "current_stock": 55,
+    "change": 40,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-24T11:18:52.458582",
+    "product_id": 43667,
+    "product_name": "Folonari Chardonnay 750ml",
+    "previous_stock": 3,
+    "current_stock": 9,
+    "change": 6,
+    "direction": "increase"
   }
 ]
