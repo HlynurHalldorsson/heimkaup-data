@@ -67342,5 +67342,71 @@
     "product_id": 43017,
     "product_name": "Brennivín 500ml",
     "last_stock": 14
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-24T01:42:47.756143",
+    "product_id": 49012,
+    "product_name": "Erdinger Oktoberfest 4x500ml",
+    "previous_stock": 893,
+    "current_stock": 888,
+    "change": -5,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-24T01:42:47.756143",
+    "product_id": 42601,
+    "product_name": "Gato Negro Cabernet Sauvignon 750ml",
+    "previous_stock": 7,
+    "current_stock": 6,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-24T01:42:47.756143",
+    "product_id": 43017,
+    "product_name": "Brennivín 500ml",
+    "stock": 14,
+    "details": {
+      "id": 43017,
+      "code": "30230699",
+      "name": "Brennivín 500ml",
+      "slug": "brennivin-500ml-43017",
+      "category_id": 5632,
+      "category_name": "All Aquavit",
+      "category_path": "Spirits > Aquavit > All Aquavit",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/274b8850-b497-4f60-bd0c-4f47e3fcdf90.webp",
+      "price": 659000,
+      "discount_price": null,
+      "stock": {
+        "H495": 14
+      },
+      "total_stock": 14,
+      "variants": [
+        {
+          "sku": "30230699",
+          "name": "Brennivín 500ml",
+          "price": 659000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/274b8850-b497-4f60-bd0c-4f47e3fcdf90.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/274b8850-b497-4f60-bd0c-4f47e3fcdf90_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/274b8850-b497-4f60-bd0c-4f47e3fcdf90_thumb.webp"
+            }
+          ],
+          "offerId": 44522,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 14,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-24T01:42:35.416149"
+    }
   }
 ]
