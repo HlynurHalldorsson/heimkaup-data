@@ -67758,5 +67758,105 @@
     "current_stock": 10,
     "change": -2,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-24T21:44:45.479457",
+    "product_id": 42661,
+    "product_name": "Boli X 12x330ml",
+    "previous_stock": 37,
+    "current_stock": 29,
+    "change": -8,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-24T21:44:45.479457",
+    "product_id": 49012,
+    "product_name": "Erdinger Oktoberfest 4x500ml",
+    "previous_stock": 861,
+    "current_stock": 853,
+    "change": -8,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-24T21:44:45.479457",
+    "product_id": 43666,
+    "product_name": "Folonari Montepulciano D'Abruzzo 750ml",
+    "previous_stock": 5,
+    "current_stock": 6,
+    "change": 1,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-24T21:44:45.479457",
+    "product_id": 43706,
+    "product_name": "Riunite Rosato 750 ml",
+    "previous_stock": 11,
+    "current_stock": 12,
+    "change": 1,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-24T21:44:45.479457",
+    "product_id": 42766,
+    "product_name": "Casa Solís Chardonnay 750ml",
+    "previous_stock": 18,
+    "current_stock": 19,
+    "change": 1,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-24T21:44:45.479457",
+    "product_id": 42585,
+    "product_name": "Two Oceans Fresh & Fruity 3L",
+    "previous_stock": 18,
+    "current_stock": 15,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-24T21:44:45.479457",
+    "product_id": 43707,
+    "product_name": "Maschio Prosecco Treviso 750ml",
+    "previous_stock": 5,
+    "current_stock": 6,
+    "change": 1,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-24T21:44:45.479457",
+    "product_id": 46255,
+    "product_name": "THOR Arctic Berries 6",
+    "previous_stock": 18,
+    "current_stock": 17,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-24T21:44:45.479457",
+    "product_id": 46256,
+    "product_name": "THOR Nordic Freeze 6",
+    "previous_stock": 18,
+    "current_stock": 17,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-24T21:44:45.479457",
+    "product_id": 46257,
+    "product_name": "THOR Black Mint 6",
+    "previous_stock": 18,
+    "current_stock": 17,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
