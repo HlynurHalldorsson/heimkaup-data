@@ -67868,5 +67868,32 @@
     "current_stock": 849,
     "change": -4,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-25T09:57:27.997509",
+    "product_id": 42703,
+    "product_name": "Gull 12x500ml",
+    "previous_stock": 37,
+    "current_stock": 36,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-25T09:57:27.997509",
+    "product_id": 42733,
+    "product_name": "Víking Gylltur 12x500ml",
+    "previous_stock": 9,
+    "current_stock": 6,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-25T09:57:27.997509",
+    "product_id": 43200,
+    "product_name": "El Coto Blanco 750ml",
+    "last_stock": 1
   }
 ]
