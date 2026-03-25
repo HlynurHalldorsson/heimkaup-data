@@ -67895,5 +67895,85 @@
     "product_id": 43200,
     "product_name": "El Coto Blanco 750ml",
     "last_stock": 1
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-25T12:00:24.769083",
+    "product_id": 42680,
+    "product_name": "Tuborg Green 12x500ml",
+    "previous_stock": 23,
+    "current_stock": 22,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-25T12:00:24.769083",
+    "product_id": 49012,
+    "product_name": "Erdinger Oktoberfest 4x500ml",
+    "previous_stock": 849,
+    "current_stock": 847,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-25T12:00:24.769083",
+    "product_id": 42536,
+    "product_name": "VES 6x330ml",
+    "previous_stock": 6,
+    "current_stock": 2,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-25T12:00:24.769083",
+    "product_id": 46235,
+    "product_name": "BLYS 800 Green Citrus Grape",
+    "previous_stock": 16,
+    "current_stock": 15,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-25T12:00:24.769083",
+    "product_id": 42513,
+    "product_name": "BLYS 800 Blueberry Raspberry",
+    "previous_stock": 13,
+    "current_stock": 12,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-25T12:00:24.769083",
+    "product_id": 42509,
+    "product_name": "BLYS 800 Pink Lemonade",
+    "previous_stock": 10,
+    "current_stock": 9,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-25T12:00:24.769083",
+    "product_id": 42496,
+    "product_name": "BLYS 800 Grape Ice",
+    "previous_stock": 12,
+    "current_stock": 11,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-25T12:00:24.769083",
+    "product_id": 42478,
+    "product_name": "BLYS 800 Peach Blueberry",
+    "previous_stock": 20,
+    "current_stock": 19,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
