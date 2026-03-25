@@ -68022,5 +68022,35 @@
     "product_id": 43043,
     "product_name": "Gomez El Predilecto 750ml",
     "last_stock": 1
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-25T14:01:23.593523",
+    "product_id": 42564,
+    "product_name": "Carlsberg Elephant 6x330ml",
+    "previous_stock": 27,
+    "current_stock": 26,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-25T14:01:23.593523",
+    "product_id": 42545,
+    "product_name": "Absolut Vodka 700ml",
+    "previous_stock": 5,
+    "current_stock": 4,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-25T14:01:23.593523",
+    "product_id": 42725,
+    "product_name": "Aalborg Jubilæums Akvavit 700ml",
+    "previous_stock": 7,
+    "current_stock": 4,
+    "change": -3,
+    "direction": "decrease"
   }
 ]
