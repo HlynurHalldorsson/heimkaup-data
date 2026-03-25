@@ -67975,5 +67975,52 @@
     "current_stock": 19,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-25T13:00:53.563598",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 91,
+    "current_stock": 89,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-25T13:00:53.563598",
+    "product_id": 42939,
+    "product_name": "Moulin de La Lagune 750ml",
+    "previous_stock": 7,
+    "current_stock": 5,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-25T13:00:53.563598",
+    "product_id": 42638,
+    "product_name": "Adobe Chardonnay Poki 1,5L",
+    "previous_stock": 16,
+    "current_stock": 15,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-25T13:00:53.563598",
+    "product_id": 42797,
+    "product_name": "Absolut Vodka 1L",
+    "previous_stock": 17,
+    "current_stock": 16,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-25T13:00:53.563598",
+    "product_id": 43043,
+    "product_name": "Gomez El Predilecto 750ml",
+    "last_stock": 1
   }
 ]
