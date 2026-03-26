@@ -68413,5 +68413,67 @@
     "product_id": 43672,
     "product_name": "Arpeggio Catarratto 750ml",
     "last_stock": 1
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-26T10:27:29.624707",
+    "product_id": 43672,
+    "product_name": "Arpeggio Catarratto 750ml",
+    "stock": 1,
+    "details": {
+      "id": 43672,
+      "code": "30234652",
+      "name": "Arpeggio Catarratto 750ml",
+      "slug": "arpeggio-catarratto-750ml-43672",
+      "category_id": 5415,
+      "category_name": "Other White Wine",
+      "category_path": "Wine > White > Other White Wine",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e590bc72-f568-4af1-8b05-c5c646783abd.webp",
+      "price": 199000,
+      "discount_price": null,
+      "stock": {
+        "H495": 1
+      },
+      "total_stock": 1,
+      "variants": [
+        {
+          "sku": "30234652",
+          "name": "Arpeggio Catarratto 750ml",
+          "price": 199000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e590bc72-f568-4af1-8b05-c5c646783abd.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e590bc72-f568-4af1-8b05-c5c646783abd_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e590bc72-f568-4af1-8b05-c5c646783abd_thumb.webp"
+            }
+          ],
+          "offerId": 45296,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 1,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-26T10:27:11.874964"
+    }
+  },
+  {
+    "type": "price_change",
+    "timestamp": "2026-03-26T10:27:29.624707",
+    "product_id": 42436,
+    "product_name": "Coca-Cola 10x330ml",
+    "previous_price": 114000,
+    "current_price": 119000
+  },
+  {
+    "type": "price_change",
+    "timestamp": "2026-03-26T10:27:29.624707",
+    "product_id": 42516,
+    "product_name": "Coca-Cola án sykurs 10x330ml",
+    "previous_price": 114000,
+    "current_price": 119000
   }
 ]
