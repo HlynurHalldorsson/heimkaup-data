@@ -68745,5 +68745,35 @@
     "current_stock": 93,
     "change": 2,
     "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-26T17:06:45.330785",
+    "product_id": 49012,
+    "product_name": "Erdinger Oktoberfest 4x500ml",
+    "previous_stock": 792,
+    "current_stock": 774,
+    "change": -18,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-26T17:06:45.330785",
+    "product_id": 43085,
+    "product_name": "LOOP Smooth Mint 4",
+    "previous_stock": 30,
+    "current_stock": 20,
+    "change": -10,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-26T17:06:45.330785",
+    "product_id": 43079,
+    "product_name": "LOOP Ice Cool Mint 3",
+    "previous_stock": 20,
+    "current_stock": 15,
+    "change": -5,
+    "direction": "decrease"
   }
 ]
