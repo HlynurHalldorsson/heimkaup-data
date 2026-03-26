@@ -68475,5 +68475,65 @@
     "product_name": "Coca-Cola án sykurs 10x330ml",
     "previous_price": 114000,
     "current_price": 119000
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-26T12:28:25.895994",
+    "product_id": 42701,
+    "product_name": "Tuborg Classic 12x500ml",
+    "previous_stock": 18,
+    "current_stock": 17,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-26T12:28:25.895994",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 126,
+    "current_stock": 118,
+    "change": -8,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-26T12:28:25.895994",
+    "product_id": 49012,
+    "product_name": "Erdinger Oktoberfest 4x500ml",
+    "previous_stock": 829,
+    "current_stock": 822,
+    "change": -7,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-26T12:28:25.895994",
+    "product_id": 46240,
+    "product_name": "Skruf Superwhite Slim 4",
+    "previous_stock": 86,
+    "current_stock": 84,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-26T12:28:25.895994",
+    "product_id": 42516,
+    "product_name": "Coca-Cola án sykurs 10x330ml",
+    "previous_stock": 38,
+    "current_stock": 37,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-26T12:28:25.895994",
+    "product_id": 42472,
+    "product_name": "Kristall án bragðefna 12x330ml",
+    "previous_stock": 9,
+    "current_stock": 7,
+    "change": -2,
+    "direction": "decrease"
   }
 ]
