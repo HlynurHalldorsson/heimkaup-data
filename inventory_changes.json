@@ -71114,5 +71114,227 @@
     "current_stock": 18,
     "change": -5,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-29T13:45:04.380797",
+    "product_id": 42709,
+    "product_name": "Heineken 4x500ml",
+    "previous_stock": 5,
+    "current_stock": 3,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-29T13:45:04.380797",
+    "product_id": 42608,
+    "product_name": "Boli Sterkur Pilsner 6x500ml",
+    "previous_stock": 10,
+    "current_stock": 9,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-29T13:45:04.380797",
+    "product_id": 42722,
+    "product_name": "Peroni Nastro Azzurro 6x330ml (Gler)",
+    "previous_stock": 5,
+    "current_stock": 9,
+    "change": 4,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-29T13:45:04.380797",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 466,
+    "current_stock": 457,
+    "change": -9,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-29T13:45:04.380797",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 726,
+    "current_stock": 724,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-29T13:45:04.380797",
+    "product_id": 49012,
+    "product_name": "Erdinger Oktoberfest 4x500ml",
+    "previous_stock": 653,
+    "current_stock": 651,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-29T13:45:04.380797",
+    "product_id": 43200,
+    "product_name": "El Coto Blanco 750ml",
+    "stock": 12,
+    "details": {
+      "id": 43200,
+      "code": "30230629",
+      "name": "El Coto Blanco 750ml",
+      "slug": "el-coto-blanco-750ml-43200",
+      "category_id": 4334,
+      "category_name": "White Blends",
+      "category_path": "Wine > White > White Blends",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/058567dd-9104-41ab-a6b1-05a5500ae916.webp",
+      "price": 229000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "30230629",
+          "name": "El Coto Blanco 750ml",
+          "price": 229000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/058567dd-9104-41ab-a6b1-05a5500ae916.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/058567dd-9104-41ab-a6b1-05a5500ae916_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/058567dd-9104-41ab-a6b1-05a5500ae916_thumb.webp"
+            }
+          ],
+          "offerId": 44799,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-29T13:44:45.832238"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-29T13:45:04.380797",
+    "product_id": 42606,
+    "product_name": "Koskenkorva Vodka 500ml",
+    "previous_stock": 27,
+    "current_stock": 51,
+    "change": 24,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-29T13:45:04.380797",
+    "product_id": 42545,
+    "product_name": "Absolut Vodka 700ml",
+    "stock": 12,
+    "details": {
+      "id": 42545,
+      "code": "30230577",
+      "name": "Absolut Vodka 700ml",
+      "slug": "absolut-vodka-700ml-42545",
+      "category_id": 4261,
+      "category_name": "All Vodka",
+      "category_path": "Spirits > Vodka > All Vodka",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f0c9f944-303c-4e66-8bfe-60ea0342889f.webp",
+      "price": 779000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "30230577",
+          "name": "Absolut Vodka 700ml",
+          "price": 779000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f0c9f944-303c-4e66-8bfe-60ea0342889f.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f0c9f944-303c-4e66-8bfe-60ea0342889f_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f0c9f944-303c-4e66-8bfe-60ea0342889f_thumb.webp"
+            }
+          ],
+          "offerId": 43854,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-29T13:44:47.372890"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-29T13:45:04.380797",
+    "product_id": 42797,
+    "product_name": "Absolut Vodka 1L",
+    "previous_stock": 13,
+    "current_stock": 14,
+    "change": 1,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-29T13:45:04.380797",
+    "product_id": 42697,
+    "product_name": "Jagermeister Miniature 9x20ml",
+    "previous_stock": 5,
+    "current_stock": 3,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-29T13:45:04.380797",
+    "product_id": 42809,
+    "product_name": "Bacardi Carta Blanca 700ml",
+    "previous_stock": 8,
+    "current_stock": 7,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-29T13:45:04.380797",
+    "product_id": 42618,
+    "product_name": "PRN 6x330ml",
+    "previous_stock": 10,
+    "current_stock": 9,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-29T13:45:04.380797",
+    "product_id": 42465,
+    "product_name": "Plús Blóðappelsínu 4x330ml",
+    "previous_stock": 3,
+    "current_stock": 2,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-29T13:45:04.380797",
+    "product_id": 43360,
+    "product_name": "Doritos Sweet Chili 170g",
+    "previous_stock": 88,
+    "current_stock": 87,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
