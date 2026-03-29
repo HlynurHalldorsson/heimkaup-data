@@ -72051,5 +72051,45 @@
     "product_id": 43072,
     "product_name": "LOOP Jalapeno Lime 4",
     "last_stock": 1
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-29T20:37:00.189940",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 447,
+    "current_stock": 446,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-29T20:37:00.189940",
+    "product_id": 49012,
+    "product_name": "Erdinger Oktoberfest 4x500ml",
+    "previous_stock": 631,
+    "current_stock": 626,
+    "change": -5,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-29T20:37:00.189940",
+    "product_id": 42766,
+    "product_name": "Casa Solís Chardonnay 750ml",
+    "previous_stock": 19,
+    "current_stock": 18,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-29T20:37:00.189940",
+    "product_id": 42810,
+    "product_name": "Barefoot Pinot Grigio 750ml",
+    "previous_stock": 29,
+    "current_stock": 27,
+    "change": -2,
+    "direction": "decrease"
   }
 ]
