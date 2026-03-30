@@ -72571,5 +72571,656 @@
     "current_stock": 1,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-30T21:50:15.047890",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 25,
+    "current_stock": 24,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-30T21:50:15.047890",
+    "product_id": 42705,
+    "product_name": "Víking Sterkr 6x500ml",
+    "previous_stock": 8,
+    "current_stock": 6,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-30T21:50:15.047890",
+    "product_id": 42701,
+    "product_name": "Tuborg Classic 12x500ml",
+    "previous_stock": 12,
+    "current_stock": 7,
+    "change": -5,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-30T21:50:15.047890",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 415,
+    "current_stock": 407,
+    "change": -8,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-30T21:50:15.047890",
+    "product_id": 42710,
+    "product_name": "Víking Lite 12x500ml",
+    "previous_stock": 9,
+    "current_stock": 8,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-30T21:50:15.047890",
+    "product_id": 42615,
+    "product_name": "Boli X 12x500ml",
+    "previous_stock": 4,
+    "current_stock": 3,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-30T21:50:15.047890",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 671,
+    "current_stock": 663,
+    "change": -8,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-30T21:50:15.047890",
+    "product_id": 49012,
+    "product_name": "Erdinger Oktoberfest 4x500ml",
+    "previous_stock": 571,
+    "current_stock": 595,
+    "change": 24,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-30T21:50:15.047890",
+    "product_id": 43719,
+    "product_name": "Villa Lucia Chianti Riserva 750ml",
+    "previous_stock": 5,
+    "current_stock": 4,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-30T21:50:15.047890",
+    "product_id": 42577,
+    "product_name": "Baron De Ley Reserva 750ml",
+    "previous_stock": 3,
+    "current_stock": 2,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-30T21:50:15.047890",
+    "product_id": 49290,
+    "product_name": "Pasqua Capitolo 102 Nero d'Avola Shiraz 750ml",
+    "stock": 12,
+    "details": {
+      "id": 49290,
+      "code": "50000221",
+      "name": "Pasqua Capitolo 102 Nero d'Avola Shiraz 750ml",
+      "slug": "pasqua-capitolo-102-nero-d-avola-shiraz-750ml-49290",
+      "category_id": 4329,
+      "category_name": "Red Blends",
+      "category_path": "Wine > Red > Red Blends",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/926a762c-0b84-449a-8b9e-6eacc6768769.webp",
+      "price": 280000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "50000221",
+          "name": "Pasqua Capitolo 102 Nero d'Avola Shiraz 750ml",
+          "price": 280000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/926a762c-0b84-449a-8b9e-6eacc6768769.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/926a762c-0b84-449a-8b9e-6eacc6768769_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/926a762c-0b84-449a-8b9e-6eacc6768769_thumb.webp"
+            }
+          ],
+          "offerId": 50629,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-30T21:49:53.933314"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-30T21:50:15.047890",
+    "product_id": 49294,
+    "product_name": "Pasqua Villa Borghetti Amarone Classico 750ml",
+    "stock": 12,
+    "details": {
+      "id": 49294,
+      "code": "50000225",
+      "name": "Pasqua Villa Borghetti Amarone Classico 750ml",
+      "slug": "pasqua-villa-borghetti-amarone-classico-750ml-49294",
+      "category_id": 5414,
+      "category_name": "Other Red Wine",
+      "category_path": "Wine > Red > Other Red Wine",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/29832ace-632f-4801-b77d-364e8078c788.webp",
+      "price": 690000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "50000225",
+          "name": "Pasqua Villa Borghetti Amarone Classico 750ml",
+          "price": 690000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/29832ace-632f-4801-b77d-364e8078c788.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/29832ace-632f-4801-b77d-364e8078c788_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/29832ace-632f-4801-b77d-364e8078c788_thumb.webp"
+            }
+          ],
+          "offerId": 50633,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-30T21:49:54.434204"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-30T21:50:15.047890",
+    "product_id": 49291,
+    "product_name": "Pasqua Desire Lush & Zin Primitivo 750ml",
+    "stock": 12,
+    "details": {
+      "id": 49291,
+      "code": "50000222",
+      "name": "Pasqua Desire Lush & Zin Primitivo 750ml",
+      "slug": "pasqua-desire-lush-zin-primitivo-750ml-49291",
+      "category_id": 5414,
+      "category_name": "Other Red Wine",
+      "category_path": "Wine > Red > Other Red Wine",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/36770d9a-f36a-4164-909a-1d5dd5533010.webp",
+      "price": 310000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "50000222",
+          "name": "Pasqua Desire Lush & Zin Primitivo 750ml",
+          "price": 310000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/36770d9a-f36a-4164-909a-1d5dd5533010.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/36770d9a-f36a-4164-909a-1d5dd5533010_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/36770d9a-f36a-4164-909a-1d5dd5533010_thumb.webp"
+            }
+          ],
+          "offerId": 50630,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-30T21:49:54.434204"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-30T21:50:15.047890",
+    "product_id": 49292,
+    "product_name": "Pasqua Ripasso Valpolicella Black Label 750ml",
+    "stock": 12,
+    "details": {
+      "id": 49292,
+      "code": "50000223",
+      "name": "Pasqua Ripasso Valpolicella Black Label 750ml",
+      "slug": "pasqua-ripasso-valpolicella-black-label-750ml-49292",
+      "category_id": 5414,
+      "category_name": "Other Red Wine",
+      "category_path": "Wine > Red > Other Red Wine",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/1420ff3f-72d8-4c10-a394-08e3789eda16.webp",
+      "price": 620000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "50000223",
+          "name": "Pasqua Ripasso Valpolicella Black Label 750ml",
+          "price": 620000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/1420ff3f-72d8-4c10-a394-08e3789eda16.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/1420ff3f-72d8-4c10-a394-08e3789eda16_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/1420ff3f-72d8-4c10-a394-08e3789eda16_thumb.webp"
+            }
+          ],
+          "offerId": 50631,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-30T21:49:54.434204"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-30T21:50:15.047890",
+    "product_id": 49293,
+    "product_name": "Pasqua Valpolicella Black Label 750ml",
+    "stock": 12,
+    "details": {
+      "id": 49293,
+      "code": "50000224",
+      "name": "Pasqua Valpolicella Black Label 750ml",
+      "slug": "pasqua-valpolicella-black-label-750ml-49293",
+      "category_id": 5414,
+      "category_name": "Other Red Wine",
+      "category_path": "Wine > Red > Other Red Wine",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9dd2f3ce-572b-46f1-affa-7c44fd5a9a40.webp",
+      "price": 390000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "50000224",
+          "name": "Pasqua Valpolicella Black Label 750ml",
+          "price": 390000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9dd2f3ce-572b-46f1-affa-7c44fd5a9a40.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9dd2f3ce-572b-46f1-affa-7c44fd5a9a40_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9dd2f3ce-572b-46f1-affa-7c44fd5a9a40_thumb.webp"
+            }
+          ],
+          "offerId": 50632,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-30T21:49:54.434204"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-30T21:50:15.047890",
+    "product_id": 49286,
+    "product_name": "Pasqua Chardonnay Black Label 750ml",
+    "stock": 12,
+    "details": {
+      "id": 49286,
+      "code": "50000217",
+      "name": "Pasqua Chardonnay Black Label 750ml",
+      "slug": "pasqua-chardonnay-black-label-750ml-49286",
+      "category_id": 4331,
+      "category_name": "Chardonnay",
+      "category_path": "Wine > White > Chardonnay",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ee7d148b-0d80-44de-92f4-b259a88b377a.webp",
+      "price": 315000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "50000217",
+          "name": "Pasqua Chardonnay Black Label 750ml",
+          "price": 315000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ee7d148b-0d80-44de-92f4-b259a88b377a.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ee7d148b-0d80-44de-92f4-b259a88b377a_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ee7d148b-0d80-44de-92f4-b259a88b377a_thumb.webp"
+            }
+          ],
+          "offerId": 50625,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-30T21:49:55.461208"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-30T21:50:15.047890",
+    "product_id": 42531,
+    "product_name": "Viña Maipo Sauvignon Blanc Chardonnay 750ml",
+    "previous_stock": 7,
+    "current_stock": 6,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-30T21:50:15.047890",
+    "product_id": 42578,
+    "product_name": "Barefoot Riesling 750ml",
+    "previous_stock": 7,
+    "current_stock": 5,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-30T21:50:15.047890",
+    "product_id": 49287,
+    "product_name": "Pasqua Pinot Grigio Black Label 750ml",
+    "stock": 12,
+    "details": {
+      "id": 49287,
+      "code": "50000218",
+      "name": "Pasqua Pinot Grigio Black Label 750ml",
+      "slug": "pasqua-pinot-grigio-black-label-750ml-49287",
+      "category_id": 4333,
+      "category_name": "Pinot Grigio",
+      "category_path": "Wine > White > Pinot Grigio",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c77dffec-485d-4e6a-93dd-e92dfdb571df.webp",
+      "price": 310000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "50000218",
+          "name": "Pasqua Pinot Grigio Black Label 750ml",
+          "price": 310000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c77dffec-485d-4e6a-93dd-e92dfdb571df.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c77dffec-485d-4e6a-93dd-e92dfdb571df_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c77dffec-485d-4e6a-93dd-e92dfdb571df_thumb.webp"
+            }
+          ],
+          "offerId": 50626,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-30T21:49:56.590829"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-30T21:50:15.047890",
+    "product_id": 43016,
+    "product_name": "Montalto Pinot Grigio 750ml",
+    "previous_stock": 12,
+    "current_stock": 11,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-30T21:50:15.047890",
+    "product_id": 42537,
+    "product_name": "Tommasi Le Rosse Pinot Grigio 750ml",
+    "previous_stock": 6,
+    "current_stock": 5,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-30T21:50:15.047890",
+    "product_id": 49288,
+    "product_name": "Pasqua Villa Borghetti Soave Classico 750ml",
+    "stock": 12,
+    "details": {
+      "id": 49288,
+      "code": "50000219",
+      "name": "Pasqua Villa Borghetti Soave Classico 750ml",
+      "slug": "pasqua-villa-borghetti-coave-classico-750ml-49288",
+      "category_id": 5415,
+      "category_name": "Other White Wine",
+      "category_path": "Wine > White > Other White Wine",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c4221045-aba5-4a45-9e11-4150b09adb96.webp",
+      "price": 295000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "50000219",
+          "name": "Pasqua Villa Borghetti Soave Classico 750ml",
+          "price": 295000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c4221045-aba5-4a45-9e11-4150b09adb96.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c4221045-aba5-4a45-9e11-4150b09adb96_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c4221045-aba5-4a45-9e11-4150b09adb96_thumb.webp"
+            }
+          ],
+          "offerId": 50627,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-30T21:49:57.611669"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-30T21:50:15.047890",
+    "product_id": 49289,
+    "product_name": "Pasqua Hey French Bianco Veneto IGT Edizinoe! 750ml",
+    "stock": 12,
+    "details": {
+      "id": 49289,
+      "code": "50000220",
+      "name": "Pasqua Hey French Bianco Veneto IGT Edizinoe! 750ml",
+      "slug": "pasqua-hey-french-bianco-veneto-igt-edizinoe-750ml-49289",
+      "category_id": 5415,
+      "category_name": "Other White Wine",
+      "category_path": "Wine > White > Other White Wine",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8be7b681-8870-4257-970e-ce1bb8d8716f.webp",
+      "price": 405000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "50000220",
+          "name": "Pasqua Hey French Bianco Veneto IGT Edizinoe! 750ml",
+          "price": 405000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8be7b681-8870-4257-970e-ce1bb8d8716f.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8be7b681-8870-4257-970e-ce1bb8d8716f_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8be7b681-8870-4257-970e-ce1bb8d8716f_thumb.webp"
+            }
+          ],
+          "offerId": 50628,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-30T21:49:57.611669"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-30T21:50:15.047890",
+    "product_id": 42699,
+    "product_name": "Frontera Chardonnay 3L",
+    "previous_stock": 22,
+    "current_stock": 21,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-30T21:50:15.047890",
+    "product_id": 42618,
+    "product_name": "PRN 6x330ml",
+    "previous_stock": 6,
+    "current_stock": 5,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-30T21:50:15.047890",
+    "product_id": 42536,
+    "product_name": "VES 6x330ml",
+    "previous_stock": 16,
+    "current_stock": 15,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-30T21:50:15.047890",
+    "product_id": 42793,
+    "product_name": "Breezer Lime 4x275ml",
+    "previous_stock": 7,
+    "current_stock": 6,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-30T21:50:15.047890",
+    "product_id": 43693,
+    "product_name": "Loop Blackcurrant 3",
+    "previous_stock": 13,
+    "current_stock": 3,
+    "change": -10,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-30T21:50:15.047890",
+    "product_id": 43086,
+    "product_name": "VELO Crispy Peppermint 3",
+    "previous_stock": 20,
+    "current_stock": 15,
+    "change": -5,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-30T21:50:15.047890",
+    "product_id": 43076,
+    "product_name": "VELO Freezing Peppermint 4",
+    "previous_stock": 37,
+    "current_stock": 32,
+    "change": -5,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-30T21:50:15.047890",
+    "product_id": 43436,
+    "product_name": "Capri Menthol 100s Box",
+    "previous_stock": 6,
+    "current_stock": 5,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-30T21:50:15.047890",
+    "product_id": 43703,
+    "product_name": "Cricket T50 Lighter",
+    "previous_stock": 25,
+    "current_stock": 24,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-03-30T21:50:15.047890",
+    "product_id": 42749,
+    "product_name": "Tullamore Dew 700ml",
+    "last_stock": 1
   }
 ]
