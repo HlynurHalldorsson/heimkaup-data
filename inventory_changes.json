@@ -72521,5 +72521,55 @@
     "product_id": 42513,
     "product_name": "BLYS 800 Blueberry Raspberry",
     "last_stock": 1
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-30T17:33:43.390538",
+    "product_id": 42776,
+    "product_name": "Thule 12x500ml",
+    "previous_stock": 9,
+    "current_stock": 8,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-30T17:33:43.390538",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 419,
+    "current_stock": 415,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-30T17:33:43.390538",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 675,
+    "current_stock": 671,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-30T17:33:43.390538",
+    "product_id": 49012,
+    "product_name": "Erdinger Oktoberfest 4x500ml",
+    "previous_stock": 601,
+    "current_stock": 571,
+    "change": -30,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-30T17:33:43.390538",
+    "product_id": 47314,
+    "product_name": "Víking Páskabjór 6x330ml + 2 Víking 400ml Glass",
+    "previous_stock": 2,
+    "current_stock": 1,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
