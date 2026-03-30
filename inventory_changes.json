@@ -72214,5 +72214,25 @@
     "current_stock": 50,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-30T07:27:17.143490",
+    "product_id": 42703,
+    "product_name": "Gull 12x500ml",
+    "previous_stock": 20,
+    "current_stock": 16,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-30T07:27:17.143490",
+    "product_id": 42733,
+    "product_name": "Víking Gylltur 12x500ml",
+    "previous_stock": 3,
+    "current_stock": 2,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
