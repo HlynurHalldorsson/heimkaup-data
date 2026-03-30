@@ -72234,5 +72234,35 @@
     "current_stock": 2,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-30T11:44:20.854665",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 446,
+    "current_stock": 442,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-30T11:44:20.854665",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 689,
+    "current_stock": 678,
+    "change": -11,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-30T11:44:20.854665",
+    "product_id": 42536,
+    "product_name": "VES 6x330ml",
+    "previous_stock": 20,
+    "current_stock": 16,
+    "change": -4,
+    "direction": "decrease"
   }
 ]
