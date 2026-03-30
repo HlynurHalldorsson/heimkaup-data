@@ -72118,5 +72118,51 @@
     "product_id": 42516,
     "product_name": "Coca-Cola án sykurs 10x330ml",
     "last_stock": 37
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-30T01:24:00.316315",
+    "product_id": 42516,
+    "product_name": "Coca-Cola án sykurs 10x330ml",
+    "stock": 37,
+    "details": {
+      "id": 42516,
+      "code": "30209468",
+      "name": "Coca-Cola án sykurs 10x330ml",
+      "slug": "coca-cola-an-sykurs-10x330ml-42516",
+      "category_id": 4338,
+      "category_name": "Sugar-Free Sodas",
+      "category_path": "Soft drinks > Soda > Sugar-Free Sodas",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/69814392-8cdc-49ae-86d4-81f63d1b7d95.webp",
+      "price": 119000,
+      "discount_price": null,
+      "stock": {
+        "H495": 37
+      },
+      "total_stock": 37,
+      "variants": [
+        {
+          "sku": "30209468",
+          "name": "Coca-Cola án sykurs 10x330ml",
+          "price": 119000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/69814392-8cdc-49ae-86d4-81f63d1b7d95.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/69814392-8cdc-49ae-86d4-81f63d1b7d95_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/69814392-8cdc-49ae-86d4-81f63d1b7d95_thumb.webp"
+            }
+          ],
+          "offerId": 43823,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 37,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-30T01:23:58.154644"
+    }
   }
 ]
