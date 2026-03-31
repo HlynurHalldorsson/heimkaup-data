@@ -73232,5 +73232,177 @@
     "current_stock": 22,
     "change": -2,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-31T11:34:27.351786",
+    "product_id": 43055,
+    "product_name": "Tuborg Classic 12x330ml",
+    "previous_stock": 27,
+    "current_stock": 26,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-31T11:34:27.351786",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 407,
+    "current_stock": 394,
+    "change": -13,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-31T11:34:27.351786",
+    "product_id": 42615,
+    "product_name": "Boli X 12x500ml",
+    "previous_stock": 3,
+    "current_stock": 1,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-31T11:34:27.351786",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 663,
+    "current_stock": 660,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-31T11:34:27.351786",
+    "product_id": 49296,
+    "product_name": "Pasqua Cantine Lui Cabernet Sauvignon 750ml",
+    "stock": 12,
+    "details": {
+      "id": 49296,
+      "code": "50000227",
+      "name": "Pasqua Cantine Lui Cabernet Sauvignon 750ml",
+      "slug": "pasqua-cantine-lui-cabernet-sauvignon-750ml-49296",
+      "category_id": 4250,
+      "category_name": "Cabernet Sauvignon",
+      "category_path": "Wine > Red > Cabernet Sauvignon",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8525f305-6a3e-4f17-a2fe-bc884ab7fef3.webp",
+      "price": 565000,
+      "discount_price": 452000,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "50000227",
+          "name": "Pasqua Cantine Lui Cabernet Sauvignon 750ml",
+          "price": 565000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8525f305-6a3e-4f17-a2fe-bc884ab7fef3.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8525f305-6a3e-4f17-a2fe-bc884ab7fef3_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8525f305-6a3e-4f17-a2fe-bc884ab7fef3_thumb.webp"
+            }
+          ],
+          "offerId": 50635,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": 452000,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-31T11:34:04.348086"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-31T11:34:27.351786",
+    "product_id": 42557,
+    "product_name": "Trivento Malbec Reserve 750ml",
+    "previous_stock": 2,
+    "current_stock": 1,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-31T11:34:27.351786",
+    "product_id": 42942,
+    "product_name": "Gomez Cruzado Crianza 750ml",
+    "previous_stock": 14,
+    "current_stock": 13,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-31T11:34:27.351786",
+    "product_id": 42711,
+    "product_name": "Félix Solís Mucho Mas 750ml",
+    "previous_stock": 12,
+    "current_stock": 11,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-31T11:34:27.351786",
+    "product_id": 42654,
+    "product_name": "Château Lamothe Vincent Héritage 750ml",
+    "previous_stock": 6,
+    "current_stock": 5,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-03-31T11:34:27.351786",
+    "product_id": 49295,
+    "product_name": "Pasqua Sangiovese Puglia le Collezioni 750ml",
+    "stock": 12,
+    "details": {
+      "id": 49295,
+      "code": "50000226",
+      "name": "Pasqua Sangiovese Puglia le Collezioni 750ml",
+      "slug": "pasqua-sangiovese-puglia-le-collezioni-750ml-49295",
+      "category_id": 5414,
+      "category_name": "Other Red Wine",
+      "category_path": "Wine > Red > Other Red Wine",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e5eaca1f-6ccc-496f-9db7-5616e4bb8c2a.webp",
+      "price": 235000,
+      "discount_price": 188000,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "50000226",
+          "name": "Pasqua Sangiovese Puglia le Collezioni 750ml",
+          "price": 235000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e5eaca1f-6ccc-496f-9db7-5616e4bb8c2a.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e5eaca1f-6ccc-496f-9db7-5616e4bb8c2a_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e5eaca1f-6ccc-496f-9db7-5616e4bb8c2a_thumb.webp"
+            }
+          ],
+          "offerId": 50634,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": 188000,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-03-31T11:34:07.192922"
+    }
   }
 ]
