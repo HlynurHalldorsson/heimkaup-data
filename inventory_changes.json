@@ -73404,5 +73404,75 @@
       ],
       "last_updated": "2026-03-31T11:34:07.192922"
     }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-31T12:35:00.056813",
+    "product_id": 42680,
+    "product_name": "Tuborg Green 12x500ml",
+    "previous_stock": 69,
+    "current_stock": 67,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-31T12:35:00.056813",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 394,
+    "current_stock": 384,
+    "change": -10,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-31T12:35:00.056813",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 660,
+    "current_stock": 657,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-31T12:35:00.056813",
+    "product_id": 42593,
+    "product_name": "Barefoot White Zinfandel Rosé 750ml",
+    "previous_stock": 11,
+    "current_stock": 8,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-31T12:35:00.056813",
+    "product_id": 42545,
+    "product_name": "Absolut Vodka 700ml",
+    "previous_stock": 10,
+    "current_stock": 9,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-31T12:35:00.056813",
+    "product_id": 42514,
+    "product_name": "BLYS 800 Strawberry Ice",
+    "previous_stock": 6,
+    "current_stock": 1,
+    "change": -5,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-03-31T12:35:00.056813",
+    "product_id": 42487,
+    "product_name": "BLYS ZERO Fresh Mint",
+    "previous_stock": 10,
+    "current_stock": 5,
+    "change": -5,
+    "direction": "decrease"
   }
 ]
