@@ -76333,5 +76333,616 @@
     "product_id": 42486,
     "product_name": "Monster Ultra White 4x500ml / Monster Ultra White 4pk",
     "last_stock": 8
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T21:30:56.212366",
+    "product_id": 42703,
+    "product_name": "Gull 12x500ml",
+    "previous_stock": 5,
+    "current_stock": 4,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T21:30:56.212366",
+    "product_id": 42701,
+    "product_name": "Tuborg Classic 12x500ml",
+    "previous_stock": 10,
+    "current_stock": 40,
+    "change": 30,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T21:30:56.212366",
+    "product_id": 42614,
+    "product_name": "Budweiser Budvar 6x500ml",
+    "previous_stock": 20,
+    "current_stock": 19,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T21:30:56.212366",
+    "product_id": 43362,
+    "product_name": "Budweiser 10x440ml",
+    "previous_stock": 12,
+    "current_stock": 11,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T21:30:56.212366",
+    "product_id": 43050,
+    "product_name": "Víking lager 12x500ml",
+    "previous_stock": 6,
+    "current_stock": 5,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T21:30:56.212366",
+    "product_id": 42574,
+    "product_name": "Stella Artois 6x330ml",
+    "previous_stock": 7,
+    "current_stock": 5,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T21:30:56.212366",
+    "product_id": 42755,
+    "product_name": "Corona Extra 6x355ml (Gler)",
+    "previous_stock": 2,
+    "current_stock": 18,
+    "change": 16,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T21:30:56.212366",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 178,
+    "current_stock": 177,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-01T21:30:56.212366",
+    "product_id": 42615,
+    "product_name": "Boli X 12x500ml",
+    "stock": 15,
+    "details": {
+      "id": 42615,
+      "code": "30230707",
+      "name": "Boli X 12x500ml",
+      "slug": "boli-x-12x500ml-42615",
+      "category_id": 4239,
+      "category_name": "All Lite Beers",
+      "category_path": "Beer > Lite > All Lite Beers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7f2a38ba-d331-47da-a1e3-fd405eff5c9a.webp",
+      "price": 580000,
+      "discount_price": null,
+      "stock": {
+        "H495": 15
+      },
+      "total_stock": 15,
+      "variants": [
+        {
+          "sku": "30230707",
+          "name": "Boli X 12x500ml",
+          "price": 580000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7f2a38ba-d331-47da-a1e3-fd405eff5c9a.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7f2a38ba-d331-47da-a1e3-fd405eff5c9a_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7f2a38ba-d331-47da-a1e3-fd405eff5c9a_thumb.webp"
+            },
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3103aee1-a7df-40e7-9162-05da61904296.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3103aee1-a7df-40e7-9162-05da61904296_orig.jpeg",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3103aee1-a7df-40e7-9162-05da61904296_thumb.webp"
+            }
+          ],
+          "offerId": 43932,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 15,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-01T21:30:20.667971"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T21:30:56.212366",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 501,
+    "current_stock": 497,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T21:30:56.212366",
+    "product_id": 49012,
+    "product_name": "Erdinger Oktoberfest 4x500ml",
+    "previous_stock": 499,
+    "current_stock": 488,
+    "change": -11,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T21:30:56.212366",
+    "product_id": 42601,
+    "product_name": "Gato Negro Cabernet Sauvignon 750ml",
+    "previous_stock": 11,
+    "current_stock": 10,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T21:30:56.212366",
+    "product_id": 42581,
+    "product_name": "Butcher's Cut Premium Malbec 3L",
+    "previous_stock": 2,
+    "current_stock": 6,
+    "change": 4,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-01T21:30:56.212366",
+    "product_id": 42577,
+    "product_name": "Baron De Ley Reserva 750ml",
+    "stock": 6,
+    "details": {
+      "id": 42577,
+      "code": "30230626",
+      "name": "Baron De Ley Reserva 750ml",
+      "slug": "baron-de-ley-reserva-750ml-42577",
+      "category_id": 5439,
+      "category_name": "Tempranillo",
+      "category_path": "Wine > Red > Tempranillo",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4317f622-e92d-4206-b7af-66a3962cfb8d.webp",
+      "price": 319000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "30230626",
+          "name": "Baron De Ley Reserva 750ml",
+          "price": 319000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4317f622-e92d-4206-b7af-66a3962cfb8d.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4317f622-e92d-4206-b7af-66a3962cfb8d_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4317f622-e92d-4206-b7af-66a3962cfb8d_thumb.webp"
+            }
+          ],
+          "offerId": 43927,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-01T21:30:25.698449"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T21:30:56.212366",
+    "product_id": 42685,
+    "product_name": "Tommasi Graticcio Appassionato 3L",
+    "previous_stock": 1,
+    "current_stock": 5,
+    "change": 4,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T21:30:56.212366",
+    "product_id": 43598,
+    "product_name": "Heritage du Conceiller Pinot Noir Rosé 750ml",
+    "previous_stock": 3,
+    "current_stock": 2,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T21:30:56.212366",
+    "product_id": 42598,
+    "product_name": "Petit Chablis ,,Pas Si Petit\" 750ml",
+    "previous_stock": 2,
+    "current_stock": 8,
+    "change": 6,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T21:30:56.212366",
+    "product_id": 42578,
+    "product_name": "Barefoot Riesling 750ml",
+    "previous_stock": 3,
+    "current_stock": 2,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T21:30:56.212366",
+    "product_id": 42684,
+    "product_name": "Stemmari Pinot Grigio 750ml",
+    "previous_stock": 2,
+    "current_stock": 14,
+    "change": 12,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-01T21:30:56.212366",
+    "product_id": 42585,
+    "product_name": "Two Oceans Fresh & Fruity 3L",
+    "stock": 12,
+    "details": {
+      "id": 42585,
+      "code": "30230651",
+      "name": "Two Oceans Fresh & Fruity 3L",
+      "slug": "two-oceans-fresh-fruity-3l-42585",
+      "category_id": 4335,
+      "category_name": "Boxed White Wine",
+      "category_path": "Wine > White > Boxed White Wine",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9da739da-8945-4b56-a84e-9df0fc6ed4f3.webp",
+      "price": 659000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "30230651",
+          "name": "Two Oceans Fresh & Fruity 3L",
+          "price": 659000,
+          "value": "3L",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9da739da-8945-4b56-a84e-9df0fc6ed4f3.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9da739da-8945-4b56-a84e-9df0fc6ed4f3_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9da739da-8945-4b56-a84e-9df0fc6ed4f3_thumb.webp"
+            }
+          ],
+          "offerId": 43919,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-01T21:30:31.740335"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T21:30:56.212366",
+    "product_id": 42602,
+    "product_name": "Tindavodki 500ml",
+    "previous_stock": 13,
+    "current_stock": 12,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T21:30:56.212366",
+    "product_id": 42697,
+    "product_name": "Jagermeister Miniature 9x20ml",
+    "previous_stock": 3,
+    "current_stock": 13,
+    "change": 10,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T21:30:56.212366",
+    "product_id": 42700,
+    "product_name": "Somersby Apple 6x330ml",
+    "previous_stock": 14,
+    "current_stock": 13,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-01T21:30:56.212366",
+    "product_id": 42618,
+    "product_name": "PRN 6x330ml",
+    "stock": 8,
+    "details": {
+      "id": 42618,
+      "code": "30230654",
+      "name": "PRN 6x330ml",
+      "slug": "prn-6x330ml-42618",
+      "category_id": 4292,
+      "category_name": "All Mixed Drinks",
+      "category_path": "Ready-to-Drink Cocktails > Mixed > All Mixed Drinks",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9902ccec-5f86-4dbc-b218-5106d68633b0.webp",
+      "price": 304000,
+      "discount_price": null,
+      "stock": {
+        "H495": 8
+      },
+      "total_stock": 8,
+      "variants": [
+        {
+          "sku": "30230654",
+          "name": "PRN 6x330ml",
+          "price": 304000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9902ccec-5f86-4dbc-b218-5106d68633b0.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9902ccec-5f86-4dbc-b218-5106d68633b0_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9902ccec-5f86-4dbc-b218-5106d68633b0_thumb.webp"
+            }
+          ],
+          "offerId": 43920,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 8,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-01T21:30:37.063929"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T21:30:56.212366",
+    "product_id": 42536,
+    "product_name": "VES 6x330ml",
+    "previous_stock": 13,
+    "current_stock": 29,
+    "change": 16,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T21:30:56.212366",
+    "product_id": 43693,
+    "product_name": "Loop Blackcurrant 3",
+    "previous_stock": 3,
+    "current_stock": 23,
+    "change": 20,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-01T21:30:56.212366",
+    "product_id": 43085,
+    "product_name": "LOOP Smooth Mint 4",
+    "stock": 35,
+    "details": {
+      "id": 43085,
+      "code": "30202705",
+      "name": "LOOP Smooth Mint 4",
+      "slug": "loop-smooth-mint-4-43085",
+      "category_id": 2805,
+      "category_name": "LOOP",
+      "category_path": "Nicotine > Pouches > LOOP",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5196eea0-6ddc-439a-bf48-c43dc875886a.webp",
+      "price": 99000,
+      "discount_price": null,
+      "stock": {
+        "H495": 35
+      },
+      "total_stock": 35,
+      "variants": [
+        {
+          "sku": "30202705",
+          "name": "LOOP Smooth Mint 4",
+          "price": 99000,
+          "value": "12.5mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5196eea0-6ddc-439a-bf48-c43dc875886a.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5196eea0-6ddc-439a-bf48-c43dc875886a_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5196eea0-6ddc-439a-bf48-c43dc875886a_thumb.webp"
+            }
+          ],
+          "offerId": 44591,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 35,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-01T21:30:40.652693"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T21:30:56.212366",
+    "product_id": 43073,
+    "product_name": "LOOP Red Chili Melon 3",
+    "previous_stock": 32,
+    "current_stock": 62,
+    "change": 30,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-01T21:30:56.212366",
+    "product_id": 43072,
+    "product_name": "LOOP Jalapeno Lime 4",
+    "stock": 30,
+    "details": {
+      "id": 43072,
+      "code": "30202703",
+      "name": "LOOP Jalapeno Lime 4",
+      "slug": "loop-jalapeno-lime-4-43072",
+      "category_id": 2805,
+      "category_name": "LOOP",
+      "category_path": "Nicotine > Pouches > LOOP",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/184f5436-5d2b-4cee-8c3d-1b06a2ce9136.webp",
+      "price": 99000,
+      "discount_price": null,
+      "stock": {
+        "H495": 30
+      },
+      "total_stock": 30,
+      "variants": [
+        {
+          "sku": "30202703",
+          "name": "LOOP Jalapeno Lime 4",
+          "price": 99000,
+          "value": "12.5mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/184f5436-5d2b-4cee-8c3d-1b06a2ce9136.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/184f5436-5d2b-4cee-8c3d-1b06a2ce9136_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/184f5436-5d2b-4cee-8c3d-1b06a2ce9136_thumb.webp"
+            }
+          ],
+          "offerId": 44575,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 30,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-01T21:30:40.652693"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T21:30:56.212366",
+    "product_id": 43087,
+    "product_name": "ACE X Cool Mint Cosmic 5",
+    "previous_stock": 7,
+    "current_stock": 37,
+    "change": 30,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T21:30:56.212366",
+    "product_id": 46240,
+    "product_name": "Skruf Superwhite Slim 4",
+    "previous_stock": 56,
+    "current_stock": 54,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T21:30:56.212366",
+    "product_id": 42504,
+    "product_name": "BLYS 800 Strawberry Banana",
+    "previous_stock": 7,
+    "current_stock": 27,
+    "change": 20,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T21:30:56.212366",
+    "product_id": 42478,
+    "product_name": "BLYS 800 Peach Blueberry",
+    "previous_stock": 4,
+    "current_stock": 24,
+    "change": 20,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T21:30:56.212366",
+    "product_id": 47219,
+    "product_name": "BLYS POD Watermelon Ice",
+    "previous_stock": 8,
+    "current_stock": 18,
+    "change": 10,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T21:30:56.212366",
+    "product_id": 47218,
+    "product_name": "BLYS POD Strawberry Ice",
+    "previous_stock": 10,
+    "current_stock": 9,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T21:30:56.212366",
+    "product_id": 46270,
+    "product_name": "ELFBAR 600 Watermelon",
+    "previous_stock": 14,
+    "current_stock": 10,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T21:30:56.212366",
+    "product_id": 43745,
+    "product_name": "Marlboro Ice Blast Box",
+    "previous_stock": 20,
+    "current_stock": 19,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T21:30:56.212366",
+    "product_id": 42436,
+    "product_name": "Coca-Cola 10x330ml",
+    "previous_stock": 19,
+    "current_stock": 18,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T21:30:56.212366",
+    "product_id": 48566,
+    "product_name": "Gatorade Cool Blue 6x500ml",
+    "previous_stock": 99,
+    "current_stock": 98,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
