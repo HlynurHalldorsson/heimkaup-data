@@ -502,8 +502,10 @@ class HeimkaupInventoryTracker:
         timestamp = datetime.now().isoformat()
 
         # Update per-product history files
+        histories_dir = os.path.join(self.data_dir, "product_histories")
+        os.makedirs(histories_dir, exist_ok=True)
         for product in products:
-            filepath = self._get_file_path(f"product_history_{product.id}.json")
+            filepath = os.path.join(histories_dir, f"product_history_{product.id}.json")
 
             history = []
             if os.path.exists(filepath):
