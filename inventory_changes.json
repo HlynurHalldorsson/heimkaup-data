@@ -74757,5 +74757,92 @@
     "product_id": 42557,
     "product_name": "Trivento Malbec Reserve 750ml",
     "last_stock": 1
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T13:10:03.669253",
+    "product_id": 42703,
+    "product_name": "Gull 12x500ml",
+    "previous_stock": 14,
+    "current_stock": 6,
+    "change": -8,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T13:10:03.669253",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 281,
+    "current_stock": 267,
+    "change": -14,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T13:10:03.669253",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 597,
+    "current_stock": 565,
+    "change": -32,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T13:10:03.669253",
+    "product_id": 49012,
+    "product_name": "Erdinger Oktoberfest 4x500ml",
+    "previous_stock": 541,
+    "current_stock": 537,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T13:10:03.669253",
+    "product_id": 42601,
+    "product_name": "Gato Negro Cabernet Sauvignon 750ml",
+    "previous_stock": 15,
+    "current_stock": 11,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T13:10:03.669253",
+    "product_id": 42531,
+    "product_name": "Viña Maipo Sauvignon Blanc Chardonnay 750ml",
+    "previous_stock": 6,
+    "current_stock": 3,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T13:10:03.669253",
+    "product_id": 43207,
+    "product_name": "Monkey Shoulder 700ml",
+    "previous_stock": 4,
+    "current_stock": 3,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T13:10:03.669253",
+    "product_id": 46268,
+    "product_name": "VELO Freezing Peppermint 5",
+    "previous_stock": 30,
+    "current_stock": 22,
+    "change": -8,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-01T13:10:03.669253",
+    "product_id": 42577,
+    "product_name": "Baron De Ley Reserva 750ml",
+    "last_stock": 1
   }
 ]
