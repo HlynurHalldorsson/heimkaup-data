@@ -1,0 +1,43 @@
+name: Heimkaup Inventory Tracker
+
+on:
+  schedule:
+    - cron: '0,30 11-21 * * *'  # Every 30 min, 11:00-21:30 UTC (= Iceland time, no DST)
+  workflow_dispatch:              # Allow manual trigger from GitHub UI
+
+jobs:
+  track-inventory:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write  # Required to commit and push data
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Configure git identity
+        run: |
+          git config user.name "Inventory Tracker Bot"
+          git config user.email "tracker@heimkaup.is"
+
+      - name: Run inventory tracker
+        run: python3 heimkaup_inventory_tracker.py --data-dir .
+
+      - name: Commit and push changes
+        run: |
+          git add -A
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Inventory update $(date -u +'%Y-%m-%d %H:%M') UTC [skip ci]"
+            git push
+          fi
