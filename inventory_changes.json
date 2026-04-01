@@ -74844,5 +74844,369 @@
     "product_id": 42577,
     "product_name": "Baron De Ley Reserva 750ml",
     "last_stock": 1
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T14:10:36.138999",
+    "product_id": 42733,
+    "product_name": "Víking Gylltur 12x500ml",
+    "previous_stock": 52,
+    "current_stock": 50,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T14:10:36.138999",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 267,
+    "current_stock": 247,
+    "change": -20,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T14:10:36.138999",
+    "product_id": 42710,
+    "product_name": "Víking Lite 12x500ml",
+    "previous_stock": 8,
+    "current_stock": 6,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T14:10:36.138999",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 565,
+    "current_stock": 543,
+    "change": -22,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T14:10:36.138999",
+    "product_id": 42778,
+    "product_name": "Víking Lite 12x330ml",
+    "previous_stock": 47,
+    "current_stock": 46,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T14:10:36.138999",
+    "product_id": 42782,
+    "product_name": "Kaldi Ljós 10x330ml",
+    "previous_stock": 20,
+    "current_stock": 17,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T14:10:36.138999",
+    "product_id": 42661,
+    "product_name": "Boli X 12x330ml",
+    "previous_stock": 26,
+    "current_stock": 25,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T14:10:36.138999",
+    "product_id": 49012,
+    "product_name": "Erdinger Oktoberfest 4x500ml",
+    "previous_stock": 537,
+    "current_stock": 532,
+    "change": -5,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T14:10:36.138999",
+    "product_id": 42744,
+    "product_name": "Laurent Miquel Solas Pinot Noir 750ml",
+    "previous_stock": 32,
+    "current_stock": 30,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T14:10:36.138999",
+    "product_id": 42684,
+    "product_name": "Stemmari Pinot Grigio 750ml",
+    "previous_stock": 4,
+    "current_stock": 2,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T14:10:36.138999",
+    "product_id": 42725,
+    "product_name": "Aalborg Jubilæums Akvavit 700ml",
+    "previous_stock": 19,
+    "current_stock": 16,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T14:10:36.138999",
+    "product_id": 42618,
+    "product_name": "PRN 6x330ml",
+    "previous_stock": 5,
+    "current_stock": 3,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T14:10:36.138999",
+    "product_id": 46262,
+    "product_name": "LOOP Hot Peach 3",
+    "previous_stock": 9,
+    "current_stock": 39,
+    "change": 30,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T14:10:36.138999",
+    "product_id": 43096,
+    "product_name": "LOOP Jalapeno Lime 3",
+    "previous_stock": 9,
+    "current_stock": 39,
+    "change": 30,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T14:10:36.138999",
+    "product_id": 43084,
+    "product_name": "LOOP Mini Smooth Mint 2",
+    "previous_stock": 2,
+    "current_stock": 32,
+    "change": 30,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-01T14:10:36.138999",
+    "product_id": 43078,
+    "product_name": "VELO Smooth Spearmint 2",
+    "stock": 30,
+    "details": {
+      "id": 43078,
+      "code": "30192470",
+      "name": "VELO Smooth Spearmint 2",
+      "slug": "velo-smooth-spearmint-2-43078",
+      "category_id": 2805,
+      "category_name": "VELO",
+      "category_path": "Nicotine > Pouches > VELO",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f22e803f-31f2-4a6c-a035-66732a589c5e.webp",
+      "price": 79000,
+      "discount_price": null,
+      "stock": {
+        "H495": 30
+      },
+      "total_stock": 30,
+      "variants": [
+        {
+          "sku": "30192470",
+          "name": "VELO Smooth Spearmint 2",
+          "price": 79000,
+          "value": "6mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f22e803f-31f2-4a6c-a035-66732a589c5e.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f22e803f-31f2-4a6c-a035-66732a589c5e_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f22e803f-31f2-4a6c-a035-66732a589c5e_thumb.webp"
+            }
+          ],
+          "offerId": 44577,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 30,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-01T14:10:26.695613"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T14:10:36.138999",
+    "product_id": 46240,
+    "product_name": "Skruf Superwhite Slim 4",
+    "previous_stock": 66,
+    "current_stock": 58,
+    "change": -8,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-01T14:10:36.138999",
+    "product_id": 42513,
+    "product_name": "BLYS 800 Blueberry Raspberry",
+    "stock": 30,
+    "details": {
+      "id": 42513,
+      "code": "30222021",
+      "name": "BLYS 800 Blueberry Raspberry",
+      "slug": "blys-800---blueberry-raspberry-1stk-42513",
+      "category_id": 4516,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a2b03645-cbc2-40ee-b69c-91eb6b016a45.webp",
+      "price": 97000,
+      "discount_price": null,
+      "stock": {
+        "H495": 30
+      },
+      "total_stock": 30,
+      "variants": [
+        {
+          "sku": "30222021",
+          "name": "BLYS 800 Blueberry Raspberry",
+          "price": 97000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a2b03645-cbc2-40ee-b69c-91eb6b016a45.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a2b03645-cbc2-40ee-b69c-91eb6b016a45_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a2b03645-cbc2-40ee-b69c-91eb6b016a45_thumb.webp"
+            }
+          ],
+          "offerId": 43846,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 30,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-01T14:10:29.158347"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T14:10:36.138999",
+    "product_id": 42509,
+    "product_name": "BLYS 800 Pink Lemonade",
+    "previous_stock": 8,
+    "current_stock": 38,
+    "change": 30,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-01T14:10:36.138999",
+    "product_id": 42494,
+    "product_name": "BLYS 800 Watermelon Ice",
+    "stock": 30,
+    "details": {
+      "id": 42494,
+      "code": "30222023",
+      "name": "BLYS 800 Watermelon Ice",
+      "slug": "blys-800---watermelon-ice-1stk-42494",
+      "category_id": 4516,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/07e9d853-5bbe-47f3-bad9-25ea17998fa5.webp",
+      "price": 97000,
+      "discount_price": null,
+      "stock": {
+        "H495": 30
+      },
+      "total_stock": 30,
+      "variants": [
+        {
+          "sku": "30222023",
+          "name": "BLYS 800 Watermelon Ice",
+          "price": 97000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/07e9d853-5bbe-47f3-bad9-25ea17998fa5.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/07e9d853-5bbe-47f3-bad9-25ea17998fa5_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/07e9d853-5bbe-47f3-bad9-25ea17998fa5_thumb.webp"
+            }
+          ],
+          "offerId": 43817,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 30,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-01T14:10:29.158347"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-01T14:10:36.138999",
+    "product_id": 42565,
+    "product_name": "BLYS ZERO Strawberry Ice",
+    "stock": 30,
+    "details": {
+      "id": 42565,
+      "code": "30225746",
+      "name": "BLYS ZERO Strawberry Ice",
+      "slug": "blys-zero---strawberry-ice-1stk-42565",
+      "category_id": 4308,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/421c85dc-2bec-4960-af5d-ecf74d3971f8.webp",
+      "price": 97000,
+      "discount_price": null,
+      "stock": {
+        "H495": 30
+      },
+      "total_stock": 30,
+      "variants": [
+        {
+          "sku": "30225746",
+          "name": "BLYS ZERO Strawberry Ice",
+          "price": 97000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/421c85dc-2bec-4960-af5d-ecf74d3971f8.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/421c85dc-2bec-4960-af5d-ecf74d3971f8_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/421c85dc-2bec-4960-af5d-ecf74d3971f8_thumb.webp"
+            }
+          ],
+          "offerId": 43883,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 30,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-01T14:10:29.158347"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-01T14:10:36.138999",
+    "product_id": 43751,
+    "product_name": "Camel KSF Yellow Box",
+    "previous_stock": 15,
+    "current_stock": 12,
+    "change": -3,
+    "direction": "decrease"
   }
 ]
