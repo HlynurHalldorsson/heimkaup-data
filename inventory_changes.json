@@ -78845,5 +78845,65 @@
     "product_id": 42441,
     "product_name": "Kristall Mexican Lime 12x330ml",
     "last_stock": 1
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-02T20:59:36.062386",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 114,
+    "current_stock": 110,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-02T20:59:36.062386",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 437,
+    "current_stock": 436,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-02T20:59:36.062386",
+    "product_id": 49012,
+    "product_name": "Erdinger Oktoberfest 4x500ml",
+    "previous_stock": 481,
+    "current_stock": 479,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-02T20:59:36.062386",
+    "product_id": 42578,
+    "product_name": "Barefoot Riesling 750ml",
+    "previous_stock": 2,
+    "current_stock": 1,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-02T20:59:36.062386",
+    "product_id": 42621,
+    "product_name": "Barefoot Pinot Grigio 187ml",
+    "previous_stock": 12,
+    "current_stock": 10,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-02T20:59:36.062386",
+    "product_id": 42527,
+    "product_name": "Bailey's Original 700ml",
+    "previous_stock": 16,
+    "current_stock": 15,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
