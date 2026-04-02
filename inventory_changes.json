@@ -78181,5 +78181,375 @@
     "product_id": 43748,
     "product_name": "L&M Red KSF Box",
     "last_stock": 10
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-02T18:40:15.559716",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 19,
+    "current_stock": 18,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-02T18:40:15.559716",
+    "product_id": 42708,
+    "product_name": "Gull 12x330ml",
+    "previous_stock": 10,
+    "current_stock": 9,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-02T18:40:15.559716",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 128,
+    "current_stock": 123,
+    "change": -5,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-02T18:40:15.559716",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 451,
+    "current_stock": 446,
+    "change": -5,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-02T18:40:15.559716",
+    "product_id": 47314,
+    "product_name": "Víking Páskabjór 6x330ml + 2 Víking 400ml Glass",
+    "stock": 80,
+    "details": {
+      "id": 47314,
+      "code": "30230776",
+      "name": "Víking Páskabjór 6x330ml + 2 Víking 400ml Glass",
+      "slug": "viking-paskabjor-6x330ml-47314",
+      "category_id": 4529,
+      "category_name": "All Seasonal Beers",
+      "category_path": "Beer > Seasonal > All Seasonal Beers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cd8a5cfa-65e1-4ce8-808f-d6a78a2347d9.webp",
+      "price": 249000,
+      "discount_price": null,
+      "stock": {
+        "H495": 80
+      },
+      "total_stock": 80,
+      "variants": [
+        {
+          "sku": "30230776",
+          "name": "Víking Páskabjór 6x330ml + 2 Víking 400ml Glass",
+          "price": 249000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cd8a5cfa-65e1-4ce8-808f-d6a78a2347d9.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cd8a5cfa-65e1-4ce8-808f-d6a78a2347d9_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cd8a5cfa-65e1-4ce8-808f-d6a78a2347d9_thumb.webp"
+            }
+          ],
+          "offerId": 48860,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 80,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-02T18:39:46.705966"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-02T18:40:15.559716",
+    "product_id": 42601,
+    "product_name": "Gato Negro Cabernet Sauvignon 750ml",
+    "previous_stock": 10,
+    "current_stock": 9,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-02T18:40:15.559716",
+    "product_id": 42577,
+    "product_name": "Baron De Ley Reserva 750ml",
+    "previous_stock": 6,
+    "current_stock": 5,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-02T18:40:15.559716",
+    "product_id": 42681,
+    "product_name": "Tommasi Graticcio Appassionato 750ml",
+    "previous_stock": 7,
+    "current_stock": 6,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-02T18:40:15.559716",
+    "product_id": 42598,
+    "product_name": "Petit Chablis ,,Pas Si Petit\" 750ml",
+    "previous_stock": 7,
+    "current_stock": 6,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-02T18:40:15.559716",
+    "product_id": 43200,
+    "product_name": "El Coto Blanco 750ml",
+    "previous_stock": 6,
+    "current_stock": 4,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-02T18:40:15.559716",
+    "product_id": 42770,
+    "product_name": "Tosti Prosecco Rosé vegan 750ml",
+    "previous_stock": 4,
+    "current_stock": 3,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-02T18:40:15.559716",
+    "product_id": 42530,
+    "product_name": "Jack Daniels 350ml",
+    "previous_stock": 7,
+    "current_stock": 6,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-02T18:40:15.559716",
+    "product_id": 43078,
+    "product_name": "VELO Smooth Spearmint 2",
+    "previous_stock": 30,
+    "current_stock": 29,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-02T18:40:15.559716",
+    "product_id": 46239,
+    "product_name": "BLYS 800 Pineapple Ice",
+    "previous_stock": 26,
+    "current_stock": 25,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-02T18:40:15.559716",
+    "product_id": 43435,
+    "product_name": "Camel Blue Box",
+    "previous_stock": 10,
+    "current_stock": 9,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-02T18:40:15.559716",
+    "product_id": 43747,
+    "product_name": "Prince Red Box",
+    "stock": 12,
+    "details": {
+      "id": 43747,
+      "code": "10003170",
+      "name": "Prince Red Box",
+      "slug": "prince-red-box-43747",
+      "category_id": 4306,
+      "category_name": "All Other Cigarettes",
+      "category_path": "Nicotine > Cigarettes > All Other Cigarettes",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/23a672a9-3b0c-4a59-a6ed-644d29b13024.webp",
+      "price": 199000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "10003170",
+          "name": "Prince Red Box",
+          "price": 199000,
+          "value": "0.9mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/23a672a9-3b0c-4a59-a6ed-644d29b13024.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/23a672a9-3b0c-4a59-a6ed-644d29b13024_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/23a672a9-3b0c-4a59-a6ed-644d29b13024_thumb.webp"
+            }
+          ],
+          "offerId": 45368,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-02T18:40:10.935690"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-02T18:40:15.559716",
+    "product_id": 43742,
+    "product_name": "Gold Coast Blue Box",
+    "stock": 18,
+    "details": {
+      "id": 43742,
+      "code": "10003440",
+      "name": "Gold Coast Blue Box",
+      "slug": "gold-coast-blue-box-43742",
+      "category_id": 4306,
+      "category_name": "All Other Cigarettes",
+      "category_path": "Nicotine > Cigarettes > All Other Cigarettes",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e6b0554d-3fb5-4014-be49-39ef99a64b9a.webp",
+      "price": 199000,
+      "discount_price": null,
+      "stock": {
+        "H495": 18
+      },
+      "total_stock": 18,
+      "variants": [
+        {
+          "sku": "10003440",
+          "name": "Gold Coast Blue Box",
+          "price": 199000,
+          "value": "0.5mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e6b0554d-3fb5-4014-be49-39ef99a64b9a.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e6b0554d-3fb5-4014-be49-39ef99a64b9a_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e6b0554d-3fb5-4014-be49-39ef99a64b9a_thumb.webp"
+            }
+          ],
+          "offerId": 45363,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 18,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-02T18:40:10.935690"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-02T18:40:15.559716",
+    "product_id": 43743,
+    "product_name": "Gold Coast Red Box",
+    "stock": 15,
+    "details": {
+      "id": 43743,
+      "code": "10003438",
+      "name": "Gold Coast Red Box",
+      "slug": "gold-coast-red-box-43743",
+      "category_id": 4306,
+      "category_name": "All Other Cigarettes",
+      "category_path": "Nicotine > Cigarettes > All Other Cigarettes",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c0d85371-c1de-4802-acf2-a50256d30f23.webp",
+      "price": 199000,
+      "discount_price": null,
+      "stock": {
+        "H495": 15
+      },
+      "total_stock": 15,
+      "variants": [
+        {
+          "sku": "10003438",
+          "name": "Gold Coast Red Box",
+          "price": 199000,
+          "value": "0.8mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c0d85371-c1de-4802-acf2-a50256d30f23.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c0d85371-c1de-4802-acf2-a50256d30f23_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c0d85371-c1de-4802-acf2-a50256d30f23_thumb.webp"
+            }
+          ],
+          "offerId": 45364,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 15,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-02T18:40:10.935690"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-02T18:40:15.559716",
+    "product_id": 43748,
+    "product_name": "L&M Red KSF Box",
+    "stock": 10,
+    "details": {
+      "id": 43748,
+      "code": "10054704",
+      "name": "L&M Red KSF Box",
+      "slug": "l-m-red-ksf-box-43748",
+      "category_id": 4306,
+      "category_name": "All Other Cigarettes",
+      "category_path": "Nicotine > Cigarettes > All Other Cigarettes",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a66c99ee-55c4-489b-8c06-e88eba97eb5a.webp",
+      "price": 199000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "10054704",
+          "name": "L&M Red KSF Box",
+          "price": 199000,
+          "value": "0.7mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a66c99ee-55c4-489b-8c06-e88eba97eb5a.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a66c99ee-55c4-489b-8c06-e88eba97eb5a_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a66c99ee-55c4-489b-8c06-e88eba97eb5a_thumb.webp"
+            }
+          ],
+          "offerId": 45369,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-02T18:40:10.935690"
+    }
   }
 ]
