@@ -79204,5 +79204,97 @@
       ],
       "last_updated": "2026-04-03T11:29:46.790460"
     }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-03T13:41:16.885596",
+    "product_id": 49229,
+    "product_name": "Asahi Super Dry 6x330ml",
+    "stock": 8,
+    "details": {
+      "id": 49229,
+      "code": "50000100PK6",
+      "name": "Asahi Super Dry 6x330ml",
+      "slug": "asahi-super-dry-6x330ml-49229",
+      "category_id": 4237,
+      "category_name": "All Lagers",
+      "category_path": "Beer > Lager > All Lagers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/be2be76c-4007-4587-92f7-39a556c6e255.webp",
+      "price": 249000,
+      "discount_price": null,
+      "stock": {
+        "H495": 8
+      },
+      "total_stock": 8,
+      "variants": [
+        {
+          "sku": "50000100PK6",
+          "name": "Asahi Super Dry 6x330ml",
+          "price": 249000,
+          "value": "6 x 330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/be2be76c-4007-4587-92f7-39a556c6e255.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/be2be76c-4007-4587-92f7-39a556c6e255_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/be2be76c-4007-4587-92f7-39a556c6e255_thumb.webp"
+            }
+          ],
+          "offerId": 50569,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 8,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-03T13:40:50.695371"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-03T13:41:16.885596",
+    "product_id": 49230,
+    "product_name": "Jack Daniels 700ml",
+    "stock": 12,
+    "details": {
+      "id": 49230,
+      "code": "50000101",
+      "name": "Jack Daniels 700ml",
+      "slug": "jack-daniels-700ml-49230",
+      "category_id": 4269,
+      "category_name": "All Whiskey",
+      "category_path": "Spirits > Whiskey > All Whiskey",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3287f427-4eac-48fc-807a-58b0f1f68e63.webp",
+      "price": 929000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "50000101",
+          "name": "Jack Daniels 700ml",
+          "price": 929000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3287f427-4eac-48fc-807a-58b0f1f68e63.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3287f427-4eac-48fc-807a-58b0f1f68e63_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3287f427-4eac-48fc-807a-58b0f1f68e63_thumb.webp"
+            }
+          ],
+          "offerId": 50570,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-03T13:41:01.348078"
+    }
   }
 ]
