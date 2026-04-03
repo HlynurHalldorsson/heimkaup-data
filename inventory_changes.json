@@ -78965,5 +78965,244 @@
     "current_stock": 17,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-03T11:30:01.971556",
+    "product_id": 42680,
+    "product_name": "Tuborg Green 12x500ml",
+    "previous_stock": 61,
+    "current_stock": 57,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-03T11:30:01.971556",
+    "product_id": 42720,
+    "product_name": "Carlsberg 10x500ml",
+    "stock": 1,
+    "details": {
+      "id": 42720,
+      "code": "30230817",
+      "name": "Carlsberg 10x500ml",
+      "slug": "carlsberg-10x500ml-42720",
+      "category_id": 5657,
+      "category_name": "All Lagers",
+      "category_path": "Beer > Lager > All Lagers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a488ad00-fc23-4ba4-864f-0c1a762255c0.webp",
+      "price": 449000,
+      "discount_price": null,
+      "stock": {
+        "H495": 1
+      },
+      "total_stock": 1,
+      "variants": [
+        {
+          "sku": "30230817",
+          "name": "Carlsberg 10x500ml",
+          "price": 449000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a488ad00-fc23-4ba4-864f-0c1a762255c0.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a488ad00-fc23-4ba4-864f-0c1a762255c0_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a488ad00-fc23-4ba4-864f-0c1a762255c0_thumb.webp"
+            },
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d01d084d-5167-4354-a232-c5c10b11a927.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d01d084d-5167-4354-a232-c5c10b11a927_orig.jpeg",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d01d084d-5167-4354-a232-c5c10b11a927_thumb.webp"
+            }
+          ],
+          "offerId": 44013,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 1,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-03T11:29:35.819416"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-03T11:30:01.971556",
+    "product_id": 42778,
+    "product_name": "Víking Lite 12x330ml",
+    "previous_stock": 40,
+    "current_stock": 34,
+    "change": -6,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-03T11:30:01.971556",
+    "product_id": 42661,
+    "product_name": "Boli X 12x330ml",
+    "previous_stock": 17,
+    "current_stock": 12,
+    "change": -5,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-03T11:30:01.971556",
+    "product_id": 42599,
+    "product_name": "Apothic Red 750ml",
+    "stock": 6,
+    "details": {
+      "id": 42599,
+      "code": "30230645",
+      "name": "Apothic Red 750ml",
+      "slug": "apothic-red-750ml-42599",
+      "category_id": 4329,
+      "category_name": "Red Blends",
+      "category_path": "Wine > Red > Red Blends",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/38a0cddd-a1df-485c-93df-a8198f0ac0c9.webp",
+      "price": 318000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "30230645",
+          "name": "Apothic Red 750ml",
+          "price": 318000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/38a0cddd-a1df-485c-93df-a8198f0ac0c9.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/38a0cddd-a1df-485c-93df-a8198f0ac0c9_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/38a0cddd-a1df-485c-93df-a8198f0ac0c9_thumb.webp"
+            }
+          ],
+          "offerId": 43950,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-03T11:29:41.313258"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-03T11:30:01.971556",
+    "product_id": 42580,
+    "product_name": "Apothic Red 3L",
+    "previous_stock": 11,
+    "current_stock": 10,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-03T11:30:01.971556",
+    "product_id": 42528,
+    "product_name": "Bailly Lapierre Cremant Reserve Brut 750ml",
+    "stock": 18,
+    "details": {
+      "id": 42528,
+      "code": "30230620",
+      "name": "Bailly Lapierre Cremant Reserve Brut 750ml",
+      "slug": "bailly-lapierre-cremant-reserve-brut-750ml-42528",
+      "category_id": 4256,
+      "category_name": "All Sparkling Wines",
+      "category_path": "Wine > Sparkling > All Sparkling Wines",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/552beadc-ff53-46a5-b1cc-b19f930375e6.webp",
+      "price": 299000,
+      "discount_price": null,
+      "stock": {
+        "H495": 18
+      },
+      "total_stock": 18,
+      "variants": [
+        {
+          "sku": "30230620",
+          "name": "Bailly Lapierre Cremant Reserve Brut 750ml",
+          "price": 299000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/552beadc-ff53-46a5-b1cc-b19f930375e6.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/552beadc-ff53-46a5-b1cc-b19f930375e6_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/552beadc-ff53-46a5-b1cc-b19f930375e6_thumb.webp"
+            }
+          ],
+          "offerId": 43859,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 18,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-03T11:29:45.761533"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-03T11:30:01.971556",
+    "product_id": 42797,
+    "product_name": "Absolut Vodka 1L",
+    "previous_stock": 10,
+    "current_stock": 9,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-03T11:30:01.971556",
+    "product_id": 42753,
+    "product_name": "Roku Gin 700ml",
+    "stock": 5,
+    "details": {
+      "id": 42753,
+      "code": "30230865",
+      "name": "Roku Gin 700ml",
+      "slug": "roku-gin-700ml-42753",
+      "category_id": 4272,
+      "category_name": "All Gin",
+      "category_path": "Spirits > Gin > All Gin",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/281e509e-0982-4a2d-9d57-9f3127d14f87.webp",
+      "price": 999000,
+      "discount_price": null,
+      "stock": {
+        "H495": 5
+      },
+      "total_stock": 5,
+      "variants": [
+        {
+          "sku": "30230865",
+          "name": "Roku Gin 700ml",
+          "price": 999000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/281e509e-0982-4a2d-9d57-9f3127d14f87.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/281e509e-0982-4a2d-9d57-9f3127d14f87_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/281e509e-0982-4a2d-9d57-9f3127d14f87_thumb.webp"
+            }
+          ],
+          "offerId": 44068,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 5,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-03T11:29:46.790460"
+    }
   }
 ]
