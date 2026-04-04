@@ -81259,5 +81259,102 @@
     "current_stock": 46,
     "change": -2,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-04T17:30:36.748428",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 14,
+    "current_stock": 12,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-04T17:30:36.748428",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 34,
+    "current_stock": 28,
+    "change": -6,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-04T17:30:36.748428",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 404,
+    "current_stock": 402,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-04T17:30:36.748428",
+    "product_id": 49012,
+    "product_name": "Erdinger Oktoberfest 4x500ml",
+    "previous_stock": 401,
+    "current_stock": 393,
+    "change": -8,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-04T17:30:36.748428",
+    "product_id": 47314,
+    "product_name": "Víking Páskabjór 6x330ml + 2 Víking 400ml Glass",
+    "previous_stock": 69,
+    "current_stock": 68,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-04T17:30:36.748428",
+    "product_id": 42859,
+    "product_name": "Víking 2.25% 6x500ml",
+    "previous_stock": 3,
+    "current_stock": 2,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-04T17:30:36.748428",
+    "product_id": 42744,
+    "product_name": "Laurent Miquel Solas Pinot Noir 750ml",
+    "previous_stock": 25,
+    "current_stock": 24,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-04T17:30:36.748428",
+    "product_id": 43072,
+    "product_name": "LOOP Jalapeno Lime 4",
+    "previous_stock": 30,
+    "current_stock": 20,
+    "change": -10,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-04T17:30:36.748428",
+    "product_id": 46232,
+    "product_name": "BLYS 800 Jalapeno Sour",
+    "previous_stock": 18,
+    "current_stock": 17,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-04T17:30:36.748428",
+    "product_id": 43006,
+    "product_name": "COLLAB Epla & Kíví 6x330ml",
+    "last_stock": 1
   }
 ]
