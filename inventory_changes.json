@@ -81119,5 +81119,45 @@
     "product_id": 43702,
     "product_name": "Loop Zero Cool Mint",
     "last_stock": 2
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-04T16:22:02.966848",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 60,
+    "current_stock": 45,
+    "change": -15,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-04T16:22:02.966848",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 413,
+    "current_stock": 406,
+    "change": -7,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-04T16:22:02.966848",
+    "product_id": 42620,
+    "product_name": "Guinness 4x440ml",
+    "previous_stock": 3,
+    "current_stock": 2,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-04T16:22:02.966848",
+    "product_id": 43021,
+    "product_name": "Montalto Pinot Grigio 375ml",
+    "previous_stock": 6,
+    "current_stock": 5,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
