@@ -82290,5 +82290,285 @@
     "product_id": 42662,
     "product_name": "Dievole Chianti Classico 750ml",
     "last_stock": 11
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-04T21:51:53.461486",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 11,
+    "current_stock": 9,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-04T21:51:53.461486",
+    "product_id": 43050,
+    "product_name": "Víking lager 12x500ml",
+    "previous_stock": 2,
+    "current_stock": 1,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-04T21:51:53.461486",
+    "product_id": 42805,
+    "product_name": "Víking Lager 18x330ml",
+    "previous_stock": 4,
+    "current_stock": 3,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-04T21:51:53.461486",
+    "product_id": 43719,
+    "product_name": "Villa Lucia Chianti Riserva 750ml",
+    "stock": 4,
+    "details": {
+      "id": 43719,
+      "code": "30234627",
+      "name": "Villa Lucia Chianti Riserva 750ml",
+      "slug": "villa-lucia-chianti-riserva-750ml-43719",
+      "category_id": 4328,
+      "category_name": "Chianti",
+      "category_path": "Wine > Red > Chianti",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/29197847-aa5f-4cbc-bf6c-87307f451a93.webp",
+      "price": 265000,
+      "discount_price": null,
+      "stock": {
+        "H495": 4
+      },
+      "total_stock": 4,
+      "variants": [
+        {
+          "sku": "30234627",
+          "name": "Villa Lucia Chianti Riserva 750ml",
+          "price": 265000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/29197847-aa5f-4cbc-bf6c-87307f451a93.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/29197847-aa5f-4cbc-bf6c-87307f451a93_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/29197847-aa5f-4cbc-bf6c-87307f451a93_thumb.webp"
+            }
+          ],
+          "offerId": 45339,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 4,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-04T21:51:31.515753"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-04T21:51:53.461486",
+    "product_id": 43042,
+    "product_name": "Melini Chianti DOCG 750ml",
+    "stock": 8,
+    "details": {
+      "id": 43042,
+      "code": "30233854",
+      "name": "Melini Chianti DOCG 750ml",
+      "slug": "melini-chianti-docg-750ml-43042",
+      "category_id": 4328,
+      "category_name": "Chianti",
+      "category_path": "Wine > Red > Chianti",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/dea99240-515f-4ce7-9162-ae5bc92aef68.webp",
+      "price": 259000,
+      "discount_price": null,
+      "stock": {
+        "H495": 8
+      },
+      "total_stock": 8,
+      "variants": [
+        {
+          "sku": "30233854",
+          "name": "Melini Chianti DOCG 750ml",
+          "price": 259000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/dea99240-515f-4ce7-9162-ae5bc92aef68.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/dea99240-515f-4ce7-9162-ae5bc92aef68_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/dea99240-515f-4ce7-9162-ae5bc92aef68_thumb.webp"
+            }
+          ],
+          "offerId": 44549,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 8,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-04T21:51:31.515753"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-04T21:51:53.461486",
+    "product_id": 42761,
+    "product_name": "Chianti Classico Campomaggio 750ml",
+    "stock": 3,
+    "details": {
+      "id": 42761,
+      "code": "30230904",
+      "name": "Chianti Classico Campomaggio 750ml",
+      "slug": "chianti-classico-campomaggio-750ml-42761",
+      "category_id": 4328,
+      "category_name": "Chianti",
+      "category_path": "Wine > Red > Chianti",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c667d4e6-1ea5-44f8-8ade-b58ead637c69.webp",
+      "price": 372000,
+      "discount_price": null,
+      "stock": {
+        "H495": 3
+      },
+      "total_stock": 3,
+      "variants": [
+        {
+          "sku": "30230904",
+          "name": "Chianti Classico Campomaggio 750ml",
+          "price": 372000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c667d4e6-1ea5-44f8-8ade-b58ead637c69.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c667d4e6-1ea5-44f8-8ade-b58ead637c69_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c667d4e6-1ea5-44f8-8ade-b58ead637c69_thumb.webp"
+            }
+          ],
+          "offerId": 44098,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 3,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-04T21:51:31.515753"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-04T21:51:53.461486",
+    "product_id": 42748,
+    "product_name": "Baffo Rosso Chianti Doc 750ml",
+    "stock": 11,
+    "details": {
+      "id": 42748,
+      "code": "30230906",
+      "name": "Baffo Rosso Chianti Doc 750ml",
+      "slug": "baffo-rosso-chianti-doc-750ml-42748",
+      "category_id": 4328,
+      "category_name": "Chianti",
+      "category_path": "Wine > Red > Chianti",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/95aeaace-e33c-42fd-b31c-12bdc3572318.webp",
+      "price": 229000,
+      "discount_price": null,
+      "stock": {
+        "H495": 11
+      },
+      "total_stock": 11,
+      "variants": [
+        {
+          "sku": "30230906",
+          "name": "Baffo Rosso Chianti Doc 750ml",
+          "price": 229000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/95aeaace-e33c-42fd-b31c-12bdc3572318.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/95aeaace-e33c-42fd-b31c-12bdc3572318_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/95aeaace-e33c-42fd-b31c-12bdc3572318_thumb.webp"
+            }
+          ],
+          "offerId": 44095,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 11,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-04T21:51:31.515753"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-04T21:51:53.461486",
+    "product_id": 42662,
+    "product_name": "Dievole Chianti Classico 750ml",
+    "stock": 11,
+    "details": {
+      "id": 42662,
+      "code": "30230755",
+      "name": "Dievole Chianti Classico 750ml",
+      "slug": "dievole-chianti-classico-750ml-42662",
+      "category_id": 4328,
+      "category_name": "Chianti",
+      "category_path": "Wine > Red > Chianti",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e9bdc347-5644-4387-acf4-ab5691fd4349.webp",
+      "price": 439000,
+      "discount_price": null,
+      "stock": {
+        "H495": 11
+      },
+      "total_stock": 11,
+      "variants": [
+        {
+          "sku": "30230755",
+          "name": "Dievole Chianti Classico 750ml",
+          "price": 439000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e9bdc347-5644-4387-acf4-ab5691fd4349.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e9bdc347-5644-4387-acf4-ab5691fd4349_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e9bdc347-5644-4387-acf4-ab5691fd4349_thumb.webp"
+            }
+          ],
+          "offerId": 43994,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 11,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-04T21:51:31.515753"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-04T21:51:53.461486",
+    "product_id": 43693,
+    "product_name": "Loop Blackcurrant 3",
+    "previous_stock": 40,
+    "current_stock": 20,
+    "change": -20,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-04T21:51:53.461486",
+    "product_id": 43434,
+    "product_name": "Winston Red Classic 100s Box",
+    "previous_stock": 19,
+    "current_stock": 18,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
