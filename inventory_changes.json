@@ -80948,5 +80948,52 @@
     "current_stock": 19,
     "change": -7,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-04T15:23:42.481399",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 70,
+    "current_stock": 68,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-04T15:23:42.481399",
+    "product_id": 49012,
+    "product_name": "Erdinger Oktoberfest 4x500ml",
+    "previous_stock": 414,
+    "current_stock": 407,
+    "change": -7,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-04T15:23:42.481399",
+    "product_id": 47314,
+    "product_name": "Víking Páskabjór 6x330ml + 2 Víking 400ml Glass",
+    "previous_stock": 71,
+    "current_stock": 70,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-04T15:23:42.481399",
+    "product_id": 46240,
+    "product_name": "Skruf Superwhite Slim 4",
+    "previous_stock": 50,
+    "current_stock": 48,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-04T15:23:42.481399",
+    "product_id": 46235,
+    "product_name": "BLYS 800 Green Citrus Grape",
+    "last_stock": 9
   }
 ]
