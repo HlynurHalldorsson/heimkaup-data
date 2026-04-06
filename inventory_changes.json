@@ -83758,5 +83758,42 @@
     "current_stock": 8,
     "change": -2,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-06T21:02:15.669901",
+    "product_id": 49012,
+    "product_name": "Erdinger Oktoberfest 4x500ml",
+    "previous_stock": 328,
+    "current_stock": 324,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-06T21:02:15.669901",
+    "product_id": 46268,
+    "product_name": "VELO Freezing Peppermint 5",
+    "previous_stock": 22,
+    "current_stock": 14,
+    "change": -8,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-06T21:02:15.669901",
+    "product_id": 43076,
+    "product_name": "VELO Freezing Peppermint 4",
+    "previous_stock": 21,
+    "current_stock": 13,
+    "change": -8,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-06T21:02:15.669901",
+    "product_id": 42478,
+    "product_name": "BLYS 800 Peach Blueberry",
+    "last_stock": 3
   }
 ]
