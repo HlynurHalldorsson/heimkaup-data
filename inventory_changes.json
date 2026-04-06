@@ -82948,5 +82948,156 @@
     "product_id": 42577,
     "product_name": "Baron De Ley Reserva 750ml",
     "last_stock": 2
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-06T15:10:08.864861",
+    "product_id": 42776,
+    "product_name": "Thule 12x500ml",
+    "previous_stock": 4,
+    "current_stock": 3,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-06T15:10:08.864861",
+    "product_id": 42709,
+    "product_name": "Heineken 4x500ml",
+    "previous_stock": 15,
+    "current_stock": 14,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-06T15:10:08.864861",
+    "product_id": 42609,
+    "product_name": "Polar Beer 6x500ml",
+    "previous_stock": 11,
+    "current_stock": 10,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-06T15:10:08.864861",
+    "product_id": 42608,
+    "product_name": "Boli Sterkur Pilsner 6x500ml",
+    "previous_stock": 2,
+    "current_stock": 1,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-06T15:10:08.864861",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "stock": 1,
+    "details": {
+      "id": 42686,
+      "code": "30230823",
+      "name": "Gull Lite 12x500ml",
+      "slug": "gull-lite-12x500ml-42686",
+      "category_id": 2724,
+      "category_name": "All Lite Beers",
+      "category_path": "Beer > Lite > All Lite Beers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/69f7215d-4eef-4ee7-8eeb-526d94e0a4d0.webp",
+      "price": 569000,
+      "discount_price": 469000,
+      "stock": {
+        "H495": 1
+      },
+      "total_stock": 1,
+      "variants": [
+        {
+          "sku": "30230823",
+          "name": "Gull Lite 12x500ml",
+          "price": 569000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/69f7215d-4eef-4ee7-8eeb-526d94e0a4d0.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/69f7215d-4eef-4ee7-8eeb-526d94e0a4d0_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/69f7215d-4eef-4ee7-8eeb-526d94e0a4d0_thumb.webp"
+            },
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7cc022b0-9350-46f2-bd7e-f811c34a4c4f.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7cc022b0-9350-46f2-bd7e-f811c34a4c4f_orig.jpeg",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7cc022b0-9350-46f2-bd7e-f811c34a4c4f_thumb.webp"
+            }
+          ],
+          "offerId": 44039,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 1,
+          "discountPrice": 469000,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-06T15:09:41.909675"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-06T15:10:08.864861",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 368,
+    "current_stock": 367,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-06T15:10:08.864861",
+    "product_id": 49012,
+    "product_name": "Erdinger Oktoberfest 4x500ml",
+    "previous_stock": 366,
+    "current_stock": 364,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-06T15:10:08.864861",
+    "product_id": 42654,
+    "product_name": "Château Lamothe Vincent Héritage 750ml",
+    "previous_stock": 5,
+    "current_stock": 4,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-06T15:10:08.864861",
+    "product_id": 43013,
+    "product_name": "Tanqueray London Dry 700ml",
+    "previous_stock": 4,
+    "current_stock": 3,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-06T15:10:08.864861",
+    "product_id": 42997,
+    "product_name": "Aperol Aperitivo 1L",
+    "previous_stock": 3,
+    "current_stock": 7,
+    "change": 4,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-06T15:10:08.864861",
+    "product_id": 46256,
+    "product_name": "THOR Nordic Freeze 6",
+    "previous_stock": 10,
+    "current_stock": 9,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
