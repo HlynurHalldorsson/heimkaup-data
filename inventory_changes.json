@@ -83795,5 +83795,91 @@
     "product_id": 42478,
     "product_name": "BLYS 800 Peach Blueberry",
     "last_stock": 3
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-06T21:56:35.784713",
+    "product_id": 42701,
+    "product_name": "Tuborg Classic 12x500ml",
+    "previous_stock": 37,
+    "current_stock": 36,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-06T21:56:35.784713",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 236,
+    "current_stock": 235,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-06T21:56:35.784713",
+    "product_id": 46268,
+    "product_name": "VELO Freezing Peppermint 5",
+    "previous_stock": 14,
+    "current_stock": 18,
+    "change": 4,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-06T21:56:35.784713",
+    "product_id": 43076,
+    "product_name": "VELO Freezing Peppermint 4",
+    "previous_stock": 13,
+    "current_stock": 17,
+    "change": 4,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-06T21:56:35.784713",
+    "product_id": 42478,
+    "product_name": "BLYS 800 Peach Blueberry",
+    "stock": 1,
+    "details": {
+      "id": 42478,
+      "code": "30222027",
+      "name": "BLYS 800 Peach Blueberry",
+      "slug": "blys-800---peach-blueberry-1stk-42478",
+      "category_id": 4516,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6179a1be-58c0-4b6b-9f02-c142af31f563.webp",
+      "price": 97000,
+      "discount_price": null,
+      "stock": {
+        "H495": 1
+      },
+      "total_stock": 1,
+      "variants": [
+        {
+          "sku": "30222027",
+          "name": "BLYS 800 Peach Blueberry",
+          "price": 97000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6179a1be-58c0-4b6b-9f02-c142af31f563.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6179a1be-58c0-4b6b-9f02-c142af31f563_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6179a1be-58c0-4b6b-9f02-c142af31f563_thumb.webp"
+            }
+          ],
+          "offerId": 43803,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 1,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-06T21:56:24.426016"
+    }
   }
 ]
