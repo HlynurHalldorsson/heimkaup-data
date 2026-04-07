@@ -84644,5 +84644,25 @@
     "current_stock": 9,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-07T21:33:43.389208",
+    "product_id": 42701,
+    "product_name": "Tuborg Classic 12x500ml",
+    "previous_stock": 35,
+    "current_stock": 34,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-07T21:33:43.389208",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 200,
+    "current_stock": 199,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
