@@ -84594,5 +84594,55 @@
     "current_stock": 36,
     "change": -2,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-07T20:34:20.768506",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 201,
+    "current_stock": 200,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-07T20:34:20.768506",
+    "product_id": 46268,
+    "product_name": "VELO Freezing Peppermint 5",
+    "previous_stock": 18,
+    "current_stock": 28,
+    "change": 10,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-07T20:34:20.768506",
+    "product_id": 43679,
+    "product_name": "BLYS 800 Blueberry Sour Raspberry",
+    "previous_stock": 12,
+    "current_stock": 11,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-07T20:34:20.768506",
+    "product_id": 42513,
+    "product_name": "BLYS 800 Blueberry Raspberry",
+    "previous_stock": 29,
+    "current_stock": 28,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-07T20:34:20.768506",
+    "product_id": 42496,
+    "product_name": "BLYS 800 Grape Ice",
+    "previous_stock": 10,
+    "current_stock": 9,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
