@@ -84091,5 +84091,55 @@
     "current_stock": 78,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-07T16:44:41.281097",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 219,
+    "current_stock": 211,
+    "change": -8,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-07T16:44:41.281097",
+    "product_id": 49012,
+    "product_name": "Erdinger Oktoberfest 4x500ml",
+    "previous_stock": 296,
+    "current_stock": 292,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-07T16:44:41.281097",
+    "product_id": 47314,
+    "product_name": "Víking Páskabjór 6x330ml + 2 Víking 400ml Glass",
+    "previous_stock": 57,
+    "current_stock": 56,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-07T16:44:41.281097",
+    "product_id": 42634,
+    "product_name": "Jagermeister 350ml",
+    "previous_stock": 5,
+    "current_stock": 3,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-07T16:44:41.281097",
+    "product_id": 46262,
+    "product_name": "LOOP Hot Peach 3",
+    "previous_stock": 36,
+    "current_stock": 31,
+    "change": -5,
+    "direction": "decrease"
   }
 ]
