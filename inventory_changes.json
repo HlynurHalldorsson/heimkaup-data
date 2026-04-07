@@ -84328,5 +84328,191 @@
     "product_id": 46240,
     "product_name": "Skruf Superwhite Slim 4",
     "last_stock": 44
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-07T18:44:48.987653",
+    "product_id": 42564,
+    "product_name": "Carlsberg Elephant 6x330ml",
+    "previous_stock": 22,
+    "current_stock": 21,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-07T18:44:48.987653",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 204,
+    "current_stock": 203,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-07T18:44:48.987653",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 355,
+    "current_stock": 354,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-07T18:44:48.987653",
+    "product_id": 49012,
+    "product_name": "Erdinger Oktoberfest 4x500ml",
+    "previous_stock": 279,
+    "current_stock": 276,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-07T18:44:48.987653",
+    "product_id": 42606,
+    "product_name": "Koskenkorva Vodka 500ml",
+    "previous_stock": 46,
+    "current_stock": 45,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-07T18:44:48.987653",
+    "product_id": 42765,
+    "product_name": "Askur Gin 700ml",
+    "previous_stock": 28,
+    "current_stock": 27,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-07T18:44:48.987653",
+    "product_id": 46265,
+    "product_name": "LOOP Creamy Cappuccino 3",
+    "previous_stock": 18,
+    "current_stock": 17,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-07T18:44:48.987653",
+    "product_id": 46266,
+    "product_name": "LOOP Strawberry Ice 3",
+    "previous_stock": 13,
+    "current_stock": 12,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-07T18:44:48.987653",
+    "product_id": 46262,
+    "product_name": "LOOP Hot Peach 3",
+    "previous_stock": 30,
+    "current_stock": 29,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-07T18:44:48.987653",
+    "product_id": 46263,
+    "product_name": "LOOP Spicy Apple 3",
+    "previous_stock": 18,
+    "current_stock": 17,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-07T18:44:48.987653",
+    "product_id": 43096,
+    "product_name": "LOOP Jalapeno Lime 3",
+    "previous_stock": 38,
+    "current_stock": 37,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-07T18:44:48.987653",
+    "product_id": 43085,
+    "product_name": "LOOP Smooth Mint 4",
+    "previous_stock": 19,
+    "current_stock": 14,
+    "change": -5,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-07T18:44:48.987653",
+    "product_id": 43076,
+    "product_name": "VELO Freezing Peppermint 4",
+    "previous_stock": 17,
+    "current_stock": 13,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-07T18:44:48.987653",
+    "product_id": 43078,
+    "product_name": "VELO Smooth Spearmint 2",
+    "previous_stock": 18,
+    "current_stock": 8,
+    "change": -10,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-07T18:44:48.987653",
+    "product_id": 46240,
+    "product_name": "Skruf Superwhite Slim 4",
+    "stock": 38,
+    "details": {
+      "id": 46240,
+      "code": "30234488",
+      "name": "Skruf Superwhite Slim 4",
+      "slug": "skruf-superwhite-slim-4-46240",
+      "category_id": 5675,
+      "category_name": "Skruf",
+      "category_path": "Nicotine > Pouches > Skruf",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7ef0c61b-ffd6-4fe7-b7f5-e59a54e0c9c4.webp",
+      "price": 123000,
+      "discount_price": null,
+      "stock": {
+        "H495": 38
+      },
+      "total_stock": 38,
+      "variants": [
+        {
+          "sku": "30234488",
+          "name": "Skruf Superwhite Slim 4",
+          "price": 123000,
+          "value": "11gm/pouch",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7ef0c61b-ffd6-4fe7-b7f5-e59a54e0c9c4.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7ef0c61b-ffd6-4fe7-b7f5-e59a54e0c9c4_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7ef0c61b-ffd6-4fe7-b7f5-e59a54e0c9c4_thumb.webp"
+            }
+          ],
+          "offerId": 47784,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 38,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-07T18:44:40.578492"
+    }
   }
 ]
