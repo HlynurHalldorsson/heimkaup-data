@@ -85124,5 +85124,136 @@
     "current_stock": 14,
     "change": -4,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-08T17:57:17.539719",
+    "product_id": 43058,
+    "product_name": "Thule 12x330ml",
+    "previous_stock": 25,
+    "current_stock": 15,
+    "change": -10,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-08T17:57:17.539719",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 175,
+    "current_stock": 15,
+    "change": -160,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-08T17:57:17.539719",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 337,
+    "current_stock": 326,
+    "change": -11,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-08T17:57:17.539719",
+    "product_id": 42707,
+    "product_name": "Víking Lite Classic 12x330ml",
+    "previous_stock": 2,
+    "current_stock": 1,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-08T17:57:17.539719",
+    "product_id": 49012,
+    "product_name": "Erdinger Oktoberfest 4x500ml",
+    "previous_stock": 205,
+    "current_stock": 197,
+    "change": -8,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-08T17:57:17.539719",
+    "product_id": 43686,
+    "product_name": "Carlo Rossi California Rosé 1,5L",
+    "previous_stock": 2,
+    "current_stock": 1,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-08T17:57:17.539719",
+    "product_id": 46261,
+    "product_name": "LOOP Mini Red Chili Melon 2",
+    "previous_stock": 10,
+    "current_stock": 5,
+    "change": -5,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-08T17:57:17.539719",
+    "product_id": 43084,
+    "product_name": "LOOP Mini Smooth Mint 2",
+    "previous_stock": 27,
+    "current_stock": 22,
+    "change": -5,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-08T17:57:17.539719",
+    "product_id": 42441,
+    "product_name": "Kristall Mexican Lime 12x330ml",
+    "stock": 7,
+    "details": {
+      "id": 42441,
+      "code": "30208252",
+      "name": "Kristall Mexican Lime 12x330ml",
+      "slug": "kristall-mexican-lime-12x330ml-42441",
+      "category_id": 4321,
+      "category_name": "All Sparkling Waters",
+      "category_path": "Soft drinks > Sparkling Water > All Sparkling Waters",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c2bccf1a-f18b-4e3e-ad6c-5ff10b71040b.webp",
+      "price": 159000,
+      "discount_price": null,
+      "stock": {
+        "H495": 7
+      },
+      "total_stock": 7,
+      "variants": [
+        {
+          "sku": "30208252",
+          "name": "Kristall Mexican Lime 12x330ml",
+          "price": 159000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c2bccf1a-f18b-4e3e-ad6c-5ff10b71040b.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c2bccf1a-f18b-4e3e-ad6c-5ff10b71040b_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c2bccf1a-f18b-4e3e-ad6c-5ff10b71040b_thumb.webp"
+            },
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/09f2f457-83ff-423e-9701-2113e8805a13.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/09f2f457-83ff-423e-9701-2113e8805a13_orig.jpeg",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/09f2f457-83ff-423e-9701-2113e8805a13_thumb.webp"
+            }
+          ],
+          "offerId": 43795,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 7,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-08T17:57:16.249880"
+    }
   }
 ]
