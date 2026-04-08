@@ -85522,5 +85522,45 @@
     "current_stock": 191,
     "change": -2,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-08T21:06:03.368468",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 324,
+    "current_stock": 323,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-08T21:06:03.368468",
+    "product_id": 49012,
+    "product_name": "Erdinger Oktoberfest 4x500ml",
+    "previous_stock": 191,
+    "current_stock": 190,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-08T21:06:03.368468",
+    "product_id": 42545,
+    "product_name": "Absolut Vodka 700ml",
+    "previous_stock": 2,
+    "current_stock": 1,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-08T21:06:03.368468",
+    "product_id": 43072,
+    "product_name": "LOOP Jalapeno Lime 4",
+    "previous_stock": 14,
+    "current_stock": 9,
+    "change": -5,
+    "direction": "decrease"
   }
 ]
