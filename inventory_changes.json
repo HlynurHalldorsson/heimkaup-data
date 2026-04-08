@@ -84664,5 +84664,121 @@
     "current_stock": 199,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-08T11:44:35.955980",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 199,
+    "current_stock": 186,
+    "change": -13,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-08T11:44:35.955980",
+    "product_id": 49012,
+    "product_name": "Erdinger Oktoberfest 4x500ml",
+    "previous_stock": 274,
+    "current_stock": 254,
+    "change": -20,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-08T11:44:35.955980",
+    "product_id": 42724,
+    "product_name": "Finca Las Moras Malbec 750ml",
+    "previous_stock": 4,
+    "current_stock": 3,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-08T11:44:35.955980",
+    "product_id": 49283,
+    "product_name": "Pasqua Chardonnay Organic 3L",
+    "previous_stock": 15,
+    "current_stock": 14,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-08T11:44:35.955980",
+    "product_id": 42687,
+    "product_name": "Tommasi Pinot Grigio 3L",
+    "previous_stock": 12,
+    "current_stock": 11,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-08T11:44:35.955980",
+    "product_id": 42561,
+    "product_name": "Stemmari Pinot Grigio 3L",
+    "previous_stock": 4,
+    "current_stock": 3,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-08T11:44:35.955980",
+    "product_id": 42617,
+    "product_name": "Planteray Barbados Grande Reserve Rum 700ml",
+    "stock": 1,
+    "details": {
+      "id": 42617,
+      "code": "30230644",
+      "name": "Planteray Barbados Grande Reserve Rum 700ml",
+      "slug": "planteray-barbados-grande-reserve-rum-700ml-42617",
+      "category_id": 4278,
+      "category_name": "All Rum",
+      "category_path": "Spirits > Rum > All Rum",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ef6d3a38-de60-40df-8e62-717e697b1e48.webp",
+      "price": 1069000,
+      "discount_price": null,
+      "stock": {
+        "H495": 1
+      },
+      "total_stock": 1,
+      "variants": [
+        {
+          "sku": "30230644",
+          "name": "Planteray Barbados Grande Reserve Rum 700ml",
+          "price": 1069000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ef6d3a38-de60-40df-8e62-717e697b1e48.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ef6d3a38-de60-40df-8e62-717e697b1e48_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ef6d3a38-de60-40df-8e62-717e697b1e48_thumb.webp"
+            }
+          ],
+          "offerId": 43926,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 1,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-08T11:44:18.343009"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-08T11:44:35.955980",
+    "product_id": 43361,
+    "product_name": "Doritos Pure Paprika 170g",
+    "previous_stock": 96,
+    "current_stock": 95,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
