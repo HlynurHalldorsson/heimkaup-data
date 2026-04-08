@@ -85562,5 +85562,42 @@
     "current_stock": 9,
     "change": -5,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-08T22:04:16.853728",
+    "product_id": 42701,
+    "product_name": "Tuborg Classic 12x500ml",
+    "previous_stock": 34,
+    "current_stock": 33,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-08T22:04:16.853728",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 323,
+    "current_stock": 318,
+    "change": -5,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-08T22:04:16.853728",
+    "product_id": 42673,
+    "product_name": "BARA Jarðaber & Límóna 6x330ml",
+    "previous_stock": 10,
+    "current_stock": 9,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-08T22:04:16.853728",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "last_stock": 1
   }
 ]
