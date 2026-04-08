@@ -85492,5 +85492,35 @@
     "product_id": 42608,
     "product_name": "Boli Sterkur Pilsner 6x500ml",
     "last_stock": 1
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-08T20:06:43.881250",
+    "product_id": 43058,
+    "product_name": "Thule 12x330ml",
+    "previous_stock": 15,
+    "current_stock": 14,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-08T20:06:43.881250",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 2,
+    "current_stock": 1,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-08T20:06:43.881250",
+    "product_id": 49012,
+    "product_name": "Erdinger Oktoberfest 4x500ml",
+    "previous_stock": 193,
+    "current_stock": 191,
+    "change": -2,
+    "direction": "decrease"
   }
 ]
