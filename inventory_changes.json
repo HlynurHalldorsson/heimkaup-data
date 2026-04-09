@@ -92042,5 +92042,55 @@
     "current_stock": 17,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-09T21:37:16.890290",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 1102,
+    "current_stock": 1101,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-09T21:37:16.890290",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 585,
+    "current_stock": 583,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-09T21:37:16.890290",
+    "product_id": 49012,
+    "product_name": "Erdinger Oktoberfest 4x500ml",
+    "previous_stock": 322,
+    "current_stock": 311,
+    "change": -11,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-09T21:37:16.890290",
+    "product_id": 42513,
+    "product_name": "BLYS 800 Blueberry Raspberry",
+    "previous_stock": 18,
+    "current_stock": 17,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-09T21:37:16.890290",
+    "product_id": 42494,
+    "product_name": "BLYS 800 Watermelon Ice",
+    "previous_stock": 16,
+    "current_stock": 15,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
