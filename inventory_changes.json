@@ -91972,5 +91972,75 @@
     "product_id": 42545,
     "product_name": "Absolut Vodka 700ml",
     "last_stock": 1
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-09T20:41:14.813865",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 1105,
+    "current_stock": 1102,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-09T20:41:14.813865",
+    "product_id": 49012,
+    "product_name": "Erdinger Oktoberfest 4x500ml",
+    "previous_stock": 323,
+    "current_stock": 322,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-09T20:41:14.813865",
+    "product_id": 42804,
+    "product_name": "Villa Lucia Pinot Grigio 750ml",
+    "previous_stock": 8,
+    "current_stock": 7,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-09T20:41:14.813865",
+    "product_id": 49289,
+    "product_name": "Pasqua Hey French Bianco Veneto IGT Edizinoe! 750ml",
+    "previous_stock": 11,
+    "current_stock": 10,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-09T20:41:14.813865",
+    "product_id": 42630,
+    "product_name": "BARA Hindber & Sítróna 6x330ml",
+    "previous_stock": 8,
+    "current_stock": 5,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-09T20:41:14.813865",
+    "product_id": 47166,
+    "product_name": "PAZ X-Freeze+ 5",
+    "previous_stock": 9,
+    "current_stock": 8,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-09T20:41:14.813865",
+    "product_id": 43681,
+    "product_name": "Reymont 800 Blue Sour Raspberry",
+    "previous_stock": 18,
+    "current_stock": 17,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
