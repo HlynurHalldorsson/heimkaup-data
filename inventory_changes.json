@@ -85809,5 +85809,156 @@
     "current_stock": 9,
     "change": -4,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-09T14:48:56.297617",
+    "product_id": 42709,
+    "product_name": "Heineken 4x500ml",
+    "previous_stock": 13,
+    "current_stock": 7,
+    "change": -6,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-09T14:48:56.297617",
+    "product_id": 42733,
+    "product_name": "Víking Gylltur 12x500ml",
+    "previous_stock": 36,
+    "current_stock": 35,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-09T14:48:56.297617",
+    "product_id": 42680,
+    "product_name": "Tuborg Green 12x500ml",
+    "previous_stock": 54,
+    "current_stock": 52,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-09T14:48:56.297617",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "stock": 219,
+    "details": {
+      "id": 42686,
+      "code": "30230823",
+      "name": "Gull Lite 12x500ml",
+      "slug": "gull-lite-12x500ml-42686",
+      "category_id": 2724,
+      "category_name": "All Lite Beers",
+      "category_path": "Beer > Lite > All Lite Beers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/69f7215d-4eef-4ee7-8eeb-526d94e0a4d0.webp",
+      "price": 569000,
+      "discount_price": 469000,
+      "stock": {
+        "H495": 219
+      },
+      "total_stock": 219,
+      "variants": [
+        {
+          "sku": "30230823",
+          "name": "Gull Lite 12x500ml",
+          "price": 569000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/69f7215d-4eef-4ee7-8eeb-526d94e0a4d0.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/69f7215d-4eef-4ee7-8eeb-526d94e0a4d0_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/69f7215d-4eef-4ee7-8eeb-526d94e0a4d0_thumb.webp"
+            },
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7cc022b0-9350-46f2-bd7e-f811c34a4c4f.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7cc022b0-9350-46f2-bd7e-f811c34a4c4f_orig.jpeg",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7cc022b0-9350-46f2-bd7e-f811c34a4c4f_thumb.webp"
+            }
+          ],
+          "offerId": 44039,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 219,
+          "discountPrice": 469000,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-09T14:48:29.785859"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-09T14:48:56.297617",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 285,
+    "current_stock": 343,
+    "change": 58,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-09T14:48:56.297617",
+    "product_id": 42661,
+    "product_name": "Boli X 12x330ml",
+    "previous_stock": 10,
+    "current_stock": 9,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-09T14:48:56.297617",
+    "product_id": 42681,
+    "product_name": "Tommasi Graticcio Appassionato 750ml",
+    "previous_stock": 4,
+    "current_stock": 3,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-09T14:48:56.297617",
+    "product_id": 43205,
+    "product_name": "Mamma Piccini Rosso 3L",
+    "previous_stock": 3,
+    "current_stock": 2,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-09T14:48:56.297617",
+    "product_id": 42541,
+    "product_name": "JP. Chenet Medium Sweet 750ml",
+    "previous_stock": 6,
+    "current_stock": 4,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-09T14:48:56.297617",
+    "product_id": 43072,
+    "product_name": "LOOP Jalapeno Lime 4",
+    "previous_stock": 9,
+    "current_stock": 4,
+    "change": -5,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-09T14:48:56.297617",
+    "product_id": 42436,
+    "product_name": "Coca-Cola 10x330ml",
+    "previous_stock": 12,
+    "current_stock": 23,
+    "change": 11,
+    "direction": "increase"
   }
 ]
