@@ -91757,5 +91757,79 @@
     "product_id": 43570,
     "product_name": "Töst Rosé 4x250ml",
     "last_stock": 2
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-09T18:45:10.480902",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 1114,
+    "current_stock": 1109,
+    "change": -5,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-09T18:45:10.480902",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 595,
+    "current_stock": 594,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-09T18:45:10.480902",
+    "product_id": 42666,
+    "product_name": "Ölvisholt Lite 10x330ml",
+    "previous_stock": 6,
+    "current_stock": 5,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-09T18:45:10.480902",
+    "product_id": 49012,
+    "product_name": "Erdinger Oktoberfest 4x500ml",
+    "previous_stock": 344,
+    "current_stock": 329,
+    "change": -15,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-09T18:45:10.480902",
+    "product_id": 43427,
+    "product_name": "Winston Blue 100s Box",
+    "previous_stock": 7,
+    "current_stock": 17,
+    "change": 10,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-09T18:45:10.480902",
+    "product_id": 43741,
+    "product_name": "Winston Blue Box",
+    "previous_stock": 2,
+    "current_stock": 12,
+    "change": 10,
+    "direction": "increase"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-09T18:45:10.480902",
+    "product_id": 42617,
+    "product_name": "Planteray Barbados Grande Reserve Rum 700ml",
+    "last_stock": 1
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-09T18:45:10.480902",
+    "product_id": 43588,
+    "product_name": "Kronenbourg 1664 Blanc 0.0% 6x330ml (Gler)",
+    "last_stock": 1
   }
 ]
