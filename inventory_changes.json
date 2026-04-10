@@ -95416,5 +95416,735 @@
     "product_id": 42720,
     "product_name": "Carlsberg 10x500ml",
     "last_stock": 1
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T19:15:57.970222",
+    "product_id": 42733,
+    "product_name": "Víking Gylltur 12x500ml",
+    "previous_stock": 31,
+    "current_stock": 30,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T19:15:57.970222",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 1058,
+    "current_stock": 1053,
+    "change": -5,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T19:15:57.970222",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 550,
+    "current_stock": 544,
+    "change": -6,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T19:15:57.970222",
+    "product_id": 42584,
+    "product_name": "Gérard Bertrand An 940 Pinot Noir 750ml",
+    "stock": 12,
+    "details": {
+      "id": 42584,
+      "code": "30230625",
+      "name": "Gérard Bertrand An 940 Pinot Noir 750ml",
+      "slug": "gerard-bertrand-an-940-pinot-noir-750ml-42584",
+      "category_id": 4325,
+      "category_name": "Pinot Noir",
+      "category_path": "Wine > Red > Pinot Noir",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/21fffd5a-1117-426c-8da2-c759fa3030c6.webp",
+      "price": 329000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "30230625",
+          "name": "Gérard Bertrand An 940 Pinot Noir 750ml",
+          "price": 329000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/21fffd5a-1117-426c-8da2-c759fa3030c6.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/21fffd5a-1117-426c-8da2-c759fa3030c6_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/21fffd5a-1117-426c-8da2-c759fa3030c6_thumb.webp"
+            }
+          ],
+          "offerId": 43925,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T19:15:33.934242"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T19:15:57.970222",
+    "product_id": 42581,
+    "product_name": "Butcher's Cut Premium Malbec 3L",
+    "previous_stock": 1,
+    "current_stock": 13,
+    "change": 12,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T19:15:57.970222",
+    "product_id": 42577,
+    "product_name": "Baron De Ley Reserva 750ml",
+    "stock": 18,
+    "details": {
+      "id": 42577,
+      "code": "30230626",
+      "name": "Baron De Ley Reserva 750ml",
+      "slug": "baron-de-ley-reserva-750ml-42577",
+      "category_id": 5439,
+      "category_name": "Tempranillo",
+      "category_path": "Wine > Red > Tempranillo",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4317f622-e92d-4206-b7af-66a3962cfb8d.webp",
+      "price": 319000,
+      "discount_price": null,
+      "stock": {
+        "H495": 18
+      },
+      "total_stock": 18,
+      "variants": [
+        {
+          "sku": "30230626",
+          "name": "Baron De Ley Reserva 750ml",
+          "price": 319000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4317f622-e92d-4206-b7af-66a3962cfb8d.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4317f622-e92d-4206-b7af-66a3962cfb8d_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4317f622-e92d-4206-b7af-66a3962cfb8d_thumb.webp"
+            }
+          ],
+          "offerId": 43927,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 18,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T19:15:35.840742"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T19:15:57.970222",
+    "product_id": 42681,
+    "product_name": "Tommasi Graticcio Appassionato 750ml",
+    "stock": 24,
+    "details": {
+      "id": 42681,
+      "code": "30230785",
+      "name": "Tommasi Graticcio Appassionato 750ml",
+      "slug": "tommasi-graticcio-appassionato-750ml-42681",
+      "category_id": 4329,
+      "category_name": "Red Blends",
+      "category_path": "Wine > Red > Red Blends",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/05635d89-750b-4f71-bf56-bdc8160ed8d0.webp",
+      "price": 269000,
+      "discount_price": null,
+      "stock": {
+        "H495": 24
+      },
+      "total_stock": 24,
+      "variants": [
+        {
+          "sku": "30230785",
+          "name": "Tommasi Graticcio Appassionato 750ml",
+          "price": 269000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/05635d89-750b-4f71-bf56-bdc8160ed8d0.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/05635d89-750b-4f71-bf56-bdc8160ed8d0_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/05635d89-750b-4f71-bf56-bdc8160ed8d0_thumb.webp"
+            }
+          ],
+          "offerId": 44009,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 24,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T19:15:36.345942"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T19:15:57.970222",
+    "product_id": 42675,
+    "product_name": "Silk & Spice Red Blend 750ml",
+    "stock": 12,
+    "details": {
+      "id": 42675,
+      "code": "30230787",
+      "name": "Silk & Spice Red Blend 750ml",
+      "slug": "silk-spice-red-blend-750ml-42675",
+      "category_id": 4329,
+      "category_name": "Red Blends",
+      "category_path": "Wine > Red > Red Blends",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5058f655-77d0-471a-9ab4-c2ef3840de10.webp",
+      "price": 259000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "30230787",
+          "name": "Silk & Spice Red Blend 750ml",
+          "price": 259000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5058f655-77d0-471a-9ab4-c2ef3840de10.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5058f655-77d0-471a-9ab4-c2ef3840de10_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5058f655-77d0-471a-9ab4-c2ef3840de10_thumb.webp"
+            }
+          ],
+          "offerId": 44002,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T19:15:36.345942"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T19:15:57.970222",
+    "product_id": 42623,
+    "product_name": "Montes Chardonnay 750ml",
+    "previous_stock": 7,
+    "current_stock": 25,
+    "change": 18,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T19:15:57.970222",
+    "product_id": 42531,
+    "product_name": "Viña Maipo Sauvignon Blanc Chardonnay 750ml",
+    "stock": 12,
+    "details": {
+      "id": 42531,
+      "code": "30230615",
+      "name": "Viña Maipo Sauvignon Blanc Chardonnay 750ml",
+      "slug": "vina-maipo-sauvignon-blanc-chardonnay-750ml-42531",
+      "category_id": 4252,
+      "category_name": "Sauvignon Blanc",
+      "category_path": "Wine > White > Sauvignon Blanc",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5e79fa53-a7d0-476a-9fa8-7600e5f92cb9.webp",
+      "price": 189000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "30230615",
+          "name": "Viña Maipo Sauvignon Blanc Chardonnay 750ml",
+          "price": 189000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5e79fa53-a7d0-476a-9fa8-7600e5f92cb9.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5e79fa53-a7d0-476a-9fa8-7600e5f92cb9_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5e79fa53-a7d0-476a-9fa8-7600e5f92cb9_thumb.webp"
+            }
+          ],
+          "offerId": 43891,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T19:15:38.428108"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T19:15:57.970222",
+    "product_id": 42810,
+    "product_name": "Barefoot Pinot Grigio 750ml",
+    "previous_stock": 13,
+    "current_stock": 55,
+    "change": 42,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T19:15:57.970222",
+    "product_id": 42578,
+    "product_name": "Barefoot Riesling 750ml",
+    "previous_stock": 1,
+    "current_stock": 12,
+    "change": 11,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T19:15:57.970222",
+    "product_id": 42537,
+    "product_name": "Tommasi Le Rosse Pinot Grigio 750ml",
+    "previous_stock": 3,
+    "current_stock": 15,
+    "change": 12,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T19:15:57.970222",
+    "product_id": 43200,
+    "product_name": "El Coto Blanco 750ml",
+    "previous_stock": 1,
+    "current_stock": 19,
+    "change": 18,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T19:15:57.970222",
+    "product_id": 42687,
+    "product_name": "Tommasi Pinot Grigio 3L",
+    "previous_stock": 8,
+    "current_stock": 20,
+    "change": 12,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T19:15:57.970222",
+    "product_id": 42585,
+    "product_name": "Two Oceans Fresh & Fruity 3L",
+    "stock": 10,
+    "details": {
+      "id": 42585,
+      "code": "30230651",
+      "name": "Two Oceans Fresh & Fruity 3L",
+      "slug": "two-oceans-fresh-fruity-3l-42585",
+      "category_id": 4335,
+      "category_name": "Boxed White Wine",
+      "category_path": "Wine > White > Boxed White Wine",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9da739da-8945-4b56-a84e-9df0fc6ed4f3.webp",
+      "price": 659000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30230651",
+          "name": "Two Oceans Fresh & Fruity 3L",
+          "price": 659000,
+          "value": "3L",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9da739da-8945-4b56-a84e-9df0fc6ed4f3.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9da739da-8945-4b56-a84e-9df0fc6ed4f3_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9da739da-8945-4b56-a84e-9df0fc6ed4f3_thumb.webp"
+            }
+          ],
+          "offerId": 43919,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T19:15:40.732243"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T19:15:57.970222",
+    "product_id": 42561,
+    "product_name": "Stemmari Pinot Grigio 3L",
+    "previous_stock": 2,
+    "current_stock": 18,
+    "change": 16,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T19:15:57.970222",
+    "product_id": 42545,
+    "product_name": "Absolut Vodka 700ml",
+    "stock": 12,
+    "details": {
+      "id": 42545,
+      "code": "30230577",
+      "name": "Absolut Vodka 700ml",
+      "slug": "absolut-vodka-700ml-42545",
+      "category_id": 4261,
+      "category_name": "All Vodka",
+      "category_path": "Spirits > Vodka > All Vodka",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f0c9f944-303c-4e66-8bfe-60ea0342889f.webp",
+      "price": 779000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "30230577",
+          "name": "Absolut Vodka 700ml",
+          "price": 779000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f0c9f944-303c-4e66-8bfe-60ea0342889f.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f0c9f944-303c-4e66-8bfe-60ea0342889f_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f0c9f944-303c-4e66-8bfe-60ea0342889f_thumb.webp"
+            }
+          ],
+          "offerId": 43854,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T19:15:41.613387"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T19:15:57.970222",
+    "product_id": 42797,
+    "product_name": "Absolut Vodka 1L",
+    "previous_stock": 4,
+    "current_stock": 28,
+    "change": 24,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T19:15:57.970222",
+    "product_id": 42530,
+    "product_name": "Jack Daniels 350ml",
+    "previous_stock": 4,
+    "current_stock": 16,
+    "change": 12,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T19:15:57.970222",
+    "product_id": 43085,
+    "product_name": "LOOP Smooth Mint 4",
+    "previous_stock": 4,
+    "current_stock": 34,
+    "change": 30,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T19:15:57.970222",
+    "product_id": 43079,
+    "product_name": "LOOP Ice Cool Mint 3",
+    "previous_stock": 5,
+    "current_stock": 35,
+    "change": 30,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T19:15:57.970222",
+    "product_id": 43072,
+    "product_name": "LOOP Jalapeno Lime 4",
+    "stock": 30,
+    "details": {
+      "id": 43072,
+      "code": "30202703",
+      "name": "LOOP Jalapeno Lime 4",
+      "slug": "loop-jalapeno-lime-4-43072",
+      "category_id": 2805,
+      "category_name": "LOOP",
+      "category_path": "Nicotine > Pouches > LOOP",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/184f5436-5d2b-4cee-8c3d-1b06a2ce9136.webp",
+      "price": 99000,
+      "discount_price": null,
+      "stock": {
+        "H495": 30
+      },
+      "total_stock": 30,
+      "variants": [
+        {
+          "sku": "30202703",
+          "name": "LOOP Jalapeno Lime 4",
+          "price": 99000,
+          "value": "12.5mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/184f5436-5d2b-4cee-8c3d-1b06a2ce9136.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/184f5436-5d2b-4cee-8c3d-1b06a2ce9136_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/184f5436-5d2b-4cee-8c3d-1b06a2ce9136_thumb.webp"
+            }
+          ],
+          "offerId": 44575,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 30,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T19:15:46.989752"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T19:15:57.970222",
+    "product_id": 43071,
+    "product_name": "LOOP Habanero Mint 4",
+    "stock": 40,
+    "details": {
+      "id": 43071,
+      "code": "30202706",
+      "name": "LOOP Habanero Mint 4",
+      "slug": "loop-loop-habanero-mint-4-43071",
+      "category_id": 2805,
+      "category_name": "LOOP",
+      "category_path": "Nicotine > Pouches > LOOP",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bfb93577-a215-470c-a360-7341a3a064c4.webp",
+      "price": 99000,
+      "discount_price": null,
+      "stock": {
+        "H495": 40
+      },
+      "total_stock": 40,
+      "variants": [
+        {
+          "sku": "30202706",
+          "name": "LOOP Habanero Mint 4",
+          "price": 99000,
+          "value": "12.5mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bfb93577-a215-470c-a360-7341a3a064c4.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bfb93577-a215-470c-a360-7341a3a064c4_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bfb93577-a215-470c-a360-7341a3a064c4_thumb.webp"
+            }
+          ],
+          "offerId": 44574,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 40,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T19:15:46.989752"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T19:15:57.970222",
+    "product_id": 46261,
+    "product_name": "LOOP Mini Red Chili Melon 2",
+    "previous_stock": 5,
+    "current_stock": 35,
+    "change": 30,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T19:15:57.970222",
+    "product_id": 43086,
+    "product_name": "VELO Crispy Peppermint 3",
+    "stock": 50,
+    "details": {
+      "id": 43086,
+      "code": "30192468",
+      "name": "VELO Crispy Peppermint 3",
+      "slug": "velo-crispy-peppermint-3-43086",
+      "category_id": 2805,
+      "category_name": "VELO",
+      "category_path": "Nicotine > Pouches > VELO",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/75797e26-12d2-44fd-a543-ca139de0fd74.webp",
+      "price": 99000,
+      "discount_price": null,
+      "stock": {
+        "H495": 50
+      },
+      "total_stock": 50,
+      "variants": [
+        {
+          "sku": "30192468",
+          "name": "VELO Crispy Peppermint 3",
+          "price": 99000,
+          "value": "10mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/75797e26-12d2-44fd-a543-ca139de0fd74.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/75797e26-12d2-44fd-a543-ca139de0fd74_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/75797e26-12d2-44fd-a543-ca139de0fd74_thumb.webp"
+            }
+          ],
+          "offerId": 44588,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 50,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T19:15:47.960386"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T19:15:57.970222",
+    "product_id": 43076,
+    "product_name": "VELO Freezing Peppermint 4",
+    "previous_stock": 2,
+    "current_stock": 52,
+    "change": 50,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T19:15:57.970222",
+    "product_id": 43078,
+    "product_name": "VELO Smooth Spearmint 2",
+    "previous_stock": 8,
+    "current_stock": 58,
+    "change": 50,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T19:15:57.970222",
+    "product_id": 46256,
+    "product_name": "THOR Nordic Freeze 6",
+    "previous_stock": 5,
+    "current_stock": 35,
+    "change": 30,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T19:15:57.970222",
+    "product_id": 46253,
+    "product_name": "THOR Nordic Freeze 5",
+    "previous_stock": 2,
+    "current_stock": 32,
+    "change": 30,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T19:15:57.970222",
+    "product_id": 42496,
+    "product_name": "BLYS 800 Grape Ice",
+    "previous_stock": 9,
+    "current_stock": 39,
+    "change": 30,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T19:15:57.970222",
+    "product_id": 42487,
+    "product_name": "BLYS ZERO Fresh Mint",
+    "previous_stock": 5,
+    "current_stock": 35,
+    "change": 30,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T19:15:57.970222",
+    "product_id": 42488,
+    "product_name": "Reymont 800 Pink Lemonade",
+    "previous_stock": 2,
+    "current_stock": 22,
+    "change": 20,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T19:15:57.970222",
+    "product_id": 46270,
+    "product_name": "ELFBAR 600 Watermelon",
+    "previous_stock": 6,
+    "current_stock": 26,
+    "change": 20,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T19:15:57.970222",
+    "product_id": 42467,
+    "product_name": "Appelsín án sykurs 12x330ml",
+    "previous_stock": 94,
+    "current_stock": 92,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T19:15:57.970222",
+    "product_id": 42521,
+    "product_name": "7UP Zero 6x330ml",
+    "previous_stock": 77,
+    "current_stock": 76,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T19:15:57.970222",
+    "product_id": 42516,
+    "product_name": "Coca-Cola án sykurs 10x330ml",
+    "previous_stock": 11,
+    "current_stock": 9,
+    "change": -2,
+    "direction": "decrease"
   }
 ]
