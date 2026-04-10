@@ -96146,5 +96146,880 @@
     "current_stock": 9,
     "change": -2,
     "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T19:59:44.511725",
+    "product_id": 42703,
+    "product_name": "Gull 12x500ml",
+    "stock": 40,
+    "details": {
+      "id": 42703,
+      "code": "30230822",
+      "name": "Gull 12x500ml",
+      "slug": "gull-12x500ml-42703",
+      "category_id": 2724,
+      "category_name": "All Lagers",
+      "category_path": "Beer > Lager > All Lagers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bf7c1705-939c-4589-9e42-c8efa6646e32.webp",
+      "price": 579000,
+      "discount_price": null,
+      "stock": {
+        "H495": 40
+      },
+      "total_stock": 40,
+      "variants": [
+        {
+          "sku": "30230822",
+          "name": "Gull 12x500ml",
+          "price": 579000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bf7c1705-939c-4589-9e42-c8efa6646e32.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bf7c1705-939c-4589-9e42-c8efa6646e32_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bf7c1705-939c-4589-9e42-c8efa6646e32_thumb.webp"
+            },
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c185d035-631d-477a-b8f5-553da9fd32c5.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c185d035-631d-477a-b8f5-553da9fd32c5_orig.jpeg",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c185d035-631d-477a-b8f5-553da9fd32c5_thumb.webp"
+            }
+          ],
+          "offerId": 44032,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 40,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T19:59:15.538254"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T19:59:44.511725",
+    "product_id": 42776,
+    "product_name": "Thule 12x500ml",
+    "previous_stock": 2,
+    "current_stock": 12,
+    "change": 10,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T19:59:44.511725",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "stock": 60,
+    "details": {
+      "id": 42696,
+      "code": "30230821",
+      "name": "Boli 12x500ml",
+      "slug": "boli-12x500ml-42696",
+      "category_id": 4360,
+      "category_name": "All Lagers",
+      "category_path": "Beer > Lager > All Lagers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/48d594aa-fb12-4a7e-b71e-a1cfb6e94c2f.webp",
+      "price": 619000,
+      "discount_price": null,
+      "stock": {
+        "H495": 60
+      },
+      "total_stock": 60,
+      "variants": [
+        {
+          "sku": "30230821",
+          "name": "Boli 12x500ml",
+          "price": 619000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/48d594aa-fb12-4a7e-b71e-a1cfb6e94c2f.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/48d594aa-fb12-4a7e-b71e-a1cfb6e94c2f_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/48d594aa-fb12-4a7e-b71e-a1cfb6e94c2f_thumb.webp"
+            },
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/00042477-c9f7-4472-aab7-9faa5918aa86.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/00042477-c9f7-4472-aab7-9faa5918aa86_orig.jpeg",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/00042477-c9f7-4472-aab7-9faa5918aa86_thumb.webp"
+            }
+          ],
+          "offerId": 44029,
+          "sorting": 5,
+          "property": "volume",
+          "sellable": 60,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T19:59:15.538254"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T19:59:44.511725",
+    "product_id": 42705,
+    "product_name": "Víking Sterkr 6x500ml",
+    "stock": 40,
+    "details": {
+      "id": 42705,
+      "code": "30230839",
+      "name": "Víking Sterkr 6x500ml",
+      "slug": "viking-sterkr-6x500ml-42705",
+      "category_id": 4360,
+      "category_name": "All Lagers",
+      "category_path": "Beer > Lager > All Lagers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8ebf14f9-9dee-47c4-a1b9-a71ea61400f6.webp",
+      "price": 399000,
+      "discount_price": null,
+      "stock": {
+        "H495": 40
+      },
+      "total_stock": 40,
+      "variants": [
+        {
+          "sku": "30230839",
+          "name": "Víking Sterkr 6x500ml",
+          "price": 399000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8ebf14f9-9dee-47c4-a1b9-a71ea61400f6.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8ebf14f9-9dee-47c4-a1b9-a71ea61400f6_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8ebf14f9-9dee-47c4-a1b9-a71ea61400f6_thumb.webp"
+            }
+          ],
+          "offerId": 44038,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 40,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T19:59:15.538254"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T19:59:44.511725",
+    "product_id": 42616,
+    "product_name": "Löwenbräu Original 6x500ml",
+    "previous_stock": 2,
+    "current_stock": 10,
+    "change": 8,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T19:59:44.511725",
+    "product_id": 42608,
+    "product_name": "Boli Sterkur Pilsner 6x500ml",
+    "stock": 16,
+    "details": {
+      "id": 42608,
+      "code": "30230691",
+      "name": "Boli Sterkur Pilsner 6x500ml",
+      "slug": "boli-sterkur-pilsner-6x500ml-42608",
+      "category_id": 5657,
+      "category_name": "All Lagers",
+      "category_path": "Beer > Lager > All Lagers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/157ce4bb-8f16-4496-8809-2caea1a680c5.webp",
+      "price": 429000,
+      "discount_price": null,
+      "stock": {
+        "H495": 16
+      },
+      "total_stock": 16,
+      "variants": [
+        {
+          "sku": "30230691",
+          "name": "Boli Sterkur Pilsner 6x500ml",
+          "price": 429000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/157ce4bb-8f16-4496-8809-2caea1a680c5.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/157ce4bb-8f16-4496-8809-2caea1a680c5_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/157ce4bb-8f16-4496-8809-2caea1a680c5_thumb.webp"
+            }
+          ],
+          "offerId": 43929,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 16,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T19:59:15.538254"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T19:59:44.511725",
+    "product_id": 42576,
+    "product_name": "Stella Artois 10x440ml",
+    "stock": 15,
+    "details": {
+      "id": 42576,
+      "code": "30230634",
+      "name": "Stella Artois 10x440ml",
+      "slug": "stella-artois-10x440ml-42576",
+      "category_id": 5657,
+      "category_name": "All Lagers",
+      "category_path": "Beer > Lager > All Lagers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8b95b44f-2f82-4b2b-840c-8ec31855b7ec.webp",
+      "price": 419000,
+      "discount_price": null,
+      "stock": {
+        "H495": 15
+      },
+      "total_stock": 15,
+      "variants": [
+        {
+          "sku": "30230634",
+          "name": "Stella Artois 10x440ml",
+          "price": 419000,
+          "value": "440ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8b95b44f-2f82-4b2b-840c-8ec31855b7ec.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8b95b44f-2f82-4b2b-840c-8ec31855b7ec_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8b95b44f-2f82-4b2b-840c-8ec31855b7ec_thumb.webp"
+            }
+          ],
+          "offerId": 43904,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 15,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T19:59:15.538254"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T19:59:44.511725",
+    "product_id": 43050,
+    "product_name": "Víking lager 12x500ml",
+    "stock": 15,
+    "details": {
+      "id": 43050,
+      "code": "30233863",
+      "name": "Víking lager 12x500ml",
+      "slug": "viking-lager-12x500ml-43050",
+      "category_id": 5657,
+      "category_name": "All Lagers",
+      "category_path": "Beer > Lager > All Lagers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/82ab7b3c-58af-4ea5-a27b-f3ce04b97486.webp",
+      "price": 399000,
+      "discount_price": null,
+      "stock": {
+        "H495": 15
+      },
+      "total_stock": 15,
+      "variants": [
+        {
+          "sku": "30233863",
+          "name": "Víking lager 12x500ml",
+          "price": 399000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/82ab7b3c-58af-4ea5-a27b-f3ce04b97486.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/82ab7b3c-58af-4ea5-a27b-f3ce04b97486_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/82ab7b3c-58af-4ea5-a27b-f3ce04b97486_thumb.webp"
+            }
+          ],
+          "offerId": 44559,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 15,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T19:59:15.538254"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T19:59:44.511725",
+    "product_id": 49229,
+    "product_name": "Asahi Super Dry 6x330ml",
+    "previous_stock": 6,
+    "current_stock": 4,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T19:59:44.511725",
+    "product_id": 42805,
+    "product_name": "Víking Lager 18x330ml",
+    "previous_stock": 3,
+    "current_stock": 13,
+    "change": 10,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T19:59:44.511725",
+    "product_id": 42708,
+    "product_name": "Gull 12x330ml",
+    "stock": 20,
+    "details": {
+      "id": 42708,
+      "code": "30230818",
+      "name": "Gull 12x330ml",
+      "slug": "gull-12x330ml-42708",
+      "category_id": 2724,
+      "category_name": "All Lagers",
+      "category_path": "Beer > Lager > All Lagers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/de172e54-e444-492b-a647-1459ee765d2f.webp",
+      "price": 459000,
+      "discount_price": null,
+      "stock": {
+        "H495": 20
+      },
+      "total_stock": 20,
+      "variants": [
+        {
+          "sku": "30230818",
+          "name": "Gull 12x330ml",
+          "price": 459000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/de172e54-e444-492b-a647-1459ee765d2f.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/de172e54-e444-492b-a647-1459ee765d2f_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/de172e54-e444-492b-a647-1459ee765d2f_thumb.webp"
+            },
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f4f084d7-6322-4f25-a8cf-a4e2039289c3.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f4f084d7-6322-4f25-a8cf-a4e2039289c3_orig.jpeg",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f4f084d7-6322-4f25-a8cf-a4e2039289c3_thumb.webp"
+            }
+          ],
+          "offerId": 44043,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 20,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T19:59:15.538254"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T19:59:44.511725",
+    "product_id": 42574,
+    "product_name": "Stella Artois 6x330ml",
+    "stock": 16,
+    "details": {
+      "id": 42574,
+      "code": "30230635",
+      "name": "Stella Artois 6x330ml",
+      "slug": "stella-artois-6x330ml-42574",
+      "category_id": 5657,
+      "category_name": "All Lagers",
+      "category_path": "Beer > Lager > All Lagers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4c9ab1dc-8344-4007-aa1e-f0e9392befeb.webp",
+      "price": 239000,
+      "discount_price": null,
+      "stock": {
+        "H495": 16
+      },
+      "total_stock": 16,
+      "variants": [
+        {
+          "sku": "30230635",
+          "name": "Stella Artois 6x330ml",
+          "price": 239000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4c9ab1dc-8344-4007-aa1e-f0e9392befeb.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4c9ab1dc-8344-4007-aa1e-f0e9392befeb_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4c9ab1dc-8344-4007-aa1e-f0e9392befeb_thumb.webp"
+            }
+          ],
+          "offerId": 43941,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 16,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T19:59:15.538254"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T19:59:44.511725",
+    "product_id": 42741,
+    "product_name": "Stella Artois 6x330ml (Gler)",
+    "previous_stock": 3,
+    "current_stock": 35,
+    "change": 32,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T19:59:44.511725",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 1053,
+    "current_stock": 1051,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T19:59:44.511725",
+    "product_id": 43032,
+    "product_name": "Gull Lite Premium 12x500ml",
+    "stock": 10,
+    "details": {
+      "id": 43032,
+      "code": "30230708",
+      "name": "Gull Lite Premium 12x500ml",
+      "slug": "gull-lite-premium-12x500ml-43032",
+      "category_id": 2724,
+      "category_name": "All Lite Beers",
+      "category_path": "Beer > Lite > All Lite Beers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d0f37084-d269-4afc-bc3d-31743c0befa8.webp",
+      "price": 619000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30230708",
+          "name": "Gull Lite Premium 12x500ml",
+          "price": 619000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d0f37084-d269-4afc-bc3d-31743c0befa8.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d0f37084-d269-4afc-bc3d-31743c0befa8_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d0f37084-d269-4afc-bc3d-31743c0befa8_thumb.webp"
+            }
+          ],
+          "offerId": 44529,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T19:59:16.036598"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T19:59:44.511725",
+    "product_id": 42710,
+    "product_name": "Víking Lite 12x500ml",
+    "stock": 30,
+    "details": {
+      "id": 42710,
+      "code": "30230831",
+      "name": "Víking Lite 12x500ml",
+      "slug": "viking-lite-12x500ml-42710",
+      "category_id": 4239,
+      "category_name": "All Lite Beers",
+      "category_path": "Beer > Lite > All Lite Beers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5cb0d461-b0c8-4686-856e-0bd6e8bdbc74.webp",
+      "price": 539000,
+      "discount_price": null,
+      "stock": {
+        "H495": 30
+      },
+      "total_stock": 30,
+      "variants": [
+        {
+          "sku": "30230831",
+          "name": "Víking Lite 12x500ml",
+          "price": 539000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5cb0d461-b0c8-4686-856e-0bd6e8bdbc74.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5cb0d461-b0c8-4686-856e-0bd6e8bdbc74_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5cb0d461-b0c8-4686-856e-0bd6e8bdbc74_thumb.webp"
+            }
+          ],
+          "offerId": 44008,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 30,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T19:59:16.036598"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T19:59:44.511725",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 544,
+    "current_stock": 542,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T19:59:44.511725",
+    "product_id": 42605,
+    "product_name": "Gull Lite Premium 12x330ml",
+    "previous_stock": 7,
+    "current_stock": 17,
+    "change": 10,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T19:59:44.511725",
+    "product_id": 42620,
+    "product_name": "Guinness 4x440ml",
+    "stock": 24,
+    "details": {
+      "id": 42620,
+      "code": "30230693",
+      "name": "Guinness 4x440ml",
+      "slug": "guinness-4x440ml-42620",
+      "category_id": 4241,
+      "category_name": "All Ales",
+      "category_path": "Beer > Ales > All Ales",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d5213956-28ab-4342-b556-df435e9fde77.webp",
+      "price": 209000,
+      "discount_price": null,
+      "stock": {
+        "H495": 24
+      },
+      "total_stock": 24,
+      "variants": [
+        {
+          "sku": "30230693",
+          "name": "Guinness 4x440ml",
+          "price": 209000,
+          "value": "440ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d5213956-28ab-4342-b556-df435e9fde77.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d5213956-28ab-4342-b556-df435e9fde77_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d5213956-28ab-4342-b556-df435e9fde77_thumb.webp"
+            }
+          ],
+          "offerId": 43936,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 24,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T19:59:16.654848"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T19:59:44.511725",
+    "product_id": 49012,
+    "product_name": "Erdinger Oktoberfest 4x500ml",
+    "previous_stock": 231,
+    "current_stock": 226,
+    "change": -5,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T19:59:44.511725",
+    "product_id": 42601,
+    "product_name": "Gato Negro Cabernet Sauvignon 750ml",
+    "previous_stock": 5,
+    "current_stock": 17,
+    "change": 12,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T19:59:44.511725",
+    "product_id": 42594,
+    "product_name": "Piccini Prosecco 750ml",
+    "stock": 18,
+    "details": {
+      "id": 42594,
+      "code": "30230686",
+      "name": "Piccini Prosecco 750ml",
+      "slug": "piccini-prosecco-750ml-42594",
+      "category_id": 4256,
+      "category_name": "All Sparkling Wines",
+      "category_path": "Wine > Sparkling > All Sparkling Wines",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/182948a6-499c-4c2a-a825-3c436d859e7d.webp",
+      "price": 229000,
+      "discount_price": null,
+      "stock": {
+        "H495": 18
+      },
+      "total_stock": 18,
+      "variants": [
+        {
+          "sku": "30230686",
+          "name": "Piccini Prosecco 750ml",
+          "price": 229000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/182948a6-499c-4c2a-a825-3c436d859e7d.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/182948a6-499c-4c2a-a825-3c436d859e7d_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/182948a6-499c-4c2a-a825-3c436d859e7d_thumb.webp"
+            }
+          ],
+          "offerId": 43913,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 18,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T19:59:27.118840"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T19:59:44.511725",
+    "product_id": 42674,
+    "product_name": "Helix Vodka 700ml",
+    "previous_stock": 2,
+    "current_stock": 8,
+    "change": 6,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T19:59:44.511725",
+    "product_id": 42796,
+    "product_name": "Tullamore Dew 500ml",
+    "previous_stock": 3,
+    "current_stock": 11,
+    "change": 8,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T19:59:44.511725",
+    "product_id": 43013,
+    "product_name": "Tanqueray London Dry 700ml",
+    "previous_stock": 3,
+    "current_stock": 9,
+    "change": 6,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T19:59:44.511725",
+    "product_id": 42634,
+    "product_name": "Jagermeister 350ml",
+    "previous_stock": 3,
+    "current_stock": 15,
+    "change": 12,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T19:59:44.511725",
+    "product_id": 42618,
+    "product_name": "PRN 6x330ml",
+    "stock": 16,
+    "details": {
+      "id": 42618,
+      "code": "30230654",
+      "name": "PRN 6x330ml",
+      "slug": "prn-6x330ml-42618",
+      "category_id": 4292,
+      "category_name": "All Mixed Drinks",
+      "category_path": "Ready-to-Drink Cocktails > Mixed > All Mixed Drinks",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9902ccec-5f86-4dbc-b218-5106d68633b0.webp",
+      "price": 304000,
+      "discount_price": null,
+      "stock": {
+        "H495": 16
+      },
+      "total_stock": 16,
+      "variants": [
+        {
+          "sku": "30230654",
+          "name": "PRN 6x330ml",
+          "price": 304000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9902ccec-5f86-4dbc-b218-5106d68633b0.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9902ccec-5f86-4dbc-b218-5106d68633b0_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9902ccec-5f86-4dbc-b218-5106d68633b0_thumb.webp"
+            }
+          ],
+          "offerId": 43920,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 16,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T19:59:31.867931"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T19:59:44.511725",
+    "product_id": 42604,
+    "product_name": "Bagl 6x330ml",
+    "previous_stock": 1,
+    "current_stock": 17,
+    "change": 16,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T19:59:44.511725",
+    "product_id": 42536,
+    "product_name": "VES 6x330ml",
+    "previous_stock": 5,
+    "current_stock": 29,
+    "change": 24,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T19:59:44.511725",
+    "product_id": 46235,
+    "product_name": "BLYS 800 Green Citrus Grape",
+    "stock": 30,
+    "details": {
+      "id": 46235,
+      "code": "30232146",
+      "name": "BLYS 800 Green Citrus Grape",
+      "slug": "blys-800-green-sour-grape-46235",
+      "category_id": 4516,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a496a54c-5e62-4bfb-814f-b73132b15e31.webp",
+      "price": 97000,
+      "discount_price": null,
+      "stock": {
+        "H495": 30
+      },
+      "total_stock": 30,
+      "variants": [
+        {
+          "sku": "30232146",
+          "name": "BLYS 800 Green Citrus Grape",
+          "price": 97000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a496a54c-5e62-4bfb-814f-b73132b15e31.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a496a54c-5e62-4bfb-814f-b73132b15e31_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a496a54c-5e62-4bfb-814f-b73132b15e31_thumb.webp"
+            }
+          ],
+          "offerId": 47779,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 30,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T19:59:37.027928"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T19:59:44.511725",
+    "product_id": 42514,
+    "product_name": "BLYS 800 Strawberry Ice",
+    "stock": 50,
+    "details": {
+      "id": 42514,
+      "code": "30222024",
+      "name": "BLYS 800 Strawberry Ice",
+      "slug": "blys-800---strawberry-ice-1stk-42514",
+      "category_id": 4516,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6d9ae66f-90b3-473c-9c24-742ac367308a.webp",
+      "price": 97000,
+      "discount_price": null,
+      "stock": {
+        "H495": 50
+      },
+      "total_stock": 50,
+      "variants": [
+        {
+          "sku": "30222024",
+          "name": "BLYS 800 Strawberry Ice",
+          "price": 97000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6d9ae66f-90b3-473c-9c24-742ac367308a.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6d9ae66f-90b3-473c-9c24-742ac367308a_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6d9ae66f-90b3-473c-9c24-742ac367308a_thumb.webp"
+            }
+          ],
+          "offerId": 43848,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 50,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T19:59:37.027928"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T19:59:44.511725",
+    "product_id": 42478,
+    "product_name": "BLYS 800 Peach Blueberry",
+    "previous_stock": 1,
+    "current_stock": 51,
+    "change": 50,
+    "direction": "increase"
   }
 ]
