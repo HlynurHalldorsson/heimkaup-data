@@ -92249,5 +92249,445 @@
     "product_id": 43072,
     "product_name": "LOOP Jalapeno Lime 4",
     "last_stock": 4
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 42733,
+    "product_name": "Víking Gylltur 12x500ml",
+    "previous_stock": 33,
+    "current_stock": 31,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 43055,
+    "product_name": "Tuborg Classic 12x330ml",
+    "previous_stock": 11,
+    "current_stock": 8,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 1087,
+    "current_stock": 1077,
+    "change": -10,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 574,
+    "current_stock": 569,
+    "change": -5,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 42782,
+    "product_name": "Kaldi Ljós 10x330ml",
+    "previous_stock": 7,
+    "current_stock": 4,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 49012,
+    "product_name": "Erdinger Oktoberfest 4x500ml",
+    "previous_stock": 277,
+    "current_stock": 269,
+    "change": -8,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 42681,
+    "product_name": "Tommasi Graticcio Appassionato 750ml",
+    "previous_stock": 3,
+    "current_stock": 2,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 42725,
+    "product_name": "Aalborg Jubilæums Akvavit 700ml",
+    "previous_stock": 16,
+    "current_stock": 15,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 43751,
+    "product_name": "Camel KSF Yellow Box",
+    "previous_stock": 12,
+    "current_stock": 10,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 42620,
+    "product_name": "Guinness 4x440ml",
+    "last_stock": 1
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 42859,
+    "product_name": "Víking 2.25% 6x500ml",
+    "last_stock": 2
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 49287,
+    "product_name": "Pasqua Pinot Grigio Black Label 750ml",
+    "last_stock": 10
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 43016,
+    "product_name": "Montalto Pinot Grigio 750ml",
+    "last_stock": 8
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 42804,
+    "product_name": "Villa Lucia Pinot Grigio 750ml",
+    "last_stock": 7
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 42684,
+    "product_name": "Stemmari Pinot Grigio 750ml",
+    "last_stock": 14
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 42537,
+    "product_name": "Tommasi Le Rosse Pinot Grigio 750ml",
+    "last_stock": 3
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 43021,
+    "product_name": "Montalto Pinot Grigio 375ml",
+    "last_stock": 5
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 42660,
+    "product_name": "Colpasso Catarratto Pinot Grigio 250ml",
+    "last_stock": 13
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 42621,
+    "product_name": "Barefoot Pinot Grigio 187ml",
+    "last_stock": 10
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 43569,
+    "product_name": "Helga Nr.69 6x330ml",
+    "last_stock": 2
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 43025,
+    "product_name": "Kopparberg Strawberry Pineapple 4x330ml",
+    "last_stock": 2
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 42700,
+    "product_name": "Somersby Apple 6x330ml",
+    "last_stock": 8
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 42550,
+    "product_name": "Eldgos Crisp Apple 6x330ml",
+    "last_stock": 10
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 46234,
+    "product_name": "BLYS 800 Liquorice Ice",
+    "last_stock": 17
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 46236,
+    "product_name": "BLYS 800 Blueberry Sour Strawberry",
+    "last_stock": 10
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 46239,
+    "product_name": "BLYS 800 Pineapple Ice",
+    "last_stock": 20
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 46231,
+    "product_name": "BLYS 800 Habanero Ice",
+    "last_stock": 17
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 46232,
+    "product_name": "BLYS 800 Jalapeno Sour",
+    "last_stock": 17
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 46233,
+    "product_name": "BLYS 800 Liquorice Raspberry",
+    "last_stock": 12
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 43679,
+    "product_name": "BLYS 800 Blueberry Sour Raspberry",
+    "last_stock": 11
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 42504,
+    "product_name": "BLYS 800 Strawberry Banana",
+    "last_stock": 22
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 42515,
+    "product_name": "BLYS 800 Fresh Mint",
+    "last_stock": 13
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 42513,
+    "product_name": "BLYS 800 Blueberry Raspberry",
+    "last_stock": 17
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 42509,
+    "product_name": "BLYS 800 Pink Lemonade",
+    "last_stock": 37
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 42496,
+    "product_name": "BLYS 800 Grape Ice",
+    "last_stock": 9
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 42494,
+    "product_name": "BLYS 800 Watermelon Ice",
+    "last_stock": 15
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 42478,
+    "product_name": "BLYS 800 Peach Blueberry",
+    "last_stock": 1
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 46248,
+    "product_name": "BLYS X 800 Strawberry Ice Cream",
+    "last_stock": 10
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 46247,
+    "product_name": "BLYS X 800 Grape Ice",
+    "last_stock": 10
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 46249,
+    "product_name": "BLYS X 800 Strawberry Watermelon",
+    "last_stock": 10
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 46250,
+    "product_name": "BLYS X 800 Fizzy Cherry",
+    "last_stock": 10
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 46241,
+    "product_name": "BLYS X 800 Blueberry Raspberry",
+    "last_stock": 10
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 46242,
+    "product_name": "BLYS X 800 Fresh Mint",
+    "last_stock": 10
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 46243,
+    "product_name": "BLYS X 800 Watermelon Ice",
+    "last_stock": 10
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 46244,
+    "product_name": "BLYS X 800 Strawberry Ice",
+    "last_stock": 10
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 46245,
+    "product_name": "BLYS X 800 Strawberry Banana",
+    "last_stock": 10
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 47224,
+    "product_name": "BLYS POD Peach Blueberry",
+    "last_stock": 10
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 47219,
+    "product_name": "BLYS POD Watermelon Ice",
+    "last_stock": 18
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 47220,
+    "product_name": "BLYS POD Grape Ice",
+    "last_stock": 10
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 47221,
+    "product_name": "BLYS POD Pink Lemonade",
+    "last_stock": 10
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 47222,
+    "product_name": "BLYS POD Fresh Mint",
+    "last_stock": 10
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 47223,
+    "product_name": "BLYS POD Strawberry Banana",
+    "last_stock": 10
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 47218,
+    "product_name": "BLYS POD Strawberry Ice",
+    "last_stock": 9
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 47215,
+    "product_name": "BLYS Græja Hvít",
+    "last_stock": 10
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 47216,
+    "product_name": "BLYS Græja Svört",
+    "last_stock": 20
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 48565,
+    "product_name": "Gatorade Orange 6x500ml",
+    "last_stock": 100
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 48566,
+    "product_name": "Gatorade Cool Blue 6x500ml",
+    "last_stock": 98
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 48567,
+    "product_name": "Gatorade Red Orange 6x500ml",
+    "last_stock": 100
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-10T15:13:49.751631",
+    "product_id": 48564,
+    "product_name": "Gatorade Lemon 6x500ml",
+    "last_stock": 100
   }
 ]
