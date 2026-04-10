@@ -92192,5 +92192,62 @@
     "current_stock": 74,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T14:09:27.362654",
+    "product_id": 42822,
+    "product_name": "Víking Gylltur 12x330ml",
+    "previous_stock": 29,
+    "current_stock": 28,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T14:09:27.362654",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 1096,
+    "current_stock": 1087,
+    "change": -9,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T14:09:27.362654",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 580,
+    "current_stock": 574,
+    "change": -6,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T14:09:27.362654",
+    "product_id": 49012,
+    "product_name": "Erdinger Oktoberfest 4x500ml",
+    "previous_stock": 290,
+    "current_stock": 277,
+    "change": -13,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T14:09:27.362654",
+    "product_id": 42687,
+    "product_name": "Tommasi Pinot Grigio 3L",
+    "previous_stock": 10,
+    "current_stock": 9,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-10T14:09:27.362654",
+    "product_id": 43072,
+    "product_name": "LOOP Jalapeno Lime 4",
+    "last_stock": 4
   }
 ]
