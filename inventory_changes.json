@@ -97141,5 +97141,52 @@
     "current_stock": 34,
     "change": 30,
     "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T22:00:40.619395",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 1029,
+    "current_stock": 1049,
+    "change": 20,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T22:00:40.619395",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 541,
+    "current_stock": 532,
+    "change": -9,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T22:00:40.619395",
+    "product_id": 42808,
+    "product_name": "Breezer Mango 4x275ml",
+    "previous_stock": 52,
+    "current_stock": 47,
+    "change": -5,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T22:00:40.619395",
+    "product_id": 47218,
+    "product_name": "BLYS POD Strawberry Ice",
+    "previous_stock": 9,
+    "current_stock": 19,
+    "change": 10,
+    "direction": "increase"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-10T22:00:40.619395",
+    "product_id": 42661,
+    "product_name": "Boli X 12x330ml",
+    "last_stock": 7
   }
 ]
