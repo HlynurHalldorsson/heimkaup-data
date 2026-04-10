@@ -97021,5 +97021,55 @@
     "current_stock": 51,
     "change": 50,
     "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T20:37:04.938762",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 1051,
+    "current_stock": 1049,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T20:37:04.938762",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 542,
+    "current_stock": 541,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T20:37:04.938762",
+    "product_id": 42721,
+    "product_name": "Kaldi Lite 10x330ml",
+    "previous_stock": 8,
+    "current_stock": 7,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T20:37:04.938762",
+    "product_id": 49012,
+    "product_name": "Erdinger Oktoberfest 4x500ml",
+    "previous_stock": 226,
+    "current_stock": 224,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T20:37:04.938762",
+    "product_id": 42599,
+    "product_name": "Apothic Red 750ml",
+    "previous_stock": 4,
+    "current_stock": 3,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
