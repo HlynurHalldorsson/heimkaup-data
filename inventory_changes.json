@@ -92689,5 +92689,2354 @@
     "product_id": 48564,
     "product_name": "Gatorade Lemon 6x500ml",
     "last_stock": 100
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 42680,
+    "product_name": "Tuborg Green 12x500ml",
+    "previous_stock": 51,
+    "current_stock": 50,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 42722,
+    "product_name": "Peroni Nastro Azzurro 6x330ml (Gler)",
+    "previous_stock": 6,
+    "current_stock": 5,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 1077,
+    "current_stock": 1072,
+    "change": -5,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 42615,
+    "product_name": "Boli X 12x500ml",
+    "previous_stock": 7,
+    "current_stock": 6,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 569,
+    "current_stock": 557,
+    "change": -12,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 49012,
+    "product_name": "Erdinger Oktoberfest 4x500ml",
+    "previous_stock": 269,
+    "current_stock": 264,
+    "change": -5,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 42859,
+    "product_name": "Víking 2.25% 6x500ml",
+    "stock": 2,
+    "details": {
+      "id": 42859,
+      "code": "216604247",
+      "name": "Víking 2.25% 6x500ml",
+      "slug": "viking-2-25-6x500ml-42859",
+      "category_id": 4247,
+      "category_name": "All Low-Alcohol Beers",
+      "category_path": "Beer > Low-alcohol > All Low-Alcohol Beers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c28ab2a3-efa5-416e-a036-3220c72f2def.webp",
+      "price": 159000,
+      "discount_price": null,
+      "stock": {
+        "H495": 2
+      },
+      "total_stock": 2,
+      "variants": [
+        {
+          "sku": "216604247",
+          "name": "Víking 2.25% 6x500ml",
+          "price": 159000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c28ab2a3-efa5-416e-a036-3220c72f2def.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c28ab2a3-efa5-416e-a036-3220c72f2def_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c28ab2a3-efa5-416e-a036-3220c72f2def_thumb.webp"
+            }
+          ],
+          "offerId": 44156,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 2,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T16:11:41.757919"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 42580,
+    "product_name": "Apothic Red 3L",
+    "previous_stock": 10,
+    "current_stock": 9,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 49287,
+    "product_name": "Pasqua Pinot Grigio Black Label 750ml",
+    "stock": 10,
+    "details": {
+      "id": 49287,
+      "code": "50000218",
+      "name": "Pasqua Pinot Grigio Black Label 750ml",
+      "slug": "pasqua-pinot-grigio-black-label-750ml-49287",
+      "category_id": 4333,
+      "category_name": "Pinot Grigio",
+      "category_path": "Wine > White > Pinot Grigio",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c77dffec-485d-4e6a-93dd-e92dfdb571df.webp",
+      "price": 310000,
+      "discount_price": 248000,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "50000218",
+          "name": "Pasqua Pinot Grigio Black Label 750ml",
+          "price": 310000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c77dffec-485d-4e6a-93dd-e92dfdb571df.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c77dffec-485d-4e6a-93dd-e92dfdb571df_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c77dffec-485d-4e6a-93dd-e92dfdb571df_thumb.webp"
+            }
+          ],
+          "offerId": 50626,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": 248000,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T16:11:50.000741"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 43016,
+    "product_name": "Montalto Pinot Grigio 750ml",
+    "stock": 8,
+    "details": {
+      "id": 43016,
+      "code": "30230677",
+      "name": "Montalto Pinot Grigio 750ml",
+      "slug": "montalto-pinot-grigio-750ml-43016",
+      "category_id": 4333,
+      "category_name": "Pinot Grigio",
+      "category_path": "Wine > White > Pinot Grigio",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5ef681de-82a2-4f0e-9d0b-70c0ce0e66e7.webp",
+      "price": 219000,
+      "discount_price": null,
+      "stock": {
+        "H495": 8
+      },
+      "total_stock": 8,
+      "variants": [
+        {
+          "sku": "30230677",
+          "name": "Montalto Pinot Grigio 750ml",
+          "price": 219000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5ef681de-82a2-4f0e-9d0b-70c0ce0e66e7.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5ef681de-82a2-4f0e-9d0b-70c0ce0e66e7_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5ef681de-82a2-4f0e-9d0b-70c0ce0e66e7_thumb.webp"
+            }
+          ],
+          "offerId": 44521,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 8,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T16:11:50.000741"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 42804,
+    "product_name": "Villa Lucia Pinot Grigio 750ml",
+    "stock": 7,
+    "details": {
+      "id": 42804,
+      "code": "30230938",
+      "name": "Villa Lucia Pinot Grigio 750ml",
+      "slug": "villa-lucia-pinot-grigio-750ml-42804",
+      "category_id": 4333,
+      "category_name": "Pinot Grigio",
+      "category_path": "Wine > White > Pinot Grigio",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/0ae7bdcd-ab59-4dc7-8888-1e3381d71152.webp",
+      "price": 209000,
+      "discount_price": null,
+      "stock": {
+        "H495": 7
+      },
+      "total_stock": 7,
+      "variants": [
+        {
+          "sku": "30230938",
+          "name": "Villa Lucia Pinot Grigio 750ml",
+          "price": 209000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/0ae7bdcd-ab59-4dc7-8888-1e3381d71152.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/0ae7bdcd-ab59-4dc7-8888-1e3381d71152_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/0ae7bdcd-ab59-4dc7-8888-1e3381d71152_thumb.webp"
+            }
+          ],
+          "offerId": 44104,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 7,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T16:11:50.000741"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 42684,
+    "product_name": "Stemmari Pinot Grigio 750ml",
+    "stock": 14,
+    "details": {
+      "id": 42684,
+      "code": "30230789",
+      "name": "Stemmari Pinot Grigio 750ml",
+      "slug": "stemmari-pinot-grigio-750ml-42684",
+      "category_id": 4333,
+      "category_name": "Pinot Grigio",
+      "category_path": "Wine > White > Pinot Grigio",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b71cc2c7-0891-4bd9-b72c-03c94d814416.webp",
+      "price": 259000,
+      "discount_price": null,
+      "stock": {
+        "H495": 14
+      },
+      "total_stock": 14,
+      "variants": [
+        {
+          "sku": "30230789",
+          "name": "Stemmari Pinot Grigio 750ml",
+          "price": 259000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b71cc2c7-0891-4bd9-b72c-03c94d814416.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b71cc2c7-0891-4bd9-b72c-03c94d814416_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b71cc2c7-0891-4bd9-b72c-03c94d814416_thumb.webp"
+            }
+          ],
+          "offerId": 44045,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 14,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T16:11:50.000741"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 42537,
+    "product_name": "Tommasi Le Rosse Pinot Grigio 750ml",
+    "stock": 3,
+    "details": {
+      "id": 42537,
+      "code": "30230605",
+      "name": "Tommasi Le Rosse Pinot Grigio 750ml",
+      "slug": "tommasi-le-rosse-pinot-grigio-750ml-42537",
+      "category_id": 4333,
+      "category_name": "Pinot Grigio",
+      "category_path": "Wine > White > Pinot Grigio",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/aaafa01f-0fcf-42d7-800b-444359c188e5.webp",
+      "price": 279000,
+      "discount_price": null,
+      "stock": {
+        "H495": 3
+      },
+      "total_stock": 3,
+      "variants": [
+        {
+          "sku": "30230605",
+          "name": "Tommasi Le Rosse Pinot Grigio 750ml",
+          "price": 279000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/aaafa01f-0fcf-42d7-800b-444359c188e5.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/aaafa01f-0fcf-42d7-800b-444359c188e5_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/aaafa01f-0fcf-42d7-800b-444359c188e5_thumb.webp"
+            }
+          ],
+          "offerId": 43900,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 3,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T16:11:50.000741"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 43021,
+    "product_name": "Montalto Pinot Grigio 375ml",
+    "stock": 5,
+    "details": {
+      "id": 43021,
+      "code": "30230684",
+      "name": "Montalto Pinot Grigio 375ml",
+      "slug": "montalto-pinot-grigio-375ml-43021",
+      "category_id": 4333,
+      "category_name": "Pinot Grigio",
+      "category_path": "Wine > White > Pinot Grigio",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f75dbd14-51d5-4527-8252-b9e7865be9c8.webp",
+      "price": 159000,
+      "discount_price": null,
+      "stock": {
+        "H495": 5
+      },
+      "total_stock": 5,
+      "variants": [
+        {
+          "sku": "30230684",
+          "name": "Montalto Pinot Grigio 375ml",
+          "price": 159000,
+          "value": "375ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f75dbd14-51d5-4527-8252-b9e7865be9c8.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f75dbd14-51d5-4527-8252-b9e7865be9c8_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f75dbd14-51d5-4527-8252-b9e7865be9c8_thumb.webp"
+            }
+          ],
+          "offerId": 44532,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 5,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T16:11:50.000741"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 42660,
+    "product_name": "Colpasso Catarratto Pinot Grigio 250ml",
+    "stock": 13,
+    "details": {
+      "id": 42660,
+      "code": "30230741",
+      "name": "Colpasso Catarratto Pinot Grigio 250ml",
+      "slug": "colpasso-catarratto-pinot-grigio-250ml-42660",
+      "category_id": 4333,
+      "category_name": "Pinot Grigio",
+      "category_path": "Wine > White > Pinot Grigio",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b0f86a97-b083-4e96-8ff9-e59d121f5fd4.webp",
+      "price": 109000,
+      "discount_price": null,
+      "stock": {
+        "H495": 13
+      },
+      "total_stock": 13,
+      "variants": [
+        {
+          "sku": "30230741",
+          "name": "Colpasso Catarratto Pinot Grigio 250ml",
+          "price": 109000,
+          "value": "250ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b0f86a97-b083-4e96-8ff9-e59d121f5fd4.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b0f86a97-b083-4e96-8ff9-e59d121f5fd4_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b0f86a97-b083-4e96-8ff9-e59d121f5fd4_thumb.webp"
+            }
+          ],
+          "offerId": 43989,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 13,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T16:11:50.000741"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 42621,
+    "product_name": "Barefoot Pinot Grigio 187ml",
+    "stock": 10,
+    "details": {
+      "id": 42621,
+      "code": "30230648",
+      "name": "Barefoot Pinot Grigio 187ml",
+      "slug": "barefoot-pinot-grigio-187ml-42621",
+      "category_id": 4333,
+      "category_name": "Pinot Grigio",
+      "category_path": "Wine > White > Pinot Grigio",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/99058637-59bc-489d-bc31-ce4cc8d05d79.webp",
+      "price": 79000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30230648",
+          "name": "Barefoot Pinot Grigio 187ml",
+          "price": 79000,
+          "value": "187ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/99058637-59bc-489d-bc31-ce4cc8d05d79.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/99058637-59bc-489d-bc31-ce4cc8d05d79_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/99058637-59bc-489d-bc31-ce4cc8d05d79_thumb.webp"
+            }
+          ],
+          "offerId": 43931,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T16:11:50.000741"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 42687,
+    "product_name": "Tommasi Pinot Grigio 3L",
+    "previous_stock": 9,
+    "current_stock": 8,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 42699,
+    "product_name": "Frontera Chardonnay 3L",
+    "previous_stock": 19,
+    "current_stock": 18,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 42526,
+    "product_name": "Van Gogh Riesling 3L",
+    "previous_stock": 13,
+    "current_stock": 12,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 42797,
+    "product_name": "Absolut Vodka 1L",
+    "previous_stock": 5,
+    "current_stock": 4,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 43569,
+    "product_name": "Helga Nr.69 6x330ml",
+    "stock": 2,
+    "details": {
+      "id": 43569,
+      "code": "30230694",
+      "name": "Helga Nr.69 6x330ml",
+      "slug": "helga-nr-69-6x330ml-43569",
+      "category_id": 4287,
+      "category_name": "All Ciders",
+      "category_path": "Ready-to-Drink Cocktails > Cider > All Ciders",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/94110a68-3f9a-47ed-8f5d-57e34d0fea39.webp",
+      "price": 389000,
+      "discount_price": null,
+      "stock": {
+        "H495": 2
+      },
+      "total_stock": 2,
+      "variants": [
+        {
+          "sku": "30230694",
+          "name": "Helga Nr.69 6x330ml",
+          "price": 389000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/94110a68-3f9a-47ed-8f5d-57e34d0fea39.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/94110a68-3f9a-47ed-8f5d-57e34d0fea39_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/94110a68-3f9a-47ed-8f5d-57e34d0fea39_thumb.webp"
+            }
+          ],
+          "offerId": 45219,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 2,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T16:11:57.056506"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 43025,
+    "product_name": "Kopparberg Strawberry Pineapple 4x330ml",
+    "stock": 2,
+    "details": {
+      "id": 43025,
+      "code": "30230991",
+      "name": "Kopparberg Strawberry Pineapple 4x330ml",
+      "slug": "kopparberg-strawberry-pineapple-4x330ml-43025",
+      "category_id": 4287,
+      "category_name": "All Ciders",
+      "category_path": "Ready-to-Drink Cocktails > Cider > All Ciders",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/13bd17bd-32db-40fb-87c1-14aca8c6d71a.webp",
+      "price": 199000,
+      "discount_price": null,
+      "stock": {
+        "H495": 2
+      },
+      "total_stock": 2,
+      "variants": [
+        {
+          "sku": "30230991",
+          "name": "Kopparberg Strawberry Pineapple 4x330ml",
+          "price": 199000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/13bd17bd-32db-40fb-87c1-14aca8c6d71a.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/13bd17bd-32db-40fb-87c1-14aca8c6d71a_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/13bd17bd-32db-40fb-87c1-14aca8c6d71a_thumb.webp"
+            }
+          ],
+          "offerId": 44523,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 2,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T16:11:57.056506"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 42700,
+    "product_name": "Somersby Apple 6x330ml",
+    "stock": 3,
+    "details": {
+      "id": 42700,
+      "code": "30230820",
+      "name": "Somersby Apple 6x330ml",
+      "slug": "somersby-apple-6x330ml-42700",
+      "category_id": 4287,
+      "category_name": "All Ciders",
+      "category_path": "Ready-to-Drink Cocktails > Cider > All Ciders",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9046387b-9b4b-4e8a-b8d1-b60e8390aaa5.webp",
+      "price": 199000,
+      "discount_price": null,
+      "stock": {
+        "H495": 3
+      },
+      "total_stock": 3,
+      "variants": [
+        {
+          "sku": "30230820",
+          "name": "Somersby Apple 6x330ml",
+          "price": 199000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9046387b-9b4b-4e8a-b8d1-b60e8390aaa5.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9046387b-9b4b-4e8a-b8d1-b60e8390aaa5_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9046387b-9b4b-4e8a-b8d1-b60e8390aaa5_thumb.webp"
+            }
+          ],
+          "offerId": 44022,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 3,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T16:11:57.056506"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 42550,
+    "product_name": "Eldgos Crisp Apple 6x330ml",
+    "stock": 10,
+    "details": {
+      "id": 42550,
+      "code": "30230571",
+      "name": "Eldgos Crisp Apple 6x330ml",
+      "slug": "eldgos-crisp-apple-6x330ml-42550",
+      "category_id": 4287,
+      "category_name": "All Ciders",
+      "category_path": "Ready-to-Drink Cocktails > Cider > All Ciders",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c04b6c0a-06eb-401f-8117-77390d5ca1b3.webp",
+      "price": 309000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30230571",
+          "name": "Eldgos Crisp Apple 6x330ml",
+          "price": 309000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c04b6c0a-06eb-401f-8117-77390d5ca1b3.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c04b6c0a-06eb-401f-8117-77390d5ca1b3_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c04b6c0a-06eb-401f-8117-77390d5ca1b3_thumb.webp"
+            }
+          ],
+          "offerId": 43852,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T16:11:57.056506"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 43087,
+    "product_name": "ACE X Cool Mint Cosmic 5",
+    "previous_stock": 36,
+    "current_stock": 35,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 46234,
+    "product_name": "BLYS 800 Liquorice Ice",
+    "stock": 17,
+    "details": {
+      "id": 46234,
+      "code": "30225737",
+      "name": "BLYS 800 Liquorice Ice",
+      "slug": "blys-800-liqourice-ice-46234",
+      "category_id": 4516,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9f13e7dc-bf89-47cf-b437-3f3540457626.webp",
+      "price": 97000,
+      "discount_price": null,
+      "stock": {
+        "H495": 17
+      },
+      "total_stock": 17,
+      "variants": [
+        {
+          "sku": "30225737",
+          "name": "BLYS 800 Liquorice Ice",
+          "price": 97000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9f13e7dc-bf89-47cf-b437-3f3540457626.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9f13e7dc-bf89-47cf-b437-3f3540457626_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9f13e7dc-bf89-47cf-b437-3f3540457626_thumb.webp"
+            }
+          ],
+          "offerId": 47778,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 17,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T16:12:03.658959"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 46236,
+    "product_name": "BLYS 800 Blueberry Sour Strawberry",
+    "stock": 10,
+    "details": {
+      "id": 46236,
+      "code": "30232147",
+      "name": "BLYS 800 Blueberry Sour Strawberry",
+      "slug": "blys-800-blueberry-sour-strawberry-46236",
+      "category_id": 4516,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7a0aa8c3-1567-4a20-aab2-0d2235298145.webp",
+      "price": 97000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30232147",
+          "name": "BLYS 800 Blueberry Sour Strawberry",
+          "price": 97000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7a0aa8c3-1567-4a20-aab2-0d2235298145.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7a0aa8c3-1567-4a20-aab2-0d2235298145_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7a0aa8c3-1567-4a20-aab2-0d2235298145_thumb.webp"
+            }
+          ],
+          "offerId": 47780,
+          "sorting": 130,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T16:12:03.658959"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 46239,
+    "product_name": "BLYS 800 Pineapple Ice",
+    "stock": 20,
+    "details": {
+      "id": 46239,
+      "code": "30234749",
+      "name": "BLYS 800 Pineapple Ice",
+      "slug": "blys-800-pineapple-ice-46239",
+      "category_id": 4516,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a9adab8a-a42c-4dc1-a1f1-451c169d1bc4.webp",
+      "price": 97000,
+      "discount_price": null,
+      "stock": {
+        "H495": 20
+      },
+      "total_stock": 20,
+      "variants": [
+        {
+          "sku": "30234749",
+          "name": "BLYS 800 Pineapple Ice",
+          "price": 97000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a9adab8a-a42c-4dc1-a1f1-451c169d1bc4.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a9adab8a-a42c-4dc1-a1f1-451c169d1bc4_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a9adab8a-a42c-4dc1-a1f1-451c169d1bc4_thumb.webp"
+            }
+          ],
+          "offerId": 47783,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 20,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T16:12:03.658959"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 46231,
+    "product_name": "BLYS 800 Habanero Ice",
+    "stock": 17,
+    "details": {
+      "id": 46231,
+      "code": "30222724",
+      "name": "BLYS 800 Habanero Ice",
+      "slug": "blys-800-habanero-ice-46231",
+      "category_id": 4516,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b7d1500b-b431-4ffd-bd95-91a1a578cf8f.webp",
+      "price": 97000,
+      "discount_price": null,
+      "stock": {
+        "H495": 17
+      },
+      "total_stock": 17,
+      "variants": [
+        {
+          "sku": "30222724",
+          "name": "BLYS 800 Habanero Ice",
+          "price": 97000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b7d1500b-b431-4ffd-bd95-91a1a578cf8f.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b7d1500b-b431-4ffd-bd95-91a1a578cf8f_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b7d1500b-b431-4ffd-bd95-91a1a578cf8f_thumb.webp"
+            }
+          ],
+          "offerId": 47775,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 17,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T16:12:03.658959"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 46232,
+    "product_name": "BLYS 800 Jalapeno Sour",
+    "stock": 17,
+    "details": {
+      "id": 46232,
+      "code": "30222725",
+      "name": "BLYS 800 Jalapeno Sour",
+      "slug": "blys-800-jalapeno-sour-46232",
+      "category_id": 4516,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c3f93f99-77c6-4bef-9dc2-8f700cd17218.webp",
+      "price": 97000,
+      "discount_price": null,
+      "stock": {
+        "H495": 17
+      },
+      "total_stock": 17,
+      "variants": [
+        {
+          "sku": "30222725",
+          "name": "BLYS 800 Jalapeno Sour",
+          "price": 97000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c3f93f99-77c6-4bef-9dc2-8f700cd17218.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c3f93f99-77c6-4bef-9dc2-8f700cd17218_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c3f93f99-77c6-4bef-9dc2-8f700cd17218_thumb.webp"
+            }
+          ],
+          "offerId": 47776,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 17,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T16:12:03.658959"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 46233,
+    "product_name": "BLYS 800 Liquorice Raspberry",
+    "stock": 12,
+    "details": {
+      "id": 46233,
+      "code": "30224453",
+      "name": "BLYS 800 Liquorice Raspberry",
+      "slug": "blys-800-liqourice-raspberry-46233",
+      "category_id": 4516,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4e512aff-f7ff-4897-927f-800443867969.webp",
+      "price": 97000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "30224453",
+          "name": "BLYS 800 Liquorice Raspberry",
+          "price": 97000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4e512aff-f7ff-4897-927f-800443867969.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4e512aff-f7ff-4897-927f-800443867969_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4e512aff-f7ff-4897-927f-800443867969_thumb.webp"
+            }
+          ],
+          "offerId": 47777,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T16:12:03.658959"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 43679,
+    "product_name": "BLYS 800 Blueberry Sour Raspberry",
+    "stock": 11,
+    "details": {
+      "id": 43679,
+      "code": "30226483",
+      "name": "BLYS 800 Blueberry Sour Raspberry",
+      "slug": "blys-800-blueberry-sour-raspberry-43679",
+      "category_id": 4516,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7a1385dd-f617-4847-a2d2-8797ee59f8dd.webp",
+      "price": 97000,
+      "discount_price": null,
+      "stock": {
+        "H495": 11
+      },
+      "total_stock": 11,
+      "variants": [
+        {
+          "sku": "30226483",
+          "name": "BLYS 800 Blueberry Sour Raspberry",
+          "price": 97000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7a1385dd-f617-4847-a2d2-8797ee59f8dd.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7a1385dd-f617-4847-a2d2-8797ee59f8dd_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7a1385dd-f617-4847-a2d2-8797ee59f8dd_thumb.webp"
+            }
+          ],
+          "offerId": 45303,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 11,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T16:12:03.658959"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 42504,
+    "product_name": "BLYS 800 Strawberry Banana",
+    "stock": 22,
+    "details": {
+      "id": 42504,
+      "code": "30222025",
+      "name": "BLYS 800 Strawberry Banana",
+      "slug": "blys-800---strawberry-banana-1stk-42504",
+      "category_id": 4516,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/01271aeb-020e-424d-aea1-2af2f5846b92.webp",
+      "price": 97000,
+      "discount_price": null,
+      "stock": {
+        "H495": 22
+      },
+      "total_stock": 22,
+      "variants": [
+        {
+          "sku": "30222025",
+          "name": "BLYS 800 Strawberry Banana",
+          "price": 97000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/01271aeb-020e-424d-aea1-2af2f5846b92.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/01271aeb-020e-424d-aea1-2af2f5846b92_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/01271aeb-020e-424d-aea1-2af2f5846b92_thumb.webp"
+            }
+          ],
+          "offerId": 43850,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 22,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T16:12:03.658959"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 42515,
+    "product_name": "BLYS 800 Fresh Mint",
+    "stock": 13,
+    "details": {
+      "id": 42515,
+      "code": "30222022",
+      "name": "BLYS 800 Fresh Mint",
+      "slug": "blys-800---fresh-mint-1stk-42515",
+      "category_id": 4516,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/81be1980-a2d7-4b97-b51a-b575db1252da.webp",
+      "price": 97000,
+      "discount_price": null,
+      "stock": {
+        "H495": 13
+      },
+      "total_stock": 13,
+      "variants": [
+        {
+          "sku": "30222022",
+          "name": "BLYS 800 Fresh Mint",
+          "price": 97000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/81be1980-a2d7-4b97-b51a-b575db1252da.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/81be1980-a2d7-4b97-b51a-b575db1252da_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/81be1980-a2d7-4b97-b51a-b575db1252da_thumb.webp"
+            }
+          ],
+          "offerId": 43849,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 13,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T16:12:03.658959"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 42513,
+    "product_name": "BLYS 800 Blueberry Raspberry",
+    "stock": 17,
+    "details": {
+      "id": 42513,
+      "code": "30222021",
+      "name": "BLYS 800 Blueberry Raspberry",
+      "slug": "blys-800---blueberry-raspberry-1stk-42513",
+      "category_id": 4516,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a2b03645-cbc2-40ee-b69c-91eb6b016a45.webp",
+      "price": 97000,
+      "discount_price": null,
+      "stock": {
+        "H495": 17
+      },
+      "total_stock": 17,
+      "variants": [
+        {
+          "sku": "30222021",
+          "name": "BLYS 800 Blueberry Raspberry",
+          "price": 97000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a2b03645-cbc2-40ee-b69c-91eb6b016a45.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a2b03645-cbc2-40ee-b69c-91eb6b016a45_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a2b03645-cbc2-40ee-b69c-91eb6b016a45_thumb.webp"
+            }
+          ],
+          "offerId": 43846,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 17,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T16:12:03.658959"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 42509,
+    "product_name": "BLYS 800 Pink Lemonade",
+    "stock": 37,
+    "details": {
+      "id": 42509,
+      "code": "30222026",
+      "name": "BLYS 800 Pink Lemonade",
+      "slug": "blys-800---pink-lemonade-1stk-42509",
+      "category_id": 4516,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7390898c-d7f7-4363-8bdd-68004c1e5e0b.webp",
+      "price": 97000,
+      "discount_price": null,
+      "stock": {
+        "H495": 37
+      },
+      "total_stock": 37,
+      "variants": [
+        {
+          "sku": "30222026",
+          "name": "BLYS 800 Pink Lemonade",
+          "price": 97000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7390898c-d7f7-4363-8bdd-68004c1e5e0b.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7390898c-d7f7-4363-8bdd-68004c1e5e0b_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7390898c-d7f7-4363-8bdd-68004c1e5e0b_thumb.webp"
+            }
+          ],
+          "offerId": 43841,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 37,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T16:12:03.658959"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 42496,
+    "product_name": "BLYS 800 Grape Ice",
+    "stock": 9,
+    "details": {
+      "id": 42496,
+      "code": "30222028",
+      "name": "BLYS 800 Grape Ice",
+      "slug": "blys-800---grape-ice-1stk-42496",
+      "category_id": 4516,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/125a499a-c439-468e-92a2-24c0f7848ac4.webp",
+      "price": 97000,
+      "discount_price": null,
+      "stock": {
+        "H495": 9
+      },
+      "total_stock": 9,
+      "variants": [
+        {
+          "sku": "30222028",
+          "name": "BLYS 800 Grape Ice",
+          "price": 97000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/125a499a-c439-468e-92a2-24c0f7848ac4.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/125a499a-c439-468e-92a2-24c0f7848ac4_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/125a499a-c439-468e-92a2-24c0f7848ac4_thumb.webp"
+            }
+          ],
+          "offerId": 43825,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 9,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T16:12:03.658959"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 42494,
+    "product_name": "BLYS 800 Watermelon Ice",
+    "stock": 15,
+    "details": {
+      "id": 42494,
+      "code": "30222023",
+      "name": "BLYS 800 Watermelon Ice",
+      "slug": "blys-800---watermelon-ice-1stk-42494",
+      "category_id": 4516,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/07e9d853-5bbe-47f3-bad9-25ea17998fa5.webp",
+      "price": 97000,
+      "discount_price": null,
+      "stock": {
+        "H495": 15
+      },
+      "total_stock": 15,
+      "variants": [
+        {
+          "sku": "30222023",
+          "name": "BLYS 800 Watermelon Ice",
+          "price": 97000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/07e9d853-5bbe-47f3-bad9-25ea17998fa5.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/07e9d853-5bbe-47f3-bad9-25ea17998fa5_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/07e9d853-5bbe-47f3-bad9-25ea17998fa5_thumb.webp"
+            }
+          ],
+          "offerId": 43817,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 15,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T16:12:03.658959"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 42478,
+    "product_name": "BLYS 800 Peach Blueberry",
+    "stock": 1,
+    "details": {
+      "id": 42478,
+      "code": "30222027",
+      "name": "BLYS 800 Peach Blueberry",
+      "slug": "blys-800---peach-blueberry-1stk-42478",
+      "category_id": 4516,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6179a1be-58c0-4b6b-9f02-c142af31f563.webp",
+      "price": 97000,
+      "discount_price": null,
+      "stock": {
+        "H495": 1
+      },
+      "total_stock": 1,
+      "variants": [
+        {
+          "sku": "30222027",
+          "name": "BLYS 800 Peach Blueberry",
+          "price": 97000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6179a1be-58c0-4b6b-9f02-c142af31f563.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6179a1be-58c0-4b6b-9f02-c142af31f563_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6179a1be-58c0-4b6b-9f02-c142af31f563_thumb.webp"
+            }
+          ],
+          "offerId": 43803,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 1,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T16:12:03.658959"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 46248,
+    "product_name": "BLYS X 800 Strawberry Ice Cream",
+    "stock": 10,
+    "details": {
+      "id": 46248,
+      "code": "30234757",
+      "name": "BLYS X 800 Strawberry Ice Cream",
+      "slug": "blys-x-800-strawberry-ice-cream-46248",
+      "category_id": 4308,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/edc5d5fb-514c-44b4-8e0d-d23f75bd2bf6.webp",
+      "price": 119000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30234757",
+          "name": "BLYS X 800 Strawberry Ice Cream",
+          "price": 119000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/edc5d5fb-514c-44b4-8e0d-d23f75bd2bf6.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/edc5d5fb-514c-44b4-8e0d-d23f75bd2bf6_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/edc5d5fb-514c-44b4-8e0d-d23f75bd2bf6_thumb.webp"
+            }
+          ],
+          "offerId": 47792,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T16:12:03.658959"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 46247,
+    "product_name": "BLYS X 800 Grape Ice",
+    "stock": 10,
+    "details": {
+      "id": 46247,
+      "code": "30234756",
+      "name": "BLYS X 800 Grape Ice",
+      "slug": "blys-x-800-grape-ice-46247",
+      "category_id": 4308,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/067af2b5-3e29-4b9c-ab55-133aef2b9d4f.webp",
+      "price": 119000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30234756",
+          "name": "BLYS X 800 Grape Ice",
+          "price": 119000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/067af2b5-3e29-4b9c-ab55-133aef2b9d4f.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/067af2b5-3e29-4b9c-ab55-133aef2b9d4f_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/067af2b5-3e29-4b9c-ab55-133aef2b9d4f_thumb.webp"
+            }
+          ],
+          "offerId": 47791,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T16:12:03.658959"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 46249,
+    "product_name": "BLYS X 800 Strawberry Watermelon",
+    "stock": 10,
+    "details": {
+      "id": 46249,
+      "code": "30234758",
+      "name": "BLYS X 800 Strawberry Watermelon",
+      "slug": "blys-x-800-strawberry-watermelon-46249",
+      "category_id": 4308,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/27825d76-36ad-4a0d-9055-756e6bab2b5e.webp",
+      "price": 119000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30234758",
+          "name": "BLYS X 800 Strawberry Watermelon",
+          "price": 119000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/27825d76-36ad-4a0d-9055-756e6bab2b5e.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/27825d76-36ad-4a0d-9055-756e6bab2b5e_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/27825d76-36ad-4a0d-9055-756e6bab2b5e_thumb.webp"
+            }
+          ],
+          "offerId": 47793,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T16:12:03.658959"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 46250,
+    "product_name": "BLYS X 800 Fizzy Cherry",
+    "stock": 10,
+    "details": {
+      "id": 46250,
+      "code": "30234759",
+      "name": "BLYS X 800 Fizzy Cherry",
+      "slug": "blys-x-800-fizzy-cherry-46250",
+      "category_id": 4308,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/35c605f2-e02f-44aa-9755-dc4e33f81d79.webp",
+      "price": 119000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30234759",
+          "name": "BLYS X 800 Fizzy Cherry",
+          "price": 119000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/35c605f2-e02f-44aa-9755-dc4e33f81d79.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/35c605f2-e02f-44aa-9755-dc4e33f81d79_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/35c605f2-e02f-44aa-9755-dc4e33f81d79_thumb.webp"
+            }
+          ],
+          "offerId": 47794,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T16:12:03.658959"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 46241,
+    "product_name": "BLYS X 800 Blueberry Raspberry",
+    "stock": 10,
+    "details": {
+      "id": 46241,
+      "code": "30234750",
+      "name": "BLYS X 800 Blueberry Raspberry",
+      "slug": "blys-x-800-blueberry-raspberry-46241",
+      "category_id": 4308,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7bb0e459-7317-41fc-b7c9-5c90b837e19d.webp",
+      "price": 119000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30234750",
+          "name": "BLYS X 800 Blueberry Raspberry",
+          "price": 119000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7bb0e459-7317-41fc-b7c9-5c90b837e19d.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7bb0e459-7317-41fc-b7c9-5c90b837e19d_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7bb0e459-7317-41fc-b7c9-5c90b837e19d_thumb.webp"
+            }
+          ],
+          "offerId": 47785,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T16:12:03.658959"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 46242,
+    "product_name": "BLYS X 800 Fresh Mint",
+    "stock": 10,
+    "details": {
+      "id": 46242,
+      "code": "30234751",
+      "name": "BLYS X 800 Fresh Mint",
+      "slug": "blys-x-800-fresh-mint-46242",
+      "category_id": 4308,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2a441543-aff5-4c34-9bc6-610f2e67b9b5.webp",
+      "price": 119000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30234751",
+          "name": "BLYS X 800 Fresh Mint",
+          "price": 119000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2a441543-aff5-4c34-9bc6-610f2e67b9b5.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2a441543-aff5-4c34-9bc6-610f2e67b9b5_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2a441543-aff5-4c34-9bc6-610f2e67b9b5_thumb.webp"
+            }
+          ],
+          "offerId": 47786,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T16:12:03.658959"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 46243,
+    "product_name": "BLYS X 800 Watermelon Ice",
+    "stock": 10,
+    "details": {
+      "id": 46243,
+      "code": "30234752",
+      "name": "BLYS X 800 Watermelon Ice",
+      "slug": "blys-x-800-watermelon-ice-46243",
+      "category_id": 4308,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7f779cac-b75d-4583-a419-c257c21e8df3.webp",
+      "price": 119000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30234752",
+          "name": "BLYS X 800 Watermelon Ice",
+          "price": 119000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7f779cac-b75d-4583-a419-c257c21e8df3.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7f779cac-b75d-4583-a419-c257c21e8df3_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7f779cac-b75d-4583-a419-c257c21e8df3_thumb.webp"
+            }
+          ],
+          "offerId": 47787,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T16:12:03.658959"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 46244,
+    "product_name": "BLYS X 800 Strawberry Ice",
+    "stock": 10,
+    "details": {
+      "id": 46244,
+      "code": "30234753",
+      "name": "BLYS X 800 Strawberry Ice",
+      "slug": "blys-x-800-strawberry-ice-46244",
+      "category_id": 4308,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b0e94cc4-aa35-4fc4-bfcc-66dff2425e4a.webp",
+      "price": 119000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30234753",
+          "name": "BLYS X 800 Strawberry Ice",
+          "price": 119000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b0e94cc4-aa35-4fc4-bfcc-66dff2425e4a.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b0e94cc4-aa35-4fc4-bfcc-66dff2425e4a_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b0e94cc4-aa35-4fc4-bfcc-66dff2425e4a_thumb.webp"
+            }
+          ],
+          "offerId": 47788,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T16:12:03.658959"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 46245,
+    "product_name": "BLYS X 800 Strawberry Banana",
+    "stock": 10,
+    "details": {
+      "id": 46245,
+      "code": "30234754",
+      "name": "BLYS X 800 Strawberry Banana",
+      "slug": "blys-x-800-strawberry-banana-46245",
+      "category_id": 4308,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/69184070-3d6e-49a8-9915-be5f4861a91b.webp",
+      "price": 119000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30234754",
+          "name": "BLYS X 800 Strawberry Banana",
+          "price": 119000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/69184070-3d6e-49a8-9915-be5f4861a91b.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/69184070-3d6e-49a8-9915-be5f4861a91b_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/69184070-3d6e-49a8-9915-be5f4861a91b_thumb.webp"
+            }
+          ],
+          "offerId": 47789,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T16:12:03.658959"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 47224,
+    "product_name": "BLYS POD Peach Blueberry",
+    "stock": 10,
+    "details": {
+      "id": 47224,
+      "code": "30234764",
+      "name": "BLYS POD Peach Blueberry",
+      "slug": "blys-pod-peach-blueberry-47224",
+      "category_id": 4308,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2d1803fe-97f8-402c-b41d-ab824e1cb25c.webp",
+      "price": 149000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30234764",
+          "name": "BLYS POD Peach Blueberry",
+          "price": 149000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2d1803fe-97f8-402c-b41d-ab824e1cb25c.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2d1803fe-97f8-402c-b41d-ab824e1cb25c_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2d1803fe-97f8-402c-b41d-ab824e1cb25c_thumb.webp"
+            }
+          ],
+          "offerId": 48770,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T16:12:03.658959"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 47219,
+    "product_name": "BLYS POD Watermelon Ice",
+    "stock": 18,
+    "details": {
+      "id": 47219,
+      "code": "30225745",
+      "name": "BLYS POD Watermelon Ice",
+      "slug": "blys-pod-watermelon-ice-47219",
+      "category_id": 4308,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9e4f7d7a-6bd8-42b3-a4f2-22b431a8877b.webp",
+      "price": 149000,
+      "discount_price": null,
+      "stock": {
+        "H495": 18
+      },
+      "total_stock": 18,
+      "variants": [
+        {
+          "sku": "30225745",
+          "name": "BLYS POD Watermelon Ice",
+          "price": 149000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9e4f7d7a-6bd8-42b3-a4f2-22b431a8877b.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9e4f7d7a-6bd8-42b3-a4f2-22b431a8877b_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9e4f7d7a-6bd8-42b3-a4f2-22b431a8877b_thumb.webp"
+            }
+          ],
+          "offerId": 48765,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 18,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T16:12:03.658959"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 47220,
+    "product_name": "BLYS POD Grape Ice",
+    "stock": 10,
+    "details": {
+      "id": 47220,
+      "code": "30225742",
+      "name": "BLYS POD Grape Ice",
+      "slug": "blys-pod-grape-ice-47220",
+      "category_id": 4308,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7d0c752a-6654-4acf-af53-61d85fbe0fdc.webp",
+      "price": 149000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30225742",
+          "name": "BLYS POD Grape Ice",
+          "price": 149000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7d0c752a-6654-4acf-af53-61d85fbe0fdc.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7d0c752a-6654-4acf-af53-61d85fbe0fdc_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7d0c752a-6654-4acf-af53-61d85fbe0fdc_thumb.webp"
+            }
+          ],
+          "offerId": 48766,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T16:12:03.658959"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 47221,
+    "product_name": "BLYS POD Pink Lemonade",
+    "stock": 10,
+    "details": {
+      "id": 47221,
+      "code": "30225743",
+      "name": "BLYS POD Pink Lemonade",
+      "slug": "blys-pod-pink-lemonade-47221",
+      "category_id": 4308,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/444064f2-1de0-40ff-a42d-ec124e302ac9.webp",
+      "price": 149000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30225743",
+          "name": "BLYS POD Pink Lemonade",
+          "price": 149000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/444064f2-1de0-40ff-a42d-ec124e302ac9.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/444064f2-1de0-40ff-a42d-ec124e302ac9_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/444064f2-1de0-40ff-a42d-ec124e302ac9_thumb.webp"
+            }
+          ],
+          "offerId": 48767,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T16:12:03.658959"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 47222,
+    "product_name": "BLYS POD Fresh Mint",
+    "stock": 10,
+    "details": {
+      "id": 47222,
+      "code": "30234762",
+      "name": "BLYS POD Fresh Mint",
+      "slug": "blys-pod-fresh-mint-47222",
+      "category_id": 4308,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d5816666-9a8f-4723-9974-e56efc2a023f.webp",
+      "price": 149000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30234762",
+          "name": "BLYS POD Fresh Mint",
+          "price": 149000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d5816666-9a8f-4723-9974-e56efc2a023f.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d5816666-9a8f-4723-9974-e56efc2a023f_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d5816666-9a8f-4723-9974-e56efc2a023f_thumb.webp"
+            }
+          ],
+          "offerId": 48768,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T16:12:03.658959"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 47223,
+    "product_name": "BLYS POD Strawberry Banana",
+    "stock": 10,
+    "details": {
+      "id": 47223,
+      "code": "30234763",
+      "name": "BLYS POD Strawberry Banana",
+      "slug": "blys-pod-strawberry-banana-47223",
+      "category_id": 4308,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a89d6818-51d1-4cff-9094-899efd3b8ea0.webp",
+      "price": 149000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30234763",
+          "name": "BLYS POD Strawberry Banana",
+          "price": 149000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a89d6818-51d1-4cff-9094-899efd3b8ea0.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a89d6818-51d1-4cff-9094-899efd3b8ea0_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a89d6818-51d1-4cff-9094-899efd3b8ea0_thumb.webp"
+            }
+          ],
+          "offerId": 48769,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T16:12:03.658959"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 47218,
+    "product_name": "BLYS POD Strawberry Ice",
+    "stock": 9,
+    "details": {
+      "id": 47218,
+      "code": "30225744",
+      "name": "BLYS POD Strawberry Ice",
+      "slug": "blys-pod-strawberry-ice-47218",
+      "category_id": 4308,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6463c09a-5f4d-47f3-9cd1-3f2efb36582f.webp",
+      "price": 149000,
+      "discount_price": null,
+      "stock": {
+        "H495": 9
+      },
+      "total_stock": 9,
+      "variants": [
+        {
+          "sku": "30225744",
+          "name": "BLYS POD Strawberry Ice",
+          "price": 149000,
+          "value": "20mg/ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6463c09a-5f4d-47f3-9cd1-3f2efb36582f.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6463c09a-5f4d-47f3-9cd1-3f2efb36582f_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6463c09a-5f4d-47f3-9cd1-3f2efb36582f_thumb.webp"
+            }
+          ],
+          "offerId": 48764,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 9,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T16:12:03.658959"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 47215,
+    "product_name": "BLYS Græja Hvít",
+    "stock": 10,
+    "details": {
+      "id": 47215,
+      "code": "30226689",
+      "name": "BLYS Græja Hvít",
+      "slug": "blys-gr-ja-hvit-47215",
+      "category_id": 4308,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f72cb606-42f9-4277-9bba-58474a4e64fe.webp",
+      "price": 69000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [],
+      "last_updated": "2026-04-10T16:12:03.658959"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 47216,
+    "product_name": "BLYS Græja Svört",
+    "stock": 20,
+    "details": {
+      "id": 47216,
+      "code": "30226690",
+      "name": "BLYS Græja Svört",
+      "slug": "blys-gr-ja-svort-47216",
+      "category_id": 4308,
+      "category_name": "BLYS",
+      "category_path": "Nicotine > Vapes > BLYS",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3eb59abb-0f12-4158-a473-833648c04500.webp",
+      "price": 69000,
+      "discount_price": null,
+      "stock": {
+        "H495": 20
+      },
+      "total_stock": 20,
+      "variants": [],
+      "last_updated": "2026-04-10T16:12:03.658959"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 42492,
+    "product_name": "COLLAB X Birnir 6x330ml",
+    "previous_stock": 10,
+    "current_stock": 9,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 48565,
+    "product_name": "Gatorade Orange 6x500ml",
+    "stock": 100,
+    "details": {
+      "id": 48565,
+      "code": "216650160PK6",
+      "name": "Gatorade Orange 6x500ml",
+      "slug": "gatorade-orange-6x500ml-48565",
+      "category_id": 4323,
+      "category_name": "All Sports Drinks",
+      "category_path": "Soft drinks > Sports Drinks > All Sports Drinks",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/19532e07-c16d-4d28-89ea-8dbeda994d25.webp",
+      "price": 149000,
+      "discount_price": null,
+      "stock": {
+        "H495": 100
+      },
+      "total_stock": 100,
+      "variants": [
+        {
+          "sku": "216650160PK6",
+          "name": "Gatorade Orange 6x500ml",
+          "price": 149000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/19532e07-c16d-4d28-89ea-8dbeda994d25.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/19532e07-c16d-4d28-89ea-8dbeda994d25_orig.webp",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/19532e07-c16d-4d28-89ea-8dbeda994d25_thumb.webp"
+            }
+          ],
+          "offerId": 50013,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 100,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T16:12:12.260513"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 48566,
+    "product_name": "Gatorade Cool Blue 6x500ml",
+    "stock": 98,
+    "details": {
+      "id": 48566,
+      "code": "10038179PK6",
+      "name": "Gatorade Cool Blue 6x500ml",
+      "slug": "gatorade-cool-blue-6x500ml-48566",
+      "category_id": 4323,
+      "category_name": "All Sports Drinks",
+      "category_path": "Soft drinks > Sports Drinks > All Sports Drinks",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/1e6d0a5c-604d-4920-a5bd-f7ae66b2d478.webp",
+      "price": 149000,
+      "discount_price": null,
+      "stock": {
+        "H495": 98
+      },
+      "total_stock": 98,
+      "variants": [
+        {
+          "sku": "10038179PK6",
+          "name": "Gatorade Cool Blue 6x500ml",
+          "price": 149000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/1e6d0a5c-604d-4920-a5bd-f7ae66b2d478.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/1e6d0a5c-604d-4920-a5bd-f7ae66b2d478_orig.webp",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/1e6d0a5c-604d-4920-a5bd-f7ae66b2d478_thumb.webp"
+            }
+          ],
+          "offerId": 50014,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 98,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T16:12:12.260513"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 48567,
+    "product_name": "Gatorade Red Orange 6x500ml",
+    "stock": 100,
+    "details": {
+      "id": 48567,
+      "code": "30160790PK6",
+      "name": "Gatorade Red Orange 6x500ml",
+      "slug": "gatorade-red-orange-6x500ml-48567",
+      "category_id": 4323,
+      "category_name": "All Sports Drinks",
+      "category_path": "Soft drinks > Sports Drinks > All Sports Drinks",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/69d5aa41-0842-4948-8799-bdf54f62b9cf.webp",
+      "price": 149000,
+      "discount_price": null,
+      "stock": {
+        "H495": 100
+      },
+      "total_stock": 100,
+      "variants": [
+        {
+          "sku": "30160790PK6",
+          "name": "Gatorade Red Orange 6x500ml",
+          "price": 149000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/69d5aa41-0842-4948-8799-bdf54f62b9cf.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/69d5aa41-0842-4948-8799-bdf54f62b9cf_orig.webp",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/69d5aa41-0842-4948-8799-bdf54f62b9cf_thumb.webp"
+            }
+          ],
+          "offerId": 50015,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 100,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T16:12:12.260513"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 48564,
+    "product_name": "Gatorade Lemon 6x500ml",
+    "stock": 100,
+    "details": {
+      "id": 48564,
+      "code": "30097035PK6",
+      "name": "Gatorade Lemon 6x500ml",
+      "slug": "gatorade-lemon-6x500ml-48564",
+      "category_id": 4323,
+      "category_name": "All Sports Drinks",
+      "category_path": "Soft drinks > Sports Drinks > All Sports Drinks",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c128a8d5-87c3-4895-8e67-80a8d5571274.webp",
+      "price": 149000,
+      "discount_price": null,
+      "stock": {
+        "H495": 100
+      },
+      "total_stock": 100,
+      "variants": [
+        {
+          "sku": "30097035PK6",
+          "name": "Gatorade Lemon 6x500ml",
+          "price": 149000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c128a8d5-87c3-4895-8e67-80a8d5571274.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c128a8d5-87c3-4895-8e67-80a8d5571274_orig.webp",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c128a8d5-87c3-4895-8e67-80a8d5571274_thumb.webp"
+            }
+          ],
+          "offerId": 50012,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 100,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-10T16:12:12.260513"
+    }
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-10T16:12:13.155545",
+    "product_id": 42681,
+    "product_name": "Tommasi Graticcio Appassionato 750ml",
+    "last_stock": 2
   }
 ]
