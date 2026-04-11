@@ -98075,5 +98075,65 @@
     "product_id": 49229,
     "product_name": "Asahi Super Dry 6x330ml",
     "last_stock": 2
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-11T16:23:01.186391",
+    "product_id": 42703,
+    "product_name": "Gull 12x500ml",
+    "previous_stock": 38,
+    "current_stock": 37,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-11T16:23:01.186391",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 1030,
+    "current_stock": 1028,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-11T16:23:01.186391",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 509,
+    "current_stock": 508,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-11T16:23:01.186391",
+    "product_id": 42620,
+    "product_name": "Guinness 4x440ml",
+    "previous_stock": 23,
+    "current_stock": 21,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-11T16:23:01.186391",
+    "product_id": 49012,
+    "product_name": "Erdinger Oktoberfest 4x500ml",
+    "previous_stock": 211,
+    "current_stock": 209,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-11T16:23:01.186391",
+    "product_id": 42762,
+    "product_name": "Vicar's choice Sauvignon Blanc 750ml",
+    "previous_stock": 21,
+    "current_stock": 20,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
