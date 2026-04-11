@@ -97938,5 +97938,55 @@
     "current_stock": 13,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-11T15:00:53.307329",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 56,
+    "current_stock": 55,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-11T15:00:53.307329",
+    "product_id": 42657,
+    "product_name": "Ölvisholt Lager 10x330ml",
+    "previous_stock": 15,
+    "current_stock": 12,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-11T15:00:53.307329",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 1035,
+    "current_stock": 1034,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-11T15:00:53.307329",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 512,
+    "current_stock": 510,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-11T15:00:53.307329",
+    "product_id": 42666,
+    "product_name": "Ölvisholt Lite 10x330ml",
+    "previous_stock": 5,
+    "current_stock": 2,
+    "change": -3,
+    "direction": "decrease"
   }
 ]
