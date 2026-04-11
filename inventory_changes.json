@@ -97377,5 +97377,336 @@
     "product_id": 42795,
     "product_name": "White Claw Raspberry 4x330ml",
     "last_stock": 5
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-11T11:50:57.669886",
+    "product_id": 42620,
+    "product_name": "Guinness 4x440ml",
+    "previous_stock": 24,
+    "current_stock": 23,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-11T11:50:57.669886",
+    "product_id": 42803,
+    "product_name": "Einstök Arctic Pale Ale 12x330ml",
+    "previous_stock": 9,
+    "current_stock": 8,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-11T11:50:57.669886",
+    "product_id": 49012,
+    "product_name": "Erdinger Oktoberfest 4x500ml",
+    "previous_stock": 219,
+    "current_stock": 217,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-11T11:50:57.669886",
+    "product_id": 42594,
+    "product_name": "Piccini Prosecco 750ml",
+    "previous_stock": 16,
+    "current_stock": 15,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-11T11:50:57.669886",
+    "product_id": 46204,
+    "product_name": "Bara Ísber 6x330ml",
+    "stock": 10,
+    "details": {
+      "id": 46204,
+      "code": "30234680",
+      "name": "Bara Ísber 6x330ml",
+      "slug": "bara-isber-6x330ml-46204",
+      "category_id": 4294,
+      "category_name": "All Seltzers",
+      "category_path": "Ready-to-Drink Cocktails > Seltzers > All Seltzers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5e473398-2d6f-42e0-afb4-18d2c0d38cfa.webp",
+      "price": 309000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30234680",
+          "name": "Bara Ísber 6x330ml",
+          "price": 309000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5e473398-2d6f-42e0-afb4-18d2c0d38cfa.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5e473398-2d6f-42e0-afb4-18d2c0d38cfa_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5e473398-2d6f-42e0-afb4-18d2c0d38cfa_thumb.webp"
+            }
+          ],
+          "offerId": 47748,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-11T11:50:43.388650"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-11T11:50:57.669886",
+    "product_id": 42673,
+    "product_name": "BARA Jarðaber & Límóna 6x330ml",
+    "stock": 9,
+    "details": {
+      "id": 42673,
+      "code": "30230719",
+      "name": "BARA Jarðaber & Límóna 6x330ml",
+      "slug": "bara-jar-aber-limona-6x330ml-42673",
+      "category_id": 4294,
+      "category_name": "All Seltzers",
+      "category_path": "Ready-to-Drink Cocktails > Seltzers > All Seltzers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/edb9200e-112d-451f-887b-ecfb7608ff23.webp",
+      "price": 309000,
+      "discount_price": null,
+      "stock": {
+        "H495": 9
+      },
+      "total_stock": 9,
+      "variants": [
+        {
+          "sku": "30230719",
+          "name": "BARA Jarðaber & Límóna 6x330ml",
+          "price": 309000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/edb9200e-112d-451f-887b-ecfb7608ff23.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/edb9200e-112d-451f-887b-ecfb7608ff23_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/edb9200e-112d-451f-887b-ecfb7608ff23_thumb.webp"
+            },
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3ad01cc9-ad9f-43e8-94da-87c32945272c.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3ad01cc9-ad9f-43e8-94da-87c32945272c_orig.jpeg",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3ad01cc9-ad9f-43e8-94da-87c32945272c_thumb.webp"
+            }
+          ],
+          "offerId": 43975,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 9,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-11T11:50:43.388650"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-11T11:50:57.669886",
+    "product_id": 42651,
+    "product_name": "BARA Maracuja & Lime 6x330ml",
+    "stock": 8,
+    "details": {
+      "id": 42651,
+      "code": "30230717",
+      "name": "BARA Maracuja & Lime 6x330ml",
+      "slug": "bara-maracuja-lime-6x330ml-42651",
+      "category_id": 4294,
+      "category_name": "All Seltzers",
+      "category_path": "Ready-to-Drink Cocktails > Seltzers > All Seltzers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3e214b9f-7e73-4eda-95cf-92a1548ee6dd.webp",
+      "price": 309000,
+      "discount_price": null,
+      "stock": {
+        "H495": 8
+      },
+      "total_stock": 8,
+      "variants": [
+        {
+          "sku": "30230717",
+          "name": "BARA Maracuja & Lime 6x330ml",
+          "price": 309000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3e214b9f-7e73-4eda-95cf-92a1548ee6dd.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3e214b9f-7e73-4eda-95cf-92a1548ee6dd_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3e214b9f-7e73-4eda-95cf-92a1548ee6dd_thumb.webp"
+            },
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9ef5f73d-e4b8-4ec2-b55a-db6046801daa.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9ef5f73d-e4b8-4ec2-b55a-db6046801daa_orig.jpeg",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9ef5f73d-e4b8-4ec2-b55a-db6046801daa_thumb.webp"
+            }
+          ],
+          "offerId": 43962,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 8,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-11T11:50:43.388650"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-11T11:50:57.669886",
+    "product_id": 42630,
+    "product_name": "BARA Hindber & Sítróna 6x330ml",
+    "stock": 5,
+    "details": {
+      "id": 42630,
+      "code": "30230718",
+      "name": "BARA Hindber & Sítróna 6x330ml",
+      "slug": "bara-hindber-sitrona-6x330ml-42630",
+      "category_id": 4294,
+      "category_name": "All Seltzers",
+      "category_path": "Ready-to-Drink Cocktails > Seltzers > All Seltzers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/83378ce2-33ac-42d4-aa39-a09a20226c7b.webp",
+      "price": 309000,
+      "discount_price": null,
+      "stock": {
+        "H495": 5
+      },
+      "total_stock": 5,
+      "variants": [
+        {
+          "sku": "30230718",
+          "name": "BARA Hindber & Sítróna 6x330ml",
+          "price": 309000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/83378ce2-33ac-42d4-aa39-a09a20226c7b.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/83378ce2-33ac-42d4-aa39-a09a20226c7b_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/83378ce2-33ac-42d4-aa39-a09a20226c7b_thumb.webp"
+            },
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/55bd771c-703d-496d-a29c-0dda9b5a4812.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/55bd771c-703d-496d-a29c-0dda9b5a4812_orig.jpeg",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/55bd771c-703d-496d-a29c-0dda9b5a4812_thumb.webp"
+            }
+          ],
+          "offerId": 43953,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 5,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-11T11:50:43.388650"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-11T11:50:57.669886",
+    "product_id": 43199,
+    "product_name": "White Claw Natural Lime 4x330ml",
+    "stock": 4,
+    "details": {
+      "id": 43199,
+      "code": "30230978",
+      "name": "White Claw Natural Lime 4x330ml",
+      "slug": "white-claw-natural-lime-4x330ml-43199",
+      "category_id": 4294,
+      "category_name": "All Seltzers",
+      "category_path": "Ready-to-Drink Cocktails > Seltzers > All Seltzers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/56ee814e-c5d9-463f-b0bd-38129b52c45b.webp",
+      "price": 249000,
+      "discount_price": null,
+      "stock": {
+        "H495": 4
+      },
+      "total_stock": 4,
+      "variants": [
+        {
+          "sku": "30230978",
+          "name": "White Claw Natural Lime 4x330ml",
+          "price": 249000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/56ee814e-c5d9-463f-b0bd-38129b52c45b.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/56ee814e-c5d9-463f-b0bd-38129b52c45b_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/56ee814e-c5d9-463f-b0bd-38129b52c45b_thumb.webp"
+            }
+          ],
+          "offerId": 44798,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 4,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-11T11:50:43.388650"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-11T11:50:57.669886",
+    "product_id": 42795,
+    "product_name": "White Claw Raspberry 4x330ml",
+    "stock": 5,
+    "details": {
+      "id": 42795,
+      "code": "30230977",
+      "name": "White Claw Raspberry 4x330ml",
+      "slug": "white-claw-raspberry-4x330ml-42795",
+      "category_id": 4294,
+      "category_name": "All Seltzers",
+      "category_path": "Ready-to-Drink Cocktails > Seltzers > All Seltzers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/03f7ff19-bd83-4689-90d2-c54a04db1877.webp",
+      "price": 249000,
+      "discount_price": null,
+      "stock": {
+        "H495": 5
+      },
+      "total_stock": 5,
+      "variants": [
+        {
+          "sku": "30230977",
+          "name": "White Claw Raspberry 4x330ml",
+          "price": 249000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/03f7ff19-bd83-4689-90d2-c54a04db1877.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/03f7ff19-bd83-4689-90d2-c54a04db1877_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/03f7ff19-bd83-4689-90d2-c54a04db1877_thumb.webp"
+            }
+          ],
+          "offerId": 44141,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 5,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-11T11:50:43.388650"
+    }
   }
 ]
