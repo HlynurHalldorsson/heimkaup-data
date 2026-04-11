@@ -97708,5 +97708,65 @@
       ],
       "last_updated": "2026-04-11T11:50:43.388650"
     }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-11T12:31:13.951077",
+    "product_id": 42703,
+    "product_name": "Gull 12x500ml",
+    "previous_stock": 40,
+    "current_stock": 38,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-11T12:31:13.951077",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 1047,
+    "current_stock": 1046,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-11T12:31:13.951077",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 531,
+    "current_stock": 525,
+    "change": -6,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-11T12:31:13.951077",
+    "product_id": 42697,
+    "product_name": "Jagermeister Miniature 9x20ml",
+    "previous_stock": 12,
+    "current_stock": 11,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-11T12:31:13.951077",
+    "product_id": 42992,
+    "product_name": "Opal Saltlakkrís 500ml",
+    "previous_stock": 14,
+    "current_stock": 13,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-11T12:31:13.951077",
+    "product_id": 42527,
+    "product_name": "Bailey's Original 700ml",
+    "previous_stock": 14,
+    "current_stock": 12,
+    "change": -2,
+    "direction": "decrease"
   }
 ]
