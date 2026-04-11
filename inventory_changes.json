@@ -98165,5 +98165,76 @@
     "current_stock": 7,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-11T17:54:29.083711",
+    "product_id": 42574,
+    "product_name": "Stella Artois 6x330ml",
+    "previous_stock": 16,
+    "current_stock": 15,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-11T17:54:29.083711",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 508,
+    "current_stock": 507,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-11T17:54:29.083711",
+    "product_id": 49012,
+    "product_name": "Erdinger Oktoberfest 4x500ml",
+    "previous_stock": 208,
+    "current_stock": 203,
+    "change": -5,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-11T17:54:29.083711",
+    "product_id": 42810,
+    "product_name": "Barefoot Pinot Grigio 750ml",
+    "previous_stock": 55,
+    "current_stock": 53,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-11T17:54:29.083711",
+    "product_id": 42545,
+    "product_name": "Absolut Vodka 700ml",
+    "previous_stock": 12,
+    "current_stock": 11,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-11T17:54:29.083711",
+    "product_id": 43569,
+    "product_name": "Helga Nr.69 6x330ml",
+    "last_stock": 2
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-11T17:54:29.083711",
+    "product_id": 43025,
+    "product_name": "Kopparberg Strawberry Pineapple 4x330ml",
+    "last_stock": 2
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-11T17:54:29.083711",
+    "product_id": 42550,
+    "product_name": "Eldgos Crisp Apple 6x330ml",
+    "last_stock": 10
   }
 ]
