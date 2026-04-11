@@ -98404,5 +98404,80 @@
       ],
       "last_updated": "2026-04-11T18:26:54.006299"
     }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-11T19:09:37.084400",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 1027,
+    "current_stock": 1021,
+    "change": -6,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-11T19:09:37.084400",
+    "product_id": 49012,
+    "product_name": "Erdinger Oktoberfest 4x500ml",
+    "previous_stock": 198,
+    "current_stock": 196,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-11T19:09:37.084400",
+    "product_id": 43203,
+    "product_name": "Moet Chandon Brut Imperial 750ml",
+    "previous_stock": 12,
+    "current_stock": 11,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-11T19:09:37.084400",
+    "product_id": 43085,
+    "product_name": "LOOP Smooth Mint 4",
+    "previous_stock": 4,
+    "current_stock": 2,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-11T19:09:37.084400",
+    "product_id": 43060,
+    "product_name": "Fever Tree Mexican Lime Soda 4x200ml",
+    "last_stock": 12
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-11T19:09:37.084400",
+    "product_id": 43031,
+    "product_name": "Fever Tree Ginger Beer 4x200ml",
+    "last_stock": 13
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-11T19:09:37.084400",
+    "product_id": 43008,
+    "product_name": "Fever Tree Elderflower 4x200ml",
+    "last_stock": 16
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-11T19:09:37.084400",
+    "product_id": 42463,
+    "product_name": "Fever Tree Mediterranean Tonic 4x200ml",
+    "last_stock": 4
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-11T19:09:37.084400",
+    "product_id": 42443,
+    "product_name": "Fever Tree Ginger Ale 4x200ml",
+    "last_stock": 11
   }
 ]
