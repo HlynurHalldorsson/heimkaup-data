@@ -98919,5 +98919,55 @@
     "current_stock": 9,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-11T20:56:13.468799",
+    "product_id": 43055,
+    "product_name": "Tuborg Classic 12x330ml",
+    "previous_stock": 7,
+    "current_stock": 6,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-11T20:56:13.468799",
+    "product_id": 42555,
+    "product_name": "BuzzBallz Tequila 'Rita 200ml",
+    "previous_stock": 7,
+    "current_stock": 5,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-11T20:56:13.468799",
+    "product_id": 42785,
+    "product_name": "Bacardi Mojito 4x250ml",
+    "previous_stock": 8,
+    "current_stock": 7,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-11T20:56:13.468799",
+    "product_id": 42618,
+    "product_name": "PRN 6x330ml",
+    "previous_stock": 15,
+    "current_stock": 14,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-11T20:56:13.468799",
+    "product_id": 43024,
+    "product_name": "COLLAB Án Koffíns Hindberja og Apríkósu 6x330ml",
+    "previous_stock": 3,
+    "current_stock": 1,
+    "change": -2,
+    "direction": "decrease"
   }
 ]
