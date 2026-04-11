@@ -98479,5 +98479,315 @@
     "product_id": 42443,
     "product_name": "Fever Tree Ginger Ale 4x200ml",
     "last_stock": 11
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-11T19:54:17.975404",
+    "product_id": 42703,
+    "product_name": "Gull 12x500ml",
+    "previous_stock": 37,
+    "current_stock": 35,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-11T19:54:17.975404",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 55,
+    "current_stock": 53,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-11T19:54:17.975404",
+    "product_id": 42701,
+    "product_name": "Tuborg Classic 12x500ml",
+    "previous_stock": 31,
+    "current_stock": 29,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-11T19:54:17.975404",
+    "product_id": 42680,
+    "product_name": "Tuborg Green 12x500ml",
+    "previous_stock": 49,
+    "current_stock": 47,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-11T19:54:17.975404",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 1021,
+    "current_stock": 1019,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-11T19:54:17.975404",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 505,
+    "current_stock": 503,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-11T19:54:17.975404",
+    "product_id": 49012,
+    "product_name": "Erdinger Oktoberfest 4x500ml",
+    "previous_stock": 196,
+    "current_stock": 194,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-11T19:54:17.975404",
+    "product_id": 46240,
+    "product_name": "Skruf Superwhite Slim 4",
+    "previous_stock": 35,
+    "current_stock": 33,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-11T19:54:17.975404",
+    "product_id": 43060,
+    "product_name": "Fever Tree Mexican Lime Soda 4x200ml",
+    "stock": 12,
+    "details": {
+      "id": 43060,
+      "code": "30233871",
+      "name": "Fever Tree Mexican Lime Soda 4x200ml",
+      "slug": "fever-tree-mexican-lime-soda-4x200ml-43060",
+      "category_id": 4319,
+      "category_name": "All Tonics",
+      "category_path": "Soft drinks > Tonic > All Tonics",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ae132ff8-ce35-45aa-9918-43108335f868.webp",
+      "price": 109000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "30233871",
+          "name": "Fever Tree Mexican Lime Soda 4x200ml",
+          "price": 109000,
+          "value": "200ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ae132ff8-ce35-45aa-9918-43108335f868.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ae132ff8-ce35-45aa-9918-43108335f868_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ae132ff8-ce35-45aa-9918-43108335f868_thumb.webp"
+            }
+          ],
+          "offerId": 44555,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-11T19:54:16.164996"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-11T19:54:17.975404",
+    "product_id": 43031,
+    "product_name": "Fever Tree Ginger Beer 4x200ml",
+    "stock": 13,
+    "details": {
+      "id": 43031,
+      "code": "30161259",
+      "name": "Fever Tree Ginger Beer 4x200ml",
+      "slug": "fever-tree-ginger-beer-4x200ml-43031",
+      "category_id": 4319,
+      "category_name": "All Tonics",
+      "category_path": "Soft drinks > Tonic > All Tonics",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2900bab2-b82d-4442-afaa-a8ad6f472565.webp",
+      "price": 109000,
+      "discount_price": null,
+      "stock": {
+        "H495": 13
+      },
+      "total_stock": 13,
+      "variants": [
+        {
+          "sku": "30161259",
+          "name": "Fever Tree Ginger Beer 4x200ml",
+          "price": 109000,
+          "value": "200ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2900bab2-b82d-4442-afaa-a8ad6f472565.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2900bab2-b82d-4442-afaa-a8ad6f472565_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2900bab2-b82d-4442-afaa-a8ad6f472565_thumb.webp"
+            }
+          ],
+          "offerId": 44526,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 13,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-11T19:54:16.164996"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-11T19:54:17.975404",
+    "product_id": 43008,
+    "product_name": "Fever Tree Elderflower 4x200ml",
+    "stock": 16,
+    "details": {
+      "id": 43008,
+      "code": "30203154",
+      "name": "Fever Tree Elderflower 4x200ml",
+      "slug": "fever-tree-elderflower-4x200ml-43008",
+      "category_id": 4319,
+      "category_name": "All Tonics",
+      "category_path": "Soft drinks > Tonic > All Tonics",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/135a1755-b657-473a-a523-acd12aad0195.webp",
+      "price": 109000,
+      "discount_price": null,
+      "stock": {
+        "H495": 16
+      },
+      "total_stock": 16,
+      "variants": [
+        {
+          "sku": "30203154",
+          "name": "Fever Tree Elderflower 4x200ml",
+          "price": 109000,
+          "value": "200ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/135a1755-b657-473a-a523-acd12aad0195.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/135a1755-b657-473a-a523-acd12aad0195_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/135a1755-b657-473a-a523-acd12aad0195_thumb.webp"
+            }
+          ],
+          "offerId": 44514,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 16,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-11T19:54:16.164996"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-11T19:54:17.975404",
+    "product_id": 42463,
+    "product_name": "Fever Tree Mediterranean Tonic 4x200ml",
+    "stock": 4,
+    "details": {
+      "id": 42463,
+      "code": "30171294",
+      "name": "Fever Tree Mediterranean Tonic 4x200ml",
+      "slug": "fever-tree-mediterranean-tonic-4x200ml-42463",
+      "category_id": 4319,
+      "category_name": "All Tonics",
+      "category_path": "Soft drinks > Tonic > All Tonics",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/78298c2b-89dd-4030-9ff0-a4cf40ea1a56.webp",
+      "price": 109000,
+      "discount_price": null,
+      "stock": {
+        "H495": 4
+      },
+      "total_stock": 4,
+      "variants": [
+        {
+          "sku": "30171294",
+          "name": "Fever Tree Mediterranean Tonic 4x200ml",
+          "price": 109000,
+          "value": "200ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/78298c2b-89dd-4030-9ff0-a4cf40ea1a56.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/78298c2b-89dd-4030-9ff0-a4cf40ea1a56_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/78298c2b-89dd-4030-9ff0-a4cf40ea1a56_thumb.webp"
+            }
+          ],
+          "offerId": 43800,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 4,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-11T19:54:16.164996"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-11T19:54:17.975404",
+    "product_id": 42443,
+    "product_name": "Fever Tree Ginger Ale 4x200ml",
+    "stock": 11,
+    "details": {
+      "id": 42443,
+      "code": "30161258",
+      "name": "Fever Tree Ginger Ale 4x200ml",
+      "slug": "fever-tree-ginger-ale-4x200ml-42443",
+      "category_id": 4319,
+      "category_name": "All Tonics",
+      "category_path": "Soft drinks > Tonic > All Tonics",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/313a65b6-d9bb-4b92-98ec-d78dc5bb8851.webp",
+      "price": 109000,
+      "discount_price": null,
+      "stock": {
+        "H495": 11
+      },
+      "total_stock": 11,
+      "variants": [
+        {
+          "sku": "30161258",
+          "name": "Fever Tree Ginger Ale 4x200ml",
+          "price": 109000,
+          "value": "200ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/313a65b6-d9bb-4b92-98ec-d78dc5bb8851.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/313a65b6-d9bb-4b92-98ec-d78dc5bb8851_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/313a65b6-d9bb-4b92-98ec-d78dc5bb8851_thumb.webp"
+            }
+          ],
+          "offerId": 43786,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 11,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-11T19:54:16.164996"
+    }
   }
 ]
