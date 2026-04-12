@@ -99854,5 +99854,131 @@
     "product_id": 43707,
     "product_name": "Maschio Prosecco Treviso 750ml",
     "last_stock": 2
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-12T14:32:47.016605",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 52,
+    "current_stock": 51,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-12T14:32:47.016605",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 1013,
+    "current_stock": 1011,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-12T14:32:47.016605",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 501,
+    "current_stock": 500,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-12T14:32:47.016605",
+    "product_id": 42803,
+    "product_name": "Einstök Arctic Pale Ale 12x330ml",
+    "previous_stock": 8,
+    "current_stock": 7,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-12T14:32:47.016605",
+    "product_id": 42577,
+    "product_name": "Baron De Ley Reserva 750ml",
+    "previous_stock": 7,
+    "current_stock": 12,
+    "change": 5,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-12T14:32:47.016605",
+    "product_id": 42585,
+    "product_name": "Two Oceans Fresh & Fruity 3L",
+    "previous_stock": 9,
+    "current_stock": 8,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-12T14:32:47.016605",
+    "product_id": 42561,
+    "product_name": "Stemmari Pinot Grigio 3L",
+    "previous_stock": 17,
+    "current_stock": 16,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-12T14:32:47.016605",
+    "product_id": 43707,
+    "product_name": "Maschio Prosecco Treviso 750ml",
+    "stock": 1,
+    "details": {
+      "id": 43707,
+      "code": "30234630",
+      "name": "Maschio Prosecco Treviso 750ml",
+      "slug": "maschio-prosecco-treviso-43707",
+      "category_id": 4256,
+      "category_name": "All Sparkling Wines",
+      "category_path": "Wine > Sparkling > All Sparkling Wines",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6220e006-7936-4b47-90eb-eae90a3b7228.webp",
+      "price": 239000,
+      "discount_price": null,
+      "stock": {
+        "H495": 1
+      },
+      "total_stock": 1,
+      "variants": [
+        {
+          "sku": "30234630",
+          "name": "Maschio Prosecco Treviso 750ml",
+          "price": 239000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6220e006-7936-4b47-90eb-eae90a3b7228.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6220e006-7936-4b47-90eb-eae90a3b7228_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6220e006-7936-4b47-90eb-eae90a3b7228_thumb.webp"
+            }
+          ],
+          "offerId": 45327,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 1,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-12T14:32:26.740327"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-12T14:32:47.016605",
+    "product_id": 43434,
+    "product_name": "Winston Red Classic 100s Box",
+    "previous_stock": 13,
+    "current_stock": 8,
+    "change": -5,
+    "direction": "decrease"
   }
 ]
