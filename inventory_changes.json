@@ -100577,5 +100577,35 @@
     "current_stock": 66,
     "change": -3,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-12T19:31:57.265107",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 991,
+    "current_stock": 990,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-12T19:31:57.265107",
+    "product_id": 49012,
+    "product_name": "Erdinger Oktoberfest 4x500ml",
+    "previous_stock": 19,
+    "current_stock": 18,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-12T19:31:57.265107",
+    "product_id": 42681,
+    "product_name": "Tommasi Graticcio Appassionato 750ml",
+    "previous_stock": 22,
+    "current_stock": 21,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
