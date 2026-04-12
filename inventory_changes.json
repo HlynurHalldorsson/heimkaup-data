@@ -99109,5 +99109,102 @@
     "current_stock": 35,
     "change": -147,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-12T12:34:43.622804",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 53,
+    "current_stock": 52,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-12T12:34:43.622804",
+    "product_id": 42608,
+    "product_name": "Boli Sterkur Pilsner 6x500ml",
+    "previous_stock": 14,
+    "current_stock": 13,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-12T12:34:43.622804",
+    "product_id": 42436,
+    "product_name": "Coca-Cola 10x330ml",
+    "last_stock": 13
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-12T12:34:43.622804",
+    "product_id": 42520,
+    "product_name": "Pepsi Max Lime 6x330ml",
+    "last_stock": 98
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-12T12:34:43.622804",
+    "product_id": 42434,
+    "product_name": "Pepsi Max 12x330ml",
+    "last_stock": 72
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-12T12:34:43.622804",
+    "product_id": 42474,
+    "product_name": "Appelsín 6x330ml",
+    "last_stock": 94
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-12T12:34:43.622804",
+    "product_id": 42467,
+    "product_name": "Appelsín án sykurs 12x330ml",
+    "last_stock": 92
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-12T12:34:43.622804",
+    "product_id": 42521,
+    "product_name": "7UP Zero 6x330ml",
+    "last_stock": 75
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-12T12:34:43.622804",
+    "product_id": 42465,
+    "product_name": "Plús Blóðappelsínu 4x330ml",
+    "last_stock": 1
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-12T12:34:43.622804",
+    "product_id": 42502,
+    "product_name": "Bonaqua Epla 10x330ml",
+    "last_stock": 5
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-12T12:34:43.622804",
+    "product_id": 42483,
+    "product_name": "Bonaqua Límónu & Sítrónu 10x330ml",
+    "last_stock": 97
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-12T12:34:43.622804",
+    "product_id": 42490,
+    "product_name": "Mountain Dew 6x330ml",
+    "last_stock": 100
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-12T12:34:43.622804",
+    "product_id": 42864,
+    "product_name": "Malt 6x500ml",
+    "last_stock": 99
   }
 ]
