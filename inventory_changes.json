@@ -100607,5 +100607,35 @@
     "current_stock": 21,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-12T20:22:27.977479",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 990,
+    "current_stock": 988,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-12T20:22:27.977479",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 493,
+    "current_stock": 440,
+    "change": -53,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-12T20:22:27.977479",
+    "product_id": 42795,
+    "product_name": "White Claw Raspberry 4x330ml",
+    "previous_stock": 5,
+    "current_stock": 4,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
