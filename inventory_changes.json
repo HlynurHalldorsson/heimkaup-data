@@ -100737,5 +100737,95 @@
     "current_stock": 10,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-12T21:34:20.732304",
+    "product_id": 42703,
+    "product_name": "Gull 12x500ml",
+    "previous_stock": 34,
+    "current_stock": 32,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-12T21:34:20.732304",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 46,
+    "current_stock": 44,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-12T21:34:20.732304",
+    "product_id": 42701,
+    "product_name": "Tuborg Classic 12x500ml",
+    "previous_stock": 29,
+    "current_stock": 27,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-12T21:34:20.732304",
+    "product_id": 42680,
+    "product_name": "Tuborg Green 12x500ml",
+    "previous_stock": 46,
+    "current_stock": 44,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-12T21:34:20.732304",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 1039,
+    "current_stock": 1034,
+    "change": -5,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-12T21:34:20.732304",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 438,
+    "current_stock": 437,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-12T21:34:20.732304",
+    "product_id": 49012,
+    "product_name": "Erdinger Oktoberfest 4x500ml",
+    "previous_stock": 15,
+    "current_stock": 13,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-12T21:34:20.732304",
+    "product_id": 42601,
+    "product_name": "Gato Negro Cabernet Sauvignon 750ml",
+    "previous_stock": 16,
+    "current_stock": 15,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-12T21:34:20.732304",
+    "product_id": 49230,
+    "product_name": "Jack Daniels 700ml",
+    "previous_stock": 12,
+    "current_stock": 11,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
