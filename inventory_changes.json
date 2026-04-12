@@ -99009,5 +99009,75 @@
     "current_stock": 182,
     "change": -8,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-12T11:25:35.259893",
+    "product_id": 42616,
+    "product_name": "Löwenbräu Original 6x500ml",
+    "previous_stock": 10,
+    "current_stock": 5,
+    "change": -5,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-12T11:25:35.259893",
+    "product_id": 42608,
+    "product_name": "Boli Sterkur Pilsner 6x500ml",
+    "previous_stock": 15,
+    "current_stock": 14,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-12T11:25:35.259893",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 1014,
+    "current_stock": 1013,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-12T11:25:35.259893",
+    "product_id": 47314,
+    "product_name": "Víking Páskabjór 6x330ml + 2 Víking 400ml Glass",
+    "previous_stock": 53,
+    "current_stock": 52,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-12T11:25:35.259893",
+    "product_id": 42724,
+    "product_name": "Finca Las Moras Malbec 750ml",
+    "previous_stock": 3,
+    "current_stock": 2,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-12T11:25:35.259893",
+    "product_id": 42606,
+    "product_name": "Koskenkorva Vodka 500ml",
+    "previous_stock": 45,
+    "current_stock": 44,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-12T11:25:35.259893",
+    "product_id": 42697,
+    "product_name": "Jagermeister Miniature 9x20ml",
+    "previous_stock": 11,
+    "current_stock": 9,
+    "change": -2,
+    "direction": "decrease"
   }
 ]
