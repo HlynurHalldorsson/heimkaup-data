@@ -102139,5 +102139,65 @@
     "product_id": 42630,
     "product_name": "BARA Hindber & Sítróna 6x330ml",
     "last_stock": 2
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-13T17:36:23.082523",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 1027,
+    "current_stock": 1025,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-13T17:36:23.082523",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 439,
+    "current_stock": 437,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-13T17:36:23.082523",
+    "product_id": 49012,
+    "product_name": "Erdinger Oktoberfest 4x500ml",
+    "previous_stock": 3,
+    "current_stock": 1,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-13T17:36:23.082523",
+    "product_id": 42577,
+    "product_name": "Baron De Ley Reserva 750ml",
+    "previous_stock": 12,
+    "current_stock": 9,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-13T17:36:23.082523",
+    "product_id": 42531,
+    "product_name": "Viña Maipo Sauvignon Blanc Chardonnay 750ml",
+    "previous_stock": 10,
+    "current_stock": 8,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-13T17:36:23.082523",
+    "product_id": 42545,
+    "product_name": "Absolut Vodka 700ml",
+    "previous_stock": 10,
+    "current_stock": 9,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
