@@ -100987,5 +100987,35 @@
     "current_stock": 2,
     "change": -10,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-13T13:19:45.805667",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 1034,
+    "current_stock": 1032,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-13T13:19:45.805667",
+    "product_id": 42803,
+    "product_name": "Einstök Arctic Pale Ale 12x330ml",
+    "previous_stock": 7,
+    "current_stock": 6,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-13T13:19:45.805667",
+    "product_id": 42561,
+    "product_name": "Stemmari Pinot Grigio 3L",
+    "previous_stock": 16,
+    "current_stock": 15,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
