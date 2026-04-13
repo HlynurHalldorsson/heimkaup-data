@@ -102356,5 +102356,25 @@
     "product_id": 49012,
     "product_name": "Erdinger Oktoberfest 4x500ml",
     "last_stock": 1
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-13T20:02:48.667043",
+    "product_id": 43050,
+    "product_name": "Víking lager 12x500ml",
+    "previous_stock": 14,
+    "current_stock": 13,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-13T20:02:48.667043",
+    "product_id": 47314,
+    "product_name": "Víking Páskabjór 6x330ml + 2 Víking 400ml Glass",
+    "previous_stock": 52,
+    "current_stock": 51,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
