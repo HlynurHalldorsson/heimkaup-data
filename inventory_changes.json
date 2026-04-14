@@ -103318,5 +103318,25 @@
     "current_stock": 58,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-14T19:59:22.330806",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 1012,
+    "current_stock": 1011,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-14T19:59:22.330806",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 426,
+    "current_stock": 411,
+    "change": -15,
+    "direction": "decrease"
   }
 ]
