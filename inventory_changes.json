@@ -102526,5 +102526,413 @@
     "current_stock": 8,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-14T16:00:19.602781",
+    "product_id": 42609,
+    "product_name": "Polar Beer 6x500ml",
+    "previous_stock": 9,
+    "current_stock": 8,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-14T16:00:19.602781",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 1018,
+    "current_stock": 1015,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-14T16:00:19.602781",
+    "product_id": 42769,
+    "product_name": "Cotes du Rhone Parallele 45 Rouge 750ml",
+    "stock": 10,
+    "details": {
+      "id": 42769,
+      "code": "30230901",
+      "name": "Cotes du Rhone Parallele 45 Rouge 750ml",
+      "slug": "cotes-du-rhone-parallele-45-rouge-750ml-42769",
+      "category_id": 4250,
+      "category_name": "Cabernet Sauvignon",
+      "category_path": "Wine > Red > Cabernet Sauvignon",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cf45c609-fc8d-4286-909a-061a2e7203c8.webp",
+      "price": 326000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30230901",
+          "name": "Cotes du Rhone Parallele 45 Rouge 750ml",
+          "price": 326000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cf45c609-fc8d-4286-909a-061a2e7203c8.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cf45c609-fc8d-4286-909a-061a2e7203c8_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cf45c609-fc8d-4286-909a-061a2e7203c8_thumb.webp"
+            }
+          ],
+          "offerId": 44092,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-14T15:59:44.052008"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-14T16:00:19.602781",
+    "product_id": 42763,
+    "product_name": "Saint Clair Origin Pinot Gris Rosé 750ml",
+    "stock": 10,
+    "details": {
+      "id": 42763,
+      "code": "30230857",
+      "name": "Saint Clair Origin Pinot Gris Rosé 750ml",
+      "slug": "saint-clair-origin-pinot-gris-rose-750ml-42763",
+      "category_id": 4254,
+      "category_name": "All Rosé Wines",
+      "category_path": "Wine > Rosé > All Rosé Wines",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8c29af6d-0d0f-4422-8669-84c0f1057be2.webp",
+      "price": 299000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30230857",
+          "name": "Saint Clair Origin Pinot Gris Rosé 750ml",
+          "price": 299000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8c29af6d-0d0f-4422-8669-84c0f1057be2.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8c29af6d-0d0f-4422-8669-84c0f1057be2_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8c29af6d-0d0f-4422-8669-84c0f1057be2_thumb.webp"
+            }
+          ],
+          "offerId": 44056,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-14T15:59:49.251492"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-14T16:00:19.602781",
+    "product_id": 42691,
+    "product_name": "Finca Las Moras Pinot Grigio 750ml",
+    "stock": 33,
+    "details": {
+      "id": 42691,
+      "code": "30230834",
+      "name": "Finca Las Moras Pinot Grigio 750ml",
+      "slug": "finca-las-moras-pinot-grigio-750ml-42691",
+      "category_id": 4333,
+      "category_name": "Pinot Grigio",
+      "category_path": "Wine > White > Pinot Grigio",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/06de9acb-54b5-4c8d-8668-fab7489fe032.webp",
+      "price": 239000,
+      "discount_price": null,
+      "stock": {
+        "H495": 33
+      },
+      "total_stock": 33,
+      "variants": [
+        {
+          "sku": "30230834",
+          "name": "Finca Las Moras Pinot Grigio 750ml",
+          "price": 239000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/06de9acb-54b5-4c8d-8668-fab7489fe032.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/06de9acb-54b5-4c8d-8668-fab7489fe032_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/06de9acb-54b5-4c8d-8668-fab7489fe032_thumb.webp"
+            }
+          ],
+          "offerId": 44004,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 33,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-14T15:59:51.180323"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-14T16:00:19.602781",
+    "product_id": 42706,
+    "product_name": "Codorniu Classico Semi Seco 750ml",
+    "stock": 6,
+    "details": {
+      "id": 42706,
+      "code": "30230791",
+      "name": "Codorniu Classico Semi Seco 750ml",
+      "slug": "codorniu-classico-semi-seco-750ml-42706",
+      "category_id": 4256,
+      "category_name": "All Sparkling Wines",
+      "category_path": "Wine > Sparkling > All Sparkling Wines",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e645d984-a589-467f-aa56-344a9aa60422.webp",
+      "price": 266000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "30230791",
+          "name": "Codorniu Classico Semi Seco 750ml",
+          "price": 266000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e645d984-a589-467f-aa56-344a9aa60422.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e645d984-a589-467f-aa56-344a9aa60422_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e645d984-a589-467f-aa56-344a9aa60422_thumb.webp"
+            }
+          ],
+          "offerId": 44006,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-14T15:59:54.223209"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-14T16:00:19.602781",
+    "product_id": 42671,
+    "product_name": "Las Californias Nativo Gin 700ml",
+    "stock": 5,
+    "details": {
+      "id": 42671,
+      "code": "30230720",
+      "name": "Las Californias Nativo Gin 700ml",
+      "slug": "las-californias-nativo-gin-700ml-42671",
+      "category_id": 4272,
+      "category_name": "All Gin",
+      "category_path": "Spirits > Gin > All Gin",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9d370678-1913-4733-a3e5-273187d1b2b2.webp",
+      "price": 1374000,
+      "discount_price": null,
+      "stock": {
+        "H495": 5
+      },
+      "total_stock": 5,
+      "variants": [
+        {
+          "sku": "30230720",
+          "name": "Las Californias Nativo Gin 700ml",
+          "price": 1374000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9d370678-1913-4733-a3e5-273187d1b2b2.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9d370678-1913-4733-a3e5-273187d1b2b2_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9d370678-1913-4733-a3e5-273187d1b2b2_thumb.webp"
+            }
+          ],
+          "offerId": 43964,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 5,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-14T15:59:55.586637"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-14T16:00:19.602781",
+    "product_id": 42639,
+    "product_name": "Las Californias Citrico Gin 700ml",
+    "stock": 4,
+    "details": {
+      "id": 42639,
+      "code": "30230721",
+      "name": "Las Californias Citrico Gin 700ml",
+      "slug": "las-californias-citrico-gin-700ml-42639",
+      "category_id": 4272,
+      "category_name": "All Gin",
+      "category_path": "Spirits > Gin > All Gin",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/519bf4c5-358e-489e-8a33-a5c8e9703590.webp",
+      "price": 1319000,
+      "discount_price": null,
+      "stock": {
+        "H495": 4
+      },
+      "total_stock": 4,
+      "variants": [
+        {
+          "sku": "30230721",
+          "name": "Las Californias Citrico Gin 700ml",
+          "price": 1319000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/519bf4c5-358e-489e-8a33-a5c8e9703590.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/519bf4c5-358e-489e-8a33-a5c8e9703590_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/519bf4c5-358e-489e-8a33-a5c8e9703590_thumb.webp"
+            }
+          ],
+          "offerId": 43956,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 4,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-14T15:59:55.586637"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-14T16:00:19.602781",
+    "product_id": 42629,
+    "product_name": "Defrente Tequila Blanco 100% Puro de Agave 700ml",
+    "stock": 5,
+    "details": {
+      "id": 42629,
+      "code": "30230725",
+      "name": "Defrente Tequila Blanco 100% Puro de Agave 700ml",
+      "slug": "defrente-tequila-blanco-100-puro-de-agave-700ml-42629",
+      "category_id": 4281,
+      "category_name": "All Tequila",
+      "category_path": "Spirits > Tequila > All Tequila",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/31e232ab-2b0f-4165-8766-6bda671d63c4.webp",
+      "price": 1221000,
+      "discount_price": null,
+      "stock": {
+        "H495": 5
+      },
+      "total_stock": 5,
+      "variants": [
+        {
+          "sku": "30230725",
+          "name": "Defrente Tequila Blanco 100% Puro de Agave 700ml",
+          "price": 1221000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/31e232ab-2b0f-4165-8766-6bda671d63c4.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/31e232ab-2b0f-4165-8766-6bda671d63c4_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/31e232ab-2b0f-4165-8766-6bda671d63c4_thumb.webp"
+            }
+          ],
+          "offerId": 43973,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 5,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-14T15:59:56.861191"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-14T16:00:19.602781",
+    "product_id": 42645,
+    "product_name": "La Gritona Reposado Tequila 100% Agave 700ml",
+    "stock": 2,
+    "details": {
+      "id": 42645,
+      "code": "30230722",
+      "name": "La Gritona Reposado Tequila 100% Agave 700ml",
+      "slug": "la-gritona-reposado-tequila-100-agave-700ml-42645",
+      "category_id": 4281,
+      "category_name": "All Tequila",
+      "category_path": "Spirits > Tequila > All Tequila",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/01201955-33a4-43bd-850d-1e0be285b50c.webp",
+      "price": 1832000,
+      "discount_price": null,
+      "stock": {
+        "H495": 2
+      },
+      "total_stock": 2,
+      "variants": [
+        {
+          "sku": "30230722",
+          "name": "La Gritona Reposado Tequila 100% Agave 700ml",
+          "price": 1832000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/01201955-33a4-43bd-850d-1e0be285b50c.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/01201955-33a4-43bd-850d-1e0be285b50c_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/01201955-33a4-43bd-850d-1e0be285b50c_thumb.webp"
+            }
+          ],
+          "offerId": 43970,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 2,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-14T15:59:56.861191"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-14T16:00:19.602781",
+    "product_id": 42556,
+    "product_name": "NOCCO The Berries 6x330ml",
+    "previous_stock": 3,
+    "current_stock": 1,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-14T16:00:19.602781",
+    "product_id": 42444,
+    "product_name": "NOCCO Miami 6x330ml",
+    "previous_stock": 2,
+    "current_stock": 76,
+    "change": 74,
+    "direction": "increase"
   }
 ]
