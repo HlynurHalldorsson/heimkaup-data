@@ -102934,5 +102934,269 @@
     "current_stock": 76,
     "change": 74,
     "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-14T17:09:08.448322",
+    "product_id": 42741,
+    "product_name": "Stella Artois 6x330ml (Gler)",
+    "previous_stock": 34,
+    "current_stock": 33,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-14T17:09:08.448322",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 1015,
+    "current_stock": 1014,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-14T17:09:08.448322",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 432,
+    "current_stock": 429,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-14T17:09:08.448322",
+    "product_id": 42637,
+    "product_name": "Adobe Rosé Reserva 750ml",
+    "stock": 1,
+    "details": {
+      "id": 42637,
+      "code": "30230771",
+      "name": "Adobe Rosé Reserva 750ml",
+      "slug": "adobe-rose-reserva-750ml-42637",
+      "category_id": 4254,
+      "category_name": "All Rosé Wines",
+      "category_path": "Wine > Rosé > All Rosé Wines",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/036f046e-d948-4940-9859-3776e744a824.webp",
+      "price": 239000,
+      "discount_price": null,
+      "stock": {
+        "H495": 1
+      },
+      "total_stock": 1,
+      "variants": [
+        {
+          "sku": "30230771",
+          "name": "Adobe Rosé Reserva 750ml",
+          "price": 239000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/036f046e-d948-4940-9859-3776e744a824.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/036f046e-d948-4940-9859-3776e744a824_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/036f046e-d948-4940-9859-3776e744a824_thumb.webp"
+            }
+          ],
+          "offerId": 43955,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 1,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-14T17:08:45.922080"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-14T17:09:08.448322",
+    "product_id": 42531,
+    "product_name": "Viña Maipo Sauvignon Blanc Chardonnay 750ml",
+    "previous_stock": 8,
+    "current_stock": 6,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-14T17:09:08.448322",
+    "product_id": 42526,
+    "product_name": "Van Gogh Riesling 3L",
+    "previous_stock": 10,
+    "current_stock": 9,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-14T17:09:08.448322",
+    "product_id": 42655,
+    "product_name": "Planteray 3 Stars White Rum 700ml",
+    "stock": 7,
+    "details": {
+      "id": 42655,
+      "code": "30230712",
+      "name": "Planteray 3 Stars White Rum 700ml",
+      "slug": "planteray-3-stars-white-rum-700ml-42655",
+      "category_id": 4278,
+      "category_name": "All Rum",
+      "category_path": "Spirits > Rum > All Rum",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cab11e19-17cf-4027-95dd-b5f1e0cc544d.webp",
+      "price": 889000,
+      "discount_price": null,
+      "stock": {
+        "H495": 7
+      },
+      "total_stock": 7,
+      "variants": [
+        {
+          "sku": "30230712",
+          "name": "Planteray 3 Stars White Rum 700ml",
+          "price": 889000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cab11e19-17cf-4027-95dd-b5f1e0cc544d.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cab11e19-17cf-4027-95dd-b5f1e0cc544d_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cab11e19-17cf-4027-95dd-b5f1e0cc544d_thumb.webp"
+            }
+          ],
+          "offerId": 43952,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 7,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-14T17:08:52.165740"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-14T17:09:08.448322",
+    "product_id": 43599,
+    "product_name": "Bruxo X Mezcal Espadín Barríl 700ml",
+    "stock": 6,
+    "details": {
+      "id": 43599,
+      "code": "30230724",
+      "name": "Bruxo X Mezcal Espadín Barríl 700ml",
+      "slug": "bruxo-x-mezcal-espadin-barril-700ml-43599",
+      "category_id": 4281,
+      "category_name": "All Tequila",
+      "category_path": "Spirits > Tequila > All Tequila",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e284fc0a-1516-4a08-b966-5f90019aba32.webp",
+      "price": 1329000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "30230724",
+          "name": "Bruxo X Mezcal Espadín Barríl 700ml",
+          "price": 1329000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e284fc0a-1516-4a08-b966-5f90019aba32.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e284fc0a-1516-4a08-b966-5f90019aba32_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e284fc0a-1516-4a08-b966-5f90019aba32_thumb.webp"
+            }
+          ],
+          "offerId": 45252,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-14T17:08:52.518980"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-14T17:09:08.448322",
+    "product_id": 42625,
+    "product_name": "Bruxo No 1 Mezcal Espadín 700ml",
+    "stock": 5,
+    "details": {
+      "id": 42625,
+      "code": "30230723",
+      "name": "Bruxo No 1 Mezcal Espadín 700ml",
+      "slug": "bruxo-no-1-mezcal-espadin-700ml-42625",
+      "category_id": 4281,
+      "category_name": "All Tequila",
+      "category_path": "Spirits > Tequila > All Tequila",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6d15c7b7-dd38-435a-8f70-262aa766bee7.webp",
+      "price": 1596000,
+      "discount_price": null,
+      "stock": {
+        "H495": 5
+      },
+      "total_stock": 5,
+      "variants": [
+        {
+          "sku": "30230723",
+          "name": "Bruxo No 1 Mezcal Espadín 700ml",
+          "price": 1596000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6d15c7b7-dd38-435a-8f70-262aa766bee7.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6d15c7b7-dd38-435a-8f70-262aa766bee7_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6d15c7b7-dd38-435a-8f70-262aa766bee7_thumb.webp"
+            }
+          ],
+          "offerId": 43954,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 5,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-14T17:08:52.518980"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-14T17:09:08.448322",
+    "product_id": 43053,
+    "product_name": "LoV 6x330ml",
+    "previous_stock": 7,
+    "current_stock": 5,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-14T17:09:08.448322",
+    "product_id": 42618,
+    "product_name": "PRN 6x330ml",
+    "previous_stock": 14,
+    "current_stock": 12,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-14T17:09:08.448322",
+    "product_id": 43436,
+    "product_name": "Capri Menthol 100s Box",
+    "previous_stock": 5,
+    "current_stock": 3,
+    "change": -2,
+    "direction": "decrease"
   }
 ]
