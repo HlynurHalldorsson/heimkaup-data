@@ -105556,5 +105556,670 @@
     "product_id": 43052,
     "product_name": "Gajol Grænn Granatepla 1L",
     "last_stock": 1
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-15T16:51:47.837958",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 43,
+    "current_stock": 42,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-15T16:51:47.837958",
+    "product_id": 43050,
+    "product_name": "Víking lager 12x500ml",
+    "previous_stock": 13,
+    "current_stock": 9,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-15T16:51:47.837958",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 989,
+    "current_stock": 983,
+    "change": -6,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-15T16:51:47.837958",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 397,
+    "current_stock": 393,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-15T16:51:47.837958",
+    "product_id": 43687,
+    "product_name": "Altanza Sauvignon Blanc 750ml",
+    "previous_stock": 5,
+    "current_stock": 3,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-15T16:51:47.837958",
+    "product_id": 49243,
+    "product_name": "Michter´s American Whiskey 700ml",
+    "stock": 6,
+    "details": {
+      "id": 49243,
+      "code": "50000176",
+      "name": "Michter´s American Whiskey 700ml",
+      "slug": "michter-s-american-whiskey-700ml-49243",
+      "category_id": 4269,
+      "category_name": "All Whiskey",
+      "category_path": "Spirits > Whiskey > All Whiskey",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cb0c3cfa-cd26-4916-abdb-bf2a07900c20.webp",
+      "price": 1299000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "50000176",
+          "name": "Michter´s American Whiskey 700ml",
+          "price": 1299000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cb0c3cfa-cd26-4916-abdb-bf2a07900c20.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cb0c3cfa-cd26-4916-abdb-bf2a07900c20_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cb0c3cfa-cd26-4916-abdb-bf2a07900c20_thumb.webp"
+            }
+          ],
+          "offerId": 50583,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-15T16:51:29.598929"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-15T16:51:47.837958",
+    "product_id": 49244,
+    "product_name": "Michter's Kentucky Straight Rye Whiskey 700ml",
+    "stock": 6,
+    "details": {
+      "id": 49244,
+      "code": "50000177",
+      "name": "Michter's Kentucky Straight Rye Whiskey 700ml",
+      "slug": "michter-s-rye-whiskey-700ml-49244",
+      "category_id": 4269,
+      "category_name": "All Whiskey",
+      "category_path": "Spirits > Whiskey > All Whiskey",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8ad1a217-de50-4e4b-a9b3-dad142bc4d64.webp",
+      "price": 1299000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "50000177",
+          "name": "Michter's Kentucky Straight Rye Whiskey 700ml",
+          "price": 1299000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8ad1a217-de50-4e4b-a9b3-dad142bc4d64.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8ad1a217-de50-4e4b-a9b3-dad142bc4d64_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8ad1a217-de50-4e4b-a9b3-dad142bc4d64_thumb.webp"
+            }
+          ],
+          "offerId": 50584,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-15T16:51:29.598929"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-15T16:51:47.837958",
+    "product_id": 49251,
+    "product_name": "Poli Marconi 21 Delicato 700ml",
+    "stock": 6,
+    "details": {
+      "id": 49251,
+      "code": "50000183",
+      "name": "Poli Marconi 21 Delicato 700ml",
+      "slug": "poli-marconi-21-delicato-700ml-49251",
+      "category_id": 4272,
+      "category_name": "All Gin",
+      "category_path": "Spirits > Gin > All Gin",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9dfc3998-ffc6-4ff8-bb21-42ea3b6bdf64.webp",
+      "price": 849000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "50000183",
+          "name": "Poli Marconi 21 Delicato 700ml",
+          "price": 849000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9dfc3998-ffc6-4ff8-bb21-42ea3b6bdf64.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9dfc3998-ffc6-4ff8-bb21-42ea3b6bdf64_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9dfc3998-ffc6-4ff8-bb21-42ea3b6bdf64_thumb.webp"
+            }
+          ],
+          "offerId": 50590,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-15T16:51:29.964228"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-15T16:51:47.837958",
+    "product_id": 49249,
+    "product_name": "Farmer's Reserve Strength Gin 700ml",
+    "stock": 6,
+    "details": {
+      "id": 49249,
+      "code": "50000181",
+      "name": "Farmer's Reserve Strength Gin 700ml",
+      "slug": "farmer-s-reserve-strength-gin-700ml-49249",
+      "category_id": 4272,
+      "category_name": "All Gin",
+      "category_path": "Spirits > Gin > All Gin",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ba9dc422-dba1-4452-9f81-0e70e23b1b3f.webp",
+      "price": 1249000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "50000181",
+          "name": "Farmer's Reserve Strength Gin 700ml",
+          "price": 1249000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ba9dc422-dba1-4452-9f81-0e70e23b1b3f.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ba9dc422-dba1-4452-9f81-0e70e23b1b3f_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ba9dc422-dba1-4452-9f81-0e70e23b1b3f_thumb.webp"
+            }
+          ],
+          "offerId": 50588,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-15T16:51:29.964228"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-15T16:51:47.837958",
+    "product_id": 49250,
+    "product_name": "Poli Marconi 46 Gin 700ml",
+    "stock": 6,
+    "details": {
+      "id": 49250,
+      "code": "50000182",
+      "name": "Poli Marconi 46 Gin 700ml",
+      "slug": "poli-marconi-46-gin-700ml-49250",
+      "category_id": 4272,
+      "category_name": "All Gin",
+      "category_path": "Spirits > Gin > All Gin",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6be16e28-9149-43bd-88fa-5a866156fb2d.webp",
+      "price": 1199000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "50000182",
+          "name": "Poli Marconi 46 Gin 700ml",
+          "price": 1199000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6be16e28-9149-43bd-88fa-5a866156fb2d.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6be16e28-9149-43bd-88fa-5a866156fb2d_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6be16e28-9149-43bd-88fa-5a866156fb2d_thumb.webp"
+            }
+          ],
+          "offerId": 50589,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-15T16:51:29.964228"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-15T16:51:47.837958",
+    "product_id": 49247,
+    "product_name": "Puerto de Indias Blackberry Gin 700ml",
+    "stock": 6,
+    "details": {
+      "id": 49247,
+      "code": "50000179",
+      "name": "Puerto de Indias Blackberry Gin 700ml",
+      "slug": "puerto-de-indias-blackberry-gin-700ml-49247",
+      "category_id": 4272,
+      "category_name": "All Gin",
+      "category_path": "Spirits > Gin > All Gin",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/86ecedb4-1784-441c-81b6-3519678276e1.webp",
+      "price": 899000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "50000179",
+          "name": "Puerto de Indias Blackberry Gin 700ml",
+          "price": 899000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/86ecedb4-1784-441c-81b6-3519678276e1.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/86ecedb4-1784-441c-81b6-3519678276e1_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/86ecedb4-1784-441c-81b6-3519678276e1_thumb.webp"
+            }
+          ],
+          "offerId": 50586,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-15T16:51:29.964228"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-15T16:51:47.837958",
+    "product_id": 49248,
+    "product_name": "Silvio Carta Giniu Gin 700ml",
+    "stock": 6,
+    "details": {
+      "id": 49248,
+      "code": "50000180",
+      "name": "Silvio Carta Giniu Gin 700ml",
+      "slug": "silvio-carta-giniu-gin-700ml-49248",
+      "category_id": 4272,
+      "category_name": "All Gin",
+      "category_path": "Spirits > Gin > All Gin",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9f2e7517-c753-4a6a-991e-744b5aaf7ab8.webp",
+      "price": 1249000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "50000180",
+          "name": "Silvio Carta Giniu Gin 700ml",
+          "price": 1249000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9f2e7517-c753-4a6a-991e-744b5aaf7ab8.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9f2e7517-c753-4a6a-991e-744b5aaf7ab8_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9f2e7517-c753-4a6a-991e-744b5aaf7ab8_thumb.webp"
+            }
+          ],
+          "offerId": 50587,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-15T16:51:29.964228"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-15T16:51:47.837958",
+    "product_id": 42800,
+    "product_name": "Puerto de Indias Strawberry Gin 700ml",
+    "stock": 6,
+    "details": {
+      "id": 42800,
+      "code": "30230929",
+      "name": "Puerto de Indias Strawberry Gin 700ml",
+      "slug": "puerto-de-indias-strawberry-gin-700ml-42800",
+      "category_id": 4272,
+      "category_name": "All Gin",
+      "category_path": "Spirits > Gin > All Gin",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/30f58e6c-fe3d-4672-a437-418016d44318.webp",
+      "price": 899000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "30230929",
+          "name": "Puerto de Indias Strawberry Gin 700ml",
+          "price": 899000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/30f58e6c-fe3d-4672-a437-418016d44318.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/30f58e6c-fe3d-4672-a437-418016d44318_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/30f58e6c-fe3d-4672-a437-418016d44318_thumb.webp"
+            }
+          ],
+          "offerId": 44128,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-15T16:51:29.964228"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-15T16:51:47.837958",
+    "product_id": 49252,
+    "product_name": "Hotwyre Chilli Cherry Spirit Drink 700ml",
+    "stock": 6,
+    "details": {
+      "id": 49252,
+      "code": "50000184",
+      "name": "Hotwyre Chilli Cherry Spirit Drink 700ml",
+      "slug": "hotwyre-chilli-cherry-spirit-drink-700ml-49252",
+      "category_id": 4275,
+      "category_name": "All Liqueurs",
+      "category_path": "Spirits > Liqueurs > All Liqueurs",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/679baf31-13b5-4b47-8053-58c3d7d41385.webp",
+      "price": 649000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "50000184",
+          "name": "Hotwyre Chilli Cherry Spirit Drink 700ml",
+          "price": 649000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/679baf31-13b5-4b47-8053-58c3d7d41385.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/679baf31-13b5-4b47-8053-58c3d7d41385_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/679baf31-13b5-4b47-8053-58c3d7d41385_thumb.webp"
+            }
+          ],
+          "offerId": 50591,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-15T16:51:30.483418"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-15T16:51:47.837958",
+    "product_id": 49231,
+    "product_name": "Mix Pornstar Martini 4x330ml",
+    "stock": 6,
+    "details": {
+      "id": 49231,
+      "code": "50000090",
+      "name": "Mix Pornstar Martini 4x330ml",
+      "slug": "mix-pornstar-martini-4x330ml-49231",
+      "category_id": 4292,
+      "category_name": "All Mixed Drinks",
+      "category_path": "Ready-to-Drink Cocktails > Mixed > All Mixed Drinks",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9355a63b-9486-417c-83cf-3f59d31d270b.webp",
+      "price": 199000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "50000090",
+          "name": "Mix Pornstar Martini 4x330ml",
+          "price": 199000,
+          "value": "4x330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9355a63b-9486-417c-83cf-3f59d31d270b.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9355a63b-9486-417c-83cf-3f59d31d270b_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9355a63b-9486-417c-83cf-3f59d31d270b_thumb.webp"
+            }
+          ],
+          "offerId": 50571,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-15T16:51:33.513457"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-15T16:51:47.837958",
+    "product_id": 49234,
+    "product_name": "Mix Vodka & Watermelon 4x330ml",
+    "stock": 6,
+    "details": {
+      "id": 49234,
+      "code": "50000093",
+      "name": "Mix Vodka & Watermelon 4x330ml",
+      "slug": "mix-vodka-watermelon-4x330ml-49234",
+      "category_id": 4292,
+      "category_name": "All Mixed Drinks",
+      "category_path": "Ready-to-Drink Cocktails > Mixed > All Mixed Drinks",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/0e4702cb-9dba-4683-8a2f-6f98b34fba90.webp",
+      "price": 199000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "50000093",
+          "name": "Mix Vodka & Watermelon 4x330ml",
+          "price": 199000,
+          "value": "4x330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/0e4702cb-9dba-4683-8a2f-6f98b34fba90.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/0e4702cb-9dba-4683-8a2f-6f98b34fba90_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/0e4702cb-9dba-4683-8a2f-6f98b34fba90_thumb.webp"
+            }
+          ],
+          "offerId": 50574,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-15T16:51:33.513457"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-15T16:51:47.837958",
+    "product_id": 49233,
+    "product_name": "Mix Mojito 4x330ml",
+    "stock": 6,
+    "details": {
+      "id": 49233,
+      "code": "50000092",
+      "name": "Mix Mojito 4x330ml",
+      "slug": "mix-mojito-4x330ml-49233",
+      "category_id": 4292,
+      "category_name": "All Mixed Drinks",
+      "category_path": "Ready-to-Drink Cocktails > Mixed > All Mixed Drinks",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ece361c6-45f9-4576-87db-9ea3346bc863.webp",
+      "price": 199000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "50000092",
+          "name": "Mix Mojito 4x330ml",
+          "price": 199000,
+          "value": "4x330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ece361c6-45f9-4576-87db-9ea3346bc863.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ece361c6-45f9-4576-87db-9ea3346bc863_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ece361c6-45f9-4576-87db-9ea3346bc863_thumb.webp"
+            }
+          ],
+          "offerId": 50573,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-15T16:51:33.513457"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-15T16:51:47.837958",
+    "product_id": 49232,
+    "product_name": "Mix Gin & Passionfruit 4x330ml",
+    "stock": 6,
+    "details": {
+      "id": 49232,
+      "code": "50000091",
+      "name": "Mix Gin & Passionfruit 4x330ml",
+      "slug": "mix-gin-passionfruit-4x330ml-49232",
+      "category_id": 4292,
+      "category_name": "All Mixed Drinks",
+      "category_path": "Ready-to-Drink Cocktails > Mixed > All Mixed Drinks",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ed767337-a40b-4e7d-8af6-494c2c142211.webp",
+      "price": 199000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "50000091",
+          "name": "Mix Gin & Passionfruit 4x330ml",
+          "price": 199000,
+          "value": "4x330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ed767337-a40b-4e7d-8af6-494c2c142211.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ed767337-a40b-4e7d-8af6-494c2c142211_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ed767337-a40b-4e7d-8af6-494c2c142211_thumb.webp"
+            }
+          ],
+          "offerId": 50572,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-15T16:51:33.513457"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-15T16:51:47.837958",
+    "product_id": 43437,
+    "product_name": "Winston White Menthol Box",
+    "previous_stock": 33,
+    "current_stock": 23,
+    "change": -10,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-15T16:51:47.837958",
+    "product_id": 42642,
+    "product_name": "Champagne Collet Brut Rosé 750ml",
+    "last_stock": 1
   }
 ]
