@@ -103474,5 +103474,624 @@
     "current_stock": 10,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-15T11:45:26.336079",
+    "product_id": 42586,
+    "product_name": "Estrella Damm 6x500ml",
+    "stock": 6,
+    "details": {
+      "id": 42586,
+      "code": "30230642",
+      "name": "Estrella Damm 6x500ml",
+      "slug": "estrella-damm-6x500ml-42586",
+      "category_id": 4237,
+      "category_name": "All Lagers",
+      "category_path": "Beer > Lager > All Lagers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/84e8a859-14b7-467d-a82e-1c82aeda5707.webp",
+      "price": 302000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "30230642",
+          "name": "Estrella Damm 6x500ml",
+          "price": 302000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/84e8a859-14b7-467d-a82e-1c82aeda5707.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/84e8a859-14b7-467d-a82e-1c82aeda5707_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/84e8a859-14b7-467d-a82e-1c82aeda5707_thumb.webp"
+            }
+          ],
+          "offerId": 43914,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-15T11:45:00.169253"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-15T11:45:26.336079",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 1008,
+    "current_stock": 1006,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-15T11:45:26.336079",
+    "product_id": 42736,
+    "product_name": "Las Moras Cab Sauvignon 750ml",
+    "previous_stock": 8,
+    "current_stock": 7,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-15T11:45:26.336079",
+    "product_id": 42760,
+    "product_name": "Las Moras Black Label Malbec 750ml",
+    "previous_stock": 7,
+    "current_stock": 6,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-15T11:45:26.336079",
+    "product_id": 42681,
+    "product_name": "Tommasi Graticcio Appassionato 750ml",
+    "previous_stock": 21,
+    "current_stock": 20,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-15T11:45:26.336079",
+    "product_id": 42568,
+    "product_name": "JP. Chenet Cabernet-Syrah 187ml",
+    "stock": 17,
+    "details": {
+      "id": 42568,
+      "code": "30230610",
+      "name": "JP. Chenet Cabernet-Syrah 187ml",
+      "slug": "jp-chenet-cabernet-syrah-187ml-42568",
+      "category_id": 5414,
+      "category_name": "Other Red Wine",
+      "category_path": "Wine > Red > Other Red Wine",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/51a3710b-b822-4e5a-b91c-9ff810d363be.webp",
+      "price": 72000,
+      "discount_price": null,
+      "stock": {
+        "H495": 17
+      },
+      "total_stock": 17,
+      "variants": [
+        {
+          "sku": "30230610",
+          "name": "JP. Chenet Cabernet-Syrah 187ml",
+          "price": 72000,
+          "value": "187ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/51a3710b-b822-4e5a-b91c-9ff810d363be.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/51a3710b-b822-4e5a-b91c-9ff810d363be_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/51a3710b-b822-4e5a-b91c-9ff810d363be_thumb.webp"
+            }
+          ],
+          "offerId": 43890,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 17,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-15T11:45:06.047352"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-15T11:45:26.336079",
+    "product_id": 42532,
+    "product_name": "JP. Chenet Medium Sweet 250ml",
+    "stock": 6,
+    "details": {
+      "id": 42532,
+      "code": "30230608",
+      "name": "JP. Chenet Medium Sweet 250ml",
+      "slug": "jp-chenet-medium-sweet-250ml-42532",
+      "category_id": 4334,
+      "category_name": "White Blends",
+      "category_path": "Wine > White > White Blends",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cc1d1b88-4745-43ef-8f3f-8096b11f3489.webp",
+      "price": 95000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "30230608",
+          "name": "JP. Chenet Medium Sweet 250ml",
+          "price": 95000,
+          "value": "250ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cc1d1b88-4745-43ef-8f3f-8096b11f3489.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cc1d1b88-4745-43ef-8f3f-8096b11f3489_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cc1d1b88-4745-43ef-8f3f-8096b11f3489_thumb.webp"
+            }
+          ],
+          "offerId": 43894,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-15T11:45:09.336405"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-15T11:45:26.336079",
+    "product_id": 42566,
+    "product_name": "JP. Chenet Medium Sweet 3L",
+    "stock": 9,
+    "details": {
+      "id": 42566,
+      "code": "30230611",
+      "name": "JP. Chenet Medium Sweet 3L",
+      "slug": "jp-chenet-medium-sweet-3l-42566",
+      "category_id": 4335,
+      "category_name": "Boxed White Wine",
+      "category_path": "Wine > White > Boxed White Wine",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d418a26a-2c83-429b-be55-e0418dbb4f36.webp",
+      "price": 797000,
+      "discount_price": null,
+      "stock": {
+        "H495": 9
+      },
+      "total_stock": 9,
+      "variants": [
+        {
+          "sku": "30230611",
+          "name": "JP. Chenet Medium Sweet 3L",
+          "price": 797000,
+          "value": "3L",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d418a26a-2c83-429b-be55-e0418dbb4f36.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d418a26a-2c83-429b-be55-e0418dbb4f36_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d418a26a-2c83-429b-be55-e0418dbb4f36_thumb.webp"
+            }
+          ],
+          "offerId": 43899,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 9,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-15T11:45:10.161801"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-15T11:45:26.336079",
+    "product_id": 42606,
+    "product_name": "Koskenkorva Vodka 500ml",
+    "previous_stock": 44,
+    "current_stock": 43,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-15T11:45:26.336079",
+    "product_id": 49230,
+    "product_name": "Jack Daniels 700ml",
+    "previous_stock": 10,
+    "current_stock": 9,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-15T11:45:26.336079",
+    "product_id": 42501,
+    "product_name": "Red Bull Original 6x250ml",
+    "stock": 12,
+    "details": {
+      "id": 42501,
+      "code": "30212330",
+      "name": "Red Bull Original 6x250ml",
+      "slug": "red-bull-original-6x250ml-42501",
+      "category_id": 4317,
+      "category_name": "All Energy Drinks",
+      "category_path": "Soft drinks > Energy Drinks > All Energy Drinks",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/24f48a60-b878-4f68-932d-803b6b60859e.webp",
+      "price": 168000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "30212330",
+          "name": "Red Bull Original 6x250ml",
+          "price": 168000,
+          "value": "250ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/24f48a60-b878-4f68-932d-803b6b60859e.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/24f48a60-b878-4f68-932d-803b6b60859e_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/24f48a60-b878-4f68-932d-803b6b60859e_thumb.webp"
+            }
+          ],
+          "offerId": 43832,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-15T11:45:24.845902"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-15T11:45:26.336079",
+    "product_id": 42495,
+    "product_name": "Red Bull Sea Blue Edition 6x250ml",
+    "stock": 1,
+    "details": {
+      "id": 42495,
+      "code": "30213444",
+      "name": "Red Bull Sea Blue Edition 6x250ml",
+      "slug": "red-bull-sea-blue-edition-6x250ml-42495",
+      "category_id": 4317,
+      "category_name": "All Energy Drinks",
+      "category_path": "Soft drinks > Energy Drinks > All Energy Drinks",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7b1c3616-3bfb-48d8-8a41-0a2a2b797842.webp",
+      "price": 139000,
+      "discount_price": null,
+      "stock": {
+        "H495": 1
+      },
+      "total_stock": 1,
+      "variants": [
+        {
+          "sku": "30213444",
+          "name": "Red Bull Sea Blue Edition 6x250ml",
+          "price": 139000,
+          "value": "250ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7b1c3616-3bfb-48d8-8a41-0a2a2b797842.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7b1c3616-3bfb-48d8-8a41-0a2a2b797842_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7b1c3616-3bfb-48d8-8a41-0a2a2b797842_thumb.webp"
+            }
+          ],
+          "offerId": 43826,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 1,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-15T11:45:24.845902"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-15T11:45:26.336079",
+    "product_id": 42491,
+    "product_name": "Burn Original 4x250ml",
+    "stock": 12,
+    "details": {
+      "id": 42491,
+      "code": "30211794",
+      "name": "Burn Original 4x250ml",
+      "slug": "burn-original-4x250ml-42491",
+      "category_id": 4317,
+      "category_name": "All Energy Drinks",
+      "category_path": "Soft drinks > Energy Drinks > All Energy Drinks",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d2f1328c-569e-492a-8388-a62e76120d4b.webp",
+      "price": 100000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "30211794",
+          "name": "Burn Original 4x250ml",
+          "price": 100000,
+          "value": "250ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d2f1328c-569e-492a-8388-a62e76120d4b.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d2f1328c-569e-492a-8388-a62e76120d4b_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d2f1328c-569e-492a-8388-a62e76120d4b_thumb.webp"
+            }
+          ],
+          "offerId": 43822,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-15T11:45:24.845902"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-15T11:45:26.336079",
+    "product_id": 42499,
+    "product_name": "NOCCO Arancia 6x330ml",
+    "stock": 4,
+    "details": {
+      "id": 42499,
+      "code": "30223664",
+      "name": "NOCCO Arancia 6x330ml",
+      "slug": "nocco-arancia-6x330ml-42499",
+      "category_id": 4317,
+      "category_name": "All Energy Drinks",
+      "category_path": "Soft drinks > Energy Drinks > All Energy Drinks",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6917e343-7675-48a0-a676-38dac1551cf1.webp",
+      "price": 189000,
+      "discount_price": null,
+      "stock": {
+        "H495": 4
+      },
+      "total_stock": 4,
+      "variants": [
+        {
+          "sku": "30223664",
+          "name": "NOCCO Arancia 6x330ml",
+          "price": 189000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6917e343-7675-48a0-a676-38dac1551cf1.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6917e343-7675-48a0-a676-38dac1551cf1_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6917e343-7675-48a0-a676-38dac1551cf1_thumb.webp"
+            }
+          ],
+          "offerId": 43828,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 4,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-15T11:45:24.845902"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-15T11:45:26.336079",
+    "product_id": 42456,
+    "product_name": "NOCCO Sunny Soda 6x330ml",
+    "stock": 4,
+    "details": {
+      "id": 42456,
+      "code": "30200816",
+      "name": "NOCCO Sunny Soda 6x330ml",
+      "slug": "nocco-sunny-soda-6x330ml-42456",
+      "category_id": 4317,
+      "category_name": "All Energy Drinks",
+      "category_path": "Soft drinks > Energy Drinks > All Energy Drinks",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/52e37e25-fcd4-4b9e-a57c-4f1959d66bc8.webp",
+      "price": 189000,
+      "discount_price": null,
+      "stock": {
+        "H495": 4
+      },
+      "total_stock": 4,
+      "variants": [
+        {
+          "sku": "30200816",
+          "name": "NOCCO Sunny Soda 6x330ml",
+          "price": 189000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/52e37e25-fcd4-4b9e-a57c-4f1959d66bc8.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/52e37e25-fcd4-4b9e-a57c-4f1959d66bc8_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/52e37e25-fcd4-4b9e-a57c-4f1959d66bc8_thumb.webp"
+            }
+          ],
+          "offerId": 43780,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 4,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-15T11:45:24.845902"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-15T11:45:26.336079",
+    "product_id": 42453,
+    "product_name": "NOCCO Tropical 6x330ml",
+    "stock": 7,
+    "details": {
+      "id": 42453,
+      "code": "30208692",
+      "name": "NOCCO Tropical 6x330ml",
+      "slug": "nocco-tropical-6x330ml-42453",
+      "category_id": 4317,
+      "category_name": "All Energy Drinks",
+      "category_path": "Soft drinks > Energy Drinks > All Energy Drinks",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/535c8a10-22b6-4fb0-a5ad-bbc838f4cc60.webp",
+      "price": 189000,
+      "discount_price": null,
+      "stock": {
+        "H495": 7
+      },
+      "total_stock": 7,
+      "variants": [
+        {
+          "sku": "30208692",
+          "name": "NOCCO Tropical 6x330ml",
+          "price": 189000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/535c8a10-22b6-4fb0-a5ad-bbc838f4cc60.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/535c8a10-22b6-4fb0-a5ad-bbc838f4cc60_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/535c8a10-22b6-4fb0-a5ad-bbc838f4cc60_thumb.webp"
+            }
+          ],
+          "offerId": 43779,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 7,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-15T11:45:24.845902"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-15T11:45:26.336079",
+    "product_id": 42551,
+    "product_name": "Monster Rossi Zero Doctor 4x500ml",
+    "stock": 2,
+    "details": {
+      "id": 42551,
+      "code": "30227031",
+      "name": "Monster Rossi Zero Doctor 4x500ml",
+      "slug": "monster-rossi-zero-doctor-4x500ml-42551",
+      "category_id": 4317,
+      "category_name": "All Energy Drinks",
+      "category_path": "Soft drinks > Energy Drinks > All Energy Drinks",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/03332a60-fc27-4fd9-bd2c-7bb8075a1ca2.webp",
+      "price": 99600,
+      "discount_price": null,
+      "stock": {
+        "H495": 2
+      },
+      "total_stock": 2,
+      "variants": [
+        {
+          "sku": "30227031",
+          "name": "Monster Rossi Zero Doctor 4x500ml",
+          "price": 99600,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/03332a60-fc27-4fd9-bd2c-7bb8075a1ca2.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/03332a60-fc27-4fd9-bd2c-7bb8075a1ca2_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/03332a60-fc27-4fd9-bd2c-7bb8075a1ca2_thumb.webp"
+            }
+          ],
+          "offerId": 43858,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 2,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-15T11:45:24.845902"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-15T11:45:26.336079",
+    "product_id": 42507,
+    "product_name": "Fever Tree Rasberry & Rhubarb Tonic 4x200ml",
+    "stock": 6,
+    "details": {
+      "id": 42507,
+      "code": "30210665",
+      "name": "Fever Tree Rasberry & Rhubarb Tonic 4x200ml",
+      "slug": "fever-tree-rasberry-rhubarb-tonic-4x200ml-42507",
+      "category_id": 4319,
+      "category_name": "All Tonics",
+      "category_path": "Soft drinks > Tonic > All Tonics",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6d5fc66e-cf26-4119-9134-520d7639d507.webp",
+      "price": 81000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "30210665",
+          "name": "Fever Tree Rasberry & Rhubarb Tonic 4x200ml",
+          "price": 81000,
+          "value": "200ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6d5fc66e-cf26-4119-9134-520d7639d507.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6d5fc66e-cf26-4119-9134-520d7639d507_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6d5fc66e-cf26-4119-9134-520d7639d507_thumb.webp"
+            }
+          ],
+          "offerId": 43814,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-15T11:45:25.144431"
+    }
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-15T11:45:26.336079",
+    "product_id": 42724,
+    "product_name": "Finca Las Moras Malbec 750ml",
+    "last_stock": 1
   }
 ]
