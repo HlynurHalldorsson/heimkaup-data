@@ -104153,5 +104153,719 @@
     "current_stock": 13,
     "change": -3,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-15T14:25:31.668425",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 1002,
+    "current_stock": 996,
+    "change": -6,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-15T14:25:31.668425",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 411,
+    "current_stock": 410,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-15T14:25:31.668425",
+    "product_id": 42673,
+    "product_name": "BARA Jarðaber & Límóna 6x330ml",
+    "previous_stock": 7,
+    "current_stock": 6,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-15T14:25:31.668425",
+    "product_id": 42651,
+    "product_name": "BARA Maracuja & Lime 6x330ml",
+    "previous_stock": 6,
+    "current_stock": 5,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-15T14:25:31.668425",
+    "product_id": 43572,
+    "product_name": "Tuborg Classic 0,0% 6x330ml",
+    "stock": 8,
+    "details": {
+      "id": 43572,
+      "code": "30218983",
+      "name": "Tuborg Classic 0,0% 6x330ml",
+      "slug": "tuborg-classic-0-0-6x330ml-43572",
+      "category_id": 4297,
+      "category_name": "All 0% Beer",
+      "category_path": "Alcohol-Free > Beer 0% > All 0% Beer",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/09bccac7-7af4-4296-aa3b-125d74485540.webp",
+      "price": 119000,
+      "discount_price": null,
+      "stock": {
+        "H495": 8
+      },
+      "total_stock": 8,
+      "variants": [
+        {
+          "sku": "30218983",
+          "name": "Tuborg Classic 0,0% 6x330ml",
+          "price": 119000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/09bccac7-7af4-4296-aa3b-125d74485540.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/09bccac7-7af4-4296-aa3b-125d74485540_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/09bccac7-7af4-4296-aa3b-125d74485540_thumb.webp"
+            }
+          ],
+          "offerId": 45221,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 8,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-15T14:25:20.684240"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-15T14:25:31.668425",
+    "product_id": 43578,
+    "product_name": "Stella Artois 0,0% 6x330ml",
+    "stock": 1,
+    "details": {
+      "id": 43578,
+      "code": "30197379",
+      "name": "Stella Artois 0,0% 6x330ml",
+      "slug": "stella-artois-0-0-6x330ml-43578",
+      "category_id": 4297,
+      "category_name": "All 0% Beer",
+      "category_path": "Alcohol-Free > Beer 0% > All 0% Beer",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a97111c4-d760-4df5-a90c-10dc17333c1f.webp",
+      "price": 175900,
+      "discount_price": null,
+      "stock": {
+        "H495": 1
+      },
+      "total_stock": 1,
+      "variants": [
+        {
+          "sku": "30197379",
+          "name": "Stella Artois 0,0% 6x330ml",
+          "price": 175900,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a97111c4-d760-4df5-a90c-10dc17333c1f.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a97111c4-d760-4df5-a90c-10dc17333c1f_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a97111c4-d760-4df5-a90c-10dc17333c1f_thumb.webp"
+            }
+          ],
+          "offerId": 45226,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 1,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-15T14:25:20.684240"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-15T14:25:31.668425",
+    "product_id": 43575,
+    "product_name": "Fanta Zero Sugar 4x330ml",
+    "stock": 6,
+    "details": {
+      "id": 43575,
+      "code": "30222744",
+      "name": "Fanta Zero Sugar 4x330ml",
+      "slug": "fanta-zero-sugar-4x330ml-43575",
+      "category_id": 4338,
+      "category_name": "Sugar-Free Sodas",
+      "category_path": "Soft drinks > Soda > Sugar-Free Sodas",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3a22f189-f1b4-4758-be67-8870507a82d0.webp",
+      "price": 50400,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "30222744",
+          "name": "Fanta Zero Sugar 4x330ml",
+          "price": 50400,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3a22f189-f1b4-4758-be67-8870507a82d0.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3a22f189-f1b4-4758-be67-8870507a82d0_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3a22f189-f1b4-4758-be67-8870507a82d0_thumb.webp"
+            }
+          ],
+          "offerId": 45224,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-15T14:25:29.553392"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-15T14:25:31.668425",
+    "product_id": 43573,
+    "product_name": "NOCCO Caribbean koffínlaus 6x330ml",
+    "stock": 2,
+    "details": {
+      "id": 43573,
+      "code": "30217134",
+      "name": "NOCCO Caribbean koffínlaus 6x330ml",
+      "slug": "nocco-caribbean-koffinlaus-6x330ml-43573",
+      "category_id": 4338,
+      "category_name": "Sugar-Free Sodas",
+      "category_path": "Soft drinks > Soda > Sugar-Free Sodas",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4d26f7cb-062a-4381-9bc9-2d255367d517.webp",
+      "price": 186800,
+      "discount_price": null,
+      "stock": {
+        "H495": 2
+      },
+      "total_stock": 2,
+      "variants": [
+        {
+          "sku": "30217134",
+          "name": "NOCCO Caribbean koffínlaus 6x330ml",
+          "price": 186800,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4d26f7cb-062a-4381-9bc9-2d255367d517.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4d26f7cb-062a-4381-9bc9-2d255367d517_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4d26f7cb-062a-4381-9bc9-2d255367d517_thumb.webp"
+            }
+          ],
+          "offerId": 45222,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 2,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-15T14:25:29.553392"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-15T14:25:31.668425",
+    "product_id": 43574,
+    "product_name": "NOCCO Peachango koffínlaus 6x330ml",
+    "stock": 6,
+    "details": {
+      "id": 43574,
+      "code": "30230992",
+      "name": "NOCCO Peachango koffínlaus 6x330ml",
+      "slug": "nocco-peachango-koffinlaus-6x330ml-43574",
+      "category_id": 4338,
+      "category_name": "Sugar-Free Sodas",
+      "category_path": "Soft drinks > Soda > Sugar-Free Sodas",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f026ca0e-1f40-4f9f-882b-65cfec4df7ac.webp",
+      "price": 186800,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "30230992",
+          "name": "NOCCO Peachango koffínlaus 6x330ml",
+          "price": 186800,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f026ca0e-1f40-4f9f-882b-65cfec4df7ac.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f026ca0e-1f40-4f9f-882b-65cfec4df7ac_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f026ca0e-1f40-4f9f-882b-65cfec4df7ac_thumb.webp"
+            }
+          ],
+          "offerId": 45223,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-15T14:25:29.553392"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-15T14:25:31.668425",
+    "product_id": 43585,
+    "product_name": "COLLAB Blóðappelsínu 6x330ml",
+    "stock": 4,
+    "details": {
+      "id": 43585,
+      "code": "30219904",
+      "name": "COLLAB Blóðappelsínu 6x330ml",
+      "slug": "collab-blo-appelsinu-6x330ml-43585",
+      "category_id": 4317,
+      "category_name": "All Energy Drinks",
+      "category_path": "Soft drinks > Energy Drinks > All Energy Drinks",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/0ebc90eb-02f2-464c-8c3f-2be1b7565154.webp",
+      "price": 184300,
+      "discount_price": null,
+      "stock": {
+        "H495": 4
+      },
+      "total_stock": 4,
+      "variants": [
+        {
+          "sku": "30219904",
+          "name": "COLLAB Blóðappelsínu 6x330ml",
+          "price": 184300,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/0ebc90eb-02f2-464c-8c3f-2be1b7565154.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/0ebc90eb-02f2-464c-8c3f-2be1b7565154_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/0ebc90eb-02f2-464c-8c3f-2be1b7565154_thumb.webp"
+            }
+          ],
+          "offerId": 45233,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 4,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-15T14:25:29.850554"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-15T14:25:31.668425",
+    "product_id": 42430,
+    "product_name": "NOCCO Limon del Sol 6x330ml",
+    "stock": 6,
+    "details": {
+      "id": 42430,
+      "code": "30199667",
+      "name": "NOCCO Limon del Sol 6x330ml",
+      "slug": "nocco-limon-del-sol-6x330ml-42430",
+      "category_id": 4317,
+      "category_name": "All Energy Drinks",
+      "category_path": "Soft drinks > Energy Drinks > All Energy Drinks",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/58df1baf-408d-406e-90b3-e4d322d9bfa3.webp",
+      "price": 189000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "30199667",
+          "name": "NOCCO Limon del Sol 6x330ml",
+          "price": 189000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/58df1baf-408d-406e-90b3-e4d322d9bfa3.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/58df1baf-408d-406e-90b3-e4d322d9bfa3_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/58df1baf-408d-406e-90b3-e4d322d9bfa3_thumb.webp"
+            }
+          ],
+          "offerId": 43754,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-15T14:25:29.850554"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-15T14:25:31.668425",
+    "product_id": 43583,
+    "product_name": "Kristall+ Límónu & Huyganatsu sítrus 330ml",
+    "stock": 3,
+    "details": {
+      "id": 43583,
+      "code": "30223842",
+      "name": "Kristall+ Límónu & Huyganatsu sítrus 330ml",
+      "slug": "kristall-limonu-huyganatsu-sitrus-43583",
+      "category_id": 4317,
+      "category_name": "All Energy Drinks",
+      "category_path": "Soft drinks > Energy Drinks > All Energy Drinks",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5ecebc5b-a8d4-41b0-a284-b79aacb9b396.webp",
+      "price": 109800,
+      "discount_price": null,
+      "stock": {
+        "H495": 3
+      },
+      "total_stock": 3,
+      "variants": [
+        {
+          "sku": "30223842",
+          "name": "Kristall+ Límónu & Huyganatsu sítrus 330ml",
+          "price": 109800,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5ecebc5b-a8d4-41b0-a284-b79aacb9b396.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5ecebc5b-a8d4-41b0-a284-b79aacb9b396_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5ecebc5b-a8d4-41b0-a284-b79aacb9b396_thumb.webp"
+            }
+          ],
+          "offerId": 45231,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 3,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-15T14:25:29.850554"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-15T14:25:31.668425",
+    "product_id": 43580,
+    "product_name": "Egils ORKA RR 6x330ml",
+    "stock": 3,
+    "details": {
+      "id": 43580,
+      "code": "30223547",
+      "name": "Egils ORKA RR 6x330ml",
+      "slug": "egils-orka-rr-6x330ml-43580",
+      "category_id": 4317,
+      "category_name": "All Energy Drinks",
+      "category_path": "Soft drinks > Energy Drinks > All Energy Drinks",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5219a0aa-9330-40d4-93dc-0174dca9676a.webp",
+      "price": 134200,
+      "discount_price": null,
+      "stock": {
+        "H495": 3
+      },
+      "total_stock": 3,
+      "variants": [
+        {
+          "sku": "30223547",
+          "name": "Egils ORKA RR 6x330ml",
+          "price": 134200,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5219a0aa-9330-40d4-93dc-0174dca9676a.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5219a0aa-9330-40d4-93dc-0174dca9676a_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5219a0aa-9330-40d4-93dc-0174dca9676a_thumb.webp"
+            }
+          ],
+          "offerId": 45228,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 3,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-15T14:25:29.850554"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-15T14:25:31.668425",
+    "product_id": 43581,
+    "product_name": "Mist Uppbygging Apríkósa & Rifsber 6x330ml",
+    "stock": 2,
+    "details": {
+      "id": 43581,
+      "code": "30223596",
+      "name": "Mist Uppbygging Apríkósa & Rifsber 6x330ml",
+      "slug": "mist-uppbygging-aprikosa-rifsber-6x330ml-43581",
+      "category_id": 4317,
+      "category_name": "All Energy Drinks",
+      "category_path": "Soft drinks > Energy Drinks > All Energy Drinks",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/04cf0b00-efd6-478f-9974-efb838be345e.webp",
+      "price": 188000,
+      "discount_price": null,
+      "stock": {
+        "H495": 2
+      },
+      "total_stock": 2,
+      "variants": [
+        {
+          "sku": "30223596",
+          "name": "Mist Uppbygging Apríkósa & Rifsber 6x330ml",
+          "price": 188000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/04cf0b00-efd6-478f-9974-efb838be345e.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/04cf0b00-efd6-478f-9974-efb838be345e_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/04cf0b00-efd6-478f-9974-efb838be345e_thumb.webp"
+            }
+          ],
+          "offerId": 45229,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 2,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-15T14:25:29.850554"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-15T14:25:31.668425",
+    "product_id": 42442,
+    "product_name": "Monster Absolutely Zero 4x500ml",
+    "stock": 9,
+    "details": {
+      "id": 42442,
+      "code": "30149822",
+      "name": "Monster Absolutely Zero 4x500ml",
+      "slug": "monster-absolutely-zero-4x500ml-42442",
+      "category_id": 4317,
+      "category_name": "All Energy Drinks",
+      "category_path": "Soft drinks > Energy Drinks > All Energy Drinks",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/82b70354-9b23-4830-a024-836e290e3e97.webp",
+      "price": 99000,
+      "discount_price": null,
+      "stock": {
+        "H495": 9
+      },
+      "total_stock": 9,
+      "variants": [
+        {
+          "sku": "30149822",
+          "name": "Monster Absolutely Zero 4x500ml",
+          "price": 99000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/82b70354-9b23-4830-a024-836e290e3e97.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/82b70354-9b23-4830-a024-836e290e3e97_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/82b70354-9b23-4830-a024-836e290e3e97_thumb.webp"
+            }
+          ],
+          "offerId": 43763,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 9,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-15T14:25:29.850554"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-15T14:25:31.668425",
+    "product_id": 43567,
+    "product_name": "Fever Tree Indian Tonic Light 4x200ml",
+    "stock": 1,
+    "details": {
+      "id": 43567,
+      "code": "30230974",
+      "name": "Fever Tree Indian Tonic Light 4x200ml",
+      "slug": "fever-tree-indian-tonic-light-4x200ml-43567",
+      "category_id": 4319,
+      "category_name": "All Tonics",
+      "category_path": "Soft drinks > Tonic > All Tonics",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a88ae107-dcc7-4e02-913f-9bd06e4831f3.webp",
+      "price": 109000,
+      "discount_price": null,
+      "stock": {
+        "H495": 1
+      },
+      "total_stock": 1,
+      "variants": [
+        {
+          "sku": "30230974",
+          "name": "Fever Tree Indian Tonic Light 4x200ml",
+          "price": 109000,
+          "value": "200ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a88ae107-dcc7-4e02-913f-9bd06e4831f3.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a88ae107-dcc7-4e02-913f-9bd06e4831f3_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a88ae107-dcc7-4e02-913f-9bd06e4831f3_thumb.webp"
+            }
+          ],
+          "offerId": 45217,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 1,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-15T14:25:30.296544"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-15T14:25:31.668425",
+    "product_id": 43579,
+    "product_name": "Britvic Spicy Ginger Ale 6x150ml",
+    "stock": 4,
+    "details": {
+      "id": 43579,
+      "code": "30196578",
+      "name": "Britvic Spicy Ginger Ale 6x150ml",
+      "slug": "britvic-spicy-ginger-ale-6x150ml-43579",
+      "category_id": 4319,
+      "category_name": "All Tonics",
+      "category_path": "Soft drinks > Tonic > All Tonics",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b585e244-ac85-4ac6-af1a-ae89ed9e095d.webp",
+      "price": 83000,
+      "discount_price": null,
+      "stock": {
+        "H495": 4
+      },
+      "total_stock": 4,
+      "variants": [
+        {
+          "sku": "30196578",
+          "name": "Britvic Spicy Ginger Ale 6x150ml",
+          "price": 83000,
+          "value": "150ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b585e244-ac85-4ac6-af1a-ae89ed9e095d.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b585e244-ac85-4ac6-af1a-ae89ed9e095d_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b585e244-ac85-4ac6-af1a-ae89ed9e095d_thumb.webp"
+            }
+          ],
+          "offerId": 45227,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 4,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-15T14:25:30.296544"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-15T14:25:31.668425",
+    "product_id": 42441,
+    "product_name": "Kristall Mexican Lime 12x330ml",
+    "previous_stock": 3,
+    "current_stock": 2,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-15T14:25:31.668425",
+    "product_id": 43360,
+    "product_name": "Doritos Sweet Chili 170g",
+    "stock": 100,
+    "details": {
+      "id": 43360,
+      "code": "30093377",
+      "name": "Doritos Sweet Chili 170g",
+      "slug": "doritos-sweet-chili-43360",
+      "category_id": 4524,
+      "category_name": "Doritos",
+      "category_path": "Food > Snacks > Doritos",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/40f8310a-4790-4595-a4ae-1241bcf989f4.webp",
+      "price": 39000,
+      "discount_price": null,
+      "stock": {
+        "H495": 100
+      },
+      "total_stock": 100,
+      "variants": [
+        {
+          "sku": "30093377",
+          "name": "Doritos Sweet Chili 170g",
+          "price": 39000,
+          "value": "170g",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/40f8310a-4790-4595-a4ae-1241bcf989f4.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/40f8310a-4790-4595-a4ae-1241bcf989f4_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/40f8310a-4790-4595-a4ae-1241bcf989f4_thumb.webp"
+            }
+          ],
+          "offerId": 45012,
+          "sorting": 0,
+          "property": "net_weight",
+          "sellable": 100,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        },
+        {
+          "sku": "30093377",
+          "name": "Doritos Sweet Chili 170g",
+          "price": 39000,
+          "value": "170g",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/40f8310a-4790-4595-a4ae-1241bcf989f4.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/40f8310a-4790-4595-a4ae-1241bcf989f4_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/40f8310a-4790-4595-a4ae-1241bcf989f4_thumb.webp"
+            }
+          ],
+          "offerId": 45012,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 100,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-15T14:25:31.384893"
+    }
   }
 ]
