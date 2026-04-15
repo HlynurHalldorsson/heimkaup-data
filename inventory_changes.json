@@ -106221,5 +106221,101 @@
     "product_id": 42642,
     "product_name": "Champagne Collet Brut Rosé 750ml",
     "last_stock": 1
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-15T17:58:06.100863",
+    "product_id": 43050,
+    "product_name": "Víking lager 12x500ml",
+    "previous_stock": 9,
+    "current_stock": 8,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-15T17:58:06.100863",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 983,
+    "current_stock": 980,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-15T17:58:06.100863",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 393,
+    "current_stock": 432,
+    "change": 39,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-15T17:58:06.100863",
+    "product_id": 42542,
+    "product_name": "Carlo Rossi California Rosé 750ml",
+    "previous_stock": 4,
+    "current_stock": 3,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-15T17:58:06.100863",
+    "product_id": 42998,
+    "product_name": "Adobe Rosé Poki 1,5L",
+    "previous_stock": 20,
+    "current_stock": 19,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-15T17:58:06.100863",
+    "product_id": 49253,
+    "product_name": "Pierre Ferrand Dry Curacao Triple Sec 700ml",
+    "stock": 6,
+    "details": {
+      "id": 49253,
+      "code": "50000185",
+      "name": "Pierre Ferrand Dry Curacao Triple Sec 700ml",
+      "slug": "pierre-ferrand-dry-curacao-triple-sec-700ml-49253",
+      "category_id": 4275,
+      "category_name": "All Liqueurs",
+      "category_path": "Spirits > Liqueurs > All Liqueurs",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4c80aba2-b51c-414e-9f6c-de8fff885acb.webp",
+      "price": 999000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "50000185",
+          "name": "Pierre Ferrand Dry Curacao Triple Sec 700ml",
+          "price": 999000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4c80aba2-b51c-414e-9f6c-de8fff885acb.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4c80aba2-b51c-414e-9f6c-de8fff885acb_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4c80aba2-b51c-414e-9f6c-de8fff885acb_thumb.webp"
+            }
+          ],
+          "offerId": 50592,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-15T17:57:51.298441"
+    }
   }
 ]
