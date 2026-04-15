@@ -104867,5 +104867,694 @@
       ],
       "last_updated": "2026-04-15T14:25:31.384893"
     }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-15T15:44:56.115896",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 996,
+    "current_stock": 989,
+    "change": -7,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-15T15:44:56.115896",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 410,
+    "current_stock": 397,
+    "change": -13,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-15T15:44:56.115896",
+    "product_id": 47314,
+    "product_name": "Víking Páskabjór 6x330ml + 2 Víking 400ml Glass",
+    "previous_stock": 50,
+    "current_stock": 49,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-15T15:44:56.115896",
+    "product_id": 49237,
+    "product_name": "Marques Del Silvo Crianza",
+    "stock": 12,
+    "details": {
+      "id": 49237,
+      "code": "50000096",
+      "name": "Marques Del Silvo Crianza",
+      "slug": "marques-del-silvo-crianza-49237",
+      "category_id": 5439,
+      "category_name": "Tempranillo",
+      "category_path": "Wine > Red > Tempranillo",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/01bdcfac-938a-4633-ba4a-f600f269d6db.webp",
+      "price": 246000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "50000096",
+          "name": "Marques Del Silvo Crianza",
+          "price": 246000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/01bdcfac-938a-4633-ba4a-f600f269d6db.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/01bdcfac-938a-4633-ba4a-f600f269d6db_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/01bdcfac-938a-4633-ba4a-f600f269d6db_thumb.webp"
+            }
+          ],
+          "offerId": 50577,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-15T15:44:33.463326"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-15T15:44:56.115896",
+    "product_id": 49235,
+    "product_name": "Marques Del Silvo Gran Reserva 750ml",
+    "stock": 12,
+    "details": {
+      "id": 49235,
+      "code": "50000094",
+      "name": "Marques Del Silvo Gran Reserva 750ml",
+      "slug": "marques-del-silvo-gran-reserva-750ml-49235",
+      "category_id": 5439,
+      "category_name": "Tempranillo",
+      "category_path": "Wine > Red > Tempranillo",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b2ec74c1-de5f-4a32-979b-6a3905d09ec6.webp",
+      "price": 339000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "50000094",
+          "name": "Marques Del Silvo Gran Reserva 750ml",
+          "price": 339000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b2ec74c1-de5f-4a32-979b-6a3905d09ec6.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b2ec74c1-de5f-4a32-979b-6a3905d09ec6_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b2ec74c1-de5f-4a32-979b-6a3905d09ec6_thumb.webp"
+            }
+          ],
+          "offerId": 50575,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-15T15:44:33.463326"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-15T15:44:56.115896",
+    "product_id": 49236,
+    "product_name": "Marques Del Silvo Reserva 750ml",
+    "stock": 12,
+    "details": {
+      "id": 49236,
+      "code": "50000095",
+      "name": "Marques Del Silvo Reserva 750ml",
+      "slug": "marques-del-silvo-reserva-750ml-49236",
+      "category_id": 5439,
+      "category_name": "Tempranillo",
+      "category_path": "Wine > Red > Tempranillo",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9b853a7b-beba-493a-b720-5e4a6e666510.webp",
+      "price": 288000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "50000095",
+          "name": "Marques Del Silvo Reserva 750ml",
+          "price": 288000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9b853a7b-beba-493a-b720-5e4a6e666510.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9b853a7b-beba-493a-b720-5e4a6e666510_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9b853a7b-beba-493a-b720-5e4a6e666510_thumb.webp"
+            }
+          ],
+          "offerId": 50576,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-15T15:44:33.463326"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-15T15:44:56.115896",
+    "product_id": 49241,
+    "product_name": "Paesello Vino Rosso 1L",
+    "stock": 15,
+    "details": {
+      "id": 49241,
+      "code": "50000098",
+      "name": "Paesello Vino Rosso 1L",
+      "slug": "paesello-vino-rosso-49241",
+      "category_id": 5414,
+      "category_name": "Other Red Wine",
+      "category_path": "Wine > Red > Other Red Wine",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/dc7112f5-9499-4566-9abc-50b07bdd9b14.webp",
+      "price": 198000,
+      "discount_price": null,
+      "stock": {
+        "H495": 15
+      },
+      "total_stock": 15,
+      "variants": [],
+      "last_updated": "2026-04-15T15:44:34.510513"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-15T15:44:56.115896",
+    "product_id": 49365,
+    "product_name": "Tini Merlot 3L",
+    "stock": 4,
+    "details": {
+      "id": 49365,
+      "code": "50000102",
+      "name": "Tini Merlot 3L",
+      "slug": "tini-merlot-3l-49365",
+      "category_id": 4330,
+      "category_name": "Boxed Red Wines",
+      "category_path": "Wine > Red > Boxed Red Wines",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a6ed7d53-ed8d-44af-a07c-705d79c6368e.webp",
+      "price": 679000,
+      "discount_price": null,
+      "stock": {
+        "H495": 4
+      },
+      "total_stock": 4,
+      "variants": [
+        {
+          "sku": "50000102",
+          "name": "Tini Merlot 3L",
+          "price": 679000,
+          "value": "3L",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a6ed7d53-ed8d-44af-a07c-705d79c6368e.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a6ed7d53-ed8d-44af-a07c-705d79c6368e_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a6ed7d53-ed8d-44af-a07c-705d79c6368e_thumb.webp"
+            }
+          ],
+          "offerId": 50704,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 4,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-15T15:44:34.971792"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-15T15:44:56.115896",
+    "product_id": 43663,
+    "product_name": "Columbia Crest Chardonnay 750ml",
+    "stock": 12,
+    "details": {
+      "id": 43663,
+      "code": "30234643",
+      "name": "Columbia Crest Chardonnay 750ml",
+      "slug": "columbia-crest-chardonnay-43663",
+      "category_id": 4331,
+      "category_name": "Chardonnay",
+      "category_path": "Wine > White > Chardonnay",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9f463b3d-d5bf-4b20-b377-575e840a4e5d.webp",
+      "price": 319000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "30234643",
+          "name": "Columbia Crest Chardonnay 750ml",
+          "price": 319000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9f463b3d-d5bf-4b20-b377-575e840a4e5d.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9f463b3d-d5bf-4b20-b377-575e840a4e5d_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9f463b3d-d5bf-4b20-b377-575e840a4e5d_thumb.webp"
+            }
+          ],
+          "offerId": 45287,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-15T15:44:35.640823"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-15T15:44:56.115896",
+    "product_id": 49240,
+    "product_name": "Tini Bianco 750ml",
+    "stock": 12,
+    "details": {
+      "id": 49240,
+      "code": "50000097",
+      "name": "Tini Bianco 750ml",
+      "slug": "tini-bianco-750ml-49240",
+      "category_id": 5415,
+      "category_name": "Other White Wine",
+      "category_path": "Wine > White > Other White Wine",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d437ffe8-5975-4a71-8960-b1935266c353.webp",
+      "price": 179000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "50000097",
+          "name": "Tini Bianco 750ml",
+          "price": 179000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d437ffe8-5975-4a71-8960-b1935266c353.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d437ffe8-5975-4a71-8960-b1935266c353_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d437ffe8-5975-4a71-8960-b1935266c353_thumb.webp"
+            }
+          ],
+          "offerId": 50580,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-15T15:44:38.179033"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-15T15:44:56.115896",
+    "product_id": 49242,
+    "product_name": "Paesello Vino Bianco 1L",
+    "stock": 15,
+    "details": {
+      "id": 49242,
+      "code": "50000099",
+      "name": "Paesello Vino Bianco 1L",
+      "slug": "paesello-vino-bianco-49242",
+      "category_id": 5415,
+      "category_name": "Other White Wine",
+      "category_path": "Wine > White > Other White Wine",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4e8f690e-d997-44f3-a705-e5cc8b14c5f5.webp",
+      "price": 198000,
+      "discount_price": null,
+      "stock": {
+        "H495": 15
+      },
+      "total_stock": 15,
+      "variants": [],
+      "last_updated": "2026-04-15T15:44:38.179033"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-15T15:44:56.115896",
+    "product_id": 49364,
+    "product_name": "Tini Tebbiano Chardonnay 3L",
+    "stock": 4,
+    "details": {
+      "id": 49364,
+      "code": "50000103",
+      "name": "Tini Tebbiano Chardonnay 3L",
+      "slug": "tini-tebbiano-chardonnay-3l-49364",
+      "category_id": 4335,
+      "category_name": "Boxed White Wine",
+      "category_path": "Wine > White > Boxed White Wine",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/274195ae-cc01-473a-b670-a42d892fa84e.webp",
+      "price": 679000,
+      "discount_price": null,
+      "stock": {
+        "H495": 4
+      },
+      "total_stock": 4,
+      "variants": [
+        {
+          "sku": "50000103",
+          "name": "Tini Tebbiano Chardonnay 3L",
+          "price": 679000,
+          "value": "3L",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/274195ae-cc01-473a-b670-a42d892fa84e.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/274195ae-cc01-473a-b670-a42d892fa84e_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/274195ae-cc01-473a-b670-a42d892fa84e_thumb.webp"
+            }
+          ],
+          "offerId": 50703,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 4,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-15T15:44:38.651974"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-15T15:44:56.115896",
+    "product_id": 49245,
+    "product_name": "Michter´s Kentucky Straight Bourbon 700ml",
+    "stock": 6,
+    "details": {
+      "id": 49245,
+      "code": "50000178",
+      "name": "Michter´s Kentucky Straight Bourbon 700ml",
+      "slug": "michter-s-kentucky-straight-bourbon-700ml-49245",
+      "category_id": 4269,
+      "category_name": "All Whiskey",
+      "category_path": "Spirits > Whiskey > All Whiskey",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d13fe00e-7a51-46a5-8524-cc803d68d541.webp",
+      "price": 1299000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "50000178",
+          "name": "Michter´s Kentucky Straight Bourbon 700ml",
+          "price": 1299000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d13fe00e-7a51-46a5-8524-cc803d68d541.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d13fe00e-7a51-46a5-8524-cc803d68d541_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d13fe00e-7a51-46a5-8524-cc803d68d541_thumb.webp"
+            }
+          ],
+          "offerId": 50585,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-15T15:44:39.777544"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-15T15:44:56.115896",
+    "product_id": 42697,
+    "product_name": "Jagermeister Miniature 9x20ml",
+    "previous_stock": 6,
+    "current_stock": 4,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-15T15:44:56.115896",
+    "product_id": 42634,
+    "product_name": "Jagermeister 350ml",
+    "previous_stock": 14,
+    "current_stock": 12,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-15T15:44:56.115896",
+    "product_id": 49011,
+    "product_name": "V&YOU BOOST+ Cool Berry 5",
+    "stock": 10,
+    "details": {
+      "id": 49011,
+      "code": "30206344",
+      "name": "V&YOU BOOST+ Cool Berry 5",
+      "slug": "v-you-boost-cool-berry-5-49011",
+      "category_id": 5319,
+      "category_name": "V&YOU",
+      "category_path": "Nicotine > Pouches > V&YOU",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/677c933c-dc97-41dc-9450-11a3d203b405.webp",
+      "price": 119000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30206344",
+          "name": "V&YOU BOOST+ Cool Berry 5",
+          "price": 119000,
+          "value": "5mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/677c933c-dc97-41dc-9450-11a3d203b405.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/677c933c-dc97-41dc-9450-11a3d203b405_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/677c933c-dc97-41dc-9450-11a3d203b405_thumb.webp"
+            }
+          ],
+          "offerId": 50351,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-15T15:44:47.259551"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-15T15:44:56.115896",
+    "product_id": 46240,
+    "product_name": "Skruf Superwhite Slim 4",
+    "previous_stock": 23,
+    "current_stock": 21,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-15T15:44:56.115896",
+    "product_id": 43586,
+    "product_name": "COLLAB Ástaraldin & Lómónu 6x330ml",
+    "stock": 1,
+    "details": {
+      "id": 43586,
+      "code": "30209363",
+      "name": "COLLAB Ástaraldin & Lómónu 6x330ml",
+      "slug": "collab-astaraldin-lomonu-6x330ml-43586",
+      "category_id": 4317,
+      "category_name": "All Energy Drinks",
+      "category_path": "Soft drinks > Energy Drinks > All Energy Drinks",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7c3fb3e3-644b-4e43-82ac-658d19c64936.webp",
+      "price": 184300,
+      "discount_price": null,
+      "stock": {
+        "H495": 1
+      },
+      "total_stock": 1,
+      "variants": [
+        {
+          "sku": "30209363",
+          "name": "COLLAB Ástaraldin & Lómónu 6x330ml",
+          "price": 184300,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7c3fb3e3-644b-4e43-82ac-658d19c64936.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7c3fb3e3-644b-4e43-82ac-658d19c64936_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7c3fb3e3-644b-4e43-82ac-658d19c64936_thumb.webp"
+            }
+          ],
+          "offerId": 45234,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 1,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-15T15:44:54.225451"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-15T15:44:56.115896",
+    "product_id": 43587,
+    "product_name": "COLLAB Hindberja & Aprikósu 6x330ml",
+    "stock": 12,
+    "details": {
+      "id": 43587,
+      "code": "30209322",
+      "name": "COLLAB Hindberja & Aprikósu 6x330ml",
+      "slug": "collab-hindberja-aprikosu-6x330ml-43587",
+      "category_id": 4317,
+      "category_name": "All Energy Drinks",
+      "category_path": "Soft drinks > Energy Drinks > All Energy Drinks",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d0c1d929-2a11-462d-b84d-c59f1d6a3465.webp",
+      "price": 184400,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "30209322",
+          "name": "COLLAB Hindberja & Aprikósu 6x330ml",
+          "price": 184400,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d0c1d929-2a11-462d-b84d-c59f1d6a3465.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d0c1d929-2a11-462d-b84d-c59f1d6a3465_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d0c1d929-2a11-462d-b84d-c59f1d6a3465_thumb.webp"
+            }
+          ],
+          "offerId": 45235,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-15T15:44:54.225451"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-15T15:44:56.115896",
+    "product_id": 43584,
+    "product_name": "COLLAB Bláberja & Rabbarbara 6x330ml",
+    "stock": 7,
+    "details": {
+      "id": 43584,
+      "code": "30220611",
+      "name": "COLLAB Bláberja & Rabbarbara 6x330ml",
+      "slug": "collab-blaberja-rabbarbara-6x330ml-43584",
+      "category_id": 4317,
+      "category_name": "All Energy Drinks",
+      "category_path": "Soft drinks > Energy Drinks > All Energy Drinks",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ac3531ae-85c0-48bc-8f10-bd144b751c9c.webp",
+      "price": 184300,
+      "discount_price": null,
+      "stock": {
+        "H495": 7
+      },
+      "total_stock": 7,
+      "variants": [
+        {
+          "sku": "30220611",
+          "name": "COLLAB Bláberja & Rabbarbara 6x330ml",
+          "price": 184300,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ac3531ae-85c0-48bc-8f10-bd144b751c9c.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ac3531ae-85c0-48bc-8f10-bd144b751c9c_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ac3531ae-85c0-48bc-8f10-bd144b751c9c_thumb.webp"
+            }
+          ],
+          "offerId": 45232,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 7,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-15T15:44:54.225451"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-15T15:44:56.115896",
+    "product_id": 42480,
+    "product_name": "NOCCO Stellar 6x330ml",
+    "previous_stock": 9,
+    "current_stock": 3,
+    "change": -6,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-15T15:44:56.115896",
+    "product_id": 42444,
+    "product_name": "NOCCO Miami 6x330ml",
+    "previous_stock": 76,
+    "current_stock": 66,
+    "change": -10,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-15T15:44:56.115896",
+    "product_id": 43052,
+    "product_name": "Gajol Grænn Granatepla 1L",
+    "last_stock": 1
   }
 ]
