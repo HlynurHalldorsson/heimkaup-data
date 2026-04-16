@@ -107228,5 +107228,555 @@
     "product_id": 42663,
     "product_name": "Muga Reserva 750ml",
     "last_stock": 8
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-16T18:55:50.469273",
+    "product_id": 42709,
+    "product_name": "Heineken 4x500ml",
+    "previous_stock": 2,
+    "current_stock": 1,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-16T18:55:50.469273",
+    "product_id": 42680,
+    "product_name": "Tuborg Green 12x500ml",
+    "previous_stock": 42,
+    "current_stock": 40,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-16T18:55:50.469273",
+    "product_id": 43058,
+    "product_name": "Thule 12x330ml",
+    "previous_stock": 8,
+    "current_stock": 7,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-16T18:55:50.469273",
+    "product_id": 42574,
+    "product_name": "Stella Artois 6x330ml",
+    "previous_stock": 15,
+    "current_stock": 14,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-16T18:55:50.469273",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 928,
+    "current_stock": 919,
+    "change": -9,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-16T18:55:50.469273",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 394,
+    "current_stock": 388,
+    "change": -6,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-16T18:55:50.469273",
+    "product_id": 42803,
+    "product_name": "Einstök Arctic Pale Ale 12x330ml",
+    "previous_stock": 6,
+    "current_stock": 5,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-16T18:55:50.469273",
+    "product_id": 42650,
+    "product_name": "Muga Reserva Selection Especial 750ml",
+    "stock": 8,
+    "details": {
+      "id": 42650,
+      "code": "30230751",
+      "name": "Muga Reserva Selection Especial 750ml",
+      "slug": "muga-reserva-selection-especial-750ml-42650",
+      "category_id": 5438,
+      "category_name": "Tempranillo",
+      "category_path": "Wine > Red > Tempranillo",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/64917a43-b728-4d7b-8ed8-b30a083c04d6.webp",
+      "price": 599000,
+      "discount_price": null,
+      "stock": {
+        "H495": 8
+      },
+      "total_stock": 8,
+      "variants": [
+        {
+          "sku": "30230751",
+          "name": "Muga Reserva Selection Especial 750ml",
+          "price": 599000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/64917a43-b728-4d7b-8ed8-b30a083c04d6.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/64917a43-b728-4d7b-8ed8-b30a083c04d6_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/64917a43-b728-4d7b-8ed8-b30a083c04d6_thumb.webp"
+            }
+          ],
+          "offerId": 43988,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 8,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-16T18:55:24.542298"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-16T18:55:50.469273",
+    "product_id": 42577,
+    "product_name": "Baron De Ley Reserva 750ml",
+    "stock": 9,
+    "details": {
+      "id": 42577,
+      "code": "30230626",
+      "name": "Baron De Ley Reserva 750ml",
+      "slug": "baron-de-ley-reserva-750ml-42577",
+      "category_id": 5439,
+      "category_name": "Tempranillo",
+      "category_path": "Wine > Red > Tempranillo",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4317f622-e92d-4206-b7af-66a3962cfb8d.webp",
+      "price": 319000,
+      "discount_price": null,
+      "stock": {
+        "H495": 9
+      },
+      "total_stock": 9,
+      "variants": [
+        {
+          "sku": "30230626",
+          "name": "Baron De Ley Reserva 750ml",
+          "price": 319000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4317f622-e92d-4206-b7af-66a3962cfb8d.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4317f622-e92d-4206-b7af-66a3962cfb8d_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4317f622-e92d-4206-b7af-66a3962cfb8d_thumb.webp"
+            }
+          ],
+          "offerId": 43927,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 9,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-16T18:55:24.542298"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-16T18:55:50.469273",
+    "product_id": 49237,
+    "product_name": "Marques Del Silvo Crianza",
+    "stock": 12,
+    "details": {
+      "id": 49237,
+      "code": "50000096",
+      "name": "Marques Del Silvo Crianza",
+      "slug": "marques-del-silvo-crianza-49237",
+      "category_id": 5439,
+      "category_name": "Tempranillo",
+      "category_path": "Wine > Red > Tempranillo",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/01bdcfac-938a-4633-ba4a-f600f269d6db.webp",
+      "price": 246000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "50000096",
+          "name": "Marques Del Silvo Crianza",
+          "price": 246000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/01bdcfac-938a-4633-ba4a-f600f269d6db.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/01bdcfac-938a-4633-ba4a-f600f269d6db_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/01bdcfac-938a-4633-ba4a-f600f269d6db_thumb.webp"
+            }
+          ],
+          "offerId": 50577,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-16T18:55:24.542298"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-16T18:55:50.469273",
+    "product_id": 49235,
+    "product_name": "Marques Del Silvo Gran Reserva 750ml",
+    "stock": 12,
+    "details": {
+      "id": 49235,
+      "code": "50000094",
+      "name": "Marques Del Silvo Gran Reserva 750ml",
+      "slug": "marques-del-silvo-gran-reserva-750ml-49235",
+      "category_id": 5439,
+      "category_name": "Tempranillo",
+      "category_path": "Wine > Red > Tempranillo",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b2ec74c1-de5f-4a32-979b-6a3905d09ec6.webp",
+      "price": 339000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "50000094",
+          "name": "Marques Del Silvo Gran Reserva 750ml",
+          "price": 339000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b2ec74c1-de5f-4a32-979b-6a3905d09ec6.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b2ec74c1-de5f-4a32-979b-6a3905d09ec6_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b2ec74c1-de5f-4a32-979b-6a3905d09ec6_thumb.webp"
+            }
+          ],
+          "offerId": 50575,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-16T18:55:24.542298"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-16T18:55:50.469273",
+    "product_id": 49236,
+    "product_name": "Marques Del Silvo Reserva 750ml",
+    "stock": 12,
+    "details": {
+      "id": 49236,
+      "code": "50000095",
+      "name": "Marques Del Silvo Reserva 750ml",
+      "slug": "marques-del-silvo-reserva-750ml-49236",
+      "category_id": 5439,
+      "category_name": "Tempranillo",
+      "category_path": "Wine > Red > Tempranillo",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9b853a7b-beba-493a-b720-5e4a6e666510.webp",
+      "price": 288000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "50000095",
+          "name": "Marques Del Silvo Reserva 750ml",
+          "price": 288000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9b853a7b-beba-493a-b720-5e4a6e666510.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9b853a7b-beba-493a-b720-5e4a6e666510_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9b853a7b-beba-493a-b720-5e4a6e666510_thumb.webp"
+            }
+          ],
+          "offerId": 50576,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-16T18:55:24.542298"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-16T18:55:50.469273",
+    "product_id": 42774,
+    "product_name": "Roda Reserva 750ml",
+    "stock": 19,
+    "details": {
+      "id": 42774,
+      "code": "30230910",
+      "name": "Roda Reserva 750ml",
+      "slug": "roda-reserva-750ml-42774",
+      "category_id": 5439,
+      "category_name": "Tempranillo",
+      "category_path": "Wine > Red > Tempranillo",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7c75a01e-2ac3-458f-bc5c-c771d2b5cf7c.webp",
+      "price": 679000,
+      "discount_price": null,
+      "stock": {
+        "H495": 19
+      },
+      "total_stock": 19,
+      "variants": [
+        {
+          "sku": "30230910",
+          "name": "Roda Reserva 750ml",
+          "price": 679000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7c75a01e-2ac3-458f-bc5c-c771d2b5cf7c.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7c75a01e-2ac3-458f-bc5c-c771d2b5cf7c_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7c75a01e-2ac3-458f-bc5c-c771d2b5cf7c_thumb.webp"
+            }
+          ],
+          "offerId": 44121,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 19,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-16T18:55:24.542298"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-16T18:55:50.469273",
+    "product_id": 42712,
+    "product_name": "Faustino Crianza 750ml",
+    "stock": 5,
+    "details": {
+      "id": 42712,
+      "code": "30230841",
+      "name": "Faustino Crianza 750ml",
+      "slug": "faustino-crianza-750ml-42712",
+      "category_id": 2726,
+      "category_name": "Tempranillo",
+      "category_path": "Wine > Red > Tempranillo",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/dc1f1feb-085b-4208-b763-e34c71e34d8f.webp",
+      "price": 309000,
+      "discount_price": null,
+      "stock": {
+        "H495": 5
+      },
+      "total_stock": 5,
+      "variants": [
+        {
+          "sku": "30230841",
+          "name": "Faustino Crianza 750ml",
+          "price": 309000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/dc1f1feb-085b-4208-b763-e34c71e34d8f.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/dc1f1feb-085b-4208-b763-e34c71e34d8f_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/dc1f1feb-085b-4208-b763-e34c71e34d8f_thumb.webp"
+            }
+          ],
+          "offerId": 44041,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 5,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-16T18:55:24.542298"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-16T18:55:50.469273",
+    "product_id": 42641,
+    "product_name": "Cune Gran Reserva 750ml",
+    "stock": 6,
+    "details": {
+      "id": 42641,
+      "code": "30230753",
+      "name": "Cune Gran Reserva 750ml",
+      "slug": "cune-gran-reserva-750ml-42641",
+      "category_id": 5439,
+      "category_name": "Tempranillo",
+      "category_path": "Wine > Red > Tempranillo",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f1560575-a4d8-4db8-b23e-344bf696108a.webp",
+      "price": 459000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "30230753",
+          "name": "Cune Gran Reserva 750ml",
+          "price": 459000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f1560575-a4d8-4db8-b23e-344bf696108a.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f1560575-a4d8-4db8-b23e-344bf696108a_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f1560575-a4d8-4db8-b23e-344bf696108a_thumb.webp"
+            }
+          ],
+          "offerId": 43998,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-16T18:55:24.542298"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-16T18:55:50.469273",
+    "product_id": 42664,
+    "product_name": "Cerro Anon Gran Reserva 750ml",
+    "stock": 11,
+    "details": {
+      "id": 42664,
+      "code": "30230750",
+      "name": "Cerro Anon Gran Reserva 750ml",
+      "slug": "cerro-anon-gran-reserva-750ml-42664",
+      "category_id": 5439,
+      "category_name": "Tempranillo",
+      "category_path": "Wine > Red > Tempranillo",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a7a56f1f-9290-4ef6-beda-e60f394161da.webp",
+      "price": 439000,
+      "discount_price": null,
+      "stock": {
+        "H495": 11
+      },
+      "total_stock": 11,
+      "variants": [
+        {
+          "sku": "30230750",
+          "name": "Cerro Anon Gran Reserva 750ml",
+          "price": 439000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a7a56f1f-9290-4ef6-beda-e60f394161da.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a7a56f1f-9290-4ef6-beda-e60f394161da_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a7a56f1f-9290-4ef6-beda-e60f394161da_thumb.webp"
+            }
+          ],
+          "offerId": 43997,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 11,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-16T18:55:24.542298"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-16T18:55:50.469273",
+    "product_id": 42663,
+    "product_name": "Muga Reserva 750ml",
+    "stock": 8,
+    "details": {
+      "id": 42663,
+      "code": "30230752",
+      "name": "Muga Reserva 750ml",
+      "slug": "muga-reserva-750ml-42663",
+      "category_id": 5438,
+      "category_name": "Tempranillo",
+      "category_path": "Wine > Red > Tempranillo",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6f14b1d7-a35f-4744-8fec-55faf7a6cf1b.webp",
+      "price": 469000,
+      "discount_price": null,
+      "stock": {
+        "H495": 8
+      },
+      "total_stock": 8,
+      "variants": [
+        {
+          "sku": "30230752",
+          "name": "Muga Reserva 750ml",
+          "price": 469000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6f14b1d7-a35f-4744-8fec-55faf7a6cf1b.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6f14b1d7-a35f-4744-8fec-55faf7a6cf1b_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6f14b1d7-a35f-4744-8fec-55faf7a6cf1b_thumb.webp"
+            }
+          ],
+          "offerId": 43996,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 8,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-16T18:55:24.542298"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-16T18:55:50.469273",
+    "product_id": 42568,
+    "product_name": "JP. Chenet Cabernet-Syrah 187ml",
+    "previous_stock": 17,
+    "current_stock": 15,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-16T18:55:50.469273",
+    "product_id": 42561,
+    "product_name": "Stemmari Pinot Grigio 3L",
+    "previous_stock": 14,
+    "current_stock": 13,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
