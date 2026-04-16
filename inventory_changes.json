@@ -108074,5 +108074,65 @@
       ],
       "last_updated": "2026-04-16T20:38:14.417020"
     }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-16T21:33:48.929310",
+    "product_id": 42608,
+    "product_name": "Boli Sterkur Pilsner 6x500ml",
+    "previous_stock": 12,
+    "current_stock": 11,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-16T21:33:48.929310",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 916,
+    "current_stock": 914,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-16T21:33:48.929310",
+    "product_id": 42606,
+    "product_name": "Koskenkorva Vodka 500ml",
+    "previous_stock": 43,
+    "current_stock": 42,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-16T21:33:48.929310",
+    "product_id": 42674,
+    "product_name": "Helix Vodka 700ml",
+    "previous_stock": 7,
+    "current_stock": 6,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-16T21:33:48.929310",
+    "product_id": 42793,
+    "product_name": "Breezer Lime 4x275ml",
+    "previous_stock": 4,
+    "current_stock": 3,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-16T21:33:48.929310",
+    "product_id": 42788,
+    "product_name": "Breezer Pineapple 4x275ml",
+    "previous_stock": 3,
+    "current_stock": 2,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
