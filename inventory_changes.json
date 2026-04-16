@@ -106841,5 +106841,65 @@
     "product_id": 49012,
     "product_name": "Erdinger Oktoberfest 4x500ml",
     "last_stock": 4
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-16T13:00:29.118498",
+    "product_id": 42616,
+    "product_name": "Löwenbräu Original 6x500ml",
+    "previous_stock": 7,
+    "current_stock": 5,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-16T13:00:29.118498",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 950,
+    "current_stock": 946,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-16T13:00:29.118498",
+    "product_id": 51685,
+    "product_name": "Pasqua Chardonnay Organic 3L",
+    "previous_stock": 14,
+    "current_stock": 13,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-16T13:00:29.118498",
+    "product_id": 42997,
+    "product_name": "Aperol Aperitivo 1L",
+    "previous_stock": 6,
+    "current_stock": 5,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-16T13:00:29.118498",
+    "product_id": 42536,
+    "product_name": "VES 6x330ml",
+    "previous_stock": 24,
+    "current_stock": 21,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-16T13:00:29.118498",
+    "product_id": 43072,
+    "product_name": "LOOP Jalapeno Lime 4",
+    "previous_stock": 30,
+    "current_stock": 25,
+    "change": -5,
+    "direction": "decrease"
   }
 ]
