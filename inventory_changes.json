@@ -106901,5 +106901,122 @@
     "current_stock": 25,
     "change": -5,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-16T14:57:12.752725",
+    "product_id": 42733,
+    "product_name": "Víking Gylltur 12x500ml",
+    "previous_stock": 23,
+    "current_stock": 21,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-16T14:57:12.752725",
+    "product_id": 42705,
+    "product_name": "Víking Sterkr 6x500ml",
+    "previous_stock": 35,
+    "current_stock": 34,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-16T14:57:12.752725",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 946,
+    "current_stock": 943,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-16T14:57:12.752725",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 415,
+    "current_stock": 404,
+    "change": -11,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-16T14:57:12.752725",
+    "product_id": 47314,
+    "product_name": "Víking Páskabjór 6x330ml + 2 Víking 400ml Glass",
+    "previous_stock": 48,
+    "current_stock": 47,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-16T14:57:12.752725",
+    "product_id": 42699,
+    "product_name": "Frontera Chardonnay 3L",
+    "previous_stock": 14,
+    "current_stock": 13,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-16T14:57:12.752725",
+    "product_id": 42585,
+    "product_name": "Two Oceans Fresh & Fruity 3L",
+    "previous_stock": 4,
+    "current_stock": 3,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-16T14:57:12.752725",
+    "product_id": 42618,
+    "product_name": "PRN 6x330ml",
+    "previous_stock": 12,
+    "current_stock": 10,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-16T14:57:12.752725",
+    "product_id": 42604,
+    "product_name": "Bagl 6x330ml",
+    "previous_stock": 16,
+    "current_stock": 13,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-16T14:57:12.752725",
+    "product_id": 43432,
+    "product_name": "Marlboro Red 100s Box",
+    "previous_stock": 12,
+    "current_stock": 9,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-16T14:57:12.752725",
+    "product_id": 43359,
+    "product_name": "Doritos Nacho Cheese 170g",
+    "previous_stock": 86,
+    "current_stock": 85,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-16T14:57:12.752725",
+    "product_id": 43055,
+    "product_name": "Tuborg Classic 12x330ml",
+    "last_stock": 3
   }
 ]
