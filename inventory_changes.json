@@ -107108,5 +107108,125 @@
     "current_stock": 9,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-16T17:49:22.126149",
+    "product_id": 42701,
+    "product_name": "Tuborg Classic 12x500ml",
+    "previous_stock": 27,
+    "current_stock": 25,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-16T17:49:22.126149",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 935,
+    "current_stock": 928,
+    "change": -7,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-16T17:49:22.126149",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 402,
+    "current_stock": 394,
+    "change": -8,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-16T17:49:22.126149",
+    "product_id": 42584,
+    "product_name": "Gérard Bertrand An 940 Pinot Noir 750ml",
+    "previous_stock": 9,
+    "current_stock": 7,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-16T17:49:22.126149",
+    "product_id": 42697,
+    "product_name": "Jagermeister Miniature 9x20ml",
+    "previous_stock": 4,
+    "current_stock": 3,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-16T17:49:22.126149",
+    "product_id": 42650,
+    "product_name": "Muga Reserva Selection Especial 750ml",
+    "last_stock": 8
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-16T17:49:22.126149",
+    "product_id": 42577,
+    "product_name": "Baron De Ley Reserva 750ml",
+    "last_stock": 9
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-16T17:49:22.126149",
+    "product_id": 49237,
+    "product_name": "Marques Del Silvo Crianza",
+    "last_stock": 12
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-16T17:49:22.126149",
+    "product_id": 49235,
+    "product_name": "Marques Del Silvo Gran Reserva 750ml",
+    "last_stock": 12
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-16T17:49:22.126149",
+    "product_id": 49236,
+    "product_name": "Marques Del Silvo Reserva 750ml",
+    "last_stock": 12
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-16T17:49:22.126149",
+    "product_id": 42774,
+    "product_name": "Roda Reserva 750ml",
+    "last_stock": 19
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-16T17:49:22.126149",
+    "product_id": 42712,
+    "product_name": "Faustino Crianza 750ml",
+    "last_stock": 5
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-16T17:49:22.126149",
+    "product_id": 42641,
+    "product_name": "Cune Gran Reserva 750ml",
+    "last_stock": 6
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-16T17:49:22.126149",
+    "product_id": 42664,
+    "product_name": "Cerro Anon Gran Reserva 750ml",
+    "last_stock": 11
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-16T17:49:22.126149",
+    "product_id": 42663,
+    "product_name": "Muga Reserva 750ml",
+    "last_stock": 8
   }
 ]
