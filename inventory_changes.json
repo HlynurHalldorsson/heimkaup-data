@@ -107922,5 +107922,157 @@
     "product_id": 42726,
     "product_name": "Remy Martin VSOP 700ml",
     "last_stock": 1
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-16T20:38:29.203461",
+    "product_id": 42776,
+    "product_name": "Thule 12x500ml",
+    "previous_stock": 10,
+    "current_stock": 9,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-16T20:38:29.203461",
+    "product_id": 42680,
+    "product_name": "Tuborg Green 12x500ml",
+    "previous_stock": 40,
+    "current_stock": 39,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-16T20:38:29.203461",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 918,
+    "current_stock": 916,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-16T20:38:29.203461",
+    "product_id": 42710,
+    "product_name": "Víking Lite 12x500ml",
+    "previous_stock": 30,
+    "current_stock": 26,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-16T20:38:29.203461",
+    "product_id": 42683,
+    "product_name": "Frontera Cabernet Sauvignon 3L",
+    "previous_stock": 6,
+    "current_stock": 5,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-16T20:38:29.203461",
+    "product_id": 42526,
+    "product_name": "Van Gogh Riesling 3L",
+    "previous_stock": 9,
+    "current_stock": 8,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-16T20:38:29.203461",
+    "product_id": 42592,
+    "product_name": "Camus V.S.O.P. 500ml",
+    "stock": 2,
+    "details": {
+      "id": 42592,
+      "code": "30230632",
+      "name": "Camus V.S.O.P. 500ml",
+      "slug": "camus-v-s-o-p-500ml-42592",
+      "category_id": 5627,
+      "category_name": "Cognac",
+      "category_path": "Spirits > Brandy > Cognac",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/84977cf7-93ca-451e-9df9-7dbb2d3aa69e.webp",
+      "price": 879000,
+      "discount_price": null,
+      "stock": {
+        "H495": 2
+      },
+      "total_stock": 2,
+      "variants": [
+        {
+          "sku": "30230632",
+          "name": "Camus V.S.O.P. 500ml",
+          "price": 879000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/84977cf7-93ca-451e-9df9-7dbb2d3aa69e.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/84977cf7-93ca-451e-9df9-7dbb2d3aa69e_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/84977cf7-93ca-451e-9df9-7dbb2d3aa69e_thumb.webp"
+            }
+          ],
+          "offerId": 43912,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 2,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-16T20:38:14.417020"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-16T20:38:29.203461",
+    "product_id": 42726,
+    "product_name": "Remy Martin VSOP 700ml",
+    "stock": 1,
+    "details": {
+      "id": 42726,
+      "code": "30230861",
+      "name": "Remy Martin VSOP 700ml",
+      "slug": "remy-martin-vsop-700ml-42726",
+      "category_id": 5627,
+      "category_name": "Cognac",
+      "category_path": "Spirits > Brandy > Cognac",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/fb793718-cbba-4d90-b609-b6fec797ca8a.webp",
+      "price": 1179000,
+      "discount_price": null,
+      "stock": {
+        "H495": 1
+      },
+      "total_stock": 1,
+      "variants": [
+        {
+          "sku": "30230861",
+          "name": "Remy Martin VSOP 700ml",
+          "price": 1179000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/fb793718-cbba-4d90-b609-b6fec797ca8a.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/fb793718-cbba-4d90-b609-b6fec797ca8a_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/fb793718-cbba-4d90-b609-b6fec797ca8a_thumb.webp"
+            }
+          ],
+          "offerId": 44084,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 1,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-16T20:38:14.417020"
+    }
   }
 ]
