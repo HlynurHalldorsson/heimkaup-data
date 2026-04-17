@@ -109025,5 +109025,105 @@
     "product_id": 42709,
     "product_name": "Heineken 4x500ml",
     "last_stock": 1
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-17T19:50:40.650245",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 37,
+    "current_stock": 34,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-17T19:50:40.650245",
+    "product_id": 43050,
+    "product_name": "Víking lager 12x500ml",
+    "previous_stock": 3,
+    "current_stock": 2,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-17T19:50:40.650245",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 837,
+    "current_stock": 835,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-17T19:50:40.650245",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 334,
+    "current_stock": 326,
+    "change": -8,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-17T19:50:40.650245",
+    "product_id": 51677,
+    "product_name": "Pasqua Desire Lush & Zin Primitivo 750ml",
+    "previous_stock": 4,
+    "current_stock": 3,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-17T19:50:40.650245",
+    "product_id": 51682,
+    "product_name": "Pasqua Chardonnay Black Label 750ml",
+    "previous_stock": 8,
+    "current_stock": 7,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-17T19:50:40.650245",
+    "product_id": 51681,
+    "product_name": "Pasqua Pinot Grigio Black Label 750ml",
+    "previous_stock": 7,
+    "current_stock": 6,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-17T19:50:40.650245",
+    "product_id": 42604,
+    "product_name": "Bagl 6x330ml",
+    "previous_stock": 12,
+    "current_stock": 11,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-17T19:50:40.650245",
+    "product_id": 43071,
+    "product_name": "LOOP Habanero Mint 4",
+    "previous_stock": 30,
+    "current_stock": 25,
+    "change": -5,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-17T19:50:40.650245",
+    "product_id": 43086,
+    "product_name": "VELO Crispy Peppermint 3",
+    "previous_stock": 40,
+    "current_stock": 38,
+    "change": -2,
+    "direction": "decrease"
   }
 ]
