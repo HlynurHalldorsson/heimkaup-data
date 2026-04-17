@@ -109125,5 +109125,615 @@
     "current_stock": 38,
     "change": -2,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-17T20:33:54.159522",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 34,
+    "current_stock": 274,
+    "change": 240,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-17T20:33:54.159522",
+    "product_id": 43050,
+    "product_name": "Víking lager 12x500ml",
+    "previous_stock": 2,
+    "current_stock": 15,
+    "change": 13,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-17T20:33:54.159522",
+    "product_id": 42533,
+    "product_name": "Víking Rökkr 12x500ml",
+    "stock": 5,
+    "details": {
+      "id": 42533,
+      "code": "30230617",
+      "name": "Víking Rökkr 12x500ml",
+      "slug": "viking-rokkr-12x500ml-42533",
+      "category_id": 5657,
+      "category_name": "All Lagers",
+      "category_path": "Beer > Lager > All Lagers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7cc77daf-1d3d-4b9a-8fc6-72b8baff32ed.webp",
+      "price": 549000,
+      "discount_price": null,
+      "stock": {
+        "H495": 5
+      },
+      "total_stock": 5,
+      "variants": [
+        {
+          "sku": "30230617",
+          "name": "Víking Rökkr 12x500ml",
+          "price": 549000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7cc77daf-1d3d-4b9a-8fc6-72b8baff32ed.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7cc77daf-1d3d-4b9a-8fc6-72b8baff32ed_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7cc77daf-1d3d-4b9a-8fc6-72b8baff32ed_thumb.webp"
+            }
+          ],
+          "offerId": 43861,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 5,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-17T20:33:23.347760"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-17T20:33:54.159522",
+    "product_id": 43056,
+    "product_name": "Boli 12x330ml",
+    "stock": 165,
+    "details": {
+      "id": 43056,
+      "code": "30233866",
+      "name": "Boli 12x330ml",
+      "slug": "boli-12x330ml-43056",
+      "category_id": 5657,
+      "category_name": "All Lagers",
+      "category_path": "Beer > Lager > All Lagers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/da8600db-5cc0-4c1f-8cef-f0e71be74e5d.webp",
+      "price": 519000,
+      "discount_price": null,
+      "stock": {
+        "H495": 165
+      },
+      "total_stock": 165,
+      "variants": [
+        {
+          "sku": "30233866",
+          "name": "Boli 12x330ml",
+          "price": 519000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/da8600db-5cc0-4c1f-8cef-f0e71be74e5d.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/da8600db-5cc0-4c1f-8cef-f0e71be74e5d_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/da8600db-5cc0-4c1f-8cef-f0e71be74e5d_thumb.webp"
+            }
+          ],
+          "offerId": 44564,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 165,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-17T20:33:23.347760"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-17T20:33:54.159522",
+    "product_id": 42710,
+    "product_name": "Víking Lite 12x500ml",
+    "previous_stock": 26,
+    "current_stock": 40,
+    "change": 14,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-17T20:33:54.159522",
+    "product_id": 42707,
+    "product_name": "Víking Lite Classic 12x330ml",
+    "previous_stock": 1,
+    "current_stock": 3,
+    "change": 2,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-17T20:33:54.159522",
+    "product_id": 42736,
+    "product_name": "Las Moras Cab Sauvignon 750ml",
+    "previous_stock": 7,
+    "current_stock": 19,
+    "change": 12,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-17T20:33:54.159522",
+    "product_id": 42704,
+    "product_name": "Faustino VII Cabernet Sauvignon 750ml",
+    "stock": 6,
+    "details": {
+      "id": 42704,
+      "code": "30230840",
+      "name": "Faustino VII Cabernet Sauvignon 750ml",
+      "slug": "faustino-vii-cabernet-sauvignon-750ml-42704",
+      "category_id": 4250,
+      "category_name": "Cabernet Sauvignon",
+      "category_path": "Wine > Red > Cabernet Sauvignon",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/984319ee-750e-4327-90bd-9b90b80f83d1.webp",
+      "price": 299000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "30230840",
+          "name": "Faustino VII Cabernet Sauvignon 750ml",
+          "price": 299000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/984319ee-750e-4327-90bd-9b90b80f83d1.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/984319ee-750e-4327-90bd-9b90b80f83d1_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/984319ee-750e-4327-90bd-9b90b80f83d1_thumb.webp"
+            }
+          ],
+          "offerId": 44016,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-17T20:33:26.374903"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-17T20:33:54.159522",
+    "product_id": 42724,
+    "product_name": "Finca Las Moras Malbec 750ml",
+    "stock": 12,
+    "details": {
+      "id": 42724,
+      "code": "30230846",
+      "name": "Finca Las Moras Malbec 750ml",
+      "slug": "finca-las-moras-malbec-750ml-42724",
+      "category_id": 4327,
+      "category_name": "Malbec",
+      "category_path": "Wine > Red > Malbec",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ece5849e-b579-48f5-a56e-3470a1b90053.webp",
+      "price": 269000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "30230846",
+          "name": "Finca Las Moras Malbec 750ml",
+          "price": 269000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ece5849e-b579-48f5-a56e-3470a1b90053.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ece5849e-b579-48f5-a56e-3470a1b90053_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ece5849e-b579-48f5-a56e-3470a1b90053_thumb.webp"
+            }
+          ],
+          "offerId": 44051,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-17T20:33:28.337856"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-17T20:33:54.159522",
+    "product_id": 42751,
+    "product_name": "Faustino V Reserva 750ml",
+    "stock": 6,
+    "details": {
+      "id": 42751,
+      "code": "30230903",
+      "name": "Faustino V Reserva 750ml",
+      "slug": "faustino-reserva-750ml-42751",
+      "category_id": 2726,
+      "category_name": "Tempranillo",
+      "category_path": "Wine > Red > Tempranillo",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/878b17dd-0c06-4623-a34a-ab7ce9e2656b.webp",
+      "price": 369000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "30230903",
+          "name": "Faustino V Reserva 750ml",
+          "price": 369000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/878b17dd-0c06-4623-a34a-ab7ce9e2656b.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/878b17dd-0c06-4623-a34a-ab7ce9e2656b_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/878b17dd-0c06-4623-a34a-ab7ce9e2656b_thumb.webp"
+            }
+          ],
+          "offerId": 44065,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-17T20:33:29.544695"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-17T20:33:54.159522",
+    "product_id": 42815,
+    "product_name": "Faustino VII Rose 750ml",
+    "previous_stock": 1,
+    "current_stock": 4,
+    "change": 3,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-17T20:33:54.159522",
+    "product_id": 42731,
+    "product_name": "Finca Las Moras Chardonnay 750ml",
+    "stock": 12,
+    "details": {
+      "id": 42731,
+      "code": "30230896",
+      "name": "Finca Las Moras Chardonnay 750ml",
+      "slug": "finca-las-moras-chardonnay-750ml-42731",
+      "category_id": 4331,
+      "category_name": "Chardonnay",
+      "category_path": "Wine > White > Chardonnay",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/217e1e8e-cd47-4d5c-807c-79185132ee16.webp",
+      "price": 269000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "30230896",
+          "name": "Finca Las Moras Chardonnay 750ml",
+          "price": 269000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/217e1e8e-cd47-4d5c-807c-79185132ee16.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/217e1e8e-cd47-4d5c-807c-79185132ee16_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/217e1e8e-cd47-4d5c-807c-79185132ee16_thumb.webp"
+            }
+          ],
+          "offerId": 44058,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-17T20:33:31.867396"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-17T20:33:54.159522",
+    "product_id": 42531,
+    "product_name": "Viña Maipo Sauvignon Blanc Chardonnay 750ml",
+    "previous_stock": 6,
+    "current_stock": 3,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-17T20:33:54.159522",
+    "product_id": 42694,
+    "product_name": "Finca Las Moras Sauvignon Blanc 750ml",
+    "stock": 12,
+    "details": {
+      "id": 42694,
+      "code": "30230835",
+      "name": "Finca Las Moras Sauvignon Blanc 750ml",
+      "slug": "finca-las-moras-sauvignon-blanc-750ml-42694",
+      "category_id": 4252,
+      "category_name": "Sauvignon Blanc",
+      "category_path": "Wine > White > Sauvignon Blanc",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bbde76ed-ac53-4edc-bbe7-24ed66b94b7a.webp",
+      "price": 259000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "30230835",
+          "name": "Finca Las Moras Sauvignon Blanc 750ml",
+          "price": 259000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bbde76ed-ac53-4edc-bbe7-24ed66b94b7a.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bbde76ed-ac53-4edc-bbe7-24ed66b94b7a_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bbde76ed-ac53-4edc-bbe7-24ed66b94b7a_thumb.webp"
+            }
+          ],
+          "offerId": 44036,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-17T20:33:32.478159"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-17T20:33:54.159522",
+    "product_id": 43201,
+    "product_name": "Tosti Prosecco 750ml",
+    "previous_stock": 4,
+    "current_stock": 16,
+    "change": 12,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-17T20:33:54.159522",
+    "product_id": 42591,
+    "product_name": "Scottish Leader Original Blended Whisky 500ml",
+    "previous_stock": 14,
+    "current_stock": 13,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-17T20:33:54.159522",
+    "product_id": 42749,
+    "product_name": "Tullamore Dew 700ml",
+    "stock": 5,
+    "details": {
+      "id": 42749,
+      "code": "30230890",
+      "name": "Tullamore Dew 700ml",
+      "slug": "tullamore-dew-700ml-42749",
+      "category_id": 4269,
+      "category_name": "All Whiskey",
+      "category_path": "Spirits > Whiskey > All Whiskey",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cbcccdc6-5cf5-47bc-b24e-d73ee2cd7bb4.webp",
+      "price": 949000,
+      "discount_price": null,
+      "stock": {
+        "H495": 5
+      },
+      "total_stock": 5,
+      "variants": [
+        {
+          "sku": "30230890",
+          "name": "Tullamore Dew 700ml",
+          "price": 949000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cbcccdc6-5cf5-47bc-b24e-d73ee2cd7bb4.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cbcccdc6-5cf5-47bc-b24e-d73ee2cd7bb4_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cbcccdc6-5cf5-47bc-b24e-d73ee2cd7bb4_thumb.webp"
+            }
+          ],
+          "offerId": 44055,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 5,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-17T20:33:36.201002"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-17T20:33:54.159522",
+    "product_id": 43718,
+    "product_name": "Hendricks´s Lunar Gin 700ml",
+    "stock": 3,
+    "details": {
+      "id": 43718,
+      "code": "30234626",
+      "name": "Hendricks´s Lunar Gin 700ml",
+      "slug": "hendricks-s-lunar-gin-700ml-43718",
+      "category_id": 4272,
+      "category_name": "All Gin",
+      "category_path": "Spirits > Gin > All Gin",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2d06225c-a81f-486b-8dba-e59e7cc4e037.webp",
+      "price": 1539000,
+      "discount_price": null,
+      "stock": {
+        "H495": 3
+      },
+      "total_stock": 3,
+      "variants": [
+        {
+          "sku": "30234626",
+          "name": "Hendricks´s Lunar Gin 700ml",
+          "price": 1539000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2d06225c-a81f-486b-8dba-e59e7cc4e037.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2d06225c-a81f-486b-8dba-e59e7cc4e037_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2d06225c-a81f-486b-8dba-e59e7cc4e037_thumb.webp"
+            }
+          ],
+          "offerId": 45338,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 3,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-17T20:33:36.729121"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-17T20:33:54.159522",
+    "product_id": 43011,
+    "product_name": "Hendricks Gin 700ml",
+    "previous_stock": 1,
+    "current_stock": 5,
+    "change": 4,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-17T20:33:54.159522",
+    "product_id": 43052,
+    "product_name": "Gajol Grænn Granatepla 1L",
+    "stock": 5,
+    "details": {
+      "id": 43052,
+      "code": "30233857",
+      "name": "Gajol Grænn Granatepla 1L",
+      "slug": "gajol-gr-nn-granatepla-1l-43052",
+      "category_id": 4275,
+      "category_name": "All Liqueurs",
+      "category_path": "Spirits > Liqueurs > All Liqueurs",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8f41be3d-867d-403b-a090-33156cea011f.webp",
+      "price": 709000,
+      "discount_price": null,
+      "stock": {
+        "H495": 5
+      },
+      "total_stock": 5,
+      "variants": [
+        {
+          "sku": "30233857",
+          "name": "Gajol Grænn Granatepla 1L",
+          "price": 709000,
+          "value": "1ltr",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8f41be3d-867d-403b-a090-33156cea011f.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8f41be3d-867d-403b-a090-33156cea011f_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8f41be3d-867d-403b-a090-33156cea011f_thumb.webp"
+            }
+          ],
+          "offerId": 44566,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 5,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-17T20:33:37.117618"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-17T20:33:54.159522",
+    "product_id": 42618,
+    "product_name": "PRN 6x330ml",
+    "previous_stock": 7,
+    "current_stock": 6,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-17T20:33:54.159522",
+    "product_id": 42781,
+    "product_name": "Breezer Watermelon 4x275ml",
+    "previous_stock": 18,
+    "current_stock": 17,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-17T20:33:54.159522",
+    "product_id": 42818,
+    "product_name": "Breezer Strawberry 4x275ml",
+    "previous_stock": 35,
+    "current_stock": 34,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-17T20:33:54.159522",
+    "product_id": 42808,
+    "product_name": "Breezer Mango 4x275ml",
+    "previous_stock": 46,
+    "current_stock": 45,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-17T20:33:54.159522",
+    "product_id": 42793,
+    "product_name": "Breezer Lime 4x275ml",
+    "previous_stock": 3,
+    "current_stock": 2,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
