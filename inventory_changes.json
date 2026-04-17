@@ -108918,5 +108918,112 @@
     "product_id": 43205,
     "product_name": "Mamma Piccini Rosso 3L",
     "last_stock": 1
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-17T18:41:02.918333",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 847,
+    "current_stock": 837,
+    "change": -10,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-17T18:41:02.918333",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 336,
+    "current_stock": 334,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-17T18:41:02.918333",
+    "product_id": 42688,
+    "product_name": "Casillero Del Diablo Cabernet Sauvignon 750ml",
+    "previous_stock": 13,
+    "current_stock": 10,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-17T18:41:02.918333",
+    "product_id": 42578,
+    "product_name": "Barefoot Riesling 750ml",
+    "previous_stock": 9,
+    "current_stock": 7,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-17T18:41:02.918333",
+    "product_id": 42606,
+    "product_name": "Koskenkorva Vodka 500ml",
+    "previous_stock": 42,
+    "current_stock": 39,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-17T18:41:02.918333",
+    "product_id": 42600,
+    "product_name": "Smirnoff Red 700ml",
+    "previous_stock": 14,
+    "current_stock": 13,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-17T18:41:02.918333",
+    "product_id": 43071,
+    "product_name": "LOOP Habanero Mint 4",
+    "previous_stock": 35,
+    "current_stock": 30,
+    "change": -5,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-17T18:41:02.918333",
+    "product_id": 43681,
+    "product_name": "Reymont 800 Blue Sour Raspberry",
+    "previous_stock": 17,
+    "current_stock": 15,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-17T18:41:02.918333",
+    "product_id": 42554,
+    "product_name": "Reymont 800 Kiwi Passion Fruit Guava",
+    "previous_stock": 9,
+    "current_stock": 7,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-17T18:41:02.918333",
+    "product_id": 42436,
+    "product_name": "Coca-Cola 10x330ml",
+    "previous_stock": 9,
+    "current_stock": 8,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-17T18:41:02.918333",
+    "product_id": 42709,
+    "product_name": "Heineken 4x500ml",
+    "last_stock": 1
   }
 ]
