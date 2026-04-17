@@ -108595,5 +108595,111 @@
     "current_stock": 65,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-17T16:41:22.845803",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 39,
+    "current_stock": 37,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-17T16:41:22.845803",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 869,
+    "current_stock": 853,
+    "change": -16,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-17T16:41:22.845803",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 358,
+    "current_stock": 345,
+    "change": -13,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-17T16:41:22.845803",
+    "product_id": 42815,
+    "product_name": "Faustino VII Rose 750ml",
+    "stock": 1,
+    "details": {
+      "id": 42815,
+      "code": "30230937",
+      "name": "Faustino VII Rose 750ml",
+      "slug": "faustino-vii-rose-750ml-42815",
+      "category_id": 4254,
+      "category_name": "All Rosé Wines",
+      "category_path": "Wine > Rosé > All Rosé Wines",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c61a9fad-ce29-4a2c-9210-1afb31064d68.webp",
+      "price": 279000,
+      "discount_price": null,
+      "stock": {
+        "H495": 1
+      },
+      "total_stock": 1,
+      "variants": [
+        {
+          "sku": "30230937",
+          "name": "Faustino VII Rose 750ml",
+          "price": 279000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c61a9fad-ce29-4a2c-9210-1afb31064d68.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c61a9fad-ce29-4a2c-9210-1afb31064d68_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c61a9fad-ce29-4a2c-9210-1afb31064d68_thumb.webp"
+            }
+          ],
+          "offerId": 44138,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 1,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-17T16:40:57.614377"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-17T16:41:22.845803",
+    "product_id": 42770,
+    "product_name": "Tosti Prosecco Rosé vegan 750ml",
+    "previous_stock": 3,
+    "current_stock": 4,
+    "change": 1,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-17T16:41:22.845803",
+    "product_id": 49230,
+    "product_name": "Jack Daniels 700ml",
+    "previous_stock": 8,
+    "current_stock": 9,
+    "change": 1,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-17T16:41:22.845803",
+    "product_id": 42697,
+    "product_name": "Jagermeister Miniature 9x20ml",
+    "previous_stock": 3,
+    "current_stock": 2,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
