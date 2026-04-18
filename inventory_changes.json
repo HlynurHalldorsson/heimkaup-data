@@ -112644,5 +112644,92 @@
       ],
       "last_updated": "2026-04-18T21:00:15.810379"
     }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-18T21:36:44.798717",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 270,
+    "current_stock": 269,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-18T21:36:44.798717",
+    "product_id": 42622,
+    "product_name": "Tuborg Gold 12x500ml",
+    "previous_stock": 5,
+    "current_stock": 4,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-18T21:36:44.798717",
+    "product_id": 42564,
+    "product_name": "Carlsberg Elephant 6x330ml",
+    "previous_stock": 20,
+    "current_stock": 19,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-18T21:36:44.798717",
+    "product_id": 42755,
+    "product_name": "Corona Extra 6x355ml (Gler)",
+    "previous_stock": 29,
+    "current_stock": 28,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-18T21:36:44.798717",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 306,
+    "current_stock": 304,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-18T21:36:44.798717",
+    "product_id": 42606,
+    "product_name": "Koskenkorva Vodka 500ml",
+    "previous_stock": 39,
+    "current_stock": 38,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-18T21:36:44.798717",
+    "product_id": 42809,
+    "product_name": "Bacardi Carta Blanca 700ml",
+    "previous_stock": 12,
+    "current_stock": 11,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-18T21:36:44.798717",
+    "product_id": 42820,
+    "product_name": "Breezer Lemon 4x275ml",
+    "previous_stock": 6,
+    "current_stock": 5,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-18T21:36:44.798717",
+    "product_id": 42793,
+    "product_name": "Breezer Lime 4x275ml",
+    "last_stock": 1
   }
 ]
