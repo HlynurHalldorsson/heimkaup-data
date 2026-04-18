@@ -112133,5 +112133,104 @@
     "product_id": 42516,
     "product_name": "Coca-Cola án sykurs 10x330ml",
     "last_stock": 1
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-18T20:23:47.992013",
+    "product_id": 43050,
+    "product_name": "Víking lager 12x500ml",
+    "previous_stock": 14,
+    "current_stock": 13,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-18T20:23:47.992013",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 787,
+    "current_stock": 785,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-18T20:23:47.992013",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 307,
+    "current_stock": 306,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-18T20:23:47.992013",
+    "product_id": 42601,
+    "product_name": "Gato Negro Cabernet Sauvignon 750ml",
+    "previous_stock": 14,
+    "current_stock": 13,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-18T20:23:47.992013",
+    "product_id": 42630,
+    "product_name": "BARA Hindber & Sítróna 6x330ml",
+    "previous_stock": 12,
+    "current_stock": 10,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-18T20:23:47.992013",
+    "product_id": 43434,
+    "product_name": "Winston Red Classic 100s Box",
+    "last_stock": 30
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-18T20:23:47.992013",
+    "product_id": 43356,
+    "product_name": "Winston Red Classic Box",
+    "last_stock": 30
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-18T20:23:47.992013",
+    "product_id": 43427,
+    "product_name": "Winston Blue 100s Box",
+    "last_stock": 17
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-18T20:23:47.992013",
+    "product_id": 43741,
+    "product_name": "Winston Blue Box",
+    "last_stock": 22
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-18T20:23:47.992013",
+    "product_id": 43744,
+    "product_name": "Winston Subtle Silver Box",
+    "last_stock": 10
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-18T20:23:47.992013",
+    "product_id": 43437,
+    "product_name": "Winston White Menthol Box",
+    "last_stock": 23
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-18T20:23:47.992013",
+    "product_id": 43438,
+    "product_name": "Winston White Menthol Slims Box",
+    "last_stock": 20
   }
 ]
