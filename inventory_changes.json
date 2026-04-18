@@ -112232,5 +112232,417 @@
     "product_id": 43438,
     "product_name": "Winston White Menthol Slims Box",
     "last_stock": 20
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-18T21:00:22.825696",
+    "product_id": 42733,
+    "product_name": "Víking Gylltur 12x500ml",
+    "previous_stock": 19,
+    "current_stock": 18,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-18T21:00:22.825696",
+    "product_id": 42705,
+    "product_name": "Víking Sterkr 6x500ml",
+    "previous_stock": 33,
+    "current_stock": 32,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-18T21:00:22.825696",
+    "product_id": 42720,
+    "product_name": "Carlsberg 10x500ml",
+    "previous_stock": 6,
+    "current_stock": 5,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-18T21:00:22.825696",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 785,
+    "current_stock": 783,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-18T21:00:22.825696",
+    "product_id": 42710,
+    "product_name": "Víking Lite 12x500ml",
+    "previous_stock": 40,
+    "current_stock": 39,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-18T21:00:22.825696",
+    "product_id": 47314,
+    "product_name": "Víking Páskabjór 6x330ml + 2 Víking 400ml Glass",
+    "previous_stock": 46,
+    "current_stock": 45,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-18T21:00:22.825696",
+    "product_id": 42998,
+    "product_name": "Adobe Rosé Poki 1,5L",
+    "previous_stock": 17,
+    "current_stock": 14,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-18T21:00:22.825696",
+    "product_id": 42786,
+    "product_name": "Bacardi Razz & Up 4x250ml",
+    "previous_stock": 10,
+    "current_stock": 9,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-18T21:00:22.825696",
+    "product_id": 43084,
+    "product_name": "LOOP Mini Smooth Mint 2",
+    "previous_stock": 22,
+    "current_stock": 21,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-18T21:00:22.825696",
+    "product_id": 43434,
+    "product_name": "Winston Red Classic 100s Box",
+    "stock": 30,
+    "details": {
+      "id": 43434,
+      "code": "10000062",
+      "name": "Winston Red Classic 100s Box",
+      "slug": "winston-red-classic-100s-box-43434",
+      "category_id": 5315,
+      "category_name": "Winston",
+      "category_path": "Nicotine > Cigarettes > Winston",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d1966cd7-12e6-4532-9046-4e6d6ca23330.webp",
+      "price": 199000,
+      "discount_price": null,
+      "stock": {
+        "H495": 30
+      },
+      "total_stock": 30,
+      "variants": [
+        {
+          "sku": "10000062",
+          "name": "Winston Red Classic 100s Box",
+          "price": 199000,
+          "value": "0.8mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d1966cd7-12e6-4532-9046-4e6d6ca23330.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d1966cd7-12e6-4532-9046-4e6d6ca23330_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d1966cd7-12e6-4532-9046-4e6d6ca23330_thumb.webp"
+            }
+          ],
+          "offerId": 45085,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 30,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-18T21:00:15.810379"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-18T21:00:22.825696",
+    "product_id": 43356,
+    "product_name": "Winston Red Classic Box",
+    "stock": 30,
+    "details": {
+      "id": 43356,
+      "code": "10000069",
+      "name": "Winston Red Classic Box",
+      "slug": "winston-red-classic-box-43356",
+      "category_id": 5315,
+      "category_name": "Winston",
+      "category_path": "Nicotine > Cigarettes > Winston",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d77fbae2-fd86-4643-9353-76f0574dd1bb.webp",
+      "price": 199000,
+      "discount_price": null,
+      "stock": {
+        "H495": 30
+      },
+      "total_stock": 30,
+      "variants": [
+        {
+          "sku": "10000069",
+          "name": "Winston Red Classic Box",
+          "price": 199000,
+          "value": "0.8mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d77fbae2-fd86-4643-9353-76f0574dd1bb.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d77fbae2-fd86-4643-9353-76f0574dd1bb_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d77fbae2-fd86-4643-9353-76f0574dd1bb_thumb.webp"
+            }
+          ],
+          "offerId": 45008,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 30,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-18T21:00:15.810379"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-18T21:00:22.825696",
+    "product_id": 43427,
+    "product_name": "Winston Blue 100s Box",
+    "stock": 17,
+    "details": {
+      "id": 43427,
+      "code": "30001577",
+      "name": "Winston Blue 100s Box",
+      "slug": "winston-blue-100s-box-43427",
+      "category_id": 5315,
+      "category_name": "Winston",
+      "category_path": "Nicotine > Cigarettes > Winston",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4a8fd90d-796c-4f02-9e67-c9f46107a5ee.webp",
+      "price": 199000,
+      "discount_price": null,
+      "stock": {
+        "H495": 17
+      },
+      "total_stock": 17,
+      "variants": [
+        {
+          "sku": "30001577",
+          "name": "Winston Blue 100s Box",
+          "price": 199000,
+          "value": "0.5mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4a8fd90d-796c-4f02-9e67-c9f46107a5ee.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4a8fd90d-796c-4f02-9e67-c9f46107a5ee_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4a8fd90d-796c-4f02-9e67-c9f46107a5ee_thumb.webp"
+            }
+          ],
+          "offerId": 45078,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 17,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-18T21:00:15.810379"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-18T21:00:22.825696",
+    "product_id": 43741,
+    "product_name": "Winston Blue Box",
+    "stock": 22,
+    "details": {
+      "id": 43741,
+      "code": "10000063",
+      "name": "Winston Blue Box",
+      "slug": "winston-blue-box-43741",
+      "category_id": 5315,
+      "category_name": "Winston",
+      "category_path": "Nicotine > Cigarettes > Winston",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/81ba8778-2e0e-4149-a09a-6421836d8737.webp",
+      "price": 199000,
+      "discount_price": null,
+      "stock": {
+        "H495": 22
+      },
+      "total_stock": 22,
+      "variants": [
+        {
+          "sku": "10000063",
+          "name": "Winston Blue Box",
+          "price": 199000,
+          "value": "0.5mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/81ba8778-2e0e-4149-a09a-6421836d8737.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/81ba8778-2e0e-4149-a09a-6421836d8737_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/81ba8778-2e0e-4149-a09a-6421836d8737_thumb.webp"
+            }
+          ],
+          "offerId": 45362,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 22,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-18T21:00:15.810379"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-18T21:00:22.825696",
+    "product_id": 43744,
+    "product_name": "Winston Subtle Silver Box",
+    "stock": 10,
+    "details": {
+      "id": 43744,
+      "code": "10020957",
+      "name": "Winston Subtle Silver Box",
+      "slug": "winston-subtle-silver-box-43744",
+      "category_id": 5315,
+      "category_name": "Winston",
+      "category_path": "Nicotine > Cigarettes > Winston",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8e81f2d3-b21c-4370-82a4-eae1e2cb8004.webp",
+      "price": 199000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "10020957",
+          "name": "Winston Subtle Silver Box",
+          "price": 199000,
+          "value": "0.4mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8e81f2d3-b21c-4370-82a4-eae1e2cb8004.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8e81f2d3-b21c-4370-82a4-eae1e2cb8004_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8e81f2d3-b21c-4370-82a4-eae1e2cb8004_thumb.webp"
+            }
+          ],
+          "offerId": 45365,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-18T21:00:15.810379"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-18T21:00:22.825696",
+    "product_id": 43437,
+    "product_name": "Winston White Menthol Box",
+    "stock": 23,
+    "details": {
+      "id": 43437,
+      "code": "10045835",
+      "name": "Winston White Menthol Box",
+      "slug": "winston-white-menthol-box-43437",
+      "category_id": 5315,
+      "category_name": "Winston",
+      "category_path": "Nicotine > Cigarettes > Winston",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/07d5dd42-cd3c-4436-9190-267be8ef1984.webp",
+      "price": 199000,
+      "discount_price": null,
+      "stock": {
+        "H495": 23
+      },
+      "total_stock": 23,
+      "variants": [
+        {
+          "sku": "10045835",
+          "name": "Winston White Menthol Box",
+          "price": 199000,
+          "value": "0.6mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/07d5dd42-cd3c-4436-9190-267be8ef1984.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/07d5dd42-cd3c-4436-9190-267be8ef1984_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/07d5dd42-cd3c-4436-9190-267be8ef1984_thumb.webp"
+            }
+          ],
+          "offerId": 45088,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 23,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-18T21:00:15.810379"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-18T21:00:22.825696",
+    "product_id": 43438,
+    "product_name": "Winston White Menthol Slims Box",
+    "stock": 20,
+    "details": {
+      "id": 43438,
+      "code": "10024582",
+      "name": "Winston White Menthol Slims Box",
+      "slug": "winston-white-menthol-slims-box-43438",
+      "category_id": 5315,
+      "category_name": "Winston",
+      "category_path": "Nicotine > Cigarettes > Winston",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/66f4a585-9251-494e-895c-612569f2e800.webp",
+      "price": 198500,
+      "discount_price": null,
+      "stock": {
+        "H495": 20
+      },
+      "total_stock": 20,
+      "variants": [
+        {
+          "sku": "10024582",
+          "name": "Winston White Menthol Slims Box",
+          "price": 198500,
+          "value": "0.7mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/66f4a585-9251-494e-895c-612569f2e800.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/66f4a585-9251-494e-895c-612569f2e800_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/66f4a585-9251-494e-895c-612569f2e800_thumb.webp"
+            }
+          ],
+          "offerId": 45089,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 20,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-18T21:00:15.810379"
+    }
   }
 ]
