@@ -112049,5 +112049,89 @@
     "product_id": 43072,
     "product_name": "LOOP Jalapeno Lime 4",
     "last_stock": 5
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-18T19:33:16.012653",
+    "product_id": 43710,
+    "product_name": "Krombacher Pils 6x330ml",
+    "previous_stock": 22,
+    "current_stock": 21,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-18T19:33:16.012653",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 311,
+    "current_stock": 307,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-18T19:33:16.012653",
+    "product_id": 42599,
+    "product_name": "Apothic Red 750ml",
+    "previous_stock": 7,
+    "current_stock": 6,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-18T19:33:16.012653",
+    "product_id": 42549,
+    "product_name": "Frontera Chardonnay 750ml",
+    "previous_stock": 9,
+    "current_stock": 8,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-18T19:33:16.012653",
+    "product_id": 42793,
+    "product_name": "Breezer Lime 4x275ml",
+    "previous_stock": 2,
+    "current_stock": 1,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-18T19:33:16.012653",
+    "product_id": 43071,
+    "product_name": "LOOP Habanero Mint 4",
+    "previous_stock": 25,
+    "current_stock": 17,
+    "change": -8,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-18T19:33:16.012653",
+    "product_id": 46268,
+    "product_name": "VELO Freezing Peppermint 5",
+    "previous_stock": 21,
+    "current_stock": 13,
+    "change": -8,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-18T19:33:16.012653",
+    "product_id": 42436,
+    "product_name": "Coca-Cola 10x330ml",
+    "last_stock": 8
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-18T19:33:16.012653",
+    "product_id": 42516,
+    "product_name": "Coca-Cola án sykurs 10x330ml",
+    "last_stock": 1
   }
 ]
