@@ -111775,5 +111775,22 @@
     "current_stock": 320,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-18T17:27:53.484900",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 320,
+    "current_stock": 318,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-18T17:27:53.484900",
+    "product_id": 42737,
+    "product_name": "Willm Cremant d'Alsace Brut 750ml",
+    "last_stock": 6
   }
 ]
