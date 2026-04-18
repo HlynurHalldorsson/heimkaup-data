@@ -111186,5 +111186,247 @@
       ],
       "last_updated": "2026-04-17T21:31:44.950911"
     }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-18T11:25:49.851493",
+    "product_id": 42614,
+    "product_name": "Budweiser Budvar 6x500ml",
+    "previous_stock": 12,
+    "current_stock": 10,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-18T11:25:49.851493",
+    "product_id": 42608,
+    "product_name": "Boli Sterkur Pilsner 6x500ml",
+    "previous_stock": 10,
+    "current_stock": 9,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-18T11:25:49.851493",
+    "product_id": 43055,
+    "product_name": "Tuborg Classic 12x330ml",
+    "previous_stock": 21,
+    "current_stock": 20,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-18T11:25:49.851493",
+    "product_id": 42708,
+    "product_name": "Gull 12x330ml",
+    "previous_stock": 20,
+    "current_stock": 19,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-18T11:25:49.851493",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 835,
+    "current_stock": 832,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-18T11:25:49.851493",
+    "product_id": 42659,
+    "product_name": "RVK Pale Ale 6x330ml",
+    "previous_stock": 29,
+    "current_stock": 28,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-18T11:25:49.851493",
+    "product_id": 42577,
+    "product_name": "Baron De Ley Reserva 750ml",
+    "previous_stock": 8,
+    "current_stock": 5,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-18T11:25:49.851493",
+    "product_id": 42751,
+    "product_name": "Faustino V Reserva 750ml",
+    "previous_stock": 6,
+    "current_stock": 9,
+    "change": 3,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-18T11:25:49.851493",
+    "product_id": 42641,
+    "product_name": "Cune Gran Reserva 750ml",
+    "previous_stock": 6,
+    "current_stock": 4,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-18T11:25:49.851493",
+    "product_id": 42598,
+    "product_name": "Petit Chablis ,,Pas Si Petit\" 750ml",
+    "previous_stock": 5,
+    "current_stock": 4,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-18T11:25:49.851493",
+    "product_id": 42677,
+    "product_name": "Tommasi Soave Classico Le Volp 750ml",
+    "previous_stock": 6,
+    "current_stock": 4,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-18T11:25:49.851493",
+    "product_id": 42670,
+    "product_name": "Muga Blanco 750ml",
+    "previous_stock": 5,
+    "current_stock": 4,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-18T11:25:49.851493",
+    "product_id": 42594,
+    "product_name": "Piccini Prosecco 750ml",
+    "previous_stock": 10,
+    "current_stock": 8,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-18T11:25:49.851493",
+    "product_id": 42528,
+    "product_name": "Bailly Lapierre Cremant Reserve Brut 750ml",
+    "previous_stock": 8,
+    "current_stock": 6,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-18T11:25:49.851493",
+    "product_id": 43434,
+    "product_name": "Winston Red Classic 100s Box",
+    "stock": 30,
+    "details": {
+      "id": 43434,
+      "code": "10000062",
+      "name": "Winston Red Classic 100s Box",
+      "slug": "winston-red-classic-100s-box-43434",
+      "category_id": 5315,
+      "category_name": "Winston",
+      "category_path": "Nicotine > Cigarettes > Winston",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d1966cd7-12e6-4532-9046-4e6d6ca23330.webp",
+      "price": 199000,
+      "discount_price": null,
+      "stock": {
+        "H495": 30
+      },
+      "total_stock": 30,
+      "variants": [
+        {
+          "sku": "10000062",
+          "name": "Winston Red Classic 100s Box",
+          "price": 199000,
+          "value": "0.8mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d1966cd7-12e6-4532-9046-4e6d6ca23330.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d1966cd7-12e6-4532-9046-4e6d6ca23330_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d1966cd7-12e6-4532-9046-4e6d6ca23330_thumb.webp"
+            }
+          ],
+          "offerId": 45085,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 30,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-18T11:25:42.390890"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-18T11:25:49.851493",
+    "product_id": 43741,
+    "product_name": "Winston Blue Box",
+    "previous_stock": 2,
+    "current_stock": 22,
+    "change": 20,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-18T11:25:49.851493",
+    "product_id": 43438,
+    "product_name": "Winston White Menthol Slims Box",
+    "stock": 20,
+    "details": {
+      "id": 43438,
+      "code": "10024582",
+      "name": "Winston White Menthol Slims Box",
+      "slug": "winston-white-menthol-slims-box-43438",
+      "category_id": 5315,
+      "category_name": "Winston",
+      "category_path": "Nicotine > Cigarettes > Winston",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/66f4a585-9251-494e-895c-612569f2e800.webp",
+      "price": 198500,
+      "discount_price": null,
+      "stock": {
+        "H495": 20
+      },
+      "total_stock": 20,
+      "variants": [
+        {
+          "sku": "10024582",
+          "name": "Winston White Menthol Slims Box",
+          "price": 198500,
+          "value": "0.7mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/66f4a585-9251-494e-895c-612569f2e800.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/66f4a585-9251-494e-895c-612569f2e800_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/66f4a585-9251-494e-895c-612569f2e800_thumb.webp"
+            }
+          ],
+          "offerId": 45089,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 20,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-18T11:25:42.390890"
+    }
   }
 ]
