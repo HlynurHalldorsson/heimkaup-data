@@ -113111,5 +113111,55 @@
     "product_id": 42494,
     "product_name": "BLYS 800 Watermelon Ice",
     "last_stock": 10
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-19T14:32:56.334871",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 267,
+    "current_stock": 266,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-19T14:32:56.334871",
+    "product_id": 43058,
+    "product_name": "Thule 12x330ml",
+    "previous_stock": 5,
+    "current_stock": 4,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-19T14:32:56.334871",
+    "product_id": 43671,
+    "product_name": "Arpeggio Nerello Mascalesec 750ml",
+    "previous_stock": 12,
+    "current_stock": 11,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-19T14:32:56.334871",
+    "product_id": 42699,
+    "product_name": "Frontera Chardonnay 3L",
+    "previous_stock": 13,
+    "current_stock": 12,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-19T14:32:56.334871",
+    "product_id": 42692,
+    "product_name": "Martini Prosecco 750ml",
+    "previous_stock": 19,
+    "current_stock": 18,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
