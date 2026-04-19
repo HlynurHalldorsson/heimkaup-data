@@ -112898,5 +112898,91 @@
     "product_id": 42704,
     "product_name": "Faustino VII Cabernet Sauvignon 750ml",
     "last_stock": 6
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-19T12:36:52.346772",
+    "product_id": 42616,
+    "product_name": "Löwenbräu Original 6x500ml",
+    "previous_stock": 5,
+    "current_stock": 4,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-19T12:36:52.346772",
+    "product_id": 42574,
+    "product_name": "Stella Artois 6x330ml",
+    "previous_stock": 11,
+    "current_stock": 10,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-19T12:36:52.346772",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 776,
+    "current_stock": 774,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-19T12:36:52.346772",
+    "product_id": 42704,
+    "product_name": "Faustino VII Cabernet Sauvignon 750ml",
+    "stock": 6,
+    "details": {
+      "id": 42704,
+      "code": "30230840",
+      "name": "Faustino VII Cabernet Sauvignon 750ml",
+      "slug": "faustino-vii-cabernet-sauvignon-750ml-42704",
+      "category_id": 4250,
+      "category_name": "Cabernet Sauvignon",
+      "category_path": "Wine > Red > Cabernet Sauvignon",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/984319ee-750e-4327-90bd-9b90b80f83d1.webp",
+      "price": 299000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "30230840",
+          "name": "Faustino VII Cabernet Sauvignon 750ml",
+          "price": 299000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/984319ee-750e-4327-90bd-9b90b80f83d1.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/984319ee-750e-4327-90bd-9b90b80f83d1_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/984319ee-750e-4327-90bd-9b90b80f83d1_thumb.webp"
+            }
+          ],
+          "offerId": 44016,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-19T12:36:25.255785"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-19T12:36:52.346772",
+    "product_id": 42606,
+    "product_name": "Koskenkorva Vodka 500ml",
+    "previous_stock": 38,
+    "current_stock": 37,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
