@@ -113673,5 +113673,65 @@
       ],
       "last_updated": "2026-04-19T17:59:18.920945"
     }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-19T18:47:51.990082",
+    "product_id": 42614,
+    "product_name": "Budweiser Budvar 6x500ml",
+    "previous_stock": 10,
+    "current_stock": 9,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-19T18:47:51.990082",
+    "product_id": 42576,
+    "product_name": "Stella Artois 10x440ml",
+    "previous_stock": 10,
+    "current_stock": 9,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-19T18:47:51.990082",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 765,
+    "current_stock": 764,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-19T18:47:51.990082",
+    "product_id": 49241,
+    "product_name": "Paesello Vino Rosso 1L",
+    "previous_stock": 15,
+    "current_stock": 13,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-19T18:47:51.990082",
+    "product_id": 42679,
+    "product_name": "Martini Prosecco 200ml",
+    "previous_stock": 27,
+    "current_stock": 24,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-19T18:47:51.990082",
+    "product_id": 42658,
+    "product_name": "Pizzolato Spumante Rosé 200ml",
+    "previous_stock": 5,
+    "current_stock": 1,
+    "change": -4,
+    "direction": "decrease"
   }
 ]
