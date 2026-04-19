@@ -113547,5 +113547,131 @@
     "current_stock": 9,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-19T17:59:22.033610",
+    "product_id": 42703,
+    "product_name": "Gull 12x500ml",
+    "previous_stock": 46,
+    "current_stock": 44,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-19T17:59:22.033610",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 264,
+    "current_stock": 262,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-19T17:59:22.033610",
+    "product_id": 42701,
+    "product_name": "Tuborg Classic 12x500ml",
+    "previous_stock": 21,
+    "current_stock": 19,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-19T17:59:22.033610",
+    "product_id": 42680,
+    "product_name": "Tuborg Green 12x500ml",
+    "previous_stock": 38,
+    "current_stock": 37,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-19T17:59:22.033610",
+    "product_id": 42720,
+    "product_name": "Carlsberg 10x500ml",
+    "previous_stock": 5,
+    "current_stock": 3,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-19T17:59:22.033610",
+    "product_id": 43058,
+    "product_name": "Thule 12x330ml",
+    "previous_stock": 3,
+    "current_stock": 2,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-19T17:59:22.033610",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 767,
+    "current_stock": 765,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-19T17:59:22.033610",
+    "product_id": 42541,
+    "product_name": "JP. Chenet Medium Sweet 750ml",
+    "previous_stock": 4,
+    "current_stock": 2,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-19T17:59:22.033610",
+    "product_id": 42436,
+    "product_name": "Coca-Cola 10x330ml",
+    "stock": 8,
+    "details": {
+      "id": 42436,
+      "code": "30158966",
+      "name": "Coca-Cola 10x330ml",
+      "slug": "coca-cola-10x330ml-42436",
+      "category_id": 4315,
+      "category_name": "Sodas (With Sugar)",
+      "category_path": "Soft drinks > Soda > Sodas (With Sugar)",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c453a566-8be4-45c8-825c-bf4417ec9a67.webp",
+      "price": 119000,
+      "discount_price": null,
+      "stock": {
+        "H495": 8
+      },
+      "total_stock": 8,
+      "variants": [
+        {
+          "sku": "30158966",
+          "name": "Coca-Cola 10x330ml",
+          "price": 119000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c453a566-8be4-45c8-825c-bf4417ec9a67.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c453a566-8be4-45c8-825c-bf4417ec9a67_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c453a566-8be4-45c8-825c-bf4417ec9a67_thumb.webp"
+            }
+          ],
+          "offerId": 43792,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 8,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-19T17:59:18.920945"
+    }
   }
 ]
