@@ -112821,5 +112821,82 @@
     "current_stock": 62,
     "change": -3,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-19T11:56:18.600474",
+    "product_id": 42701,
+    "product_name": "Tuborg Classic 12x500ml",
+    "previous_stock": 22,
+    "current_stock": 21,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-19T11:56:18.600474",
+    "product_id": 42822,
+    "product_name": "Víking Gylltur 12x330ml",
+    "previous_stock": 22,
+    "current_stock": 21,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-19T11:56:18.600474",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 783,
+    "current_stock": 776,
+    "change": -7,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-19T11:56:18.600474",
+    "product_id": 42728,
+    "product_name": "Finca Las Moras Shiraz 750ml",
+    "previous_stock": 22,
+    "current_stock": 20,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-19T11:56:18.600474",
+    "product_id": 42663,
+    "product_name": "Muga Reserva 750ml",
+    "previous_stock": 8,
+    "current_stock": 7,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-19T11:56:18.600474",
+    "product_id": 42731,
+    "product_name": "Finca Las Moras Chardonnay 750ml",
+    "previous_stock": 12,
+    "current_stock": 10,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-19T11:56:18.600474",
+    "product_id": 42684,
+    "product_name": "Stemmari Pinot Grigio 750ml",
+    "previous_stock": 13,
+    "current_stock": 12,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-19T11:56:18.600474",
+    "product_id": 42704,
+    "product_name": "Faustino VII Cabernet Sauvignon 750ml",
+    "last_stock": 6
   }
 ]
