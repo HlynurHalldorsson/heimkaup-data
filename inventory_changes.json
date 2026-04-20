@@ -114063,5 +114063,71 @@
     "current_stock": 98,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-20T13:27:02.658554",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 754,
+    "current_stock": 752,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-20T13:27:02.658554",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 246,
+    "current_stock": 245,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-20T13:27:02.658554",
+    "product_id": 42806,
+    "product_name": "Fever Tree Pink Grapefruit Soda 4x200ml",
+    "stock": 15,
+    "details": {
+      "id": 42806,
+      "code": "30230975",
+      "name": "Fever Tree Pink Grapefruit Soda 4x200ml",
+      "slug": "fever-tree-pink-grapefruit-soda-4x200ml-42806",
+      "category_id": 4319,
+      "category_name": "All Tonics",
+      "category_path": "Soft drinks > Tonic > All Tonics",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f682697a-aa56-4011-b591-4d8c29f57151.webp",
+      "price": 81000,
+      "discount_price": null,
+      "stock": {
+        "H495": 15
+      },
+      "total_stock": 15,
+      "variants": [
+        {
+          "sku": "30230975",
+          "name": "Fever Tree Pink Grapefruit Soda 4x200ml",
+          "price": 81000,
+          "value": "200ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f682697a-aa56-4011-b591-4d8c29f57151.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f682697a-aa56-4011-b591-4d8c29f57151_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f682697a-aa56-4011-b591-4d8c29f57151_thumb.webp"
+            }
+          ],
+          "offerId": 44118,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 15,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-20T13:27:00.710476"
+    }
   }
 ]
