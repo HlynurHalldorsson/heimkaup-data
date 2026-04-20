@@ -115579,5 +115579,507 @@
     "current_stock": 8,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-20T16:38:34.020651",
+    "product_id": 42733,
+    "product_name": "Víking Gylltur 12x500ml",
+    "previous_stock": 17,
+    "current_stock": 13,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-20T16:38:34.020651",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 749,
+    "current_stock": 743,
+    "change": -6,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-20T16:38:34.020651",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 233,
+    "current_stock": 232,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-20T16:38:34.020651",
+    "product_id": 42666,
+    "product_name": "Ölvisholt Lite 10x330ml",
+    "previous_stock": 2,
+    "current_stock": 1,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-20T16:38:34.020651",
+    "product_id": 49301,
+    "product_name": "Nuiton-Beaunoy Bourgogne Pinot Noir 750ml",
+    "stock": 6,
+    "details": {
+      "id": 49301,
+      "code": "50000232",
+      "name": "Nuiton-Beaunoy Bourgogne Pinot Noir 750ml",
+      "slug": "nuiton-beaunoy-bourgogne-pinot-noir-750ml-49301",
+      "category_id": 4325,
+      "category_name": "Pinot Noir",
+      "category_path": "Wine > Red > Pinot Noir",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c6201b72-b00f-4ba2-b523-8167b4afb92f.webp",
+      "price": 339000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "50000232",
+          "name": "Nuiton-Beaunoy Bourgogne Pinot Noir 750ml",
+          "price": 339000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c6201b72-b00f-4ba2-b523-8167b4afb92f.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c6201b72-b00f-4ba2-b523-8167b4afb92f_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c6201b72-b00f-4ba2-b523-8167b4afb92f_thumb.webp"
+            }
+          ],
+          "offerId": 50640,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-20T16:38:05.186649"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-20T16:38:34.020651",
+    "product_id": 49302,
+    "product_name": "Torri with Love Syrah 750ml",
+    "stock": 6,
+    "details": {
+      "id": 49302,
+      "code": "50000233",
+      "name": "Torri with Love Syrah 750ml",
+      "slug": "torri-with-love-syrah-750ml-49302",
+      "category_id": 4326,
+      "category_name": "Syrah",
+      "category_path": "Wine > Red > Syrah",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3bd5463f-6051-4171-be37-9c8e880319c5.webp",
+      "price": 289000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "50000233",
+          "name": "Torri with Love Syrah 750ml",
+          "price": 289000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3bd5463f-6051-4171-be37-9c8e880319c5.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3bd5463f-6051-4171-be37-9c8e880319c5_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3bd5463f-6051-4171-be37-9c8e880319c5_thumb.webp"
+            }
+          ],
+          "offerId": 50641,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-20T16:38:05.619451"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-20T16:38:34.020651",
+    "product_id": 49303,
+    "product_name": "Umani Ronchi, Montepulciano d'Abruzzo 750ml",
+    "stock": 6,
+    "details": {
+      "id": 49303,
+      "code": "50000234",
+      "name": "Umani Ronchi, Montepulciano d'Abruzzo 750ml",
+      "slug": "umani-ronchi-montepulciano-d-abruzzo-750ml-49303",
+      "category_id": 5414,
+      "category_name": "Other Red Wine",
+      "category_path": "Wine > Red > Other Red Wine",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/1baf11c9-f638-4be2-9ec9-3f3275ef96fc.webp",
+      "price": 269000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "50000234",
+          "name": "Umani Ronchi, Montepulciano d'Abruzzo 750ml",
+          "price": 269000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/1baf11c9-f638-4be2-9ec9-3f3275ef96fc.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/1baf11c9-f638-4be2-9ec9-3f3275ef96fc_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/1baf11c9-f638-4be2-9ec9-3f3275ef96fc_thumb.webp"
+            }
+          ],
+          "offerId": 50642,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-20T16:38:08.221618"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-20T16:38:34.020651",
+    "product_id": 49306,
+    "product_name": "Brotte Esprit Cotes du Rhone Rosé 750ml",
+    "stock": 6,
+    "details": {
+      "id": 49306,
+      "code": "50000237",
+      "name": "Brotte Esprit Cotes du Rhone Rosé 750ml",
+      "slug": "brotte-esprit-cotes-du-rhone-rose-750ml-49306",
+      "category_id": 4254,
+      "category_name": "All Rosé Wines",
+      "category_path": "Wine > Rosé > All Rosé Wines",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cfd200ef-680b-45f4-856b-e31e8b91b3ba.webp",
+      "price": 319000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "50000237",
+          "name": "Brotte Esprit Cotes du Rhone Rosé 750ml",
+          "price": 319000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cfd200ef-680b-45f4-856b-e31e8b91b3ba.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cfd200ef-680b-45f4-856b-e31e8b91b3ba_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cfd200ef-680b-45f4-856b-e31e8b91b3ba_thumb.webp"
+            }
+          ],
+          "offerId": 50645,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-20T16:38:09.354992"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-20T16:38:34.020651",
+    "product_id": 49305,
+    "product_name": "Carte Postale Costieres-de Nimes Rose 750ml",
+    "stock": 6,
+    "details": {
+      "id": 49305,
+      "code": "50000236",
+      "name": "Carte Postale Costieres-de Nimes Rose 750ml",
+      "slug": "carte-postale-costieres-de-nimes-rose-750ml-49305",
+      "category_id": 4254,
+      "category_name": "All Rosé Wines",
+      "category_path": "Wine > Rosé > All Rosé Wines",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/abdee33f-f631-46f9-b993-d47f6e134fa7.webp",
+      "price": 259000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "50000236",
+          "name": "Carte Postale Costieres-de Nimes Rose 750ml",
+          "price": 259000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/abdee33f-f631-46f9-b993-d47f6e134fa7.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/abdee33f-f631-46f9-b993-d47f6e134fa7_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/abdee33f-f631-46f9-b993-d47f6e134fa7_thumb.webp"
+            }
+          ],
+          "offerId": 50644,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-20T16:38:09.354992"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-20T16:38:34.020651",
+    "product_id": 49300,
+    "product_name": "Nuiton-Beaunoy Bourgogne Chardonnay 750ml",
+    "stock": 6,
+    "details": {
+      "id": 49300,
+      "code": "50000231",
+      "name": "Nuiton-Beaunoy Bourgogne Chardonnay 750ml",
+      "slug": "nuiton-beaunoy-bourgogne-chardonnay-750ml-49300",
+      "category_id": 4331,
+      "category_name": "Chardonnay",
+      "category_path": "Wine > White > Chardonnay",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7604e3a2-6536-4d05-a830-75bef50fa4f8.webp",
+      "price": 339000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "50000231",
+          "name": "Nuiton-Beaunoy Bourgogne Chardonnay 750ml",
+          "price": 339000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7604e3a2-6536-4d05-a830-75bef50fa4f8.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7604e3a2-6536-4d05-a830-75bef50fa4f8_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7604e3a2-6536-4d05-a830-75bef50fa4f8_thumb.webp"
+            }
+          ],
+          "offerId": 50639,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-20T16:38:09.913942"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-20T16:38:34.020651",
+    "product_id": 49304,
+    "product_name": "Umani Ronchi, Trebbiano d'Abruzzo 750ml",
+    "stock": 6,
+    "details": {
+      "id": 49304,
+      "code": "50000235",
+      "name": "Umani Ronchi, Trebbiano d'Abruzzo 750ml",
+      "slug": "umani-ronchi-trebbiano-d-abruzzo-750ml-49304",
+      "category_id": 5415,
+      "category_name": "Other White Wine",
+      "category_path": "Wine > White > Other White Wine",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c06c4c47-3e51-4f0c-a990-64b529b1d21a.webp",
+      "price": 249000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "50000235",
+          "name": "Umani Ronchi, Trebbiano d'Abruzzo 750ml",
+          "price": 249000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c06c4c47-3e51-4f0c-a990-64b529b1d21a.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c06c4c47-3e51-4f0c-a990-64b529b1d21a_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c06c4c47-3e51-4f0c-a990-64b529b1d21a_thumb.webp"
+            }
+          ],
+          "offerId": 50643,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-20T16:38:13.281403"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-20T16:38:34.020651",
+    "product_id": 42585,
+    "product_name": "Two Oceans Fresh & Fruity 3L",
+    "previous_stock": 27,
+    "current_stock": 24,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-20T16:38:34.020651",
+    "product_id": 49299,
+    "product_name": "Victorine de Chastenay Crémant 750ml",
+    "stock": 6,
+    "details": {
+      "id": 49299,
+      "code": "50000230",
+      "name": "Victorine de Chastenay Crémant 750ml",
+      "slug": "victorine-de-chastenay-cremant-750ml-49299",
+      "category_id": 4256,
+      "category_name": "All Sparkling Wines",
+      "category_path": "Wine > Sparkling > All Sparkling Wines",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/68905dbd-16b0-473e-ba01-8c0a391c0288.webp",
+      "price": 349000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "50000230",
+          "name": "Victorine de Chastenay Crémant 750ml",
+          "price": 349000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/68905dbd-16b0-473e-ba01-8c0a391c0288.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/68905dbd-16b0-473e-ba01-8c0a391c0288_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/68905dbd-16b0-473e-ba01-8c0a391c0288_thumb.webp"
+            }
+          ],
+          "offerId": 50638,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-20T16:38:14.291610"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-20T16:38:34.020651",
+    "product_id": 42729,
+    "product_name": "Lamberti Prosecco 750ml",
+    "previous_stock": 41,
+    "current_stock": 40,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-20T16:38:34.020651",
+    "product_id": 42797,
+    "product_name": "Absolut Vodka 1L",
+    "previous_stock": 24,
+    "current_stock": 23,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-20T16:38:34.020651",
+    "product_id": 42514,
+    "product_name": "BLYS 800 Strawberry Ice",
+    "previous_stock": 34,
+    "current_stock": 24,
+    "change": -10,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-20T16:38:34.020651",
+    "product_id": 42513,
+    "product_name": "BLYS 800 Blueberry Raspberry",
+    "previous_stock": 15,
+    "current_stock": 5,
+    "change": -10,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-20T16:38:34.020651",
+    "product_id": 42434,
+    "product_name": "Pepsi Max 12x330ml",
+    "previous_stock": 56,
+    "current_stock": 55,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-20T16:38:34.020651",
+    "product_id": 42521,
+    "product_name": "7UP Zero 6x330ml",
+    "previous_stock": 71,
+    "current_stock": 70,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-20T16:38:34.020651",
+    "product_id": 42442,
+    "product_name": "Monster Absolutely Zero 4x500ml",
+    "previous_stock": 9,
+    "current_stock": 8,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-20T16:38:34.020651",
+    "product_id": 43707,
+    "product_name": "Maschio Prosecco Treviso 750ml",
+    "last_stock": 1
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-20T16:38:34.020651",
+    "product_id": 42551,
+    "product_name": "Monster Rossi Zero Doctor 4x500ml",
+    "last_stock": 1
   }
 ]
