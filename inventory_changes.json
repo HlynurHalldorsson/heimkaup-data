@@ -114129,5 +114129,1455 @@
       ],
       "last_updated": "2026-04-20T13:27:00.710476"
     }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-20T15:01:06.927976",
+    "product_id": 49279,
+    "product_name": "Birra Moretti 6x500ml",
+    "stock": 40,
+    "details": {
+      "id": 49279,
+      "code": "50000210PK6",
+      "name": "Birra Moretti 6x500ml",
+      "slug": "birra-moretti-6x500ml-49279",
+      "category_id": 4237,
+      "category_name": "All Lagers",
+      "category_path": "Beer > Lager > All Lagers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/16825428-faef-463e-bde3-c9155295978f.webp",
+      "price": 269000,
+      "discount_price": null,
+      "stock": {
+        "H495": 40
+      },
+      "total_stock": 40,
+      "variants": [
+        {
+          "sku": "50000210PK6",
+          "name": "Birra Moretti 6x500ml",
+          "price": 269000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/16825428-faef-463e-bde3-c9155295978f.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/16825428-faef-463e-bde3-c9155295978f_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/16825428-faef-463e-bde3-c9155295978f_thumb.webp"
+            }
+          ],
+          "offerId": 50618,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 40,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-20T15:00:33.011365"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-20T15:01:06.927976",
+    "product_id": 49282,
+    "product_name": "Wrexham Lager 4x440ml",
+    "stock": 30,
+    "details": {
+      "id": 49282,
+      "code": "50000213PK4",
+      "name": "Wrexham Lager 4x440ml",
+      "slug": "wrexham-lager-4x440ml-49282",
+      "category_id": 4237,
+      "category_name": "All Lagers",
+      "category_path": "Beer > Lager > All Lagers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ce231f78-8e0a-4d35-a62a-3399c7251775.webp",
+      "price": 149000,
+      "discount_price": null,
+      "stock": {
+        "H495": 30
+      },
+      "total_stock": 30,
+      "variants": [
+        {
+          "sku": "50000213PK4",
+          "name": "Wrexham Lager 4x440ml",
+          "price": 149000,
+          "value": "440ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ce231f78-8e0a-4d35-a62a-3399c7251775.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ce231f78-8e0a-4d35-a62a-3399c7251775_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ce231f78-8e0a-4d35-a62a-3399c7251775_thumb.webp"
+            }
+          ],
+          "offerId": 50621,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 30,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-20T15:00:33.011365"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-20T15:01:06.927976",
+    "product_id": 42705,
+    "product_name": "Víking Sterkr 6x500ml",
+    "previous_stock": 31,
+    "current_stock": 30,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-20T15:01:06.927976",
+    "product_id": 43055,
+    "product_name": "Tuborg Classic 12x330ml",
+    "previous_stock": 20,
+    "current_stock": 17,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-20T15:01:06.927976",
+    "product_id": 49278,
+    "product_name": "Birra Moretti 4x330ml (gler)",
+    "stock": 24,
+    "details": {
+      "id": 49278,
+      "code": "50000209PK4",
+      "name": "Birra Moretti 4x330ml (gler)",
+      "slug": "birra-moretti-4x330ml-gler-49278",
+      "category_id": 4237,
+      "category_name": "All Lagers",
+      "category_path": "Beer > Lager > All Lagers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7f75850f-0809-420f-be97-e270122d26b4.webp",
+      "price": 139000,
+      "discount_price": null,
+      "stock": {
+        "H495": 24
+      },
+      "total_stock": 24,
+      "variants": [
+        {
+          "sku": "50000209PK4",
+          "name": "Birra Moretti 4x330ml (gler)",
+          "price": 139000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7f75850f-0809-420f-be97-e270122d26b4.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7f75850f-0809-420f-be97-e270122d26b4_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7f75850f-0809-420f-be97-e270122d26b4_thumb.webp"
+            }
+          ],
+          "offerId": 50617,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 24,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-20T15:00:33.011365"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-20T15:01:06.927976",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 752,
+    "current_stock": 749,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-20T15:01:06.927976",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 245,
+    "current_stock": 233,
+    "change": -12,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-20T15:01:06.927976",
+    "product_id": 49280,
+    "product_name": "Erdinger Weiss 6x500ml",
+    "stock": 8,
+    "details": {
+      "id": 49280,
+      "code": "50000211PK6",
+      "name": "Erdinger Weiss 6x500ml",
+      "slug": "erdinger-weiss-6x500ml-49280",
+      "category_id": 4241,
+      "category_name": "All Ales",
+      "category_path": "Beer > Ales > All Ales",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/393b54d1-7be7-471d-a054-3a7373798104.webp",
+      "price": 399000,
+      "discount_price": null,
+      "stock": {
+        "H495": 8
+      },
+      "total_stock": 8,
+      "variants": [
+        {
+          "sku": "50000211PK6",
+          "name": "Erdinger Weiss 6x500ml",
+          "price": 399000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/393b54d1-7be7-471d-a054-3a7373798104.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/393b54d1-7be7-471d-a054-3a7373798104_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/393b54d1-7be7-471d-a054-3a7373798104_thumb.webp"
+            }
+          ],
+          "offerId": 50619,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 8,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-20T15:00:33.996551"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-20T15:01:06.927976",
+    "product_id": 49281,
+    "product_name": "Erdinger Dunkel 6x500ml",
+    "stock": 8,
+    "details": {
+      "id": 49281,
+      "code": "50000212PK6",
+      "name": "Erdinger Dunkel 6x500ml",
+      "slug": "erdinger-dunkel-6x500ml-49281",
+      "category_id": 4241,
+      "category_name": "All Ales",
+      "category_path": "Beer > Ales > All Ales",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e3ce2ca5-ef0b-4d9f-b7a0-0d0557756944.webp",
+      "price": 399000,
+      "discount_price": null,
+      "stock": {
+        "H495": 8
+      },
+      "total_stock": 8,
+      "variants": [
+        {
+          "sku": "50000212PK6",
+          "name": "Erdinger Dunkel 6x500ml",
+          "price": 399000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e3ce2ca5-ef0b-4d9f-b7a0-0d0557756944.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e3ce2ca5-ef0b-4d9f-b7a0-0d0557756944_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e3ce2ca5-ef0b-4d9f-b7a0-0d0557756944_thumb.webp"
+            }
+          ],
+          "offerId": 50620,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 8,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-20T15:00:33.996551"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-20T15:01:06.927976",
+    "product_id": 49258,
+    "product_name": "Croft Fine Tawny 750ml",
+    "stock": 6,
+    "details": {
+      "id": 49258,
+      "code": "50000189",
+      "name": "Croft Fine Tawny 750ml",
+      "slug": "croft-fine-tawny-750ml-49258",
+      "category_id": 5414,
+      "category_name": "Other Red Wine",
+      "category_path": "Wine > Red > Other Red Wine",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e1721661-28ef-4f8a-aecf-6ef908f8f5ac.webp",
+      "price": 449000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "50000189",
+          "name": "Croft Fine Tawny 750ml",
+          "price": 449000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e1721661-28ef-4f8a-aecf-6ef908f8f5ac.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e1721661-28ef-4f8a-aecf-6ef908f8f5ac_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e1721661-28ef-4f8a-aecf-6ef908f8f5ac_thumb.webp"
+            }
+          ],
+          "offerId": 50597,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-20T15:00:39.816663"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-20T15:01:06.927976",
+    "product_id": 49259,
+    "product_name": "Croft Pink Port 500ml",
+    "stock": 6,
+    "details": {
+      "id": 49259,
+      "code": "50000190",
+      "name": "Croft Pink Port 500ml",
+      "slug": "croft-pink-port-500ml-49259",
+      "category_id": 4254,
+      "category_name": "All Rosé Wines",
+      "category_path": "Wine > Rosé > All Rosé Wines",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/22ed6a98-95ed-48f7-a25c-5e3cf9a8c377.webp",
+      "price": 429000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "50000190",
+          "name": "Croft Pink Port 500ml",
+          "price": 429000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/22ed6a98-95ed-48f7-a25c-5e3cf9a8c377.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/22ed6a98-95ed-48f7-a25c-5e3cf9a8c377_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/22ed6a98-95ed-48f7-a25c-5e3cf9a8c377_thumb.webp"
+            }
+          ],
+          "offerId": 50598,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-20T15:00:40.799511"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-20T15:01:06.927976",
+    "product_id": 42677,
+    "product_name": "Tommasi Soave Classico Le Volp 750ml",
+    "previous_stock": 4,
+    "current_stock": 3,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-20T15:01:06.927976",
+    "product_id": 49297,
+    "product_name": "Villa Jolanda Prosecco 200ml",
+    "stock": 24,
+    "details": {
+      "id": 49297,
+      "code": "50000228",
+      "name": "Villa Jolanda Prosecco 200ml",
+      "slug": "villa-jolanda-prosecco-200ml-49297",
+      "category_id": 4256,
+      "category_name": "All Sparkling Wines",
+      "category_path": "Wine > Sparkling > All Sparkling Wines",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a0df8a6b-349b-43fd-9ddb-102b4ea9e12c.webp",
+      "price": 89000,
+      "discount_price": null,
+      "stock": {
+        "H495": 24
+      },
+      "total_stock": 24,
+      "variants": [
+        {
+          "sku": "50000228",
+          "name": "Villa Jolanda Prosecco 200ml",
+          "price": 89000,
+          "value": "200ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a0df8a6b-349b-43fd-9ddb-102b4ea9e12c.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a0df8a6b-349b-43fd-9ddb-102b4ea9e12c_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a0df8a6b-349b-43fd-9ddb-102b4ea9e12c_thumb.webp"
+            }
+          ],
+          "offerId": 50636,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 24,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-20T15:00:45.087548"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-20T15:01:06.927976",
+    "product_id": 49254,
+    "product_name": "Pierre Ferrand Dry Curacao Yuzu 700ml",
+    "stock": 6,
+    "details": {
+      "id": 49254,
+      "code": "50000186",
+      "name": "Pierre Ferrand Dry Curacao Yuzu 700ml",
+      "slug": "pierre-ferrand-dry-curacao-yuzu-700ml-49254",
+      "category_id": 4275,
+      "category_name": "All Liqueurs",
+      "category_path": "Spirits > Liqueurs > All Liqueurs",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/089cbbd8-fa96-4b9e-bae3-4c33b5f1d8f4.webp",
+      "price": 1049000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "50000186",
+          "name": "Pierre Ferrand Dry Curacao Yuzu 700ml",
+          "price": 1049000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/089cbbd8-fa96-4b9e-bae3-4c33b5f1d8f4.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/089cbbd8-fa96-4b9e-bae3-4c33b5f1d8f4_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/089cbbd8-fa96-4b9e-bae3-4c33b5f1d8f4_thumb.webp"
+            }
+          ],
+          "offerId": 50593,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-20T15:00:46.921839"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-20T15:01:06.927976",
+    "product_id": 49257,
+    "product_name": "Silvio Carta Liquore di Liquirizia 700ml",
+    "stock": 6,
+    "details": {
+      "id": 49257,
+      "code": "50000188",
+      "name": "Silvio Carta Liquore di Liquirizia 700ml",
+      "slug": "silvio-carta-liquore-di-liquirizia-700ml-49257",
+      "category_id": 4275,
+      "category_name": "All Liqueurs",
+      "category_path": "Spirits > Liqueurs > All Liqueurs",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/329d6bd1-412c-4d26-b3d6-4c5106fd507a.webp",
+      "price": 499000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "50000188",
+          "name": "Silvio Carta Liquore di Liquirizia 700ml",
+          "price": 499000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/329d6bd1-412c-4d26-b3d6-4c5106fd507a.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/329d6bd1-412c-4d26-b3d6-4c5106fd507a_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/329d6bd1-412c-4d26-b3d6-4c5106fd507a_thumb.webp"
+            }
+          ],
+          "offerId": 50596,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-20T15:00:46.921839"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-20T15:01:06.927976",
+    "product_id": 49256,
+    "product_name": "Silvio Carta Orange Liqueur 700ml",
+    "stock": 6,
+    "details": {
+      "id": 49256,
+      "code": "50000187",
+      "name": "Silvio Carta Orange Liqueur 700ml",
+      "slug": "silvio-carta-orange-liqueur-700ml-49256",
+      "category_id": 4275,
+      "category_name": "All Liqueurs",
+      "category_path": "Spirits > Liqueurs > All Liqueurs",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9639aac6-af9f-4a16-b67d-be9a6cfcfd7f.webp",
+      "price": 819000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "50000187",
+          "name": "Silvio Carta Orange Liqueur 700ml",
+          "price": 819000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9639aac6-af9f-4a16-b67d-be9a6cfcfd7f.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9639aac6-af9f-4a16-b67d-be9a6cfcfd7f_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9639aac6-af9f-4a16-b67d-be9a6cfcfd7f_thumb.webp"
+            }
+          ],
+          "offerId": 50595,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-20T15:00:46.921839"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-20T15:01:06.927976",
+    "product_id": 49274,
+    "product_name": "Planteray Barbados Grande Reserve Rum 350ml",
+    "stock": 24,
+    "details": {
+      "id": 49274,
+      "code": "50000205",
+      "name": "Planteray Barbados Grande Reserve Rum 350ml",
+      "slug": "planteray-barbados-grande-reserve-rum-350ml-49274",
+      "category_id": 4278,
+      "category_name": "All Rum",
+      "category_path": "Spirits > Rum > All Rum",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b01e1940-f911-4d5e-91cf-80fd4c7413ff.webp",
+      "price": 499000,
+      "discount_price": null,
+      "stock": {
+        "H495": 24
+      },
+      "total_stock": 24,
+      "variants": [
+        {
+          "sku": "50000205",
+          "name": "Planteray Barbados Grande Reserve Rum 350ml",
+          "price": 499000,
+          "value": "350ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b01e1940-f911-4d5e-91cf-80fd4c7413ff.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b01e1940-f911-4d5e-91cf-80fd4c7413ff_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b01e1940-f911-4d5e-91cf-80fd4c7413ff_thumb.webp"
+            }
+          ],
+          "offerId": 50613,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 24,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-20T15:00:47.405981"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-20T15:01:06.927976",
+    "product_id": 49275,
+    "product_name": "Plantation Barbados Grande Reserve Rum 500ml",
+    "stock": 24,
+    "details": {
+      "id": 49275,
+      "code": "50000206",
+      "name": "Plantation Barbados Grande Reserve Rum 500ml",
+      "slug": "plantation-barbados-grande-reserve-rum-500ml-49275",
+      "category_id": 4278,
+      "category_name": "All Rum",
+      "category_path": "Spirits > Rum > All Rum",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3d0ed695-052c-4a16-a24b-4b4dc795ea25.webp",
+      "price": 629000,
+      "discount_price": null,
+      "stock": {
+        "H495": 24
+      },
+      "total_stock": 24,
+      "variants": [
+        {
+          "sku": "50000206",
+          "name": "Plantation Barbados Grande Reserve Rum 500ml",
+          "price": 629000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3d0ed695-052c-4a16-a24b-4b4dc795ea25.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3d0ed695-052c-4a16-a24b-4b4dc795ea25_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3d0ed695-052c-4a16-a24b-4b4dc795ea25_thumb.webp"
+            }
+          ],
+          "offerId": 50614,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 24,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-20T15:00:47.405981"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-20T15:01:06.927976",
+    "product_id": 49277,
+    "product_name": "Plantation Jamaica Rum 2001 700ml",
+    "stock": 6,
+    "details": {
+      "id": 49277,
+      "code": "50000208",
+      "name": "Plantation Jamaica Rum 2001 700ml",
+      "slug": "plantation-jamaica-rum-700ml-49277",
+      "category_id": 4278,
+      "category_name": "All Rum",
+      "category_path": "Spirits > Rum > All Rum",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/72e51be9-6b2f-4fed-bfae-1579aa3008db.webp",
+      "price": 3299000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "50000208",
+          "name": "Plantation Jamaica Rum 2001 700ml",
+          "price": 3299000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/72e51be9-6b2f-4fed-bfae-1579aa3008db.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/72e51be9-6b2f-4fed-bfae-1579aa3008db_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/72e51be9-6b2f-4fed-bfae-1579aa3008db_thumb.webp"
+            }
+          ],
+          "offerId": 50616,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-20T15:00:47.405981"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-20T15:01:06.927976",
+    "product_id": 49273,
+    "product_name": "Canerock Spiced Rum 700ml",
+    "stock": 6,
+    "details": {
+      "id": 49273,
+      "code": "50000204",
+      "name": "Canerock Spiced Rum 700ml",
+      "slug": "canerock-spiced-rum-700ml-49273",
+      "category_id": 4278,
+      "category_name": "All Rum",
+      "category_path": "Spirits > Rum > All Rum",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a024e5de-a095-4dcc-a2d7-ab3193c175be.webp",
+      "price": 1029000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "50000204",
+          "name": "Canerock Spiced Rum 700ml",
+          "price": 1029000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a024e5de-a095-4dcc-a2d7-ab3193c175be.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a024e5de-a095-4dcc-a2d7-ab3193c175be_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a024e5de-a095-4dcc-a2d7-ab3193c175be_thumb.webp"
+            }
+          ],
+          "offerId": 50612,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-20T15:00:47.405981"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-20T15:01:06.927976",
+    "product_id": 49276,
+    "product_name": "Planteray Original Dark 700ml",
+    "stock": 6,
+    "details": {
+      "id": 49276,
+      "code": "50000207",
+      "name": "Planteray Original Dark 700ml",
+      "slug": "planteray-original-dark-700ml-49276",
+      "category_id": 4278,
+      "category_name": "All Rum",
+      "category_path": "Spirits > Rum > All Rum",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2d57239a-5814-431c-81f5-a94fbb375f25.webp",
+      "price": 899000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "50000207",
+          "name": "Planteray Original Dark 700ml",
+          "price": 899000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2d57239a-5814-431c-81f5-a94fbb375f25.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2d57239a-5814-431c-81f5-a94fbb375f25_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2d57239a-5814-431c-81f5-a94fbb375f25_thumb.webp"
+            }
+          ],
+          "offerId": 50615,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-20T15:00:47.405981"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-20T15:01:06.927976",
+    "product_id": 49272,
+    "product_name": "Planteray Sealander Rum 700ml",
+    "stock": 6,
+    "details": {
+      "id": 49272,
+      "code": "50000203",
+      "name": "Planteray Sealander Rum 700ml",
+      "slug": "planteray-sealander-rum-700ml-49272",
+      "category_id": 4278,
+      "category_name": "All Rum",
+      "category_path": "Spirits > Rum > All Rum",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/08538df6-70b2-4c3e-a50d-9c7e15967092.webp",
+      "price": 1049000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "50000203",
+          "name": "Planteray Sealander Rum 700ml",
+          "price": 1049000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/08538df6-70b2-4c3e-a50d-9c7e15967092.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/08538df6-70b2-4c3e-a50d-9c7e15967092_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/08538df6-70b2-4c3e-a50d-9c7e15967092_thumb.webp"
+            }
+          ],
+          "offerId": 50611,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-20T15:00:47.405981"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-20T15:01:06.927976",
+    "product_id": 49271,
+    "product_name": "Los Siete Misterios Doba-Yej Mezcal 700ml",
+    "stock": 6,
+    "details": {
+      "id": 49271,
+      "code": "50000202",
+      "name": "Los Siete Misterios Doba-Yej Mezcal 700ml",
+      "slug": "los-siete-misterios-doba-yej-mezcal700ml-49271",
+      "category_id": 4281,
+      "category_name": "All Tequila",
+      "category_path": "Spirits > Tequila > All Tequila",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a6ef217f-21b7-45c5-b072-c11e3a148236.webp",
+      "price": 1249000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "50000202",
+          "name": "Los Siete Misterios Doba-Yej Mezcal 700ml",
+          "price": 1249000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a6ef217f-21b7-45c5-b072-c11e3a148236.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a6ef217f-21b7-45c5-b072-c11e3a148236_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a6ef217f-21b7-45c5-b072-c11e3a148236_thumb.webp"
+            }
+          ],
+          "offerId": 50610,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-20T15:00:47.752916"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-20T15:01:06.927976",
+    "product_id": 49266,
+    "product_name": "Padre Azul Tequila Blanco 700ml",
+    "stock": 6,
+    "details": {
+      "id": 49266,
+      "code": "50000197",
+      "name": "Padre Azul Tequila Blanco 700ml",
+      "slug": "padre-azul-tequila-blanco-700ml-49266",
+      "category_id": 4281,
+      "category_name": "All Tequila",
+      "category_path": "Spirits > Tequila > All Tequila",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6bf43038-20a2-45a1-9d49-695331772a75.webp",
+      "price": 1629000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "50000197",
+          "name": "Padre Azul Tequila Blanco 700ml",
+          "price": 1629000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6bf43038-20a2-45a1-9d49-695331772a75.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6bf43038-20a2-45a1-9d49-695331772a75_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6bf43038-20a2-45a1-9d49-695331772a75_thumb.webp"
+            }
+          ],
+          "offerId": 50605,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-20T15:00:47.752916"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-20T15:01:06.927976",
+    "product_id": 49267,
+    "product_name": "Padre Azul Tequila Reposado 700ml",
+    "stock": 6,
+    "details": {
+      "id": 49267,
+      "code": "50000198",
+      "name": "Padre Azul Tequila Reposado 700ml",
+      "slug": "padre-azul-tequila-reposado-700ml-49267",
+      "category_id": 4281,
+      "category_name": "All Tequila",
+      "category_path": "Spirits > Tequila > All Tequila",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6cbccf26-522a-4ed9-91a9-8028339d36d1.webp",
+      "price": 1899000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "50000198",
+          "name": "Padre Azul Tequila Reposado 700ml",
+          "price": 1899000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6cbccf26-522a-4ed9-91a9-8028339d36d1.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6cbccf26-522a-4ed9-91a9-8028339d36d1_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6cbccf26-522a-4ed9-91a9-8028339d36d1_thumb.webp"
+            }
+          ],
+          "offerId": 50606,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-20T15:00:47.752916"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-20T15:01:06.927976",
+    "product_id": 49268,
+    "product_name": "Padre Azul Tequila Anejo 700ml",
+    "stock": 6,
+    "details": {
+      "id": 49268,
+      "code": "50000199",
+      "name": "Padre Azul Tequila Anejo 700ml",
+      "slug": "padre-azul-tequila-anejo-700ml-49268",
+      "category_id": 4281,
+      "category_name": "All Tequila",
+      "category_path": "Spirits > Tequila > All Tequila",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ce126857-9472-4f33-9dc0-30903b04792b.webp",
+      "price": 1949000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "50000199",
+          "name": "Padre Azul Tequila Anejo 700ml",
+          "price": 1949000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ce126857-9472-4f33-9dc0-30903b04792b.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ce126857-9472-4f33-9dc0-30903b04792b_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ce126857-9472-4f33-9dc0-30903b04792b_thumb.webp"
+            }
+          ],
+          "offerId": 50607,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-20T15:00:47.752916"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-20T15:01:06.927976",
+    "product_id": 49269,
+    "product_name": "Xiaman Mezcal Artisanal 700ml",
+    "stock": 6,
+    "details": {
+      "id": 49269,
+      "code": "50000200",
+      "name": "Xiaman Mezcal Artisanal 700ml",
+      "slug": "xiaman-mezcal-artisanal-700ml-49269",
+      "category_id": 4281,
+      "category_name": "All Tequila",
+      "category_path": "Spirits > Tequila > All Tequila",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/402647ea-0e92-4ced-85f0-748c5e8d24dd.webp",
+      "price": 1899000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "50000200",
+          "name": "Xiaman Mezcal Artisanal 700ml",
+          "price": 1899000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/402647ea-0e92-4ced-85f0-748c5e8d24dd.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/402647ea-0e92-4ced-85f0-748c5e8d24dd_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/402647ea-0e92-4ced-85f0-748c5e8d24dd_thumb.webp"
+            }
+          ],
+          "offerId": 50608,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-20T15:00:47.752916"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-20T15:01:06.927976",
+    "product_id": 49270,
+    "product_name": "X by Xiaman Mezcal 700ml",
+    "stock": 6,
+    "details": {
+      "id": 49270,
+      "code": "50000201",
+      "name": "X by Xiaman Mezcal 700ml",
+      "slug": "x-by-xiaman-mezcal-700ml-49270",
+      "category_id": 4281,
+      "category_name": "All Tequila",
+      "category_path": "Spirits > Tequila > All Tequila",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/1dc72174-5bf8-4e73-8e6a-9f088e48f9f2.webp",
+      "price": 1329000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "50000201",
+          "name": "X by Xiaman Mezcal 700ml",
+          "price": 1329000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/1dc72174-5bf8-4e73-8e6a-9f088e48f9f2.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/1dc72174-5bf8-4e73-8e6a-9f088e48f9f2_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/1dc72174-5bf8-4e73-8e6a-9f088e48f9f2_thumb.webp"
+            }
+          ],
+          "offerId": 50609,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-20T15:00:47.752916"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-20T15:01:06.927976",
+    "product_id": 49264,
+    "product_name": "Hardy VS 200ml",
+    "stock": 24,
+    "details": {
+      "id": 49264,
+      "code": "50000195",
+      "name": "Hardy VS 200ml",
+      "slug": "hardy-vs-200ml-49264",
+      "category_id": 5627,
+      "category_name": "Cognac",
+      "category_path": "Spirits > Brandy > Cognac",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f80f970a-ba0d-431d-987b-414c8d9384a0.webp",
+      "price": 299000,
+      "discount_price": null,
+      "stock": {
+        "H495": 24
+      },
+      "total_stock": 24,
+      "variants": [
+        {
+          "sku": "50000195",
+          "name": "Hardy VS 200ml",
+          "price": 299000,
+          "value": "200ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f80f970a-ba0d-431d-987b-414c8d9384a0.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f80f970a-ba0d-431d-987b-414c8d9384a0_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f80f970a-ba0d-431d-987b-414c8d9384a0_thumb.webp"
+            }
+          ],
+          "offerId": 50603,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 24,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-20T15:00:48.390266"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-20T15:01:06.927976",
+    "product_id": 49263,
+    "product_name": "Hardy VSOP 500ml",
+    "stock": 12,
+    "details": {
+      "id": 49263,
+      "code": "50000194",
+      "name": "Hardy VSOP 500ml",
+      "slug": "hardy-vsop-500ml-49263",
+      "category_id": 5627,
+      "category_name": "Cognac",
+      "category_path": "Spirits > Brandy > Cognac",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b374b737-ba87-4bcc-b6ec-dd7e831026b2.webp",
+      "price": 699000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "50000194",
+          "name": "Hardy VSOP 500ml",
+          "price": 699000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b374b737-ba87-4bcc-b6ec-dd7e831026b2.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b374b737-ba87-4bcc-b6ec-dd7e831026b2_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b374b737-ba87-4bcc-b6ec-dd7e831026b2_thumb.webp"
+            }
+          ],
+          "offerId": 50602,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-20T15:00:48.390266"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-20T15:01:06.927976",
+    "product_id": 49262,
+    "product_name": "Prince Polignac Nature de Cognac 700ml",
+    "stock": 6,
+    "details": {
+      "id": 49262,
+      "code": "50000193",
+      "name": "Prince Polignac Nature de Cognac 700ml",
+      "slug": "prince-polignac-nature-de-cognac-700ml-49262",
+      "category_id": 5627,
+      "category_name": "Cognac",
+      "category_path": "Spirits > Brandy > Cognac",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2b8a59da-553f-43d7-b4ad-b3fa8112d5ce.webp",
+      "price": 1099000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "50000193",
+          "name": "Prince Polignac Nature de Cognac 700ml",
+          "price": 1099000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2b8a59da-553f-43d7-b4ad-b3fa8112d5ce.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2b8a59da-553f-43d7-b4ad-b3fa8112d5ce_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2b8a59da-553f-43d7-b4ad-b3fa8112d5ce_thumb.webp"
+            }
+          ],
+          "offerId": 50601,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-20T15:00:48.390266"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-20T15:01:06.927976",
+    "product_id": 49265,
+    "product_name": "Pierre Ferrand 1840 Cognac 700ml",
+    "stock": 6,
+    "details": {
+      "id": 49265,
+      "code": "50000196",
+      "name": "Pierre Ferrand 1840 Cognac 700ml",
+      "slug": "pierre-ferrand-1840-cognac-700ml-49265",
+      "category_id": 5627,
+      "category_name": "Cognac",
+      "category_path": "Spirits > Brandy > Cognac",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/1b31f651-ecce-4216-a9a3-f141dadfb992.webp",
+      "price": 1499000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "50000196",
+          "name": "Pierre Ferrand 1840 Cognac 700ml",
+          "price": 1499000,
+          "value": "700ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/1b31f651-ecce-4216-a9a3-f141dadfb992.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/1b31f651-ecce-4216-a9a3-f141dadfb992_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/1b31f651-ecce-4216-a9a3-f141dadfb992_thumb.webp"
+            }
+          ],
+          "offerId": 50604,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-20T15:00:48.390266"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-20T15:01:06.927976",
+    "product_id": 49255,
+    "product_name": "Silvio Carta Aspide Spritz 1L",
+    "stock": 6,
+    "details": {
+      "id": 49255,
+      "code": "30230925",
+      "name": "Silvio Carta Aspide Spritz 1L",
+      "slug": "silvio-carta-aspide-spritz-1l-49255",
+      "category_id": 5634,
+      "category_name": "Bitters",
+      "category_path": "Spirits > Aperitif > Bitters",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d698cd93-8f8b-4717-af73-50fd0bb49563.webp",
+      "price": 429000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "30230925",
+          "name": "Silvio Carta Aspide Spritz 1L",
+          "price": 429000,
+          "value": "1ltr",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d698cd93-8f8b-4717-af73-50fd0bb49563.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d698cd93-8f8b-4717-af73-50fd0bb49563_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d698cd93-8f8b-4717-af73-50fd0bb49563_thumb.webp"
+            }
+          ],
+          "offerId": 50594,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-20T15:00:49.311887"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-20T15:01:06.927976",
+    "product_id": 49261,
+    "product_name": "Héla Jarðarber & Sítróna 10x330ml",
+    "stock": 22,
+    "details": {
+      "id": 49261,
+      "code": "50000192PK10",
+      "name": "Héla Jarðarber & Sítróna 10x330ml",
+      "slug": "hela-jar-arber-sitrona-10x330ml-49261",
+      "category_id": 4294,
+      "category_name": "All Seltzers",
+      "category_path": "Ready-to-Drink Cocktails > Seltzers > All Seltzers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/1bb6ed01-594e-4a88-b03e-9f2745447979.webp",
+      "price": 499000,
+      "discount_price": null,
+      "stock": {
+        "H495": 22
+      },
+      "total_stock": 22,
+      "variants": [
+        {
+          "sku": "50000192PK10",
+          "name": "Héla Jarðarber & Sítróna 10x330ml",
+          "price": 499000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/1bb6ed01-594e-4a88-b03e-9f2745447979.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/1bb6ed01-594e-4a88-b03e-9f2745447979_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/1bb6ed01-594e-4a88-b03e-9f2745447979_thumb.webp"
+            }
+          ],
+          "offerId": 50600,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 22,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-20T15:00:50.814882"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-20T15:01:06.927976",
+    "product_id": 49260,
+    "product_name": "Héla Greipaldin 10x330ml",
+    "stock": 21,
+    "details": {
+      "id": 49260,
+      "code": "50000191PK10",
+      "name": "Héla Greipaldin 10x330ml",
+      "slug": "hela-greipaldin-10x330ml-49260",
+      "category_id": 4294,
+      "category_name": "All Seltzers",
+      "category_path": "Ready-to-Drink Cocktails > Seltzers > All Seltzers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/88436ebe-7dd1-4f43-977e-bec9cd1de008.webp",
+      "price": 499000,
+      "discount_price": null,
+      "stock": {
+        "H495": 21
+      },
+      "total_stock": 21,
+      "variants": [
+        {
+          "sku": "50000191PK10",
+          "name": "Héla Greipaldin 10x330ml",
+          "price": 499000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/88436ebe-7dd1-4f43-977e-bec9cd1de008.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/88436ebe-7dd1-4f43-977e-bec9cd1de008_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/88436ebe-7dd1-4f43-977e-bec9cd1de008_thumb.webp"
+            }
+          ],
+          "offerId": 50599,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 21,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-20T15:00:50.814882"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-20T15:01:06.927976",
+    "product_id": 43071,
+    "product_name": "LOOP Habanero Mint 4",
+    "previous_stock": 17,
+    "current_stock": 12,
+    "change": -5,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-20T15:01:06.927976",
+    "product_id": 46236,
+    "product_name": "BLYS 800 Blueberry Sour Strawberry",
+    "previous_stock": 9,
+    "current_stock": 8,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
