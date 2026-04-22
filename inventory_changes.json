@@ -120658,5 +120658,227 @@
     "product_id": 43675,
     "product_name": "Beronia Crianza 750 ml",
     "last_stock": 1
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-22T17:50:26.891499",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 251,
+    "current_stock": 250,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-22T17:50:26.891499",
+    "product_id": 42680,
+    "product_name": "Tuborg Green 12x500ml",
+    "previous_stock": 36,
+    "current_stock": 32,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-22T17:50:26.891499",
+    "product_id": 42720,
+    "product_name": "Carlsberg 10x500ml",
+    "previous_stock": 3,
+    "current_stock": 2,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-22T17:50:26.891499",
+    "product_id": 43058,
+    "product_name": "Thule 12x330ml",
+    "stock": 17,
+    "details": {
+      "id": 43058,
+      "code": "30233867",
+      "name": "Thule 12x330ml",
+      "slug": "thule-12x330ml-43058",
+      "category_id": 2733,
+      "category_name": "All Lagers",
+      "category_path": "Beer > Lager > All Lagers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b1cfb8d1-fc03-47eb-9d62-7d3fc5dd6c5a.webp",
+      "price": 479000,
+      "discount_price": 389000,
+      "stock": {
+        "H495": 17
+      },
+      "total_stock": 17,
+      "variants": [
+        {
+          "sku": "30233867",
+          "name": "Thule 12x330ml",
+          "price": 479000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b1cfb8d1-fc03-47eb-9d62-7d3fc5dd6c5a.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b1cfb8d1-fc03-47eb-9d62-7d3fc5dd6c5a_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/b1cfb8d1-fc03-47eb-9d62-7d3fc5dd6c5a_thumb.webp"
+            }
+          ],
+          "offerId": 44567,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 17,
+          "discountPrice": 389000,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-22T17:49:49.399595"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-22T17:50:26.891499",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 695,
+    "current_stock": 688,
+    "change": -7,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-22T17:50:26.891499",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 163,
+    "current_stock": 159,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-22T17:50:26.891499",
+    "product_id": 42661,
+    "product_name": "Boli X 12x330ml",
+    "previous_stock": 23,
+    "current_stock": 21,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-22T17:50:26.891499",
+    "product_id": 42605,
+    "product_name": "Gull Lite Premium 12x330ml",
+    "previous_stock": 17,
+    "current_stock": 16,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-22T17:50:26.891499",
+    "product_id": 42531,
+    "product_name": "Viña Maipo Sauvignon Blanc Chardonnay 750ml",
+    "previous_stock": 4,
+    "current_stock": 2,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-22T17:50:26.891499",
+    "product_id": 42700,
+    "product_name": "Somersby Apple 6x330ml",
+    "previous_stock": 4,
+    "current_stock": 3,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-22T17:50:26.891499",
+    "product_id": 42618,
+    "product_name": "PRN 6x330ml",
+    "previous_stock": 10,
+    "current_stock": 9,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-22T17:50:26.891499",
+    "product_id": 43578,
+    "product_name": "Stella Artois 0,0% 6x330ml",
+    "stock": 1,
+    "details": {
+      "id": 43578,
+      "code": "30197379",
+      "name": "Stella Artois 0,0% 6x330ml",
+      "slug": "stella-artois-0-0-6x330ml-43578",
+      "category_id": 4297,
+      "category_name": "All 0% Beer",
+      "category_path": "Alcohol-Free > Beer 0% > All 0% Beer",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a97111c4-d760-4df5-a90c-10dc17333c1f.webp",
+      "price": 175900,
+      "discount_price": null,
+      "stock": {
+        "H495": 1
+      },
+      "total_stock": 1,
+      "variants": [
+        {
+          "sku": "30197379",
+          "name": "Stella Artois 0,0% 6x330ml",
+          "price": 175900,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a97111c4-d760-4df5-a90c-10dc17333c1f.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a97111c4-d760-4df5-a90c-10dc17333c1f_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a97111c4-d760-4df5-a90c-10dc17333c1f_thumb.webp"
+            }
+          ],
+          "offerId": 45226,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 1,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-22T17:50:09.160777"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-22T17:50:26.891499",
+    "product_id": 43078,
+    "product_name": "VELO Smooth Spearmint 2",
+    "previous_stock": 48,
+    "current_stock": 38,
+    "change": -10,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-22T17:50:26.891499",
+    "product_id": 46239,
+    "product_name": "BLYS 800 Pineapple Ice",
+    "previous_stock": 14,
+    "current_stock": 13,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-22T17:50:26.891499",
+    "product_id": 42488,
+    "product_name": "Reymont 800 Pink Lemonade",
+    "previous_stock": 22,
+    "current_stock": 21,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
