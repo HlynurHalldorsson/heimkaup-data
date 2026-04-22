@@ -120087,5 +120087,576 @@
     "product_id": 42465,
     "product_name": "Plús Blóðappelsínu 4x330ml",
     "last_stock": 1
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-22T16:48:10.664125",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 253,
+    "current_stock": 251,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-22T16:48:10.664125",
+    "product_id": 42608,
+    "product_name": "Boli Sterkur Pilsner 6x500ml",
+    "previous_stock": 8,
+    "current_stock": 7,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-22T16:48:10.664125",
+    "product_id": 42708,
+    "product_name": "Gull 12x330ml",
+    "previous_stock": 17,
+    "current_stock": 16,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-22T16:48:10.664125",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 703,
+    "current_stock": 695,
+    "change": -8,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-22T16:48:10.664125",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 167,
+    "current_stock": 163,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-22T16:48:10.664125",
+    "product_id": 42661,
+    "product_name": "Boli X 12x330ml",
+    "previous_stock": 24,
+    "current_stock": 23,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-22T16:48:10.664125",
+    "product_id": 42578,
+    "product_name": "Barefoot Riesling 750ml",
+    "previous_stock": 4,
+    "current_stock": 3,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-22T16:48:10.664125",
+    "product_id": 42670,
+    "product_name": "Muga Blanco 750ml",
+    "previous_stock": 4,
+    "current_stock": 2,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-22T16:48:10.664125",
+    "product_id": 42559,
+    "product_name": "Finlandia Vodka 200ml",
+    "previous_stock": 17,
+    "current_stock": 16,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-22T16:48:10.664125",
+    "product_id": 42548,
+    "product_name": "Beefeater 500ml",
+    "previous_stock": 10,
+    "current_stock": 9,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-22T16:48:10.664125",
+    "product_id": 42604,
+    "product_name": "Bagl 6x330ml",
+    "previous_stock": 8,
+    "current_stock": 7,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-22T16:48:10.664125",
+    "product_id": 42779,
+    "product_name": "Breezer Passionfruit Mango 4x275ml",
+    "previous_stock": 17,
+    "current_stock": 16,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-22T16:48:10.664125",
+    "product_id": 42551,
+    "product_name": "Monster Rossi Zero Doctor 4x500ml",
+    "stock": 80,
+    "details": {
+      "id": 42551,
+      "code": "30227031",
+      "name": "Monster Rossi Zero Doctor 4x500ml",
+      "slug": "monster-rossi-zero-doctor-4x500ml-42551",
+      "category_id": 4317,
+      "category_name": "All Energy Drinks",
+      "category_path": "Soft drinks > Energy Drinks > All Energy Drinks",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/03332a60-fc27-4fd9-bd2c-7bb8075a1ca2.webp",
+      "price": 99600,
+      "discount_price": null,
+      "stock": {
+        "H495": 80
+      },
+      "total_stock": 80,
+      "variants": [
+        {
+          "sku": "30227031",
+          "name": "Monster Rossi Zero Doctor 4x500ml",
+          "price": 99600,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/03332a60-fc27-4fd9-bd2c-7bb8075a1ca2.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/03332a60-fc27-4fd9-bd2c-7bb8075a1ca2_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/03332a60-fc27-4fd9-bd2c-7bb8075a1ca2_thumb.webp"
+            }
+          ],
+          "offerId": 43858,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 80,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-22T16:48:04.416953"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-22T16:48:10.664125",
+    "product_id": 42486,
+    "product_name": "Monster Ultra White 4x500ml / Monster Ultra White 4pk",
+    "stock": 200,
+    "details": {
+      "id": 42486,
+      "code": "30212391",
+      "name": "Monster Ultra White 4x500ml / Monster Ultra White 4pk",
+      "slug": "monster-ultra-white-4x500ml-42486",
+      "category_id": 4317,
+      "category_name": "All Energy Drinks",
+      "category_path": "Soft drinks > Energy Drinks > All Energy Drinks",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7933ed9d-1183-4909-95f5-4039b158b332.webp",
+      "price": 99000,
+      "discount_price": null,
+      "stock": {
+        "H495": 200
+      },
+      "total_stock": 200,
+      "variants": [
+        {
+          "sku": "30212391",
+          "name": "Monster Ultra White 4x500ml / Monster Ultra White 4pk",
+          "price": 99000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7933ed9d-1183-4909-95f5-4039b158b332.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7933ed9d-1183-4909-95f5-4039b158b332_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7933ed9d-1183-4909-95f5-4039b158b332_thumb.webp"
+            }
+          ],
+          "offerId": 43815,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 200,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-22T16:48:04.416953"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-22T16:48:10.664125",
+    "product_id": 42447,
+    "product_name": "Monster Pipeline Punch 4x500ml",
+    "stock": 80,
+    "details": {
+      "id": 42447,
+      "code": "30192850",
+      "name": "Monster Pipeline Punch 4x500ml",
+      "slug": "monster-pipeline-punch-4x500ml-42447",
+      "category_id": 4317,
+      "category_name": "All Energy Drinks",
+      "category_path": "Soft drinks > Energy Drinks > All Energy Drinks",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/594aca0a-5202-4419-8491-02eb2e4d9751.webp",
+      "price": 99000,
+      "discount_price": null,
+      "stock": {
+        "H495": 80
+      },
+      "total_stock": 80,
+      "variants": [
+        {
+          "sku": "30192850",
+          "name": "Monster Pipeline Punch 4x500ml",
+          "price": 99000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/594aca0a-5202-4419-8491-02eb2e4d9751.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/594aca0a-5202-4419-8491-02eb2e4d9751_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/594aca0a-5202-4419-8491-02eb2e4d9751_thumb.webp"
+            }
+          ],
+          "offerId": 43776,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 80,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-22T16:48:04.416953"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-22T16:48:10.664125",
+    "product_id": 42464,
+    "product_name": "Kristall án bragðefna 6x330ml",
+    "stock": 100,
+    "details": {
+      "id": 42464,
+      "code": "30208324",
+      "name": "Kristall án bragðefna 6x330ml",
+      "slug": "kristall-an-brag-efna-6x330ml-42464",
+      "category_id": 4321,
+      "category_name": "All Sparkling Waters",
+      "category_path": "Soft drinks > Sparkling Water > All Sparkling Waters",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7d45d509-cfd4-4014-9752-82a0d47f8ed4.webp",
+      "price": 73000,
+      "discount_price": null,
+      "stock": {
+        "H495": 100
+      },
+      "total_stock": 100,
+      "variants": [
+        {
+          "sku": "30208324",
+          "name": "Kristall án bragðefna 6x330ml",
+          "price": 73000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7d45d509-cfd4-4014-9752-82a0d47f8ed4.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7d45d509-cfd4-4014-9752-82a0d47f8ed4_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/7d45d509-cfd4-4014-9752-82a0d47f8ed4_thumb.webp"
+            },
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/144c9081-4cf4-456f-b6b0-39ca9135583d.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/144c9081-4cf4-456f-b6b0-39ca9135583d_orig.jpeg",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/144c9081-4cf4-456f-b6b0-39ca9135583d_thumb.webp"
+            }
+          ],
+          "offerId": 43774,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 100,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-22T16:48:05.721885"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-22T16:48:10.664125",
+    "product_id": 42446,
+    "product_name": "Kristall Mexican Lime 6x330 ml",
+    "stock": 100,
+    "details": {
+      "id": 42446,
+      "code": "30208262",
+      "name": "Kristall Mexican Lime 6x330 ml",
+      "slug": "kristall-mexican-lime-6x330-ml-42446",
+      "category_id": 4321,
+      "category_name": "All Sparkling Waters",
+      "category_path": "Soft drinks > Sparkling Water > All Sparkling Waters",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/35348504-084e-4449-83b4-7a14492fe8eb.webp",
+      "price": 79000,
+      "discount_price": null,
+      "stock": {
+        "H495": 100
+      },
+      "total_stock": 100,
+      "variants": [
+        {
+          "sku": "30208262",
+          "name": "Kristall Mexican Lime 6x330 ml",
+          "price": 79000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/35348504-084e-4449-83b4-7a14492fe8eb.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/35348504-084e-4449-83b4-7a14492fe8eb_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/35348504-084e-4449-83b4-7a14492fe8eb_thumb.webp"
+            },
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5bae14f5-5103-4a7e-b2ee-5ba9f7d03d52.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5bae14f5-5103-4a7e-b2ee-5ba9f7d03d52_orig.jpeg",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5bae14f5-5103-4a7e-b2ee-5ba9f7d03d52_thumb.webp"
+            }
+          ],
+          "offerId": 43783,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 100,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-22T16:48:05.721885"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-22T16:48:10.664125",
+    "product_id": 42484,
+    "product_name": "Kristall Sítrónu 6x330ml",
+    "stock": 100,
+    "details": {
+      "id": 42484,
+      "code": "30213873",
+      "name": "Kristall Sítrónu 6x330ml",
+      "slug": "kristall-sitronu-6x330ml-42484",
+      "category_id": 4321,
+      "category_name": "All Sparkling Waters",
+      "category_path": "Soft drinks > Sparkling Water > All Sparkling Waters",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e790bfb6-6266-4bf3-853e-627b9316ce65.webp",
+      "price": 79000,
+      "discount_price": null,
+      "stock": {
+        "H495": 100
+      },
+      "total_stock": 100,
+      "variants": [
+        {
+          "sku": "30213873",
+          "name": "Kristall Sítrónu 6x330ml",
+          "price": 79000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e790bfb6-6266-4bf3-853e-627b9316ce65.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e790bfb6-6266-4bf3-853e-627b9316ce65_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e790bfb6-6266-4bf3-853e-627b9316ce65_thumb.webp"
+            },
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c725c486-73be-4382-9f55-df56f7090ef9.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c725c486-73be-4382-9f55-df56f7090ef9_orig.jpeg",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c725c486-73be-4382-9f55-df56f7090ef9_thumb.webp"
+            }
+          ],
+          "offerId": 43829,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 100,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-22T16:48:05.721885"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-22T16:48:10.664125",
+    "product_id": 42475,
+    "product_name": "Kristall Nektarínu og Sítrus 6x330ml",
+    "stock": 100,
+    "details": {
+      "id": 42475,
+      "code": "30212065",
+      "name": "Kristall Nektarínu og Sítrus 6x330ml",
+      "slug": "kristall-nektarinu-og-sitrus-6x330ml-42475",
+      "category_id": 4321,
+      "category_name": "All Sparkling Waters",
+      "category_path": "Soft drinks > Sparkling Water > All Sparkling Waters",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ee0fd7ce-d217-4bb5-b599-c428e94b368a.webp",
+      "price": 79000,
+      "discount_price": null,
+      "stock": {
+        "H495": 100
+      },
+      "total_stock": 100,
+      "variants": [
+        {
+          "sku": "30212065",
+          "name": "Kristall Nektarínu og Sítrus 6x330ml",
+          "price": 79000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ee0fd7ce-d217-4bb5-b599-c428e94b368a.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ee0fd7ce-d217-4bb5-b599-c428e94b368a_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/ee0fd7ce-d217-4bb5-b599-c428e94b368a_thumb.webp"
+            },
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/50ed2ae9-5847-47a9-b53a-f5c9e07d3f4b.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/50ed2ae9-5847-47a9-b53a-f5c9e07d3f4b_orig.jpeg",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/50ed2ae9-5847-47a9-b53a-f5c9e07d3f4b_thumb.webp"
+            }
+          ],
+          "offerId": 43816,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 100,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-22T16:48:05.721885"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-22T16:48:10.664125",
+    "product_id": 42472,
+    "product_name": "Kristall án bragðefna 12x330ml",
+    "stock": 100,
+    "details": {
+      "id": 42472,
+      "code": "30208228",
+      "name": "Kristall án bragðefna 12x330ml",
+      "slug": "kristall-an-brag-efna-12x330ml-42472",
+      "category_id": 4321,
+      "category_name": "All Sparkling Waters",
+      "category_path": "Soft drinks > Sparkling Water > All Sparkling Waters",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6d375093-168d-4c34-ab59-282ea87fecd5.webp",
+      "price": 149000,
+      "discount_price": null,
+      "stock": {
+        "H495": 100
+      },
+      "total_stock": 100,
+      "variants": [
+        {
+          "sku": "30208228",
+          "name": "Kristall án bragðefna 12x330ml",
+          "price": 149000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6d375093-168d-4c34-ab59-282ea87fecd5.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6d375093-168d-4c34-ab59-282ea87fecd5_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6d375093-168d-4c34-ab59-282ea87fecd5_thumb.webp"
+            },
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/579d67c0-0ad6-4bd7-9129-8ac671e12770.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/579d67c0-0ad6-4bd7-9129-8ac671e12770_orig.jpeg",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/579d67c0-0ad6-4bd7-9129-8ac671e12770_thumb.webp"
+            }
+          ],
+          "offerId": 43770,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 100,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-22T16:48:05.721885"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-22T16:48:10.664125",
+    "product_id": 42441,
+    "product_name": "Kristall Mexican Lime 12x330ml",
+    "stock": 100,
+    "details": {
+      "id": 42441,
+      "code": "30208252",
+      "name": "Kristall Mexican Lime 12x330ml",
+      "slug": "kristall-mexican-lime-12x330ml-42441",
+      "category_id": 4321,
+      "category_name": "All Sparkling Waters",
+      "category_path": "Soft drinks > Sparkling Water > All Sparkling Waters",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c2bccf1a-f18b-4e3e-ad6c-5ff10b71040b.webp",
+      "price": 159000,
+      "discount_price": null,
+      "stock": {
+        "H495": 100
+      },
+      "total_stock": 100,
+      "variants": [
+        {
+          "sku": "30208252",
+          "name": "Kristall Mexican Lime 12x330ml",
+          "price": 159000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c2bccf1a-f18b-4e3e-ad6c-5ff10b71040b.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c2bccf1a-f18b-4e3e-ad6c-5ff10b71040b_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/c2bccf1a-f18b-4e3e-ad6c-5ff10b71040b_thumb.webp"
+            },
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/09f2f457-83ff-423e-9701-2113e8805a13.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/09f2f457-83ff-423e-9701-2113e8805a13_orig.jpeg",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/09f2f457-83ff-423e-9701-2113e8805a13_thumb.webp"
+            }
+          ],
+          "offerId": 43795,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 100,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-22T16:48:05.721885"
+    }
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-22T16:48:10.664125",
+    "product_id": 43675,
+    "product_name": "Beronia Crianza 750 ml",
+    "last_stock": 1
   }
 ]
