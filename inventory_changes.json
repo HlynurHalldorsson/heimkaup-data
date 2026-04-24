@@ -124459,5 +124459,45 @@
     "product_id": 42713,
     "product_name": "Faustino Cava Brut 750ml",
     "last_stock": 1
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T14:27:42.727359",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 74,
+    "current_stock": 70,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T14:27:42.727359",
+    "product_id": 49302,
+    "product_name": "Torri with Love Syrah 750ml",
+    "previous_stock": 6,
+    "current_stock": 5,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T14:27:42.727359",
+    "product_id": 51675,
+    "product_name": "Pasqua Valpolicella Black Label 750ml",
+    "previous_stock": 5,
+    "current_stock": 4,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T14:27:42.727359",
+    "product_id": 42815,
+    "product_name": "Faustino VII Rose 750ml",
+    "previous_stock": 4,
+    "current_stock": 3,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
