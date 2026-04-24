@@ -126044,5 +126044,149 @@
     "current_stock": 3,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T19:42:51.253194",
+    "product_id": 42703,
+    "product_name": "Gull 12x500ml",
+    "previous_stock": 51,
+    "current_stock": 48,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T19:42:51.253194",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 182,
+    "current_stock": 178,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T19:42:51.253194",
+    "product_id": 42701,
+    "product_name": "Tuborg Classic 12x500ml",
+    "previous_stock": 25,
+    "current_stock": 24,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T19:42:51.253194",
+    "product_id": 42680,
+    "product_name": "Tuborg Green 12x500ml",
+    "previous_stock": 6,
+    "current_stock": 15,
+    "change": 9,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T19:42:51.253194",
+    "product_id": 43056,
+    "product_name": "Boli 12x330ml",
+    "previous_stock": 153,
+    "current_stock": 152,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T19:42:51.253194",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 230,
+    "current_stock": 227,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T19:42:51.253194",
+    "product_id": 49240,
+    "product_name": "Tini Bianco 750ml",
+    "previous_stock": 10,
+    "current_stock": 9,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T19:42:51.253194",
+    "product_id": 43053,
+    "product_name": "LoV 6x330ml",
+    "previous_stock": 7,
+    "current_stock": 8,
+    "change": 1,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T19:42:51.253194",
+    "product_id": 42618,
+    "product_name": "PRN 6x330ml",
+    "previous_stock": 25,
+    "current_stock": 24,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T19:42:51.253194",
+    "product_id": 43087,
+    "product_name": "ACE X Cool Mint Cosmic 5",
+    "previous_stock": 34,
+    "current_stock": 33,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T19:42:51.253194",
+    "product_id": 43086,
+    "product_name": "VELO Crispy Peppermint 3",
+    "previous_stock": 14,
+    "current_stock": 4,
+    "change": -10,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T19:42:51.253194",
+    "product_id": 43076,
+    "product_name": "VELO Freezing Peppermint 4",
+    "previous_stock": 43,
+    "current_stock": 40,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T19:42:51.253194",
+    "product_id": 43740,
+    "product_name": "Marlboro Menthol White Box",
+    "previous_stock": 10,
+    "current_stock": 9,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-24T19:42:51.253194",
+    "product_id": 46268,
+    "product_name": "VELO Freezing Peppermint 5",
+    "last_stock": 1
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-24T19:42:51.253194",
+    "product_id": 43699,
+    "product_name": "White Fox Full Charge",
+    "last_stock": 1
   }
 ]
