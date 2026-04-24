@@ -125235,5 +125235,251 @@
     "product_id": 42436,
     "product_name": "Coca-Cola 10x330ml",
     "last_stock": 3
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T17:42:02.911201",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 184,
+    "current_stock": 183,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T17:42:02.911201",
+    "product_id": 42701,
+    "product_name": "Tuborg Classic 12x500ml",
+    "previous_stock": 10,
+    "current_stock": 9,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T17:42:02.911201",
+    "product_id": 43056,
+    "product_name": "Boli 12x330ml",
+    "previous_stock": 154,
+    "current_stock": 153,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T17:42:02.911201",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 589,
+    "current_stock": 585,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T17:42:02.911201",
+    "product_id": 43032,
+    "product_name": "Gull Lite Premium 12x500ml",
+    "previous_stock": 9,
+    "current_stock": 8,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T17:42:02.911201",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 66,
+    "current_stock": 65,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T17:42:02.911201",
+    "product_id": 42778,
+    "product_name": "Víking Lite 12x330ml",
+    "previous_stock": 13,
+    "current_stock": 12,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-24T17:42:02.911201",
+    "product_id": 43205,
+    "product_name": "Mamma Piccini Rosso 3L",
+    "stock": 4,
+    "details": {
+      "id": 43205,
+      "code": "30230675",
+      "name": "Mamma Piccini Rosso 3L",
+      "slug": "mamma-piccini-rosso-3l-43205",
+      "category_id": 4330,
+      "category_name": "Boxed Red Wines",
+      "category_path": "Wine > Red > Boxed Red Wines",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/dfc19751-cd5b-4e2d-9919-7450e591c5b5.webp",
+      "price": 709000,
+      "discount_price": null,
+      "stock": {
+        "H495": 4
+      },
+      "total_stock": 4,
+      "variants": [
+        {
+          "sku": "30230675",
+          "name": "Mamma Piccini Rosso 3L",
+          "price": 709000,
+          "value": "3L",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/dfc19751-cd5b-4e2d-9919-7450e591c5b5.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/dfc19751-cd5b-4e2d-9919-7450e591c5b5_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/dfc19751-cd5b-4e2d-9919-7450e591c5b5_thumb.webp"
+            }
+          ],
+          "offerId": 44808,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 4,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-24T17:41:32.533288"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T17:42:02.911201",
+    "product_id": 42765,
+    "product_name": "Askur Gin 700ml",
+    "previous_stock": 27,
+    "current_stock": 26,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T17:42:02.911201",
+    "product_id": 43603,
+    "product_name": "Opal Hindberja og Lakkrís 500ml",
+    "previous_stock": 1,
+    "current_stock": 13,
+    "change": 12,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T17:42:02.911201",
+    "product_id": 42808,
+    "product_name": "Breezer Mango 4x275ml",
+    "previous_stock": 43,
+    "current_stock": 42,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T17:42:02.911201",
+    "product_id": 46236,
+    "product_name": "BLYS 800 Blueberry Sour Strawberry",
+    "previous_stock": 5,
+    "current_stock": 4,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T17:42:02.911201",
+    "product_id": 43679,
+    "product_name": "BLYS 800 Blueberry Sour Raspberry",
+    "previous_stock": 8,
+    "current_stock": 7,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T17:42:02.911201",
+    "product_id": 42504,
+    "product_name": "BLYS 800 Strawberry Banana",
+    "previous_stock": 20,
+    "current_stock": 19,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T17:42:02.911201",
+    "product_id": 42514,
+    "product_name": "BLYS 800 Strawberry Ice",
+    "previous_stock": 8,
+    "current_stock": 7,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T17:42:02.911201",
+    "product_id": 42513,
+    "product_name": "BLYS 800 Blueberry Raspberry",
+    "previous_stock": 34,
+    "current_stock": 33,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T17:42:02.911201",
+    "product_id": 43437,
+    "product_name": "Winston White Menthol Box",
+    "previous_stock": 21,
+    "current_stock": 19,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T17:42:02.911201",
+    "product_id": 42434,
+    "product_name": "Pepsi Max 12x330ml",
+    "previous_stock": 48,
+    "current_stock": 47,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T17:42:02.911201",
+    "product_id": 42474,
+    "product_name": "Appelsín 6x330ml",
+    "previous_stock": 93,
+    "current_stock": 91,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T17:42:02.911201",
+    "product_id": 42516,
+    "product_name": "Coca-Cola án sykurs 10x330ml",
+    "previous_stock": 80,
+    "current_stock": 77,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T17:42:02.911201",
+    "product_id": 42441,
+    "product_name": "Kristall Mexican Lime 12x330ml",
+    "previous_stock": 99,
+    "current_stock": 98,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
