@@ -125481,5 +125481,568 @@
     "current_stock": 98,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T18:35:12.560432",
+    "product_id": 42703,
+    "product_name": "Gull 12x500ml",
+    "previous_stock": 32,
+    "current_stock": 51,
+    "change": 19,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T18:35:12.560432",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 183,
+    "current_stock": 182,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T18:35:12.560432",
+    "product_id": 42701,
+    "product_name": "Tuborg Classic 12x500ml",
+    "previous_stock": 9,
+    "current_stock": 25,
+    "change": 16,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-24T18:35:12.560432",
+    "product_id": 42720,
+    "product_name": "Carlsberg 10x500ml",
+    "stock": 12,
+    "details": {
+      "id": 42720,
+      "code": "30230817",
+      "name": "Carlsberg 10x500ml",
+      "slug": "carlsberg-10x500ml-42720",
+      "category_id": 5657,
+      "category_name": "All Lagers",
+      "category_path": "Beer > Lager > All Lagers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a488ad00-fc23-4ba4-864f-0c1a762255c0.webp",
+      "price": 449000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "30230817",
+          "name": "Carlsberg 10x500ml",
+          "price": 449000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a488ad00-fc23-4ba4-864f-0c1a762255c0.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a488ad00-fc23-4ba4-864f-0c1a762255c0_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a488ad00-fc23-4ba4-864f-0c1a762255c0_thumb.webp"
+            },
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d01d084d-5167-4354-a232-c5c10b11a927.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d01d084d-5167-4354-a232-c5c10b11a927_orig.jpeg",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/d01d084d-5167-4354-a232-c5c10b11a927_thumb.webp"
+            }
+          ],
+          "offerId": 44013,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-24T18:34:33.693723"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T18:35:12.560432",
+    "product_id": 42609,
+    "product_name": "Polar Beer 6x500ml",
+    "previous_stock": 3,
+    "current_stock": 7,
+    "change": 4,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T18:35:12.560432",
+    "product_id": 42608,
+    "product_name": "Boli Sterkur Pilsner 6x500ml",
+    "previous_stock": 6,
+    "current_stock": 18,
+    "change": 12,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T18:35:12.560432",
+    "product_id": 43055,
+    "product_name": "Tuborg Classic 12x330ml",
+    "previous_stock": 11,
+    "current_stock": 23,
+    "change": 12,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T18:35:12.560432",
+    "product_id": 42615,
+    "product_name": "Boli X 12x500ml",
+    "previous_stock": 7,
+    "current_stock": 17,
+    "change": 10,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T18:35:12.560432",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 65,
+    "current_stock": 230,
+    "change": 165,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T18:35:12.560432",
+    "product_id": 42707,
+    "product_name": "Víking Lite Classic 12x330ml",
+    "previous_stock": 2,
+    "current_stock": 1,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-24T18:35:12.560432",
+    "product_id": 42661,
+    "product_name": "Boli X 12x330ml",
+    "stock": 36,
+    "details": {
+      "id": 42661,
+      "code": "30230734",
+      "name": "Boli X 12x330ml",
+      "slug": "boli-x-12x330ml-42661",
+      "category_id": 4239,
+      "category_name": "All Lite Beers",
+      "category_path": "Beer > Lite > All Lite Beers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/fa46213b-8bf7-49d3-865f-b573235ed87e.webp",
+      "price": 479000,
+      "discount_price": null,
+      "stock": {
+        "H495": 36
+      },
+      "total_stock": 36,
+      "variants": [
+        {
+          "sku": "30230734",
+          "name": "Boli X 12x330ml",
+          "price": 479000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/fa46213b-8bf7-49d3-865f-b573235ed87e.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/fa46213b-8bf7-49d3-865f-b573235ed87e_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/fa46213b-8bf7-49d3-865f-b573235ed87e_thumb.webp"
+            }
+          ],
+          "offerId": 43981,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 36,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-24T18:34:34.509392"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T18:35:12.560432",
+    "product_id": 43716,
+    "product_name": "Maison Muré Riesling Calcaires Jaunes 750ml",
+    "previous_stock": 5,
+    "current_stock": 4,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T18:35:12.560432",
+    "product_id": 42635,
+    "product_name": "Willm Riesling Reserve 750ml",
+    "previous_stock": 2,
+    "current_stock": 1,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-24T18:35:12.560432",
+    "product_id": 43594,
+    "product_name": "Rosemount GTR 750ml",
+    "stock": 6,
+    "details": {
+      "id": 43594,
+      "code": "30230676",
+      "name": "Rosemount GTR 750ml",
+      "slug": "rosemount-gtr-750ml-43594",
+      "category_id": 4334,
+      "category_name": "White Blends",
+      "category_path": "Wine > White > White Blends",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8375767b-f20c-444f-ad28-beec8bec82fb.webp",
+      "price": 199000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "30230676",
+          "name": "Rosemount GTR 750ml",
+          "price": 199000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8375767b-f20c-444f-ad28-beec8bec82fb.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8375767b-f20c-444f-ad28-beec8bec82fb_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8375767b-f20c-444f-ad28-beec8bec82fb_thumb.webp"
+            }
+          ],
+          "offerId": 45247,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-24T18:34:44.584755"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-24T18:35:12.560432",
+    "product_id": 42594,
+    "product_name": "Piccini Prosecco 750ml",
+    "stock": 18,
+    "details": {
+      "id": 42594,
+      "code": "30230686",
+      "name": "Piccini Prosecco 750ml",
+      "slug": "piccini-prosecco-750ml-42594",
+      "category_id": 4256,
+      "category_name": "All Sparkling Wines",
+      "category_path": "Wine > Sparkling > All Sparkling Wines",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/182948a6-499c-4c2a-a825-3c436d859e7d.webp",
+      "price": 229000,
+      "discount_price": null,
+      "stock": {
+        "H495": 18
+      },
+      "total_stock": 18,
+      "variants": [
+        {
+          "sku": "30230686",
+          "name": "Piccini Prosecco 750ml",
+          "price": 229000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/182948a6-499c-4c2a-a825-3c436d859e7d.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/182948a6-499c-4c2a-a825-3c436d859e7d_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/182948a6-499c-4c2a-a825-3c436d859e7d_thumb.webp"
+            }
+          ],
+          "offerId": 43913,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 18,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-24T18:34:46.128191"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-24T18:35:12.560432",
+    "product_id": 42700,
+    "product_name": "Somersby Apple 6x330ml",
+    "stock": 20,
+    "details": {
+      "id": 42700,
+      "code": "30230820",
+      "name": "Somersby Apple 6x330ml",
+      "slug": "somersby-apple-6x330ml-42700",
+      "category_id": 4287,
+      "category_name": "All Ciders",
+      "category_path": "Ready-to-Drink Cocktails > Cider > All Ciders",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9046387b-9b4b-4e8a-b8d1-b60e8390aaa5.webp",
+      "price": 199000,
+      "discount_price": null,
+      "stock": {
+        "H495": 20
+      },
+      "total_stock": 20,
+      "variants": [
+        {
+          "sku": "30230820",
+          "name": "Somersby Apple 6x330ml",
+          "price": 199000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9046387b-9b4b-4e8a-b8d1-b60e8390aaa5.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9046387b-9b4b-4e8a-b8d1-b60e8390aaa5_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9046387b-9b4b-4e8a-b8d1-b60e8390aaa5_thumb.webp"
+            }
+          ],
+          "offerId": 44022,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 20,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-24T18:34:51.393670"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T18:35:12.560432",
+    "product_id": 43053,
+    "product_name": "LoV 6x330ml",
+    "previous_stock": 3,
+    "current_stock": 7,
+    "change": 4,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T18:35:12.560432",
+    "product_id": 42618,
+    "product_name": "PRN 6x330ml",
+    "previous_stock": 1,
+    "current_stock": 25,
+    "change": 24,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T18:35:12.560432",
+    "product_id": 42604,
+    "product_name": "Bagl 6x330ml",
+    "previous_stock": 5,
+    "current_stock": 13,
+    "change": 8,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T18:35:12.560432",
+    "product_id": 42536,
+    "product_name": "VES 6x330ml",
+    "previous_stock": 6,
+    "current_stock": 30,
+    "change": 24,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T18:35:12.560432",
+    "product_id": 42673,
+    "product_name": "BARA Jarðaber & Límóna 6x330ml",
+    "previous_stock": 1,
+    "current_stock": 9,
+    "change": 8,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T18:35:12.560432",
+    "product_id": 42630,
+    "product_name": "BARA Hindber & Sítróna 6x330ml",
+    "previous_stock": 7,
+    "current_stock": 15,
+    "change": 8,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-24T18:35:12.560432",
+    "product_id": 43085,
+    "product_name": "LOOP Smooth Mint 4",
+    "stock": 30,
+    "details": {
+      "id": 43085,
+      "code": "30202705",
+      "name": "LOOP Smooth Mint 4",
+      "slug": "loop-smooth-mint-4-43085",
+      "category_id": 2805,
+      "category_name": "LOOP",
+      "category_path": "Nicotine > Pouches > LOOP",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5196eea0-6ddc-439a-bf48-c43dc875886a.webp",
+      "price": 99000,
+      "discount_price": null,
+      "stock": {
+        "H495": 30
+      },
+      "total_stock": 30,
+      "variants": [
+        {
+          "sku": "30202705",
+          "name": "LOOP Smooth Mint 4",
+          "price": 99000,
+          "value": "12.5mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5196eea0-6ddc-439a-bf48-c43dc875886a.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5196eea0-6ddc-439a-bf48-c43dc875886a_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5196eea0-6ddc-439a-bf48-c43dc875886a_thumb.webp"
+            }
+          ],
+          "offerId": 44591,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 30,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-24T18:34:54.150563"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-24T18:35:12.560432",
+    "product_id": 43072,
+    "product_name": "LOOP Jalapeno Lime 4",
+    "stock": 20,
+    "details": {
+      "id": 43072,
+      "code": "30202703",
+      "name": "LOOP Jalapeno Lime 4",
+      "slug": "loop-jalapeno-lime-4-43072",
+      "category_id": 2805,
+      "category_name": "LOOP",
+      "category_path": "Nicotine > Pouches > LOOP",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/184f5436-5d2b-4cee-8c3d-1b06a2ce9136.webp",
+      "price": 99000,
+      "discount_price": null,
+      "stock": {
+        "H495": 20
+      },
+      "total_stock": 20,
+      "variants": [
+        {
+          "sku": "30202703",
+          "name": "LOOP Jalapeno Lime 4",
+          "price": 99000,
+          "value": "12.5mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/184f5436-5d2b-4cee-8c3d-1b06a2ce9136.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/184f5436-5d2b-4cee-8c3d-1b06a2ce9136_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/184f5436-5d2b-4cee-8c3d-1b06a2ce9136_thumb.webp"
+            }
+          ],
+          "offerId": 44575,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 20,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-24T18:34:54.150563"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-24T18:35:12.560432",
+    "product_id": 43071,
+    "product_name": "LOOP Habanero Mint 4",
+    "stock": 20,
+    "details": {
+      "id": 43071,
+      "code": "30202706",
+      "name": "LOOP Habanero Mint 4",
+      "slug": "loop-loop-habanero-mint-4-43071",
+      "category_id": 2805,
+      "category_name": "LOOP",
+      "category_path": "Nicotine > Pouches > LOOP",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bfb93577-a215-470c-a360-7341a3a064c4.webp",
+      "price": 99000,
+      "discount_price": null,
+      "stock": {
+        "H495": 20
+      },
+      "total_stock": 20,
+      "variants": [
+        {
+          "sku": "30202706",
+          "name": "LOOP Habanero Mint 4",
+          "price": 99000,
+          "value": "12.5mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bfb93577-a215-470c-a360-7341a3a064c4.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bfb93577-a215-470c-a360-7341a3a064c4_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bfb93577-a215-470c-a360-7341a3a064c4_thumb.webp"
+            }
+          ],
+          "offerId": 44574,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 20,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-24T18:34:54.150563"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T18:35:12.560432",
+    "product_id": 42474,
+    "product_name": "Appelsín 6x330ml",
+    "previous_stock": 91,
+    "current_stock": 90,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-24T18:35:12.560432",
+    "product_id": 43585,
+    "product_name": "COLLAB Blóðappelsínu 6x330ml",
+    "previous_stock": 4,
+    "current_stock": 3,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
