@@ -127037,5 +127037,102 @@
     "current_stock": 29,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-25T18:01:11.989977",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 162,
+    "current_stock": 161,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-25T18:01:11.989977",
+    "product_id": 43056,
+    "product_name": "Boli 12x330ml",
+    "previous_stock": 149,
+    "current_stock": 145,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-25T18:01:11.989977",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 570,
+    "current_stock": 567,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-25T18:01:11.989977",
+    "product_id": 42594,
+    "product_name": "Piccini Prosecco 750ml",
+    "previous_stock": 17,
+    "current_stock": 16,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-25T18:01:11.989977",
+    "product_id": 42536,
+    "product_name": "VES 6x330ml",
+    "previous_stock": 30,
+    "current_stock": 29,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-25T18:01:11.989977",
+    "product_id": 42781,
+    "product_name": "Breezer Watermelon 4x275ml",
+    "previous_stock": 9,
+    "current_stock": 8,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-25T18:01:11.989977",
+    "product_id": 43701,
+    "product_name": "Ace X Double Mint 5",
+    "previous_stock": 19,
+    "current_stock": 18,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-25T18:01:11.989977",
+    "product_id": 43437,
+    "product_name": "Winston White Menthol Box",
+    "previous_stock": 19,
+    "current_stock": 18,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-25T18:01:11.989977",
+    "product_id": 42444,
+    "product_name": "NOCCO Miami 6x330ml",
+    "previous_stock": 44,
+    "current_stock": 43,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-25T18:01:11.989977",
+    "product_id": 42574,
+    "product_name": "Stella Artois 6x330ml",
+    "last_stock": 1
   }
 ]
