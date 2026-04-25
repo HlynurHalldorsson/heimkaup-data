@@ -127441,5 +127441,55 @@
     "current_stock": 23,
     "change": -2,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-25T21:57:56.366304",
+    "product_id": 42805,
+    "product_name": "Víking Lager 18x330ml",
+    "previous_stock": 12,
+    "current_stock": 11,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-25T21:57:56.366304",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 564,
+    "current_stock": 560,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-25T21:57:56.366304",
+    "product_id": 42559,
+    "product_name": "Finlandia Vodka 200ml",
+    "previous_stock": 14,
+    "current_stock": 13,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-25T21:57:56.366304",
+    "product_id": 42818,
+    "product_name": "Breezer Strawberry 4x275ml",
+    "previous_stock": 29,
+    "current_stock": 28,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-25T21:57:56.366304",
+    "product_id": 46239,
+    "product_name": "BLYS 800 Pineapple Ice",
+    "previous_stock": 13,
+    "current_stock": 12,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
