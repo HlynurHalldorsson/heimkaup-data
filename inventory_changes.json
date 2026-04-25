@@ -127401,5 +127401,45 @@
     "product_id": 42733,
     "product_name": "Víking Gylltur 12x500ml",
     "last_stock": 2
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-25T21:26:13.137828",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 152,
+    "current_stock": 151,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-25T21:26:13.137828",
+    "product_id": 42661,
+    "product_name": "Boli X 12x330ml",
+    "previous_stock": 36,
+    "current_stock": 35,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-25T21:26:13.137828",
+    "product_id": 42549,
+    "product_name": "Frontera Chardonnay 750ml",
+    "previous_stock": 7,
+    "current_stock": 5,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-25T21:26:13.137828",
+    "product_id": 42729,
+    "product_name": "Lamberti Prosecco 750ml",
+    "previous_stock": 25,
+    "current_stock": 23,
+    "change": -2,
+    "direction": "decrease"
   }
 ]
