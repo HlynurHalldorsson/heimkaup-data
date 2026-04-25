@@ -126258,5 +126258,65 @@
     "current_stock": 12,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-25T11:30:44.732289",
+    "product_id": 42733,
+    "product_name": "Víking Gylltur 12x500ml",
+    "previous_stock": 5,
+    "current_stock": 3,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-25T11:30:44.732289",
+    "product_id": 42608,
+    "product_name": "Boli Sterkur Pilsner 6x500ml",
+    "previous_stock": 18,
+    "current_stock": 16,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-25T11:30:44.732289",
+    "product_id": 43056,
+    "product_name": "Boli 12x330ml",
+    "previous_stock": 152,
+    "current_stock": 151,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-25T11:30:44.732289",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 585,
+    "current_stock": 583,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-25T11:30:44.732289",
+    "product_id": 42615,
+    "product_name": "Boli X 12x500ml",
+    "previous_stock": 17,
+    "current_stock": 15,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-25T11:30:44.732289",
+    "product_id": 43085,
+    "product_name": "LOOP Smooth Mint 4",
+    "previous_stock": 30,
+    "current_stock": 25,
+    "change": -5,
+    "direction": "decrease"
   }
 ]
