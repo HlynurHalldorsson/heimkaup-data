@@ -126690,5 +126690,65 @@
     "current_stock": 99,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-25T15:31:18.345209",
+    "product_id": 42709,
+    "product_name": "Heineken 4x500ml",
+    "previous_stock": 48,
+    "current_stock": 42,
+    "change": -6,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-25T15:31:18.345209",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 170,
+    "current_stock": 168,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-25T15:31:18.345209",
+    "product_id": 42701,
+    "product_name": "Tuborg Classic 12x500ml",
+    "previous_stock": 24,
+    "current_stock": 23,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-25T15:31:18.345209",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 577,
+    "current_stock": 575,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-25T15:31:18.345209",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 221,
+    "current_stock": 166,
+    "change": -55,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-25T15:31:18.345209",
+    "product_id": 47314,
+    "product_name": "Víking Páskabjór 6x330ml + 2 Víking 400ml Glass",
+    "previous_stock": 41,
+    "current_stock": 40,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
