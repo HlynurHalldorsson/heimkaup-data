@@ -126318,5 +126318,35 @@
     "current_stock": 25,
     "change": -5,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-25T12:03:05.295141",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 177,
+    "current_stock": 175,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-25T12:03:05.295141",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 583,
+    "current_stock": 582,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-25T12:03:05.295141",
+    "product_id": 42545,
+    "product_name": "Absolut Vodka 700ml",
+    "previous_stock": 9,
+    "current_stock": 8,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
