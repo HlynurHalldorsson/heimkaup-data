@@ -128408,5 +128408,29 @@
     "current_stock": 88,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-26T21:27:48.720515",
+    "product_id": 42745,
+    "product_name": "Luxardo Limoncello 500ml",
+    "previous_stock": 6,
+    "current_stock": 7,
+    "change": 1,
+    "direction": "increase"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-26T21:27:48.720515",
+    "product_id": 42609,
+    "product_name": "Polar Beer 6x500ml",
+    "last_stock": 1
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-26T21:27:48.720515",
+    "product_id": 43671,
+    "product_name": "Arpeggio Nerello Mascalesec 750ml",
+    "last_stock": 2
   }
 ]
