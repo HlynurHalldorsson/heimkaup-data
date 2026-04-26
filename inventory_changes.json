@@ -127818,5 +127818,55 @@
     "current_stock": 12,
     "change": -2,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-26T15:33:03.736641",
+    "product_id": 42709,
+    "product_name": "Heineken 4x500ml",
+    "previous_stock": 40,
+    "current_stock": 39,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-26T15:33:03.736641",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 150,
+    "current_stock": 149,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-26T15:33:03.736641",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 161,
+    "current_stock": 160,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-26T15:33:03.736641",
+    "product_id": 42765,
+    "product_name": "Askur Gin 700ml",
+    "previous_stock": 26,
+    "current_stock": 25,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-26T15:33:03.736641",
+    "product_id": 42474,
+    "product_name": "Appelsín 6x330ml",
+    "previous_stock": 90,
+    "current_stock": 89,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
