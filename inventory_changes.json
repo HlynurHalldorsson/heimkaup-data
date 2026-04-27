@@ -129222,5 +129222,35 @@
     "current_stock": 546,
     "change": -5,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-27T19:02:27.703024",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 135,
+    "current_stock": 134,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-27T19:02:27.703024",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 546,
+    "current_stock": 544,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-27T19:02:27.703024",
+    "product_id": 42710,
+    "product_name": "Víking Lite 12x500ml",
+    "previous_stock": 32,
+    "current_stock": 30,
+    "change": -2,
+    "direction": "decrease"
   }
 ]
