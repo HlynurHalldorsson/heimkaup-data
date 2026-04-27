@@ -128522,5 +128522,575 @@
     "current_stock": 7,
     "change": -3,
     "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-27T14:32:38.619776",
+    "product_id": 42616,
+    "product_name": "Löwenbräu Original 6x500ml",
+    "stock": 12,
+    "details": {
+      "id": 42616,
+      "code": "30230658",
+      "name": "Löwenbräu Original 6x500ml",
+      "slug": "lowenbrau-original-6x500ml-42616",
+      "category_id": 4237,
+      "category_name": "All Lagers",
+      "category_path": "Beer > Lager > All Lagers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e2367e1f-9717-4e27-9bc6-835add3a3fe1.webp",
+      "price": 299000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "30230658",
+          "name": "Löwenbräu Original 6x500ml",
+          "price": 299000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e2367e1f-9717-4e27-9bc6-835add3a3fe1.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e2367e1f-9717-4e27-9bc6-835add3a3fe1_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/e2367e1f-9717-4e27-9bc6-835add3a3fe1_thumb.webp"
+            }
+          ],
+          "offerId": 43944,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-27T14:32:05.857377"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-27T14:32:38.619776",
+    "product_id": 42574,
+    "product_name": "Stella Artois 6x330ml",
+    "stock": 12,
+    "details": {
+      "id": 42574,
+      "code": "30230635",
+      "name": "Stella Artois 6x330ml",
+      "slug": "stella-artois-6x330ml-42574",
+      "category_id": 5657,
+      "category_name": "All Lagers",
+      "category_path": "Beer > Lager > All Lagers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4c9ab1dc-8344-4007-aa1e-f0e9392befeb.webp",
+      "price": 239000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "30230635",
+          "name": "Stella Artois 6x330ml",
+          "price": 239000,
+          "value": "330ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4c9ab1dc-8344-4007-aa1e-f0e9392befeb.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4c9ab1dc-8344-4007-aa1e-f0e9392befeb_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4c9ab1dc-8344-4007-aa1e-f0e9392befeb_thumb.webp"
+            }
+          ],
+          "offerId": 43941,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-27T14:32:05.857377"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-27T14:32:38.619776",
+    "product_id": 42744,
+    "product_name": "Laurent Miquel Solas Pinot Noir 750ml",
+    "previous_stock": 9,
+    "current_stock": 15,
+    "change": 6,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-27T14:32:38.619776",
+    "product_id": 42584,
+    "product_name": "Gérard Bertrand An 940 Pinot Noir 750ml",
+    "stock": 12,
+    "details": {
+      "id": 42584,
+      "code": "30230625",
+      "name": "Gérard Bertrand An 940 Pinot Noir 750ml",
+      "slug": "gerard-bertrand-an-940-pinot-noir-750ml-42584",
+      "category_id": 4325,
+      "category_name": "Pinot Noir",
+      "category_path": "Wine > Red > Pinot Noir",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/21fffd5a-1117-426c-8da2-c759fa3030c6.webp",
+      "price": 329000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "30230625",
+          "name": "Gérard Bertrand An 940 Pinot Noir 750ml",
+          "price": 329000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/21fffd5a-1117-426c-8da2-c759fa3030c6.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/21fffd5a-1117-426c-8da2-c759fa3030c6_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/21fffd5a-1117-426c-8da2-c759fa3030c6_thumb.webp"
+            }
+          ],
+          "offerId": 43925,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-27T14:32:09.515546"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-27T14:32:38.619776",
+    "product_id": 42557,
+    "product_name": "Trivento Malbec Reserve 750ml",
+    "stock": 12,
+    "details": {
+      "id": 42557,
+      "code": "30230622",
+      "name": "Trivento Malbec Reserve 750ml",
+      "slug": "trivento-malbec-reserve-750ml-42557",
+      "category_id": 4327,
+      "category_name": "Malbec",
+      "category_path": "Wine > Red > Malbec",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/1a516892-612a-4c4d-bc60-7dfaa09f4a82.webp",
+      "price": 269000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "30230622",
+          "name": "Trivento Malbec Reserve 750ml",
+          "price": 269000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/1a516892-612a-4c4d-bc60-7dfaa09f4a82.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/1a516892-612a-4c4d-bc60-7dfaa09f4a82_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/1a516892-612a-4c4d-bc60-7dfaa09f4a82_thumb.webp"
+            }
+          ],
+          "offerId": 43871,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-27T14:32:10.555548"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-27T14:32:38.619776",
+    "product_id": 42577,
+    "product_name": "Baron De Ley Reserva 750ml",
+    "stock": 12,
+    "details": {
+      "id": 42577,
+      "code": "30230626",
+      "name": "Baron De Ley Reserva 750ml",
+      "slug": "baron-de-ley-reserva-750ml-42577",
+      "category_id": 5439,
+      "category_name": "Tempranillo",
+      "category_path": "Wine > Red > Tempranillo",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4317f622-e92d-4206-b7af-66a3962cfb8d.webp",
+      "price": 319000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "30230626",
+          "name": "Baron De Ley Reserva 750ml",
+          "price": 319000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4317f622-e92d-4206-b7af-66a3962cfb8d.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4317f622-e92d-4206-b7af-66a3962cfb8d_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4317f622-e92d-4206-b7af-66a3962cfb8d_thumb.webp"
+            }
+          ],
+          "offerId": 43927,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-27T14:32:11.567595"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-27T14:32:38.619776",
+    "product_id": 42583,
+    "product_name": "El Coto Crianza 750ml",
+    "stock": 12,
+    "details": {
+      "id": 42583,
+      "code": "30230624",
+      "name": "El Coto Crianza 750ml",
+      "slug": "el-coto-crianza-750ml-42583",
+      "category_id": 5439,
+      "category_name": "Tempranillo",
+      "category_path": "Wine > Red > Tempranillo",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/1cf8eece-b24e-4d75-84b3-8614490d7395.webp",
+      "price": 269000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "30230624",
+          "name": "El Coto Crianza 750ml",
+          "price": 269000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/1cf8eece-b24e-4d75-84b3-8614490d7395.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/1cf8eece-b24e-4d75-84b3-8614490d7395_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/1cf8eece-b24e-4d75-84b3-8614490d7395_thumb.webp"
+            }
+          ],
+          "offerId": 43905,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-27T14:32:11.567595"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-27T14:32:38.619776",
+    "product_id": 42599,
+    "product_name": "Apothic Red 750ml",
+    "previous_stock": 2,
+    "current_stock": 8,
+    "change": 6,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-27T14:32:38.619776",
+    "product_id": 42711,
+    "product_name": "Félix Solís Mucho Mas 750ml",
+    "stock": 24,
+    "details": {
+      "id": 42711,
+      "code": "30230815",
+      "name": "Félix Solís Mucho Mas 750ml",
+      "slug": "felix-solis-mucho-mas-750ml-42711",
+      "category_id": 4329,
+      "category_name": "Red Blends",
+      "category_path": "Wine > Red > Red Blends",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a9a59ca7-8d38-4569-b044-bb991c92cb2e.webp",
+      "price": 279000,
+      "discount_price": null,
+      "stock": {
+        "H495": 24
+      },
+      "total_stock": 24,
+      "variants": [
+        {
+          "sku": "30230815",
+          "name": "Félix Solís Mucho Mas 750ml",
+          "price": 279000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a9a59ca7-8d38-4569-b044-bb991c92cb2e.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a9a59ca7-8d38-4569-b044-bb991c92cb2e_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/a9a59ca7-8d38-4569-b044-bb991c92cb2e_thumb.webp"
+            }
+          ],
+          "offerId": 44023,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 24,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-27T14:32:12.244120"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-27T14:32:38.619776",
+    "product_id": 42685,
+    "product_name": "Tommasi Graticcio Appassionato 3L",
+    "previous_stock": 5,
+    "current_stock": 4,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-27T14:32:38.619776",
+    "product_id": 42610,
+    "product_name": "Adobe Chardonnay Reserva 2024 750ml",
+    "previous_stock": 12,
+    "current_stock": 18,
+    "change": 6,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-27T14:32:38.619776",
+    "product_id": 42531,
+    "product_name": "Viña Maipo Sauvignon Blanc Chardonnay 750ml",
+    "stock": 12,
+    "details": {
+      "id": 42531,
+      "code": "30230615",
+      "name": "Viña Maipo Sauvignon Blanc Chardonnay 750ml",
+      "slug": "vina-maipo-sauvignon-blanc-chardonnay-750ml-42531",
+      "category_id": 4252,
+      "category_name": "Sauvignon Blanc",
+      "category_path": "Wine > White > Sauvignon Blanc",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5e79fa53-a7d0-476a-9fa8-7600e5f92cb9.webp",
+      "price": 189000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "30230615",
+          "name": "Viña Maipo Sauvignon Blanc Chardonnay 750ml",
+          "price": 189000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5e79fa53-a7d0-476a-9fa8-7600e5f92cb9.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5e79fa53-a7d0-476a-9fa8-7600e5f92cb9_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5e79fa53-a7d0-476a-9fa8-7600e5f92cb9_thumb.webp"
+            }
+          ],
+          "offerId": 43891,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-27T14:32:14.838572"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-27T14:32:38.619776",
+    "product_id": 42578,
+    "product_name": "Barefoot Riesling 750ml",
+    "previous_stock": 3,
+    "current_stock": 9,
+    "change": 6,
+    "direction": "increase"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-27T14:32:38.619776",
+    "product_id": 42575,
+    "product_name": "Yellow Tail Moscato 750ml",
+    "stock": 12,
+    "details": {
+      "id": 42575,
+      "code": "30230630",
+      "name": "Yellow Tail Moscato 750ml",
+      "slug": "yellow-tail-moscato-750ml-42575",
+      "category_id": 4961,
+      "category_name": "Moscato",
+      "category_path": "Wine > White > Moscato",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/23434999-0c6c-4de0-8646-b94fa6245ef4.webp",
+      "price": 159000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "30230630",
+          "name": "Yellow Tail Moscato 750ml",
+          "price": 159000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/23434999-0c6c-4de0-8646-b94fa6245ef4.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/23434999-0c6c-4de0-8646-b94fa6245ef4_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/23434999-0c6c-4de0-8646-b94fa6245ef4_thumb.webp"
+            }
+          ],
+          "offerId": 43903,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-27T14:32:16.246831"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-27T14:32:38.619776",
+    "product_id": 42687,
+    "product_name": "Tommasi Pinot Grigio 3L",
+    "previous_stock": 16,
+    "current_stock": 15,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-27T14:32:38.619776",
+    "product_id": 42528,
+    "product_name": "Bailly Lapierre Cremant Reserve Brut 750ml",
+    "stock": 12,
+    "details": {
+      "id": 42528,
+      "code": "30230620",
+      "name": "Bailly Lapierre Cremant Reserve Brut 750ml",
+      "slug": "bailly-lapierre-cremant-reserve-brut-750ml-42528",
+      "category_id": 4256,
+      "category_name": "All Sparkling Wines",
+      "category_path": "Wine > Sparkling > All Sparkling Wines",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/552beadc-ff53-46a5-b1cc-b19f930375e6.webp",
+      "price": 299000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "30230620",
+          "name": "Bailly Lapierre Cremant Reserve Brut 750ml",
+          "price": 299000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/552beadc-ff53-46a5-b1cc-b19f930375e6.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/552beadc-ff53-46a5-b1cc-b19f930375e6_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/552beadc-ff53-46a5-b1cc-b19f930375e6_thumb.webp"
+            }
+          ],
+          "offerId": 43859,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-27T14:32:17.817837"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-27T14:32:38.619776",
+    "product_id": 42545,
+    "product_name": "Absolut Vodka 700ml",
+    "previous_stock": 6,
+    "current_stock": 12,
+    "change": 6,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-27T14:32:38.619776",
+    "product_id": 42753,
+    "product_name": "Roku Gin 700ml",
+    "previous_stock": 4,
+    "current_stock": 3,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-27T14:32:38.619776",
+    "product_id": 42552,
+    "product_name": "Bombay Gin 700ml",
+    "previous_stock": 8,
+    "current_stock": 7,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-27T14:32:38.619776",
+    "product_id": 47167,
+    "product_name": "VELO Lime Flame 3",
+    "previous_stock": 10,
+    "current_stock": 9,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-27T14:32:38.619776",
+    "product_id": 42472,
+    "product_name": "Kristall án bragðefna 12x330ml",
+    "previous_stock": 99,
+    "current_stock": 98,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
