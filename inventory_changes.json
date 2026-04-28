@@ -130024,5 +130024,55 @@
     "current_stock": 27,
     "change": -5,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-28T22:29:03.195089",
+    "product_id": 42703,
+    "product_name": "Gull 12x500ml",
+    "previous_stock": 42,
+    "current_stock": 40,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-28T22:29:03.195089",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 127,
+    "current_stock": 125,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-28T22:29:03.195089",
+    "product_id": 42680,
+    "product_name": "Tuborg Green 12x500ml",
+    "previous_stock": 10,
+    "current_stock": 8,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-28T22:29:03.195089",
+    "product_id": 42741,
+    "product_name": "Stella Artois 6x330ml (Gler)",
+    "previous_stock": 16,
+    "current_stock": 15,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-28T22:29:03.195089",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 540,
+    "current_stock": 538,
+    "change": -2,
+    "direction": "decrease"
   }
 ]
