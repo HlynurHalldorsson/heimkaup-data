@@ -130924,5 +130924,433 @@
     "product_id": 42495,
     "product_name": "Red Bull Sea Blue Edition 6x250ml",
     "last_stock": 1
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-29T19:05:56.223253",
+    "product_id": 42703,
+    "product_name": "Gull 12x500ml",
+    "previous_stock": 40,
+    "current_stock": 39,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-29T19:05:56.223253",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 116,
+    "current_stock": 115,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-29T19:05:56.223253",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 537,
+    "current_stock": 536,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-29T19:05:56.223253",
+    "product_id": 43657,
+    "product_name": "Torres Vina Esmeralda 750 ml",
+    "stock": 8,
+    "details": {
+      "id": 43657,
+      "code": "30234637",
+      "name": "Torres Vina Esmeralda 750 ml",
+      "slug": "torres-vina-esmeralda-750-ml-43657",
+      "category_id": 4334,
+      "category_name": "White Blends",
+      "category_path": "Wine > White > White Blends",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8a6ac7ab-1335-4a2f-bff3-7bfa23e058e9.webp",
+      "price": 216000,
+      "discount_price": null,
+      "stock": {
+        "H495": 8
+      },
+      "total_stock": 8,
+      "variants": [
+        {
+          "sku": "30234637",
+          "name": "Torres Vina Esmeralda 750 ml",
+          "price": 216000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8a6ac7ab-1335-4a2f-bff3-7bfa23e058e9.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8a6ac7ab-1335-4a2f-bff3-7bfa23e058e9_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8a6ac7ab-1335-4a2f-bff3-7bfa23e058e9_thumb.webp"
+            }
+          ],
+          "offerId": 45281,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 8,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-29T19:05:31.630543"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-29T19:05:56.223253",
+    "product_id": 43594,
+    "product_name": "Rosemount GTR 750ml",
+    "stock": 3,
+    "details": {
+      "id": 43594,
+      "code": "30230676",
+      "name": "Rosemount GTR 750ml",
+      "slug": "rosemount-gtr-750ml-43594",
+      "category_id": 4334,
+      "category_name": "White Blends",
+      "category_path": "Wine > White > White Blends",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8375767b-f20c-444f-ad28-beec8bec82fb.webp",
+      "price": 199000,
+      "discount_price": null,
+      "stock": {
+        "H495": 3
+      },
+      "total_stock": 3,
+      "variants": [
+        {
+          "sku": "30230676",
+          "name": "Rosemount GTR 750ml",
+          "price": 199000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8375767b-f20c-444f-ad28-beec8bec82fb.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8375767b-f20c-444f-ad28-beec8bec82fb_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/8375767b-f20c-444f-ad28-beec8bec82fb_thumb.webp"
+            }
+          ],
+          "offerId": 45247,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 3,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-29T19:05:31.630543"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-29T19:05:56.223253",
+    "product_id": 43200,
+    "product_name": "El Coto Blanco 750ml",
+    "stock": 10,
+    "details": {
+      "id": 43200,
+      "code": "30230629",
+      "name": "El Coto Blanco 750ml",
+      "slug": "el-coto-blanco-750ml-43200",
+      "category_id": 4334,
+      "category_name": "White Blends",
+      "category_path": "Wine > White > White Blends",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/058567dd-9104-41ab-a6b1-05a5500ae916.webp",
+      "price": 229000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "30230629",
+          "name": "El Coto Blanco 750ml",
+          "price": 229000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/058567dd-9104-41ab-a6b1-05a5500ae916.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/058567dd-9104-41ab-a6b1-05a5500ae916_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/058567dd-9104-41ab-a6b1-05a5500ae916_thumb.webp"
+            }
+          ],
+          "offerId": 44799,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-29T19:05:31.630543"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-29T19:05:56.223253",
+    "product_id": 43064,
+    "product_name": "Gomez Cruzado Blanco 750ml",
+    "stock": 4,
+    "details": {
+      "id": 43064,
+      "code": "30230713",
+      "name": "Gomez Cruzado Blanco 750ml",
+      "slug": "gomez-cruzado-blanco-750ml-43064",
+      "category_id": 4334,
+      "category_name": "White Blends",
+      "category_path": "Wine > White > White Blends",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9603f449-8540-4ee1-bead-019764393ba2.webp",
+      "price": 319000,
+      "discount_price": null,
+      "stock": {
+        "H495": 4
+      },
+      "total_stock": 4,
+      "variants": [
+        {
+          "sku": "30230713",
+          "name": "Gomez Cruzado Blanco 750ml",
+          "price": 319000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9603f449-8540-4ee1-bead-019764393ba2.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9603f449-8540-4ee1-bead-019764393ba2_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/9603f449-8540-4ee1-bead-019764393ba2_thumb.webp"
+            }
+          ],
+          "offerId": 44571,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 4,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-29T19:05:31.630543"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-29T19:05:56.223253",
+    "product_id": 42670,
+    "product_name": "Muga Blanco 750ml",
+    "stock": 1,
+    "details": {
+      "id": 42670,
+      "code": "30230759",
+      "name": "Muga Blanco 750ml",
+      "slug": "muga-blanco-750ml-42670",
+      "category_id": 4334,
+      "category_name": "White Blends",
+      "category_path": "Wine > White > White Blends",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/509b388e-6caf-4b05-9722-fab112dabac0.webp",
+      "price": 299000,
+      "discount_price": null,
+      "stock": {
+        "H495": 1
+      },
+      "total_stock": 1,
+      "variants": [
+        {
+          "sku": "30230759",
+          "name": "Muga Blanco 750ml",
+          "price": 299000,
+          "value": "750ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/509b388e-6caf-4b05-9722-fab112dabac0.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/509b388e-6caf-4b05-9722-fab112dabac0_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/509b388e-6caf-4b05-9722-fab112dabac0_thumb.webp"
+            }
+          ],
+          "offerId": 43992,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 1,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-29T19:05:31.630543"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-29T19:05:56.223253",
+    "product_id": 42532,
+    "product_name": "JP. Chenet Medium Sweet 250ml",
+    "stock": 6,
+    "details": {
+      "id": 42532,
+      "code": "30230608",
+      "name": "JP. Chenet Medium Sweet 250ml",
+      "slug": "jp-chenet-medium-sweet-250ml-42532",
+      "category_id": 4334,
+      "category_name": "White Blends",
+      "category_path": "Wine > White > White Blends",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cc1d1b88-4745-43ef-8f3f-8096b11f3489.webp",
+      "price": 95000,
+      "discount_price": null,
+      "stock": {
+        "H495": 6
+      },
+      "total_stock": 6,
+      "variants": [
+        {
+          "sku": "30230608",
+          "name": "JP. Chenet Medium Sweet 250ml",
+          "price": 95000,
+          "value": "250ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cc1d1b88-4745-43ef-8f3f-8096b11f3489.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cc1d1b88-4745-43ef-8f3f-8096b11f3489_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/cc1d1b88-4745-43ef-8f3f-8096b11f3489_thumb.webp"
+            }
+          ],
+          "offerId": 43894,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 6,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-29T19:05:31.630543"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-29T19:05:56.223253",
+    "product_id": 43005,
+    "product_name": "Faustino VII White 187ml",
+    "stock": 16,
+    "details": {
+      "id": 43005,
+      "code": "30202872",
+      "name": "Faustino VII White 187ml",
+      "slug": "faustino-vii-white-187ml-43005",
+      "category_id": 4334,
+      "category_name": "White Blends",
+      "category_path": "Wine > White > White Blends",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bba6a66c-122b-4a9a-9e31-55f2e5b67214.webp",
+      "price": 79000,
+      "discount_price": null,
+      "stock": {
+        "H495": 16
+      },
+      "total_stock": 16,
+      "variants": [
+        {
+          "sku": "30202872",
+          "name": "Faustino VII White 187ml",
+          "price": 79000,
+          "value": "187ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bba6a66c-122b-4a9a-9e31-55f2e5b67214.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bba6a66c-122b-4a9a-9e31-55f2e5b67214_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/bba6a66c-122b-4a9a-9e31-55f2e5b67214_thumb.webp"
+            }
+          ],
+          "offerId": 44512,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 16,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-29T19:05:31.630543"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-29T19:05:56.223253",
+    "product_id": 42633,
+    "product_name": "Cune Blanco 187ml",
+    "stock": 12,
+    "details": {
+      "id": 42633,
+      "code": "30230735",
+      "name": "Cune Blanco 187ml",
+      "slug": "cune-blanco-187ml-42633",
+      "category_id": 4334,
+      "category_name": "White Blends",
+      "category_path": "Wine > White > White Blends",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/23365328-421c-47bb-82d3-67ef2d7f0ec8.webp",
+      "price": 82000,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "30230735",
+          "name": "Cune Blanco 187ml",
+          "price": 82000,
+          "value": "187ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/23365328-421c-47bb-82d3-67ef2d7f0ec8.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/23365328-421c-47bb-82d3-67ef2d7f0ec8_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/23365328-421c-47bb-82d3-67ef2d7f0ec8_thumb.webp"
+            }
+          ],
+          "offerId": 43960,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-29T19:05:31.630543"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-29T19:05:56.223253",
+    "product_id": 43049,
+    "product_name": "Shoot Crazy Crocodile 500ml",
+    "previous_stock": 18,
+    "current_stock": 17,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-29T19:05:56.223253",
+    "product_id": 42999,
+    "product_name": "Sma Gronne Lakkrís 500ml",
+    "previous_stock": 10,
+    "current_stock": 9,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-29T19:05:56.223253",
+    "product_id": 49257,
+    "product_name": "Silvio Carta Liquore di Liquirizia 700ml",
+    "previous_stock": 6,
+    "current_stock": 5,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
