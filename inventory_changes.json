@@ -130651,5 +130651,278 @@
     "product_id": 42436,
     "product_name": "Coca-Cola 10x330ml",
     "last_stock": 2
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-29T17:54:57.123481",
+    "product_id": 42709,
+    "product_name": "Heineken 4x500ml",
+    "previous_stock": 28,
+    "current_stock": 32,
+    "change": 4,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-29T17:54:57.123481",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 123,
+    "current_stock": 116,
+    "change": -7,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-29T17:54:57.123481",
+    "product_id": 42680,
+    "product_name": "Tuborg Green 12x500ml",
+    "previous_stock": 6,
+    "current_stock": 12,
+    "change": 6,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-29T17:54:57.123481",
+    "product_id": 43710,
+    "product_name": "Krombacher Pils 6x330ml",
+    "previous_stock": 20,
+    "current_stock": 21,
+    "change": 1,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-29T17:54:57.123481",
+    "product_id": 42822,
+    "product_name": "Víking Gylltur 12x330ml",
+    "previous_stock": 14,
+    "current_stock": 13,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-29T17:54:57.123481",
+    "product_id": 49278,
+    "product_name": "Birra Moretti 4x330ml (gler)",
+    "previous_stock": 22,
+    "current_stock": 20,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-29T17:54:57.123481",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 143,
+    "current_stock": 140,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-29T17:54:57.123481",
+    "product_id": 42654,
+    "product_name": "Château Lamothe Vincent Héritage 750ml",
+    "previous_stock": 2,
+    "current_stock": 1,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-29T17:54:57.123481",
+    "product_id": 51677,
+    "product_name": "Pasqua Desire Lush & Zin Primitivo 750ml",
+    "previous_stock": 12,
+    "current_stock": 11,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-29T17:54:57.123481",
+    "product_id": 42585,
+    "product_name": "Two Oceans Fresh & Fruity 3L",
+    "previous_stock": 15,
+    "current_stock": 13,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-29T17:54:57.123481",
+    "product_id": 42729,
+    "product_name": "Lamberti Prosecco 750ml",
+    "previous_stock": 21,
+    "current_stock": 20,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-29T17:54:57.123481",
+    "product_id": 42594,
+    "product_name": "Piccini Prosecco 750ml",
+    "previous_stock": 15,
+    "current_stock": 14,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-29T17:54:57.123481",
+    "product_id": 42809,
+    "product_name": "Bacardi Carta Blanca 700ml",
+    "previous_stock": 6,
+    "current_stock": 5,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-29T17:54:57.123481",
+    "product_id": 42997,
+    "product_name": "Aperol Aperitivo 1L",
+    "previous_stock": 3,
+    "current_stock": 2,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-29T17:54:57.123481",
+    "product_id": 42779,
+    "product_name": "Breezer Passionfruit Mango 4x275ml",
+    "previous_stock": 7,
+    "current_stock": 6,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-29T17:54:57.123481",
+    "product_id": 43076,
+    "product_name": "VELO Freezing Peppermint 4",
+    "previous_stock": 27,
+    "current_stock": 26,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-29T17:54:57.123481",
+    "product_id": 43434,
+    "product_name": "Winston Red Classic 100s Box",
+    "previous_stock": 22,
+    "current_stock": 20,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-29T17:54:57.123481",
+    "product_id": 42434,
+    "product_name": "Pepsi Max 12x330ml",
+    "previous_stock": 38,
+    "current_stock": 37,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-29T17:54:57.123481",
+    "product_id": 42441,
+    "product_name": "Kristall Mexican Lime 12x330ml",
+    "previous_stock": 92,
+    "current_stock": 91,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-29T17:54:57.123481",
+    "product_id": 49312,
+    "product_name": "Lays Bugles Original 125g",
+    "previous_stock": 495,
+    "current_stock": 494,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-29T17:54:57.123481",
+    "product_id": 49327,
+    "product_name": "Tuc Saltkex 100g",
+    "previous_stock": 100,
+    "current_stock": 99,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-29T17:54:57.123481",
+    "product_id": 43657,
+    "product_name": "Torres Vina Esmeralda 750 ml",
+    "last_stock": 8
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-29T17:54:57.123481",
+    "product_id": 43594,
+    "product_name": "Rosemount GTR 750ml",
+    "last_stock": 3
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-29T17:54:57.123481",
+    "product_id": 43200,
+    "product_name": "El Coto Blanco 750ml",
+    "last_stock": 10
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-29T17:54:57.123481",
+    "product_id": 43064,
+    "product_name": "Gomez Cruzado Blanco 750ml",
+    "last_stock": 4
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-29T17:54:57.123481",
+    "product_id": 42670,
+    "product_name": "Muga Blanco 750ml",
+    "last_stock": 1
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-29T17:54:57.123481",
+    "product_id": 42532,
+    "product_name": "JP. Chenet Medium Sweet 250ml",
+    "last_stock": 6
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-29T17:54:57.123481",
+    "product_id": 43005,
+    "product_name": "Faustino VII White 187ml",
+    "last_stock": 16
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-29T17:54:57.123481",
+    "product_id": 42633,
+    "product_name": "Cune Blanco 187ml",
+    "last_stock": 12
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-04-29T17:54:57.123481",
+    "product_id": 42495,
+    "product_name": "Red Bull Sea Blue Edition 6x250ml",
+    "last_stock": 1
   }
 ]
