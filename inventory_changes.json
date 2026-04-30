@@ -134794,5 +134794,271 @@
     "current_stock": 61,
     "change": -3,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-30T21:45:17.258344",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 72,
+    "current_stock": 71,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-30T21:45:17.258344",
+    "product_id": 42576,
+    "product_name": "Stella Artois 10x440ml",
+    "previous_stock": 3,
+    "current_stock": 2,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-30T21:45:17.258344",
+    "product_id": 43056,
+    "product_name": "Boli 12x330ml",
+    "previous_stock": 107,
+    "current_stock": 105,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-30T21:45:17.258344",
+    "product_id": 42822,
+    "product_name": "Víking Gylltur 12x330ml",
+    "previous_stock": 13,
+    "current_stock": 15,
+    "change": 2,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-30T21:45:17.258344",
+    "product_id": 42741,
+    "product_name": "Stella Artois 6x330ml (Gler)",
+    "previous_stock": 13,
+    "current_stock": 12,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-30T21:45:17.258344",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 89,
+    "current_stock": 95,
+    "change": 6,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-30T21:45:17.258344",
+    "product_id": 42721,
+    "product_name": "Kaldi Lite 10x330ml",
+    "previous_stock": 3,
+    "current_stock": 2,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-04-30T21:45:17.258344",
+    "product_id": 49012,
+    "product_name": "Erdinger Oktoberfest 4x500ml",
+    "stock": 2,
+    "details": {
+      "id": 49012,
+      "code": "50000148PK4",
+      "name": "Erdinger Oktoberfest 4x500ml",
+      "slug": "erdinger-oktoberfest-4x500ml-49012",
+      "category_id": 4243,
+      "category_name": "All Seasonal Beers",
+      "category_path": "Beer > Seasonal > All Seasonal Beers",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f270a16a-df15-45aa-bdc8-8bf99f659e9d.webp",
+      "price": 264000,
+      "discount_price": 132000,
+      "stock": {
+        "H495": 2
+      },
+      "total_stock": 2,
+      "variants": [
+        {
+          "sku": "50000148PK4",
+          "name": "Erdinger Oktoberfest 4x500ml",
+          "price": 264000,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f270a16a-df15-45aa-bdc8-8bf99f659e9d.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f270a16a-df15-45aa-bdc8-8bf99f659e9d_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/f270a16a-df15-45aa-bdc8-8bf99f659e9d_thumb.webp"
+            }
+          ],
+          "offerId": 50352,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 2,
+          "discountPrice": 132000,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-04-30T21:44:47.387337"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-30T21:45:17.258344",
+    "product_id": 47314,
+    "product_name": "Víking Páskabjór 6x330ml + 2 Víking 400ml Glass",
+    "previous_stock": 34,
+    "current_stock": 33,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-30T21:45:17.258344",
+    "product_id": 42744,
+    "product_name": "Laurent Miquel Solas Pinot Noir 750ml",
+    "previous_stock": 15,
+    "current_stock": 17,
+    "change": 2,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-30T21:45:17.258344",
+    "product_id": 42577,
+    "product_name": "Baron De Ley Reserva 750ml",
+    "previous_stock": 12,
+    "current_stock": 14,
+    "change": 2,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-30T21:45:17.258344",
+    "product_id": 42675,
+    "product_name": "Silk & Spice Red Blend 750ml",
+    "previous_stock": 2,
+    "current_stock": 1,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-30T21:45:17.258344",
+    "product_id": 42549,
+    "product_name": "Frontera Chardonnay 750ml",
+    "previous_stock": 5,
+    "current_stock": 4,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-30T21:45:17.258344",
+    "product_id": 42561,
+    "product_name": "Stemmari Pinot Grigio 3L",
+    "previous_stock": 9,
+    "current_stock": 10,
+    "change": 1,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-30T21:45:17.258344",
+    "product_id": 43025,
+    "product_name": "Kopparberg Strawberry Pineapple 4x330ml",
+    "previous_stock": 1,
+    "current_stock": 2,
+    "change": 1,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-30T21:45:17.258344",
+    "product_id": 42700,
+    "product_name": "Somersby Apple 6x330ml",
+    "previous_stock": 12,
+    "current_stock": 13,
+    "change": 1,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-30T21:45:17.258344",
+    "product_id": 42775,
+    "product_name": "Bombay Sapphire Gin & Tonic 4x250ml",
+    "previous_stock": 5,
+    "current_stock": 4,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-30T21:45:17.258344",
+    "product_id": 43053,
+    "product_name": "LoV 6x330ml",
+    "previous_stock": 4,
+    "current_stock": 3,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-30T21:45:17.258344",
+    "product_id": 49261,
+    "product_name": "Héla Jarðarber & Sítróna 10x330ml",
+    "previous_stock": 22,
+    "current_stock": 21,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-30T21:45:17.258344",
+    "product_id": 46262,
+    "product_name": "LOOP Hot Peach 3",
+    "previous_stock": 18,
+    "current_stock": 13,
+    "change": -5,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-30T21:45:17.258344",
+    "product_id": 43693,
+    "product_name": "Loop Blackcurrant 3",
+    "previous_stock": 42,
+    "current_stock": 37,
+    "change": -5,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-30T21:45:17.258344",
+    "product_id": 43071,
+    "product_name": "LOOP Habanero Mint 4",
+    "previous_stock": 10,
+    "current_stock": 9,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-04-30T21:45:17.258344",
+    "product_id": 47163,
+    "product_name": "ACE Berry Breeze 2",
+    "previous_stock": 10,
+    "current_stock": 9,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
