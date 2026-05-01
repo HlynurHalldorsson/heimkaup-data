@@ -136081,5 +136081,455 @@
     "product_id": 42630,
     "product_name": "BARA Hindber & Sítróna 6x330ml",
     "last_stock": 5
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-01T15:30:58.288070",
+    "product_id": 42709,
+    "product_name": "Heineken 4x500ml",
+    "previous_stock": 30,
+    "current_stock": 29,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-01T15:30:58.288070",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 52,
+    "current_stock": 43,
+    "change": -9,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-01T15:30:58.288070",
+    "product_id": 42705,
+    "product_name": "Víking Sterkr 6x500ml",
+    "previous_stock": 14,
+    "current_stock": 12,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-01T15:30:58.288070",
+    "product_id": 42680,
+    "product_name": "Tuborg Green 12x500ml",
+    "previous_stock": 4,
+    "current_stock": 3,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-01T15:30:58.288070",
+    "product_id": 42616,
+    "product_name": "Löwenbräu Original 6x500ml",
+    "previous_stock": 9,
+    "current_stock": 8,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-01T15:30:58.288070",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 505,
+    "current_stock": 498,
+    "change": -7,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-01T15:30:58.288070",
+    "product_id": 42710,
+    "product_name": "Víking Lite 12x500ml",
+    "previous_stock": 22,
+    "current_stock": 21,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-01T15:30:58.288070",
+    "product_id": 42615,
+    "product_name": "Boli X 12x500ml",
+    "previous_stock": 6,
+    "current_stock": 5,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-01T15:30:58.288070",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 89,
+    "current_stock": 87,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-01T15:30:58.288070",
+    "product_id": 49012,
+    "product_name": "Erdinger Oktoberfest 4x500ml",
+    "previous_stock": 2,
+    "current_stock": 1,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-01T15:30:58.288070",
+    "product_id": 43657,
+    "product_name": "Torres Vina Esmeralda 750 ml",
+    "previous_stock": 8,
+    "current_stock": 7,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-01T15:30:58.288070",
+    "product_id": 42602,
+    "product_name": "Tindavodki 500ml",
+    "previous_stock": 4,
+    "current_stock": 3,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-05-01T15:30:58.288070",
+    "product_id": 54158,
+    "product_name": "Fernet Branca 500ml",
+    "stock": 12,
+    "details": {
+      "id": 54158,
+      "code": "50000635",
+      "name": "Fernet Branca 500ml",
+      "slug": "fernet-branca-500ml-54158",
+      "category_id": 5418,
+      "category_name": "Bitters",
+      "category_path": "Spirits > Aperitif > Bitters",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2edc5951-2e44-4043-9b00-0ce6e854ba6b.webp",
+      "price": 669700,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "50000635",
+          "name": "Fernet Branca 500ml",
+          "price": 669700,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2edc5951-2e44-4043-9b00-0ce6e854ba6b.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2edc5951-2e44-4043-9b00-0ce6e854ba6b_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/2edc5951-2e44-4043-9b00-0ce6e854ba6b_thumb.webp"
+            }
+          ],
+          "offerId": 55233,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-05-01T15:30:36.220783"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-01T15:30:58.288070",
+    "product_id": 54156,
+    "product_name": "STD 6x330ml",
+    "previous_stock": 9,
+    "current_stock": 8,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-01T15:30:58.288070",
+    "product_id": 43076,
+    "product_name": "VELO Freezing Peppermint 4",
+    "previous_stock": 16,
+    "current_stock": 14,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-01T15:30:58.288070",
+    "product_id": 43078,
+    "product_name": "VELO Smooth Spearmint 2",
+    "previous_stock": 16,
+    "current_stock": 15,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-05-01T15:30:58.288070",
+    "product_id": 54164,
+    "product_name": "VELO Mini Crispy Peppermint 3",
+    "stock": 10,
+    "details": {
+      "id": 54164,
+      "code": "30210767",
+      "name": "VELO Mini Crispy Peppermint 3",
+      "slug": "velo-mini-crispy-peppermint-3-54164",
+      "category_id": 4351,
+      "category_name": "VELO",
+      "category_path": "Nicotine > Pouches > VELO",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/3741db5f-7302-462a-88ad-4b18a7dfabc0.webp",
+      "price": 99000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [],
+      "last_updated": "2026-05-01T15:30:40.826801"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-05-01T15:30:58.288070",
+    "product_id": 54161,
+    "product_name": "V&You &Boost+ Fresh Citrus",
+    "stock": 10,
+    "details": {
+      "id": 54161,
+      "code": "30206343",
+      "name": "V&You &Boost+ Fresh Citrus",
+      "slug": "v-you-boost-fresh-citrus-54161",
+      "category_id": 5319,
+      "category_name": "V&YOU",
+      "category_path": "Nicotine > Pouches > V&YOU",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/4e8a95ad-5e68-49e5-88d3-fe3eab6d4e9e.webp",
+      "price": 99000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [],
+      "last_updated": "2026-05-01T15:30:42.221986"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-05-01T15:30:58.288070",
+    "product_id": 49228,
+    "product_name": "V&YOU BOOST Blueberry Ice 4",
+    "stock": 10,
+    "details": {
+      "id": 49228,
+      "code": "50000238",
+      "name": "V&YOU BOOST Blueberry Ice 4",
+      "slug": "v-you-boost-blueberry-ice-4-49228",
+      "category_id": 5319,
+      "category_name": "V&YOU",
+      "category_path": "Nicotine > Pouches > V&YOU",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5c8bd97d-0bef-4619-afd9-7f55b2fecd82.webp",
+      "price": 79000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [
+        {
+          "sku": "50000238",
+          "name": "V&YOU BOOST Blueberry Ice 4",
+          "price": 79000,
+          "value": "10mg",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5c8bd97d-0bef-4619-afd9-7f55b2fecd82.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5c8bd97d-0bef-4619-afd9-7f55b2fecd82_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/5c8bd97d-0bef-4619-afd9-7f55b2fecd82_thumb.webp"
+            }
+          ],
+          "offerId": 50568,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 10,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-05-01T15:30:42.221986"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-01T15:30:58.288070",
+    "product_id": 43694,
+    "product_name": "V&YOU Flavour Free 4",
+    "previous_stock": 20,
+    "current_stock": 30,
+    "change": 10,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-01T15:30:58.288070",
+    "product_id": 42503,
+    "product_name": "Reymont 800 Cotton Candy",
+    "previous_stock": 2,
+    "current_stock": 1,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-05-01T15:30:58.288070",
+    "product_id": 54163,
+    "product_name": "Winston Xspression Box",
+    "stock": 10,
+    "details": {
+      "id": 54163,
+      "code": "30132358",
+      "name": "Winston Xspression Box",
+      "slug": "winston-xspression-box-54163",
+      "category_id": 5315,
+      "category_name": "Winston",
+      "category_path": "Nicotine > Cigarettes > Winston",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/758518b0-1b32-43a1-8500-8ce20d4c61ff.webp",
+      "price": 199000,
+      "discount_price": null,
+      "stock": {
+        "H495": 10
+      },
+      "total_stock": 10,
+      "variants": [],
+      "last_updated": "2026-05-01T15:30:46.549381"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-05-01T15:30:58.288070",
+    "product_id": 49330,
+    "product_name": "MS Dalahringur 200g",
+    "stock": 50,
+    "details": {
+      "id": 49330,
+      "code": "30095911",
+      "name": "MS Dalahringur 200g",
+      "slug": "ms-dalahringur-200g-49330",
+      "category_id": 6038,
+      "category_name": "All Cheeses",
+      "category_path": "Food > Cheese > All Cheeses",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/398d3b43-6046-45a5-ba40-91d9d82eadd6.webp",
+      "price": 139000,
+      "discount_price": null,
+      "stock": {
+        "H495": 50
+      },
+      "total_stock": 50,
+      "variants": [
+        {
+          "sku": "30095911",
+          "name": "MS Dalahringur 200g",
+          "price": 139000,
+          "value": "200g",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/398d3b43-6046-45a5-ba40-91d9d82eadd6.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/398d3b43-6046-45a5-ba40-91d9d82eadd6_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/398d3b43-6046-45a5-ba40-91d9d82eadd6_thumb.webp"
+            }
+          ],
+          "offerId": 50669,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 50,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-05-01T15:30:57.146223"
+    }
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-05-01T15:30:58.288070",
+    "product_id": 49331,
+    "product_name": "MS Camembert 150gr",
+    "stock": 50,
+    "details": {
+      "id": 49331,
+      "code": "4045",
+      "name": "MS Camembert 150gr",
+      "slug": "ms-camembert-150gr-49331",
+      "category_id": 6038,
+      "category_name": "All Cheeses",
+      "category_path": "Food > Cheese > All Cheeses",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6bc0ad76-e6a4-4b74-b606-52733fe85e19.webp",
+      "price": 103000,
+      "discount_price": null,
+      "stock": {
+        "H495": 50
+      },
+      "total_stock": 50,
+      "variants": [
+        {
+          "sku": "4045",
+          "name": "MS Camembert 150gr",
+          "price": 103000,
+          "value": "150g",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6bc0ad76-e6a4-4b74-b606-52733fe85e19.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6bc0ad76-e6a4-4b74-b606-52733fe85e19_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/6bc0ad76-e6a4-4b74-b606-52733fe85e19_thumb.webp"
+            }
+          ],
+          "offerId": 50670,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 50,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-05-01T15:30:57.146223"
+    }
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-05-01T15:30:58.288070",
+    "product_id": 42574,
+    "product_name": "Stella Artois 6x330ml",
+    "last_stock": 1
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-05-01T15:30:58.288070",
+    "product_id": 43016,
+    "product_name": "Montalto Pinot Grigio 750ml",
+    "last_stock": 7
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-05-01T15:30:58.288070",
+    "product_id": 43071,
+    "product_name": "LOOP Habanero Mint 4",
+    "last_stock": 9
   }
 ]
