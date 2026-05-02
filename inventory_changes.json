@@ -137840,5 +137840,251 @@
     "product_id": 49299,
     "product_name": "Victorine de Chastenay Crémant 750ml",
     "last_stock": 1
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-02T11:36:36.749993",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 26,
+    "current_stock": 25,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-02T11:36:36.749993",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 82,
+    "current_stock": 81,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-02T11:36:36.749993",
+    "product_id": 47314,
+    "product_name": "Víking Páskabjór 6x330ml + 2 Víking 400ml Glass",
+    "previous_stock": 33,
+    "current_stock": 32,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-02T11:36:36.749993",
+    "product_id": 42601,
+    "product_name": "Gato Negro Cabernet Sauvignon 750ml",
+    "previous_stock": 2,
+    "current_stock": 1,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-02T11:36:36.749993",
+    "product_id": 42766,
+    "product_name": "Casa Solís Chardonnay 750ml",
+    "previous_stock": 9,
+    "current_stock": 7,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-02T11:36:36.749993",
+    "product_id": 42731,
+    "product_name": "Finca Las Moras Chardonnay 750ml",
+    "previous_stock": 10,
+    "current_stock": 8,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-02T11:36:36.749993",
+    "product_id": 42623,
+    "product_name": "Montes Chardonnay 750ml",
+    "previous_stock": 18,
+    "current_stock": 16,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-02T11:36:36.749993",
+    "product_id": 42638,
+    "product_name": "Adobe Chardonnay Poki 1,5L",
+    "previous_stock": 10,
+    "current_stock": 8,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-02T11:36:36.749993",
+    "product_id": 42694,
+    "product_name": "Finca Las Moras Sauvignon Blanc 750ml",
+    "previous_stock": 12,
+    "current_stock": 10,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-02T11:36:36.749993",
+    "product_id": 42561,
+    "product_name": "Stemmari Pinot Grigio 3L",
+    "previous_stock": 10,
+    "current_stock": 9,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-02T11:36:36.749993",
+    "product_id": 42545,
+    "product_name": "Absolut Vodka 700ml",
+    "previous_stock": 7,
+    "current_stock": 6,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-02T11:36:36.749993",
+    "product_id": 42547,
+    "product_name": "Hot N' Sweet 100ml",
+    "previous_stock": 2,
+    "current_stock": 1,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-02T11:36:36.749993",
+    "product_id": 42689,
+    "product_name": "Opal Rauður 500ml",
+    "previous_stock": 6,
+    "current_stock": 5,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "new_product",
+    "timestamp": "2026-05-02T11:36:36.749993",
+    "product_id": 54157,
+    "product_name": "Bacardi Carta Blanca 500ml",
+    "stock": 12,
+    "details": {
+      "id": 54157,
+      "code": "50000631",
+      "name": "Bacardi Carta Blanca 500ml",
+      "slug": "bacardi-carta-blanca-500ml-54157",
+      "category_id": 4278,
+      "category_name": "All Rum",
+      "category_path": "Spirits > Rum > All Rum",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/314e2543-8e08-463e-910d-4d5d681d50a6.webp",
+      "price": 579700,
+      "discount_price": null,
+      "stock": {
+        "H495": 12
+      },
+      "total_stock": 12,
+      "variants": [
+        {
+          "sku": "50000631",
+          "name": "Bacardi Carta Blanca 500ml",
+          "price": 579700,
+          "value": "500ml",
+          "images": [
+            {
+              "url": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/314e2543-8e08-463e-910d-4d5d681d50a6.webp",
+              "orig": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/314e2543-8e08-463e-910d-4d5d681d50a6_orig.png",
+              "thumb": "https://s3.eu-west-2.amazonaws.com/catalog.jiffy-software.com/offers/314e2543-8e08-463e-910d-4d5d681d50a6_thumb.webp"
+            }
+          ],
+          "offerId": 55232,
+          "sorting": 0,
+          "property": "volume",
+          "sellable": 12,
+          "discountPrice": null,
+          "localeChoices": null,
+          "isBackorderAvailable": false
+        }
+      ],
+      "last_updated": "2026-05-02T11:36:16.620992"
+    }
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-02T11:36:36.749993",
+    "product_id": 49255,
+    "product_name": "Silvio Carta Aspide Spritz 1L",
+    "previous_stock": 6,
+    "current_stock": 5,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-02T11:36:36.749993",
+    "product_id": 42544,
+    "product_name": "BuzzBallz Chili Mango 200ml",
+    "previous_stock": 9,
+    "current_stock": 6,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-02T11:36:36.749993",
+    "product_id": 42618,
+    "product_name": "PRN 6x330ml",
+    "previous_stock": 18,
+    "current_stock": 17,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-02T11:36:36.749993",
+    "product_id": 42536,
+    "product_name": "VES 6x330ml",
+    "previous_stock": 19,
+    "current_stock": 15,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-02T11:36:36.749993",
+    "product_id": 46239,
+    "product_name": "BLYS 800 Pineapple Ice",
+    "previous_stock": 11,
+    "current_stock": 1,
+    "change": -10,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-02T11:36:36.749993",
+    "product_id": 42494,
+    "product_name": "BLYS 800 Watermelon Ice",
+    "previous_stock": 33,
+    "current_stock": 23,
+    "change": -10,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-02T11:36:36.749993",
+    "product_id": 42472,
+    "product_name": "Kristall án bragðefna 12x330ml",
+    "previous_stock": 95,
+    "current_stock": 94,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
