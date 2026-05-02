@@ -138527,5 +138527,92 @@
     "product_id": 42615,
     "product_name": "Boli X 12x500ml",
     "last_stock": 1
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-02T17:10:59.633284",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 21,
+    "current_stock": 17,
+    "change": -4,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-02T17:10:59.633284",
+    "product_id": 49282,
+    "product_name": "Wrexham Lager 4x440ml",
+    "previous_stock": 26,
+    "current_stock": 25,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-02T17:10:59.633284",
+    "product_id": 42705,
+    "product_name": "Víking Sterkr 6x500ml",
+    "previous_stock": 12,
+    "current_stock": 11,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-02T17:10:59.633284",
+    "product_id": 43056,
+    "product_name": "Boli 12x330ml",
+    "previous_stock": 97,
+    "current_stock": 95,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-02T17:10:59.633284",
+    "product_id": 42741,
+    "product_name": "Stella Artois 6x330ml (Gler)",
+    "previous_stock": 9,
+    "current_stock": 8,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-02T17:10:59.633284",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 80,
+    "current_stock": 78,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-02T17:10:59.633284",
+    "product_id": 47314,
+    "product_name": "Víking Páskabjór 6x330ml + 2 Víking 400ml Glass",
+    "previous_stock": 32,
+    "current_stock": 30,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-02T17:10:59.633284",
+    "product_id": 43357,
+    "product_name": "Marlboro Gold Box",
+    "previous_stock": 4,
+    "current_stock": 3,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-05-02T17:10:59.633284",
+    "product_id": 42781,
+    "product_name": "Breezer Watermelon 4x275ml",
+    "last_stock": 1
   }
 ]
