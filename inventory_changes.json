@@ -138430,5 +138430,45 @@
     "product_id": 42622,
     "product_name": "Tuborg Gold 12x500ml",
     "last_stock": 1
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-02T15:09:22.055034",
+    "product_id": 42720,
+    "product_name": "Carlsberg 10x500ml",
+    "previous_stock": 7,
+    "current_stock": 6,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-02T15:09:22.055034",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 484,
+    "current_stock": 481,
+    "change": -3,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-02T15:09:22.055034",
+    "product_id": 42729,
+    "product_name": "Lamberti Prosecco 750ml",
+    "previous_stock": 18,
+    "current_stock": 17,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-02T15:09:22.055034",
+    "product_id": 42536,
+    "product_name": "VES 6x330ml",
+    "previous_stock": 15,
+    "current_stock": 14,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
