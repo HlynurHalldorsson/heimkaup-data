@@ -138470,5 +138470,62 @@
     "current_stock": 14,
     "change": -1,
     "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-02T16:05:31.763391",
+    "product_id": 42696,
+    "product_name": "Boli 12x500ml",
+    "previous_stock": 22,
+    "current_stock": 21,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-02T16:05:31.763391",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 481,
+    "current_stock": 480,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-02T16:05:31.763391",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 81,
+    "current_stock": 80,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-02T16:05:31.763391",
+    "product_id": 43064,
+    "product_name": "Gomez Cruzado Blanco 750ml",
+    "previous_stock": 4,
+    "current_stock": 3,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-02T16:05:31.763391",
+    "product_id": 42697,
+    "product_name": "Jagermeister Miniature 9x20ml",
+    "previous_stock": 6,
+    "current_stock": 4,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "product_removed",
+    "timestamp": "2026-05-02T16:05:31.763391",
+    "product_id": 42615,
+    "product_name": "Boli X 12x500ml",
+    "last_stock": 1
   }
 ]
