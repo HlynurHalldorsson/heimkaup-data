@@ -140150,5 +140150,75 @@
     "product_id": 42721,
     "product_name": "Kaldi Lite 10x330ml",
     "last_stock": 1
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-03T18:07:47.325971",
+    "product_id": 42776,
+    "product_name": "Thule 12x500ml",
+    "previous_stock": 2,
+    "current_stock": 1,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-03T18:07:47.325971",
+    "product_id": 49279,
+    "product_name": "Birra Moretti 6x500ml",
+    "previous_stock": 33,
+    "current_stock": 31,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-03T18:07:47.325971",
+    "product_id": 42705,
+    "product_name": "Víking Sterkr 6x500ml",
+    "previous_stock": 9,
+    "current_stock": 8,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-03T18:07:47.325971",
+    "product_id": 42686,
+    "product_name": "Gull Lite 12x500ml",
+    "previous_stock": 483,
+    "current_stock": 482,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-03T18:07:47.325971",
+    "product_id": 42508,
+    "product_name": "Gull Lite 12x330ml",
+    "previous_stock": 75,
+    "current_stock": 74,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-03T18:07:47.325971",
+    "product_id": 42585,
+    "product_name": "Two Oceans Fresh & Fruity 3L",
+    "previous_stock": 7,
+    "current_stock": 5,
+    "change": -2,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-03T18:07:47.325971",
+    "product_id": 43434,
+    "product_name": "Winston Red Classic 100s Box",
+    "previous_stock": 14,
+    "current_stock": 11,
+    "change": -3,
+    "direction": "decrease"
   }
 ]
