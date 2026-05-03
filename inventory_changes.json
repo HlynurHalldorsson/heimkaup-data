@@ -139883,5 +139883,75 @@
     "product_id": 42696,
     "product_name": "Boli 12x500ml",
     "last_stock": 4
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-03T16:05:49.818853",
+    "product_id": 42703,
+    "product_name": "Gull 12x500ml",
+    "previous_stock": 24,
+    "current_stock": 25,
+    "change": 1,
+    "direction": "increase"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-03T16:05:49.818853",
+    "product_id": 42708,
+    "product_name": "Gull 12x330ml",
+    "previous_stock": 5,
+    "current_stock": 4,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-03T16:05:49.818853",
+    "product_id": 47314,
+    "product_name": "Víking Páskabjór 6x330ml + 2 Víking 400ml Glass",
+    "previous_stock": 29,
+    "current_stock": 28,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-03T16:05:49.818853",
+    "product_id": 51677,
+    "product_name": "Pasqua Desire Lush & Zin Primitivo 750ml",
+    "previous_stock": 10,
+    "current_stock": 9,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-03T16:05:49.818853",
+    "product_id": 42529,
+    "product_name": "Jameson 500ml",
+    "previous_stock": 11,
+    "current_stock": 10,
+    "change": -1,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-03T16:05:49.818853",
+    "product_id": 43697,
+    "product_name": "White Fox Peppered Mint",
+    "previous_stock": 28,
+    "current_stock": 18,
+    "change": -10,
+    "direction": "decrease"
+  },
+  {
+    "type": "stock_change",
+    "timestamp": "2026-05-03T16:05:49.818853",
+    "product_id": 42443,
+    "product_name": "Fever Tree Ginger Ale 4x200ml",
+    "previous_stock": 9,
+    "current_stock": 8,
+    "change": -1,
+    "direction": "decrease"
   }
 ]
