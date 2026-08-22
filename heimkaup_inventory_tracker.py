@@ -7,6 +7,7 @@ Tracks product inventory via the Jiffy Grocery API and monitors stock levels.
 import requests
 import json
 import os
+import sys
 import time
 import csv
 import subprocess
@@ -597,23 +598,24 @@ class HeimkaupInventoryTracker:
         logger.info("Inventory check completed successfully")
 
         # Push data to GitHub for cloud access
-        self.push_to_github()
+        return self.push_to_github()
 
-        return True
+    def push_to_github(self) -> bool:
+        """Push inventory data to GitHub repository.
 
-    def push_to_github(self):
-        """Push inventory data to GitHub repository."""
+        Returns True if the data was pushed (or there was nothing to push),
+        False if the push failed. A False return must fail the run — a silently
+        dropped push means the scrape happened but the data was never persisted.
+        """
         data_dir = self.config["data_dir"]
+        original_dir = os.getcwd()
         try:
-            # Change to data directory
-            original_dir = os.getcwd()
             os.chdir(data_dir)
 
             # Check if it's a git repo
             if not os.path.exists('.git'):
                 logger.warning("Data directory is not a git repository, skipping push")
-                os.chdir(original_dir)
-                return
+                return True
 
             # Add, commit, and push
             timestamp = datetime.now().strftime("%Y-%m-%d %H:%M")
@@ -623,8 +625,7 @@ class HeimkaupInventoryTracker:
             result = subprocess.run(['git', 'status', '--porcelain'], capture_output=True, text=True)
             if not result.stdout.strip():
                 logger.info("No changes to push to GitHub")
-                os.chdir(original_dir)
-                return
+                return True
 
             subprocess.run(
                 ['git', 'commit', '-m', f'Inventory update {timestamp}'],
@@ -632,13 +633,24 @@ class HeimkaupInventoryTracker:
             )
             subprocess.run(['git', 'push'], check=True, capture_output=True)
             logger.info("Successfully pushed inventory data to GitHub")
-
-            os.chdir(original_dir)
+            return True
         except subprocess.CalledProcessError as e:
-            logger.error(f"Failed to push to GitHub: {e}")
-            os.chdir(original_dir)
+            # git writes the useful part (GH001 large-file errors, auth failures,
+            # non-fast-forward rejections) to stderr, so surface it instead of
+            # reporting a bare exit status.
+            stderr = (e.stderr or b'').decode('utf-8', 'replace').strip() if isinstance(e.stderr, bytes) else (e.stderr or '').strip()
+            stdout = (e.stdout or b'').decode('utf-8', 'replace').strip() if isinstance(e.stdout, bytes) else (e.stdout or '').strip()
+            logger.error(f"Failed to push to GitHub: {' '.join(e.cmd)} exited {e.returncode}")
+            if stderr:
+                logger.error(f"git stderr:\n{stderr}")
+            if stdout:
+                logger.error(f"git stdout:\n{stdout}")
+            return False
         except Exception as e:
             logger.error(f"Error pushing to GitHub: {e}")
+            return False
+        finally:
+            os.chdir(original_dir)
 
     def _is_open(self) -> bool:
         """Check if Heimkaup is currently within operating hours."""
@@ -739,7 +751,10 @@ def main():
     if args.continuous:
         tracker.run_continuous()
     else:
-        tracker.run_once()
+        # Exit non-zero on failure so a scheduled run turns red instead of
+        # reporting success while the data was never persisted.
+        if not tracker.run_once():
+            sys.exit(1)
 
 
 if __name__ == "__main__":
