@@ -11,10 +11,21 @@ import sys
 import time
 import csv
 import subprocess
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
 from typing import Dict, List, Optional, Any
 from dataclasses import dataclass, asdict
 import logging
+
+# Written by the tracker, consumed by the uploader step. Lists the files staged
+# this run so the uploader pushes only what changed instead of the whole tree.
+UPLOAD_MANIFEST = "_upload_manifest.json"
+# Compact per-product current stock/price. The history files only get a point
+# when something changes, so the history API reads this to extend each series
+# to "now" instead of ending it at the last change.
+CURRENT_SNAPSHOT = "current_snapshot.json"
+SALES_DIR = "sales_events"
+SALES_INDEX = "sales_events/index.json"
 
 # Import alert handlers (optional)
 try:
@@ -43,6 +54,10 @@ CONFIG = {
     "history_file": "inventory_history.json",
     "current_file": "current_inventory.json",
     "changes_file": "inventory_changes.json",
+    # When set (via --blob-base), previous state is read from the public Vercel
+    # Blob store instead of the working directory, and only the files that
+    # actually changed are written out for the uploader step to push back.
+    "blob_base": None,
     "check_interval_seconds": 3600,  # 1 hour
     "open_hour": 11,   # Heimkaup opens at 11:00
     "close_hour": 22,  # Heimkaup closes at 22:00
@@ -75,6 +90,8 @@ class HeimkaupInventoryTracker:
         self.config = config or CONFIG
         self.data_dir = self.config["data_dir"]
         self.alert_manager = None
+        self.session = requests.Session()
+        self._pending_uploads: set = set()
         self._ensure_data_dir()
 
     def setup_alerts(self, discord_webhook: str = None, slack_webhook: str = None,
@@ -221,29 +238,99 @@ class HeimkaupInventoryTracker:
         logger.info(f"Fetched {len(products)} unique products total")
         return products
 
+    # ------------------------------------------------------------------
+    # Blob-backed state
+    #
+    # In blob mode the working directory starts empty on every run, so prior
+    # state is read back over plain HTTPS from the public store. Writes are
+    # staged to disk and listed in an upload manifest; a separate uploader step
+    # pushes exactly those files. Reading is unauthenticated (public store),
+    # so only the uploader needs a token.
+    # ------------------------------------------------------------------
+
+    @property
+    def blob_mode(self) -> bool:
+        return bool(self.config.get("blob_base"))
+
+    def _mark_for_upload(self, relpath: str):
+        """Record a staged file that the uploader step should push to Blob."""
+        self._pending_uploads.add(relpath)
+
+    def _read_json(self, relpath: str) -> Optional[Any]:
+        """Read a JSON file from the blob store (blob mode) or disk."""
+        if self.blob_mode:
+            url = f"{self.config['blob_base'].rstrip('/')}/{relpath}"
+            try:
+                resp = self.session.get(url, timeout=30)
+                if resp.status_code == 404:
+                    return None
+                resp.raise_for_status()
+                return resp.json()
+            except requests.RequestException as e:
+                # A read failure here would silently reset a product's history,
+                # so treat it as fatal rather than starting from scratch.
+                raise RuntimeError(f"Failed to read {relpath} from blob store: {e}") from e
+            except json.JSONDecodeError as e:
+                raise RuntimeError(f"Corrupt JSON at {relpath} in blob store: {e}") from e
+
+        filepath = self._get_file_path(relpath)
+        if not os.path.exists(filepath):
+            return None
+        try:
+            with open(filepath, 'r', encoding='utf-8') as f:
+                return json.load(f)
+        except (json.JSONDecodeError, IOError) as e:
+            logger.warning(f"Failed to read {relpath}: {e}")
+            return None
+
+    def _read_json_many(self, relpaths: List[str]) -> Dict[str, Any]:
+        """Read several JSON files concurrently. Blob reads dominate runtime."""
+        if not relpaths:
+            return {}
+        if not self.blob_mode:
+            return {p: self._read_json(p) for p in relpaths}
+
+        results: Dict[str, Any] = {}
+        with ThreadPoolExecutor(max_workers=16) as pool:
+            futures = {pool.submit(self._read_json, p): p for p in relpaths}
+            for future in as_completed(futures):
+                results[futures[future]] = future.result()
+        return results
+
+    def _write_json(self, relpath: str, payload: Any, indent: Optional[int] = None):
+        """Write a JSON file and stage it for upload."""
+        filepath = self._get_file_path(relpath)
+        os.makedirs(os.path.dirname(filepath) or '.', exist_ok=True)
+        with open(filepath, 'w', encoding='utf-8') as f:
+            json.dump(payload, f, ensure_ascii=False, indent=indent)
+        self._mark_for_upload(relpath)
+
+    def write_upload_manifest(self) -> int:
+        """Write the list of staged files for the uploader step."""
+        manifest = sorted(self._pending_uploads)
+        path = self._get_file_path(UPLOAD_MANIFEST)
+        with open(path, 'w', encoding='utf-8') as f:
+            json.dump(manifest, f)
+        logger.info(f"Staged {len(manifest)} file(s) for upload -> {path}")
+        return len(manifest)
+
     def load_previous_inventory(self) -> Dict[int, Dict]:
         """Load the previous inventory snapshot."""
-        filepath = self._get_file_path(self.config["current_file"])
-        if os.path.exists(filepath):
-            try:
-                with open(filepath, 'r', encoding='utf-8') as f:
-                    data = json.load(f)
-                    return {p["id"]: p for p in data.get("products", [])}
-            except (json.JSONDecodeError, IOError) as e:
-                logger.warning(f"Failed to load previous inventory: {e}")
-        return {}
+        data = self._read_json(self.config["current_file"])
+        if not data:
+            return {}
+        return {p["id"]: p for p in data.get("products", [])}
 
     def save_current_inventory(self, products: List[Product]):
         """Save the current inventory snapshot."""
-        filepath = self._get_file_path(self.config["current_file"])
+        relpath = self.config["current_file"]
         data = {
             "timestamp": datetime.now().isoformat(),
             "total_products": len(products),
             "products": [asdict(p) for p in products]
         }
-        with open(filepath, 'w', encoding='utf-8') as f:
-            json.dump(data, f, ensure_ascii=False, indent=2)
-        logger.info(f"Saved current inventory to {filepath}")
+        self._write_json(relpath, data, indent=2)
+        logger.info(f"Saved current inventory to {self._get_file_path(relpath)}")
 
     def detect_changes(self, current_products: List[Product], previous_inventory: Dict[int, Dict]) -> List[Dict]:
         """Detect inventory changes between current and previous state."""
@@ -502,20 +589,46 @@ class HeimkaupInventoryTracker:
         """Update pre-computed JSON files for fast API access."""
         timestamp = datetime.now().isoformat()
 
-        # Update per-product history files
-        histories_dir = os.path.join(self.data_dir, "product_histories")
-        os.makedirs(histories_dir, exist_ok=True)
-        for product in products:
-            filepath = os.path.join(histories_dir, f"product_history_{product.id}.json")
+        self._save_product_histories(products, previous_inventory, timestamp)
+        self._save_current_snapshot(products, timestamp)
+        self._save_sales_events(products, previous_inventory, timestamp)
 
-            history = []
-            if os.path.exists(filepath):
-                try:
-                    with open(filepath, 'r', encoding='utf-8') as f:
-                        existing = json.load(f)
-                        history = existing.get("history", [])
-                except (json.JSONDecodeError, IOError):
-                    pass
+        logger.info(f"Updated pre-computed data for {len(products)} products")
+
+    def _save_product_histories(self, products: List[Product], previous_inventory: Dict[int, Dict],
+                                timestamp: str):
+        """Append a history point only for products that actually changed.
+
+        Appending every run regardless of change made each file grow without
+        bound while carrying ~98% duplicate points, and forced a read-modify-
+        write of all ~800 files every run. A point is recorded only when stock,
+        price or name differs from the previous observation; the series is a
+        step function and consumers extend the last point to now using
+        current_snapshot.json.
+        """
+        changed: List[Product] = []
+        for product in products:
+            prev = previous_inventory.get(product.id)
+            price_isk = round(product.price / 100, 2)
+            if prev is None:
+                changed.append(product)
+                continue
+            if (prev.get("total_stock") != product.total_stock
+                    or round(prev.get("price", 0) / 100, 2) != price_isk
+                    or prev.get("name") != product.name):
+                changed.append(product)
+
+        if not changed:
+            logger.info("No stock/price changes - no history files to update")
+            return
+
+        relpaths = {p.id: f"product_histories/product_history_{p.id}.json" for p in changed}
+        existing = self._read_json_many([relpaths[p.id] for p in changed])
+
+        for product in changed:
+            relpath = relpaths[product.id]
+            current = existing.get(relpath) or {}
+            history = current.get("history", []) if isinstance(current, dict) else []
 
             history.append({
                 "timestamp": timestamp,
@@ -523,41 +636,67 @@ class HeimkaupInventoryTracker:
                 "price": round(product.price / 100, 2),
             })
 
-            with open(filepath, 'w', encoding='utf-8') as f:
-                json.dump({"id": product.id, "name": product.name, "history": history}, f, ensure_ascii=False)
+            self._write_json(relpath, {
+                "id": product.id,
+                "name": product.name,
+                "history": history,
+            })
 
-        # Update sales events
-        if previous_inventory:
-            sales_filepath = self._get_file_path("sales_events.json")
+        logger.info(f"Updated {len(changed)} of {len(products)} product histories")
 
-            sales_events = []
-            if os.path.exists(sales_filepath):
-                try:
-                    with open(sales_filepath, 'r', encoding='utf-8') as f:
-                        sales_events = json.load(f)
-                except (json.JSONDecodeError, IOError):
-                    pass
+    def _save_current_snapshot(self, products: List[Product], timestamp: str):
+        """Write the compact current stock/price map used to extend histories."""
+        self._write_json(CURRENT_SNAPSHOT, {
+            "timestamp": timestamp,
+            "products": {
+                str(p.id): [p.total_stock, round(p.price / 100, 2)] for p in products
+            },
+        })
 
-            for product in products:
-                prev = previous_inventory.get(product.id)
-                if prev is None:
-                    continue
-                stock_diff = prev.get("total_stock", 0) - product.total_stock
-                if stock_diff > 0:
-                    price_isk = round(product.price / 100, 2)
-                    sales_events.append({
-                        "timestamp": timestamp,
-                        "productId": product.id,
-                        "productName": product.name,
-                        "unitsSold": stock_diff,
-                        "pricePerUnit": price_isk,
-                        "revenue": round(stock_diff * price_isk, 2),
-                    })
+    def _save_sales_events(self, products: List[Product], previous_inventory: Dict[int, Dict],
+                           timestamp: str):
+        """Append this run's sales into the month's shard.
 
-            with open(sales_filepath, 'w', encoding='utf-8') as f:
-                json.dump(sales_events, f, ensure_ascii=False)
+        A single sales_events.json was downloaded in full by the revenue API on
+        every dashboard load and grew without bound, so events are sharded by
+        month and the API fetches only the months it needs.
+        """
+        if not previous_inventory:
+            return
 
-        logger.info(f"Updated pre-computed data for {len(products)} products")
+        new_events = []
+        for product in products:
+            prev = previous_inventory.get(product.id)
+            if prev is None:
+                continue
+            stock_diff = prev.get("total_stock", 0) - product.total_stock
+            if stock_diff > 0:
+                price_isk = round(product.price / 100, 2)
+                new_events.append({
+                    "timestamp": timestamp,
+                    "productId": product.id,
+                    "productName": product.name,
+                    "unitsSold": stock_diff,
+                    "pricePerUnit": price_isk,
+                    "revenue": round(stock_diff * price_isk, 2),
+                })
+
+        if not new_events:
+            return
+
+        month = timestamp[:7]  # YYYY-MM
+        shard = f"{SALES_DIR}/{month}.json"
+        events = self._read_json(shard) or []
+        events.extend(new_events)
+        self._write_json(shard, events)
+
+        # Keep the month index in step so the revenue API can discover shards.
+        months = self._read_json(SALES_INDEX) or []
+        if month not in months:
+            months = sorted(set(months) | {month})
+            self._write_json(SALES_INDEX, months)
+
+        logger.info(f"Appended {len(new_events)} sales events to {shard}")
 
     def run_once(self) -> bool:
         """Run a single inventory check."""
@@ -577,10 +716,15 @@ class HeimkaupInventoryTracker:
 
         # Save everything
         self.save_current_inventory(products)
-        self.save_changes(changes)
-        self.save_history_snapshot(products)
+        if not self.blob_mode:
+            # Append-only accumulators nothing reads. They are what pushed
+            # inventory_all.csv past GitHub's 100 MiB file limit, so blob mode
+            # drops them entirely.
+            self.save_changes(changes)
+            self.save_history_snapshot(products)
         self.save_precomputed_data(products, previous_inventory)
-        csv_file = self.save_csv(products)
+        if not self.blob_mode:
+            self.save_csv(products)
 
         # Print summary
         self.print_summary(products, changes)
@@ -596,6 +740,11 @@ class HeimkaupInventoryTracker:
             logger.info(f"Sent alerts to {sent} handlers")
 
         logger.info("Inventory check completed successfully")
+
+        if self.blob_mode:
+            # The uploader step pushes the staged files; failures surface there.
+            self.write_upload_manifest()
+            return True
 
         # Push data to GitHub for cloud access
         return self.push_to_github()
@@ -720,6 +869,9 @@ def main():
                         help="Directory to store data files")
     parser.add_argument("--config", type=str, default="tracker_config.json",
                         help="Path to config file (default: tracker_config.json)")
+    parser.add_argument("--blob-base", type=str,
+                        help="Public Vercel Blob base URL. When set, previous state is read "
+                             "from the store and only changed files are staged for upload.")
     parser.add_argument("--discord-webhook", type=str,
                         help="Discord webhook URL for alerts")
     parser.add_argument("--slack-webhook", type=str,
@@ -733,6 +885,7 @@ def main():
     config = CONFIG.copy()
     config["data_dir"] = args.data_dir
     config["check_interval_seconds"] = args.interval
+    config["blob_base"] = args.blob_base or file_config.get("blob_base") or os.environ.get("BLOB_BASE_URL")
 
     tracker = HeimkaupInventoryTracker(config)
 

@@ -9,8 +9,14 @@ jobs:
   track-inventory:
     runs-on: ubuntu-latest
 
+    # Tracker output goes to the Vercel Blob store, not back into this repo, so
+    # the job no longer needs write access to repository contents.
     permissions:
-      contents: write  # Required to commit and push data
+      contents: read
+
+    env:
+      BLOB_BASE_URL: https://hgpjw17ir7ovwbei.public.blob.vercel-storage.com
+      DATA_DIR: tracker-output
 
     steps:
       - name: Checkout repository
@@ -21,23 +27,26 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
       - name: Install dependencies
-        run: pip install requests
-
-      - name: Configure git identity
         run: |
-          git config user.name "Inventory Tracker Bot"
-          git config user.email "tracker@heimkaup.is"
+          pip install requests
+          npm install --no-save @vercel/blob
 
+      # Reads previous state from the public store, then stages only the files
+      # that changed into $DATA_DIR along with _upload_manifest.json.
       - name: Run inventory tracker
-        run: python3 heimkaup_inventory_tracker.py --data-dir .
-
-      - name: Commit and push changes
         run: |
-          git add -A
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "Inventory update $(date -u +'%Y-%m-%d %H:%M') UTC [skip ci]"
-            git push
-          fi
+          mkdir -p "$DATA_DIR"
+          python3 heimkaup_inventory_tracker.py \
+            --data-dir "$DATA_DIR" \
+            --blob-base "$BLOB_BASE_URL"
+
+      - name: Upload changed data to Blob
+        env:
+          BLOB_READ_WRITE_TOKEN: ${{ secrets.BLOB_READ_WRITE_TOKEN }}
+        run: node upload_blobs.mjs "$DATA_DIR"
