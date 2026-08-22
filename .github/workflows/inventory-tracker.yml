@@ -5,6 +5,14 @@ on:
     - cron: '0,30 11-21 * * *'  # Every 30 min, 11:00-21:30 UTC (= Iceland time, no DST)
   workflow_dispatch:              # Allow manual trigger from GitHub UI
 
+# Each run reads the previous state, appends to it, and writes it back. Git used
+# to reject an overlapping second push as a non-fast-forward; the blob store has
+# no such protection, so a manual dispatch landing on top of a scheduled run
+# would silently drop one run's history points. Never run two at once.
+concurrency:
+  group: inventory-tracker
+  cancel-in-progress: false
+
 jobs:
   track-inventory:
     runs-on: ubuntu-latest
