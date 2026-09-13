@@ -23,7 +23,7 @@ jobs:
       contents: read
 
     env:
-      BLOB_BASE_URL: https://hgpjw17ir7ovwbei.public.blob.vercel-storage.com
+      BLOB_BASE_URL: https://sxaz0azfo1utp6jw.public.blob.vercel-storage.com
       DATA_DIR: tracker-output
 
     steps:

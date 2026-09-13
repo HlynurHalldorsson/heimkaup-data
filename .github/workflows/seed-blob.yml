@@ -1,0 +1,61 @@
+name: Seed Blob Store (one-off)
+
+# Rebuilds the tracker's data tree from the last pre-migration commit and
+# uploads it to the blob store named in inventory-tracker.yml. Run manually
+# once after pointing the tracker at a new (empty) store; safe to re-run, it
+# overwrites the seeded files but never touches anything written after them.
+on:
+  workflow_dispatch:
+
+# Shares the tracker's group: seeding must never interleave with a live run's
+# read-modify-write of the same blob state.
+concurrency:
+  group: inventory-tracker
+  cancel-in-progress: false
+
+env:
+  # Parent of 46ae44eb ("Move tracker data from git to Vercel Blob") — the
+  # last commit whose tree contains the full data set.
+  PRE_MIGRATION_SHA: 85fd0093ad0697628aa3419d3b600e7997a1a8ab
+  DATA_DIR: seed-output
+
+jobs:
+  seed:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # The repo's history is ~2 GB; a blob-filtered sparse checkout of just
+      # the data paths at the pre-migration commit fetches ~75 MB instead.
+      - name: Fetch pre-migration data tree
+        run: |
+          git clone --filter=blob:none --no-checkout \
+            "https://github.com/${GITHUB_REPOSITORY}.git" pre-migration
+          cd pre-migration
+          git sparse-checkout init --no-cone
+          git sparse-checkout set 'product_histories/*' '/sales_events.json' '/current_inventory.json'
+          git checkout --quiet "$PRE_MIGRATION_SHA"
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Build seed tree
+        run: python3 seed_from_git.py pre-migration "$DATA_DIR"
+
+      - name: Upload seed to Blob
+        env:
+          BLOB_READ_WRITE_TOKEN: ${{ secrets.BLOB_READ_WRITE_TOKEN }}
+        run: |
+          npm install --no-save @vercel/blob
+          node upload_blobs.mjs "$DATA_DIR"
