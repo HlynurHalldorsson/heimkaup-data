@@ -54,7 +54,11 @@ jobs:
             --data-dir "$DATA_DIR" \
             --blob-base "$BLOB_BASE_URL"
 
+      # Runs even when the tracker step failed: each warehouse is processed
+      # independently, so one location's API failure still leaves the others'
+      # data staged. The job stays red either way.
       - name: Upload changed data to Blob
+        if: ${{ !cancelled() }}
         env:
           BLOB_READ_WRITE_TOKEN: ${{ secrets.BLOB_READ_WRITE_TOKEN }}
         run: node upload_blobs.mjs "$DATA_DIR"

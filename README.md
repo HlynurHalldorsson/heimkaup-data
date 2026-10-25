@@ -29,6 +29,23 @@ lives in Blob, where only the changed files are written.
 | `product_histories/product_history_<id>.json` | on change | One point per stock/price/name change |
 | `sales_events/<YYYY-MM>.json` | on change | Sales sharded by month |
 | `sales_events/index.json` | on change | List of available months |
+| `locations.json` | on change | Tracked locations and their path prefixes |
+
+### Locations
+
+Each Heimkaup location is a separate Jiffy warehouse, scraped one after the
+other in the same run (see `WAREHOUSES` in the tracker):
+
+| Code | Location | Files |
+|------|----------|-------|
+| `H495` | Mjódd: Wolt delivery + Nettó Mjódd click & collect | store root (above) |
+| `H4600` | Prís Smáratorg, Kópavogur | `warehouses/H4600/…` |
+| `H4435` | Nettó Höfn | `warehouses/H4435/…` |
+
+`H495` predates multi-location support, so its files stay at the root. Other
+locations use the same layout under their prefix. `locations.json` at the root
+lists them all for the dashboard. Warehouse codes come from the Jiffy
+`eta/v2/api/zones` endpoint; add a new location there to `WAREHOUSES`.
 
 History files record a point only when something actually changes. Appending
 every run stored ~98% duplicate points (961,604 points collapsed to 21,421 in
