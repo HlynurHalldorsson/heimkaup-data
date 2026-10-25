@@ -75,8 +75,11 @@ CONFIG = {
     # actually changed are written out for the uploader step to push back.
     "blob_base": None,
     "check_interval_seconds": 3600,  # 1 hour
-    "open_hour": 11,   # Heimkaup opens at 11:00
-    "close_hour": 22,  # Heimkaup closes at 22:00
+    # Earliest opening (Nettó Höfn, 08:00) to end of day: Mjódd closes at
+    # 22:00 and Wolt takes scheduled orders around the clock, so stop at
+    # midnight rather than closing time to keep sales on the right day.
+    "open_hour": 8,
+    "close_hour": 24,
 }
 
 
@@ -97,6 +100,19 @@ class Product:
     total_stock: int
     variants: List[Dict]
     last_updated: str
+
+
+def effective_price(product: "Product") -> float:
+    """What a customer pays, in aurar: the discount price when one is active.
+
+    Revenue used the list price, overstating sales of discounted items. The
+    API sends discountPrice as null, 0 or a value at or above the list price
+    when there is no real discount, so only a lower positive value counts.
+    """
+    discount = product.discount_price
+    if discount and 0 < discount < product.price:
+        return discount
+    return product.price
 
 
 class HeimkaupInventoryTracker:
@@ -755,13 +771,14 @@ class HeimkaupInventoryTracker:
                 continue
             stock_diff = prev.get("total_stock", 0) - product.total_stock
             if stock_diff > 0:
-                price_isk = round(product.price / 100, 2)
+                price_isk = round(effective_price(product) / 100, 2)
                 new_events.append({
                     "timestamp": timestamp,
                     "productId": product.id,
                     "productName": product.name,
                     "unitsSold": stock_diff,
                     "pricePerUnit": price_isk,
+                    "listPricePerUnit": round(product.price / 100, 2),
                     "revenue": round(stock_diff * price_isk, 2),
                 })
 

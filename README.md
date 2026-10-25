@@ -1,7 +1,8 @@
 # heimkaup-data
 
-Scheduled tracker for Heimkaup.is inventory. Runs every 30 minutes between
-11:00 and 21:30 UTC and writes its output to a **public Vercel Blob store**,
+Scheduled tracker for Heimkaup.is inventory. Runs 28 times a day between
+08:00 and 23:55 UTC, triggered by a Vercel cron in heimkaup-inventory (see
+`src/lib/schedule.ts` there), and writes its output to a **public Vercel Blob store**,
 which the [heimkaup-inventory](https://github.com/HlynurHalldorsson/heimkaup-inventory)
 dashboard reads from.
 
@@ -27,7 +28,7 @@ lives in Blob, where only the changed files are written.
 | `current_inventory.json` | every run | Full product list, ~1 MB |
 | `current_snapshot.json` | every run | Compact `{id: [stock, price]}`, ~15 KB |
 | `product_histories/product_history_<id>.json` | on change | One point per stock/price/name change |
-| `sales_events/<YYYY-MM>.json` | on change | Sales sharded by month |
+| `sales_events/<YYYY-MM>.json` | on change | Sales sharded by month. `pricePerUnit` is the price paid (discount if active) since 2026-10-25; earlier events used list price |
 | `sales_events/index.json` | on change | List of available months |
 | `locations.json` | on change | Tracked locations and their path prefixes |
 

@@ -2,10 +2,11 @@ name: Heimkaup Inventory Tracker
 
 on:
   # The real schedule is a Vercel cron in heimkaup-inventory that dispatches
-  # this workflow every 30 min. GitHub's own scheduler is kept only as a
-  # fallback: it ran 2-5 of the intended 22 runs a day, hours late.
+  # this workflow 28 times a day, 08:00-23:55 UTC (= Iceland time, no DST).
+  # GitHub's own scheduler ran 2-5 of 22 intended runs a day, hours late, so
+  # it is only a sparse safety net here; each run bills 2 Actions minutes.
   schedule:
-    - cron: '0,30 11-21 * * *'  # Every 30 min, 11:00-21:30 UTC (= Iceland time, no DST)
+    - cron: '17 9,13,17,21 * * *'
   workflow_dispatch:              # Vercel cron, or manual trigger from GitHub UI
 
 # Each run reads the previous state, appends to it, and writes it back. Git used
