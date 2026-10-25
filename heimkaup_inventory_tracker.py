@@ -13,13 +13,15 @@ import csv
 import subprocess
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
-from typing import Dict, List, Optional, Any
+from typing import Dict, List, Optional, Any, Tuple
 from dataclasses import dataclass, asdict
 import logging
 
 # Written by the tracker, consumed by the uploader step. Lists the files staged
 # this run so the uploader pushes only what changed instead of the whole tree.
 UPLOAD_MANIFEST = "_upload_manifest.json"
+# Attempts per Jiffy API request; waits 2s, 4s between them.
+API_ATTEMPTS = 3
 # Compact per-product current stock/price. The history files only get a point
 # when something changes, so the history API reads this to extend each series
 # to "now" instead of ending it at the last change.
@@ -157,15 +159,33 @@ class HeimkaupInventoryTracker:
         return {"x-company-id": self.config["company_id"]}
 
     def _api_get(self, path: str, params: Dict = None) -> Optional[Dict]:
-        """Make a GET request to the Jiffy API."""
+        """Make a GET request to the Jiffy API, retrying transient failures.
+
+        The API returns the odd 502 mid-run. Without a retry, one failed
+        category made its products look removed and lost their sales.
+        """
         url = f"{self.config['api_base']}/{path}"
-        try:
-            response = requests.get(url, headers=self._api_headers(), params=params, timeout=30)
-            response.raise_for_status()
-            return response.json()
-        except requests.RequestException as e:
-            logger.error(f"API request failed ({path}): {e}")
-            return None
+        for attempt in range(1, API_ATTEMPTS + 1):
+            try:
+                response = self.session.get(url, headers=self._api_headers(), params=params, timeout=30)
+                if response.status_code < 500 and response.status_code != 429:
+                    response.raise_for_status()
+                    return response.json()
+                error = f"{response.status_code} {response.reason}"
+            except requests.HTTPError as e:
+                # 4xx other than 429 will not succeed on retry.
+                logger.error(f"API request failed ({path}): {e}")
+                return None
+            except (requests.RequestException, ValueError) as e:
+                error = str(e)
+
+            if attempt < API_ATTEMPTS:
+                backoff = 2 ** attempt
+                logger.warning(f"API request failed ({path}): {error}; retry {attempt}/{API_ATTEMPTS - 1} in {backoff}s")
+                time.sleep(backoff)
+            else:
+                logger.error(f"API request failed ({path}) after {API_ATTEMPTS} attempts: {error}")
+        return None
 
     def fetch_category_tree(self) -> Optional[List[Dict]]:
         """Fetch the full shop category tree from the API."""
@@ -194,8 +214,12 @@ class HeimkaupInventoryTracker:
                 leaves.extend(self._get_leaf_categories(children, path))
         return leaves
 
-    def fetch_category_products(self, category_id: int, category_name: str, category_path: str) -> List[Product]:
-        """Fetch all products for a specific category, handling pagination."""
+    def fetch_category_products(self, category_id: int, category_name: str,
+                                category_path: str) -> Tuple[List[Product], bool]:
+        """Fetch all products for a specific category, handling pagination.
+
+        Returns the products and whether every page was fetched.
+        """
         products = []
         page = 1
         timestamp = datetime.now().isoformat()
@@ -207,7 +231,7 @@ class HeimkaupInventoryTracker:
                 "page[current]": page,
             })
             if not data:
-                break
+                return products, False
 
             page_products = data.get("data", {}).get("products", [])
             pagination = data.get("pagination", {})
@@ -239,10 +263,16 @@ class HeimkaupInventoryTracker:
                 break
             page += 1
 
-        return products
+        return products, True
 
-    def fetch_all_products(self) -> List[Product]:
-        """Fetch all products from all leaf categories via the API."""
+    def fetch_all_products(self, previous_inventory: Dict[int, Dict]) -> List[Product]:
+        """Fetch all products from all leaf categories via the API.
+
+        If a category still fails after retries, its products from the previous
+        run are carried forward unchanged rather than dropped. Dropping them
+        would record them as removed, then as new on the next run, losing the
+        sales in between; carrying them forward just delays seeing the change.
+        """
         tree = self.fetch_category_tree()
         if not tree:
             return []
@@ -252,15 +282,30 @@ class HeimkaupInventoryTracker:
 
         seen_ids = set()
         products = []
+        failed_paths = []
 
         for leaf in leaves:
-            cat_products = self.fetch_category_products(leaf["id"], leaf["name"], leaf["_path"])
+            cat_products, ok = self.fetch_category_products(leaf["id"], leaf["name"], leaf["_path"])
+            if not ok:
+                failed_paths.append(leaf["_path"])
             for p in cat_products:
                 if p.id not in seen_ids:
                     seen_ids.add(p.id)
                     products.append(p)
             if cat_products:
                 logger.info(f"  {leaf['name']}: {len(cat_products)} products")
+
+        if failed_paths:
+            carried = 0
+            failed = set(failed_paths)
+            for prev in previous_inventory.values():
+                if prev.get("category_path") in failed and prev["id"] not in seen_ids:
+                    seen_ids.add(prev["id"])
+                    products.append(Product(**{f: prev.get(f) for f in Product.__dataclass_fields__}))
+                    carried += 1
+            logger.warning(f"[{self.warehouse['code']}] {len(failed_paths)} categor"
+                           f"{'y' if len(failed_paths) == 1 else 'ies'} failed; carried forward "
+                           f"{carried} product(s) from the previous run: {', '.join(failed_paths)}")
 
         logger.info(f"[{self.warehouse['code']}] Fetched {len(products)} unique products total")
         return products
@@ -783,14 +828,16 @@ class HeimkaupInventoryTracker:
         """Run the inventory check for the current warehouse."""
         logger.info(f"Starting inventory check for {self.warehouse['name']} ({self.warehouse['code']})...")
 
+        # Previous inventory first: a failed category falls back to it
+        previous_inventory = self.load_previous_inventory()
+
         # Fetch all products via API
-        products = self.fetch_all_products()
+        products = self.fetch_all_products(previous_inventory)
         if not products:
             logger.warning(f"[{self.warehouse['code']}] No products found")
             return False
 
-        # Load previous inventory and detect changes
-        previous_inventory = self.load_previous_inventory()
+        # Detect changes
         changes = []
         if previous_inventory:
             changes = self.detect_changes(products, previous_inventory)

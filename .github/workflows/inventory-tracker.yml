@@ -1,9 +1,12 @@
 name: Heimkaup Inventory Tracker
 
 on:
+  # The real schedule is a Vercel cron in heimkaup-inventory that dispatches
+  # this workflow every 30 min. GitHub's own scheduler is kept only as a
+  # fallback: it ran 2-5 of the intended 22 runs a day, hours late.
   schedule:
     - cron: '0,30 11-21 * * *'  # Every 30 min, 11:00-21:30 UTC (= Iceland time, no DST)
-  workflow_dispatch:              # Allow manual trigger from GitHub UI
+  workflow_dispatch:              # Vercel cron, or manual trigger from GitHub UI
 
 # Each run reads the previous state, appends to it, and writes it back. Git used
 # to reject an overlapping second push as a non-fast-forward; the blob store has
@@ -62,3 +65,19 @@ jobs:
         env:
           BLOB_READ_WRITE_TOKEN: ${{ secrets.BLOB_READ_WRITE_TOKEN }}
         run: node upload_blobs.mjs "$DATA_DIR"
+
+      # Optional: set the SLACK_WEBHOOK_URL secret to get a message when a run
+      # fails. Without it GitHub still emails the person who triggered the run.
+      - name: Alert on failure
+        if: ${{ failure() }}
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          if [ -z "$SLACK_WEBHOOK_URL" ]; then
+            echo "SLACK_WEBHOOK_URL not set; skipping Slack alert"
+            exit 0
+          fi
+          curl -sf -X POST -H 'Content-Type: application/json' \
+            -d "{\"text\":\":warning: Heimkaup inventory tracker run failed: $RUN_URL\"}" \
+            "$SLACK_WEBHOOK_URL"
