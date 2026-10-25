@@ -26,6 +26,20 @@ UPLOAD_MANIFEST = "_upload_manifest.json"
 CURRENT_SNAPSHOT = "current_snapshot.json"
 SALES_DIR = "sales_events"
 SALES_INDEX = "sales_events/index.json"
+# Location list for the dashboard, written at the store root.
+LOCATIONS_FILE = "locations.json"
+
+# Heimkaup locations, one Jiffy warehouse each. H495 predates multi-location
+# support, so its files stay at the store root where the existing history and
+# the dashboard expect them; every other location gets the same layout under
+# warehouses/<code>/. Codes come from the Jiffy eta/v2/api/zones endpoint.
+WAREHOUSES = [
+    {"code": "H495", "name": "Mjódd", "address": "Þönglabakki 1, 109 Reykjavík", "prefix": ""},
+    {"code": "H4600", "name": "Prís Smáratorg", "address": "Smáratorg 3, 201 Kópavogur",
+     "prefix": "warehouses/H4600/"},
+    {"code": "H4435", "name": "Nettó Höfn", "address": "Litlabrú 1, 780 Höfn",
+     "prefix": "warehouses/H4435/"},
+]
 
 # Import alert handlers (optional)
 try:
@@ -49,7 +63,7 @@ logger = logging.getLogger(__name__)
 CONFIG = {
     "api_base": "https://api2.jiffygrocery.co.uk",
     "company_id": "8b4b64e1-0e88-4889-b75a-1367bfb9baea",
-    "warehouse_code": "H495",
+    "warehouses": WAREHOUSES,
     "data_dir": "inventory_data",
     "history_file": "inventory_history.json",
     "current_file": "current_inventory.json",
@@ -92,6 +106,9 @@ class HeimkaupInventoryTracker:
         self.alert_manager = None
         self.session = requests.Session()
         self._pending_uploads: set = set()
+        # The warehouse being processed. run_once() steps through each one;
+        # API calls and data file paths are scoped to it.
+        self.warehouse = self.config["warehouses"][0]
         self._ensure_data_dir()
 
     def setup_alerts(self, discord_webhook: str = None, slack_webhook: str = None,
@@ -125,6 +142,16 @@ class HeimkaupInventoryTracker:
         """Get full path for a data file."""
         return os.path.join(self.data_dir, filename)
 
+    def _scoped(self, relpath: str) -> str:
+        """Prefix a data file path with the current warehouse's directory."""
+        return f"{self.warehouse['prefix']}{relpath}"
+
+    def _scoped_file_path(self, filename: str) -> str:
+        """Full local path for a warehouse-scoped file, creating its directory."""
+        filepath = self._get_file_path(self._scoped(filename))
+        os.makedirs(os.path.dirname(filepath) or '.', exist_ok=True)
+        return filepath
+
     def _api_headers(self) -> Dict[str, str]:
         """Return headers for Jiffy API requests."""
         return {"x-company-id": self.config["company_id"]}
@@ -143,14 +170,14 @@ class HeimkaupInventoryTracker:
     def fetch_category_tree(self) -> Optional[List[Dict]]:
         """Fetch the full shop category tree from the API."""
         data = self._api_get("catalog/v1/client/categories/tree", {
-            "warehouseCode": self.config["warehouse_code"],
+            "warehouseCode": self.warehouse["code"],
             "landingPage[]": "shop",
             "depth": 3,
         })
         if not data:
             return None
         categories = data.get("data", [])
-        logger.info(f"Fetched category tree: {len(categories)} top-level categories")
+        logger.info(f"[{self.warehouse['code']}] Fetched category tree: {len(categories)} top-level categories")
         return categories
 
     def _get_leaf_categories(self, items: List[Dict], parent_path: str = "") -> List[Dict]:
@@ -175,7 +202,7 @@ class HeimkaupInventoryTracker:
 
         while True:
             data = self._api_get(f"catalog/v1/client/categories/{category_id}/products", {
-                "warehouseCode": self.config["warehouse_code"],
+                "warehouseCode": self.warehouse["code"],
                 "page[size]": 100,
                 "page[current]": page,
             })
@@ -235,7 +262,7 @@ class HeimkaupInventoryTracker:
             if cat_products:
                 logger.info(f"  {leaf['name']}: {len(cat_products)} products")
 
-        logger.info(f"Fetched {len(products)} unique products total")
+        logger.info(f"[{self.warehouse['code']}] Fetched {len(products)} unique products total")
         return products
 
     # ------------------------------------------------------------------
@@ -256,8 +283,13 @@ class HeimkaupInventoryTracker:
         """Record a staged file that the uploader step should push to Blob."""
         self._pending_uploads.add(relpath)
 
-    def _read_json(self, relpath: str) -> Optional[Any]:
-        """Read a JSON file from the blob store (blob mode) or disk."""
+    def _read_json(self, relpath: str, scoped: bool = True) -> Optional[Any]:
+        """Read a JSON file from the blob store (blob mode) or disk.
+
+        Paths are relative to the current warehouse unless scoped=False.
+        """
+        if scoped:
+            relpath = self._scoped(relpath)
         if self.blob_mode:
             url = f"{self.config['blob_base'].rstrip('/')}/{relpath}"
             try:
@@ -297,8 +329,14 @@ class HeimkaupInventoryTracker:
                 results[futures[future]] = future.result()
         return results
 
-    def _write_json(self, relpath: str, payload: Any, indent: Optional[int] = None):
-        """Write a JSON file and stage it for upload."""
+    def _write_json(self, relpath: str, payload: Any, indent: Optional[int] = None,
+                    scoped: bool = True):
+        """Write a JSON file and stage it for upload.
+
+        Paths are relative to the current warehouse unless scoped=False.
+        """
+        if scoped:
+            relpath = self._scoped(relpath)
         filepath = self._get_file_path(relpath)
         os.makedirs(os.path.dirname(filepath) or '.', exist_ok=True)
         with open(filepath, 'w', encoding='utf-8') as f:
@@ -330,7 +368,7 @@ class HeimkaupInventoryTracker:
             "products": [asdict(p) for p in products]
         }
         self._write_json(relpath, data, indent=2)
-        logger.info(f"Saved current inventory to {self._get_file_path(relpath)}")
+        logger.info(f"Saved current inventory to {self._get_file_path(self._scoped(relpath))}")
 
     def detect_changes(self, current_products: List[Product], previous_inventory: Dict[int, Dict]) -> List[Dict]:
         """Detect inventory changes between current and previous state."""
@@ -399,7 +437,7 @@ class HeimkaupInventoryTracker:
         if not changes:
             return
 
-        filepath = self._get_file_path(self.config["changes_file"])
+        filepath = self._scoped_file_path(self.config["changes_file"])
 
         # Load existing changes
         existing_changes = []
@@ -423,10 +461,10 @@ class HeimkaupInventoryTracker:
         """Save inventory snapshot as CSV with timestamp in filename."""
         timestamp = datetime.now().strftime("%Y-%m-%d_%H%M")
         filename = f"inventory_{timestamp}.csv"
-        filepath = self._get_file_path(filename)
+        filepath = self._scoped_file_path(filename)
 
         # Also maintain a master CSV with all historical data
-        master_filepath = self._get_file_path("inventory_all.csv")
+        master_filepath = self._scoped_file_path("inventory_all.csv")
         master_exists = os.path.exists(master_filepath)
 
         # CSV columns
@@ -480,7 +518,7 @@ class HeimkaupInventoryTracker:
 
     def save_history_snapshot(self, products: List[Product]):
         """Save a timestamped snapshot to history."""
-        filepath = self._get_file_path(self.config["history_file"])
+        filepath = self._scoped_file_path(self.config["history_file"])
 
         # Load existing history
         history = []
@@ -535,7 +573,8 @@ class HeimkaupInventoryTracker:
     def print_summary(self, products: List[Product], changes: List[Dict]):
         """Print a summary of the current inventory state."""
         print("\n" + "="*60)
-        print(f"HEIMKAUP INVENTORY SUMMARY - {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+        print(f"HEIMKAUP INVENTORY SUMMARY - {self.warehouse['name']} ({self.warehouse['code']}) - "
+              f"{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
         print("="*60)
 
         total_stock = sum(p.total_stock for p in products)
@@ -642,7 +681,7 @@ class HeimkaupInventoryTracker:
                 "history": history,
             })
 
-        logger.info(f"Updated {len(changed)} of {len(products)} product histories")
+        logger.info(f"[{self.warehouse['code']}] Updated {len(changed)} of {len(products)} product histories")
 
     def _save_current_snapshot(self, products: List[Product], timestamp: str):
         """Write the compact current stock/price map used to extend histories."""
@@ -696,16 +735,58 @@ class HeimkaupInventoryTracker:
             months = sorted(set(months) | {month})
             self._write_json(SALES_INDEX, months)
 
-        logger.info(f"Appended {len(new_events)} sales events to {shard}")
+        logger.info(f"[{self.warehouse['code']}] Appended {len(new_events)} sales events to {self._scoped(shard)}")
 
     def run_once(self) -> bool:
-        """Run a single inventory check."""
-        logger.info("Starting inventory check...")
+        """Run a single inventory check across every warehouse.
+
+        Each warehouse is processed independently, so one location's API
+        failure does not discard the others' data: whatever succeeded is still
+        staged for upload, and the run returns False so the job turns red.
+        """
+        failed = []
+        for warehouse in self.config["warehouses"]:
+            self.warehouse = warehouse
+            try:
+                ok = self._run_warehouse()
+            except Exception as e:
+                logger.error(f"[{warehouse['code']}] Inventory check failed: {e}")
+                ok = False
+            if not ok:
+                failed.append(warehouse["code"])
+
+        self._save_locations()
+
+        if failed:
+            logger.error(f"Inventory check failed for: {', '.join(failed)}")
+        else:
+            logger.info("Inventory check completed successfully")
+
+        if self.blob_mode:
+            # The uploader step pushes the staged files; failures surface there.
+            self.write_upload_manifest()
+            return not failed
+
+        # Push data to GitHub for cloud access
+        return self.push_to_github() and not failed
+
+    def _save_locations(self):
+        """Publish the warehouse list for the dashboard, only when it changes."""
+        locations = [
+            {"code": w["code"], "name": w["name"], "address": w["address"], "prefix": w["prefix"]}
+            for w in self.config["warehouses"]
+        ]
+        if self._read_json(LOCATIONS_FILE, scoped=False) != locations:
+            self._write_json(LOCATIONS_FILE, locations, indent=2, scoped=False)
+
+    def _run_warehouse(self) -> bool:
+        """Run the inventory check for the current warehouse."""
+        logger.info(f"Starting inventory check for {self.warehouse['name']} ({self.warehouse['code']})...")
 
         # Fetch all products via API
         products = self.fetch_all_products()
         if not products:
-            logger.warning("No products found")
+            logger.warning(f"[{self.warehouse['code']}] No products found")
             return False
 
         # Load previous inventory and detect changes
@@ -732,6 +813,7 @@ class HeimkaupInventoryTracker:
         # Send alerts if configured
         if self.alert_manager and changes:
             summary = {
+                "location": f"{self.warehouse['name']} ({self.warehouse['code']})",
                 "total_products": len(products),
                 "total_stock": sum(p.total_stock for p in products),
                 "out_of_stock": len([p for p in products if p.total_stock == 0])
@@ -739,15 +821,7 @@ class HeimkaupInventoryTracker:
             sent = self.alert_manager.send_alerts(changes, summary)
             logger.info(f"Sent alerts to {sent} handlers")
 
-        logger.info("Inventory check completed successfully")
-
-        if self.blob_mode:
-            # The uploader step pushes the staged files; failures surface there.
-            self.write_upload_manifest()
-            return True
-
-        # Push data to GitHub for cloud access
-        return self.push_to_github()
+        return True
 
     def push_to_github(self) -> bool:
         """Push inventory data to GitHub repository.
